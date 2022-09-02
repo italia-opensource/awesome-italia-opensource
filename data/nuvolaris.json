@@ -5,6 +5,6 @@
     "type": "faas",
     "license": "Apache-2.0",
     "tags": [
-      "go", "python", "serverless"
+      "go", "python", "serverless", "startup"
     ]
   }
