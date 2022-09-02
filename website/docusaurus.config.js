@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Italia Opensource',
   tagline: 'Italia Opensource',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://italia-opensource.github.io/awesome-italia-opensource/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
