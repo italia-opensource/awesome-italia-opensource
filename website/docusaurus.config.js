@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Italia Opensource',
   tagline: 'Italia Opensource',
-  url: 'https://italia-opensource.github.io/awesome-italia-opensource/',
-  baseUrl: '/',
+  url: 'https://italia-opensource.github.io',
+  baseUrl: '/awesome-italia-opensource/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // favicon: 'img/favicon.ico',
