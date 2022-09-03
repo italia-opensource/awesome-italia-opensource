@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.TOKEN }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
@@ -29,13 +31,12 @@ jobs:
           make render
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: FabrizioCafolla
-          author_email: developer@fabriziocafolla.com
-          message: 'feat(release): Update README.md'
-          add: 'README.md website/src/data/outputs.json'
-          tag_push: '--force'
+        run: | 
+          git config --global user.email "${{ secrets.GITHUB_EMAIL }}"
+          git config --global user.name "FabrizioCafolla"
+          git add README.md website/src/data/outputs.json
+          git commit -m "feat(release): Update README.md"
+          git push
 
   deploy:
     name: Deploy Github pages
