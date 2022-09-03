@@ -15,8 +15,12 @@ jobs:
     name: Render Data
     runs-on: ubuntu-20.04
     steps:
-      - name: Check out code
+      - name: checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
