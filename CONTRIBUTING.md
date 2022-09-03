@@ -65,6 +65,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 
 #### Allowed Type of projects
 
+- app
 - saas
 - paas
 - faas
@@ -90,6 +91,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 
 #### Allowed Licenses
 
+- Undefined
 - 0BSD
 - BSD-1-Clause
 - BSD-2-Clause

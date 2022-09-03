@@ -1,0 +1,10 @@
+{
+    "name": "Pyxis",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/primait/pyxis",
+    "type": "library",
+    "license": "Undefined",
+    "tags": [
+      "design system", "elm", "typescript"
+    ]
+  }

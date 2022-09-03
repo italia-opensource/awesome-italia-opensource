@@ -1,0 +1,11 @@
+{
+    "name": "IO App",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/pagopa/io-app",
+    "site_url": "https://io.italia.it",
+    "type": "app",
+    "license": "EUPL-1.2",
+    "tags": [
+      "typescript", "app", "android", "ios"
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Redis",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/redis/redis",
+    "site_url": "https://redis.io",
+    "type": "tool",
+    "license": "BSD-3-Clause",
+    "tags": [
+      "c", "database"
+    ]
+  }

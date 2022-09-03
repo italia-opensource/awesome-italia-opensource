@@ -1,0 +1,11 @@
+{
+    "name": "Arduino",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/arduino/Arduino",
+    "site_url": "https://www.arduino.cc/en/software/",
+    "type": "tool",
+    "license": "GPL-2.0",
+    "tags": [
+      "css", "bootstrap", "javascript"
+    ]
+  }
