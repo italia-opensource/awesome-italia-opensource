@@ -73,6 +73,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 - package
 - library
 - community
+- learning
 
 #### Allowed Company Types
 
@@ -108,6 +109,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 - 0-clause BSD license
 - BSD-3-Clause-LBNL
 - BSD-2-Clause-Patent
+- Creative Commons
 - CERN Open Hardware Licence Version 2 - Permissive
 - CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 - CERN Open Hardware Licence Version 2 - Strongly Reciprocal
