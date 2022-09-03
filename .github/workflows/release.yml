@@ -35,6 +35,7 @@ jobs:
           author_email: developer@fabriziocafolla.com
           message: 'feat(release): Update README.md'
           add: 'README.md website/src/data/outputs.json'
+          tag_push: '--force'
 
   deploy:
     name: Deploy Github pages
