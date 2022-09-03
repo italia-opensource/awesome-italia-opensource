@@ -1,8 +1,8 @@
-# Italia Open Source (ISO)
+# Italia Opensource
 
-<img src='https://img.shields.io/badge/projects-1-green'>
+<img src='https://img.shields.io/badge/projects-2-green'>
 
-ISO is a list of open source projects created by Italian companies or developers.
+Italia Opensource is a list of open source projects created by Italian companies or developers.
 
 The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.
 
@@ -10,9 +10,10 @@ The repository intends to give visibility to open source projects and stimulate 
 
 ### Open source projects
 
-| Name      | Repository                                       | License    | Stack                        |
-| --------- | ------------------------------------------------ | ---------- | ---------------------------- |
-| Nuvolaris | [Github](https://github.com/nuvolaris/nuvolaris) | Apache-2.0 | go,python,serverless,startup |
+| Name                                             | Repository                                           | License      | Stack                        |
+| ------------------------------------------------ | ---------------------------------------------------- | ------------ | ---------------------------- |
+| [Bootstrap Italia](https://developers.italia.it) | [Github](https://github.com/italia/bootstrap-italia) | BSD-3-Clause | css,bootstrap,javascript     |
+| Nuvolaris                                        | [Github](https://github.com/nuvolaris/nuvolaris)     | Apache-2.0   | go,python,serverless,startup |
 
 ### Contributors
 
