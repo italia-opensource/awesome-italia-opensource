@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0; 
+}
+
+.wrapper {
+  position: realtive;
+}
+
+.fas.fa-envelope {
+  color: #fff;
+  font-size: 2rem;
+  background: #333;
+  padding: 1rem;
+  border-radius: 100%;
+  margin: 0 0 1rem 0;
+}
+
+.form_input {
+  padding: .8rem 1rem;
+  width: 80%;
+  border-radius: 5rem;
+  outline: none;
+  border: .1rem solid #d1d1d1;
+  font-size: .8rem;
+}
+
+.form_input:focus {
+	outline: 1px solid #3D9FFF;
+}
+
+[type="checkbox"] {
+  padding: 0px;
+  width: 10%;
+}
+
+::placeholder {
+  color: #d1d1d1;
+}
+
+.subscribe {
+  padding: .8rem 2rem;
+  border-radius: 5rem;
+  background: #3D9FFF;
+  color: #fff;
+  font-size: .7rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.notice {
+	width: 100%;
+
+}

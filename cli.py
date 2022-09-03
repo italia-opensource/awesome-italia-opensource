@@ -189,12 +189,12 @@ def check(loaded: list):
 
 def build(data):
     def _header(doc, data):
-        doc.add_header('Italia Open Source (ISO)')
+        doc.add_header('Italia Opensource')
         doc.add_paragraph(
             f"<img src='https://img.shields.io/badge/projects-{len(data)}-green'>")
 
         doc.add_paragraph(
-            'ISO is a list of open source projects created by Italian companies or developers.')
+            'Italia Opensource is a list of open source projects created by Italian companies or developers.')
         doc.add_paragraph(
             'The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.')
 
@@ -220,30 +220,6 @@ def build(data):
             ['Name', 'Repository', 'License', 'Stack'],
             table_content_project
         )
-
-    def _newsletter(doc):
-        doc.add_header('Newsletter', level=3)
-        doc.add_paragraph(
-            'The newsletter will be dedicated to keeping you updated on new open source projects in the Italian community and events around the country. ')
-
-        doc.add_paragraph("""
-        <!-- modify this form HTML and place wherever you want your form -->
-        <form
-        action="https://formspree.io/f/xoqbqong"
-        method="POST"
-        >
-            <label>
-                <input type="email" name="email" value="Insert email" required>
-            </label><br>
-            <label>
-                <input type="checkbox" name="subscribe" value="newsletter" required>
-                Subscribe to newsletter?
-            </label><br>
-
-            <button type="submit">Subscribe</button>
-        </form>
-        """)
-
     def _contributors(doc):
         doc.add_header('Contributors', level=3)
 
@@ -258,7 +234,6 @@ def build(data):
 
     _header(doc, data)
     _projects(doc, data)
-    #_newsletter(doc)
     _contributors(doc)
 
     doc.output_page()

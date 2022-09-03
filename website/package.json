@@ -17,6 +17,7 @@
   "dependencies": {
     "@docusaurus/core": "2.1.0",
     "@docusaurus/preset-classic": "2.1.0",
+    "@formspree/react": "^2.3.3",
     "@mdx-js/react": "^1.6.22",
     "@types/classnames": "^2.2.10",
     "@types/node": "10.12.24",
