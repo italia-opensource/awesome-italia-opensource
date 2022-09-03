@@ -13,6 +13,8 @@ ALLOWED_TYPE = [
     'faas',
     'tool',
     'scripts',
+    'package',
+    'library',
     'community',
     # TODO: add other type
 ]

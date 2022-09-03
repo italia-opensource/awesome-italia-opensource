@@ -70,6 +70,8 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 - faas
 - tool
 - scripts
+- package
+- library
 - community
 
 #### Allowed Company Types
