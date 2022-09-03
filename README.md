@@ -1,6 +1,6 @@
 # Italia Opensource
 
-<img src='https://img.shields.io/badge/projects-3-green'>
+<img src='https://img.shields.io/badge/projects-8-green'>
 
 Italia Opensource is a list of open source projects created by Italian companies or developers.
 
@@ -10,11 +10,16 @@ The repository intends to give visibility to open source projects and stimulate 
 
 ### Open source projects
 
-| Name                                                                     | Repository                                                | License          | Stack                                         |
-| ------------------------------------------------------------------------ | --------------------------------------------------------- | ---------------- | --------------------------------------------- |
-| [Pytorch Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) | [Github](https://github.com/Atcold/pytorch-Deep-Learning) | Creative Commons | python,jupyter notebook,deep learning,pytorch |
-| [Bootstrap Italia](https://developers.italia.it)                         | [Github](https://github.com/italia/bootstrap-italia)      | BSD-3-Clause     | css,bootstrap,javascript                      |
-| Nuvolaris                                                                | [Github](https://github.com/nuvolaris/nuvolaris)          | Apache-2.0       | go,python,serverless,startup                  |
+| Name                                                                     | Repository                                                      | License          | Stack                                            |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------- | ---------------- | ------------------------------------------------ |
+| [Pytorch Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) | [Github](https://github.com/Atcold/pytorch-Deep-Learning)       | Creative Commons | python, jupyter notebook, deep learning, pytorch |
+| [Io App](https://io.italia.it)                                           | [Github](https://github.com/pagopa/io-app)                      | EUPL-1.2         | typescript, app, android, ios                    |
+| [Italiaremote](https://italiaremote.com/companies)                       | [Github](https://github.com/italiaremote/awesome-italia-remote) | Undefined        | awesome, remote work                             |
+| [Arduino](https://www.arduino.cc/en/software/)                           | [Github](https://github.com/arduino/Arduino)                    | GPL-2.0          | css, bootstrap, javascript                       |
+| [Redis](https://redis.io)                                                | [Github](https://github.com/redis/redis)                        | BSD-3-Clause     | c, database                                      |
+| [Bootstrap Italia](https://developers.italia.it)                         | [Github](https://github.com/italia/bootstrap-italia)            | BSD-3-Clause     | css, bootstrap, javascript                       |
+| Pyxis                                                                    | [Github](https://github.com/primait/pyxis)                      | Undefined        | design system, elm, typescript                   |
+| Nuvolaris                                                                | [Github](https://github.com/nuvolaris/nuvolaris)                | Apache-2.0       | go, python, serverless, startup                  |
 
 ### Contributors
 
