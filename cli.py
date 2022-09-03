@@ -8,6 +8,7 @@ from snakemd import Document
 from snakemd.generator import InlineText
 
 ALLOWED_TYPE = [
+    'app',
     'community',
     'faas',
     'library',
@@ -16,7 +17,7 @@ ALLOWED_TYPE = [
     'package',
     'saas',
     'scripts',
-    'tool',
+    'tool'
 ]
 
 ALLOWED_REPOSITORY_PLATFORM = [
@@ -28,6 +29,7 @@ ALLOWED_REPOSITORY_PLATFORM = [
 
 # List from https://opensource.org/licenses/alphabetical
 ALLOWED_LICENSES = [
+    'Undefined',
     '0BSD',
     'BSD-1-Clause',
     'BSD-2-Clause',
@@ -214,7 +216,7 @@ def build(data):
                 InlineText(item['repository_platform'].title(),
                            url=item.get('repository_url')),
                 item['license'],
-                ','.join(item['tags'])
+                ', '.join(item['tags'])
             ])
 
         doc.add_table(
