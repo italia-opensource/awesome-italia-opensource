@@ -8,15 +8,15 @@ from snakemd import Document
 from snakemd.generator import InlineText
 
 ALLOWED_TYPE = [
-    'saas',
-    'paas',
-    'faas',
-    'tool',
-    'scripts',
-    'package',
-    'library',
     'community',
-    # TODO: add other type
+    'faas',
+    'library',
+    'learning',
+    'paas',
+    'package',
+    'saas',
+    'scripts',
+    'tool',
 ]
 
 ALLOWED_REPOSITORY_PLATFORM = [
@@ -47,6 +47,7 @@ ALLOWED_LICENSES = [
     '0-clause BSD license',
     'BSD-3-Clause-LBNL',
     'BSD-2-Clause-Patent',
+    'Creative Commons',
     'CERN Open Hardware Licence Version 2 - Permissive',
     'CERN Open Hardware Licence Version 2 - Weakly Reciprocal',
     'CERN Open Hardware Licence Version 2 - Strongly Reciprocal',

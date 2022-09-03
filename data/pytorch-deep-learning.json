@@ -1,0 +1,11 @@
+{
+    "name": "Pytorch Deep Learning",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "site_url": "https://atcold.github.io/pytorch-Deep-Learning/",
+    "type": "learning",
+    "license": "Creative Commons",
+    "tags": [
+      "python", "jupyter notebook", "deep learning", "pytorch"
+    ]
+  }
