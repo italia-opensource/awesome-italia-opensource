@@ -17,8 +17,6 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.TOKEN }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
