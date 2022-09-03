@@ -1,0 +1,11 @@
+{
+    "name": "Bootstrap Italia",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/italia/bootstrap-italia",
+    "site_url": "https://developers.italia.it",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "tags": [
+      "css", "bootstrap", "javascript"
+    ]
+  }
