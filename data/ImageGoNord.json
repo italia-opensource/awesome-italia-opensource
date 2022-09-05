@@ -1,0 +1,11 @@
+{
+    "name": "ImageGoNord",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Schrodinger-Hat/ImageGoNord",
+    "site_url": "https://ign.schrodinger-hat.it/",
+    "type": "tool",
+    "license": "MIT",
+    "tags": [
+      "python", "image-processing", "vuejs", "javascript", "cli"
+    ]
+  }
