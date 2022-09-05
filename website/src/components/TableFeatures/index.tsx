@@ -10,7 +10,7 @@ import { Column } from 'primereact/column';
 import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import './styles.module.css';
-import data from "../../data/outputs.json";
+import staticData from "../../data/outputs.json";
 
 export default function TableFeatures(): JSX.Element {
     const [customers, setcustomers] = useState(null);
@@ -19,13 +19,31 @@ export default function TableFeatures(): JSX.Element {
     const [loading, setloading] = useState(true);
 
     useEffect(() => {
-        setcustomers(getCustomers(data)); 
-        setloading(false);
+        getData().then(data => { setcustomers(tranformData(data)); setloading(false) });
         initfilters();
     }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
 
-    const getCustomers = (data) => {
+    const getData = () => {
+        let url: string = 'https://api.github.com/repos/italia-opensource/awesome-italia-opensource/contents/website/src/data/outputs.json'
+        return fetch(url)
+            .then((response) => response.json())
+            .then((data) => {
+                let encoding = data.encoding
+                let content = data.content
+
+                if (content) {
+                    if (encoding == "base64") {
+                        content = atob(content)
+                    }
+                    return JSON.parse(content) 
+                }
+                console.warn("The data loaded in the table are taken from the static file generated at build time.")
+                return staticData
+        });
+    }
+
+    const tranformData = (data) => {
         return [...data.data || []].map(d => {
             d.date = new Date(d.date);
             return d;
