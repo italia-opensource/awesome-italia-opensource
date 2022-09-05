@@ -33,7 +33,7 @@ jobs:
           make render
 
       - name: Commit changes
-        run: | 
+        run: |
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
           git add README.md website/src/data/outputs.json
