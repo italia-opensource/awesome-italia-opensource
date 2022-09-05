@@ -1,0 +1,9 @@
+{
+  "name": "Kannon",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/Schrodinger-Hat/kannon",
+  "site_url": "https://io.italia.it",
+  "type": "app",
+  "license": "Apache-2.0",
+  "tags": ["go", "saas", "serverless"]
+}

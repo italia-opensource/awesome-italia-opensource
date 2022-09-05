@@ -1,0 +1,11 @@
+{
+    "name": "Youtube-to-Anchorfm",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Schrodinger-Hat/youtube-to-anchorfm",
+    "site_url": "https://github.com/Schrodinger-Hat/youtube-to-anchorfm",
+    "type": "tool",
+    "license": "MIT",
+    "tags": [
+      "javascript", "automation", "docker", "puppeteer", "github-action"
+		]
+}

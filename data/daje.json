@@ -1,0 +1,11 @@
+{
+    "name": "Daje",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Schrodinger-Hat/daje",
+    "site_url": "https://github.com/Schrodinger-Hat/daje",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "dotfiles", "go", "linux", "ansible", "dotfiles-manager"
+		]
+}
