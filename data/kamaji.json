@@ -1,0 +1,9 @@
+{
+	"name": "kamaji",
+	"repository_platform": "github",
+	"repository_url": "https://github.com/clastix/kamaji",
+	"site_url": "https://clastix.io/kamaji",
+	"type": "tool",
+	"license": "Apache-2.0",
+	"tags": ["kubernetes", "multi-tenant", "cluster", "kubernetes-cluster", "k8s", "managed-kubernetes", "multi-cluster", "kubernetes-multitenancy", "kubernetes-in-kubernetes", "virtual-cluster"]
+}
