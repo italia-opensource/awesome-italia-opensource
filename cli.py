@@ -145,9 +145,19 @@ JSONSCHEME_COMPILE = fastjsonschema.compile(
             'repository_platform': {'type': 'string', 'enum': ALLOWED_REPOSITORY_PLATFORM},
             'repository_url': {'type': 'string', 'format': 'uri'},
             'site_url': {'type': 'string', 'format': 'uri'},
+            'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
             'type': {'type': 'string', 'enum': ALLOWED_TYPE},
             'license': {'type': 'string', 'enum': ALLOWED_LICENSES},
-            'tags': {'type': 'array'}
+            'tags': {
+                'type': 'array',
+                'minItems': 1,
+                'maxItems': 20,
+                'uniqueItems': True,
+                'items': {
+                    'type': 'string',
+                    'maxLength': 24
+                }
+            }
         },
         'required': [
             'name',
@@ -208,19 +218,20 @@ def build(data):
         doc.add_header('Open source projects', level=3)
         table_content_project = []
         for item in data:
-            if len(item['tags']) > 20:
-                raise Exception(
-                    f"Maximum number of tags exceeded {len(item['tags'])} (limit: 20)")
+            description = item.get('description', '')
+            if len(description) > 59:
+                description = description[0:60] + ' [..]'
             table_content_project.append([
                 InlineText(item['name'].title(), url=item.get('site_url')),
                 InlineText(item['repository_platform'].title(),
                            url=item.get('repository_url')),
                 item['license'],
-                ', '.join(item['tags'])
+                ', '.join(item['tags']),
+                description
             ])
 
         doc.add_table(
-            ['Name', 'Repository', 'License', 'Stack'],
+            ['Name', 'Repository', 'License', 'Stack', 'Description'],
             table_content_project
         )
 
@@ -229,7 +240,7 @@ def build(data):
 
         doc.add_paragraph("""
                 <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors">
-                    <img src="https://contrib.rocks/image?repo=Italia-Open-Source/awesome-italia-opensource" />
+                    <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" />
                 </a>
                 Made with [contrib.rocks](https://contrib.rocks).
             """)
@@ -258,6 +269,7 @@ def main(render, output):
             os.path.dirname(os.path.abspath(__file__)), 'data', project))
         loaded.append(item)
 
+    loaded = sorted(loaded, key=lambda tup: tup[0])
     parsed = check(loaded)
 
     if render:
