@@ -1,6 +1,6 @@
 # Italia Opensource
 
-<img src='https://img.shields.io/badge/projects-19-green'>
+<img src='https://img.shields.io/badge/projects-20-green'>
 
 Italia Opensource is a list of open source projects created by Italian companies or developers.
 
@@ -33,6 +33,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | Pyxis                                                                                                              | [Github](https://github.com/primait/pyxis)                                   | Undefined        | design system, elm, typescript                                                                                                                                    |             |
 | [Redis](https://redis.io)                                                                                          | [Github](https://github.com/redis/redis)                                     | BSD-3-Clause     | c, database                                                                                                                                                       |             |
 | [Snackjob](https://jobs.schrodinger-hat.it/)                                                                       | [Github](https://github.com/Schrodinger-Hat/snackjob)                        | MIT              | python, flask, javascript, css                                                                                                                                    |             |
+| [Strawberry Graphql](https://strawberry.rocks)                                                                     | [Github](https://github.com/strawberry-graphql/strawberry)                   | MIT              | python, graphql                                                                                                                                                   |             |
 | [Yamlinc](https://www.javanile.org)                                                                                | [Github](https://www.github.com/javanile/yamlinc)                            | MIT              | yaml, openapi                                                                                                                                                     |             |
 | [Youtube-To-Anchorfm](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)                                      | [Github](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)             | MIT              | javascript, automation, docker, puppeteer, github-action                                                                                                          |             |
 
