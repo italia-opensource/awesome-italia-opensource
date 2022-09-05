@@ -25,4 +25,4 @@ The repository intends to give visibility to open source projects and stimulate 
 
 ### Contributors
 
-<a href="https://github.com/Italia-OpenSource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Italia-Open-Source/awesome-italia-opensource" /> </a> Made with [contrib.rocks](https://contrib.rocks).
+<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Italia-Open-Source/awesome-italia-opensource" /> </a> Made with [contrib.rocks](https://contrib.rocks).
