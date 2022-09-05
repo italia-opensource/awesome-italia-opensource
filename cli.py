@@ -269,6 +269,7 @@ def main(render, output):
             os.path.dirname(os.path.abspath(__file__)), 'data', project))
         loaded.append(item)
 
+    loaded = sorted(loaded, key=lambda tup: tup[0])
     parsed = check(loaded)
 
     if render:
