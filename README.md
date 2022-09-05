@@ -6,7 +6,11 @@ Italia Opensource is a list of open source projects created by Italian companies
 
 The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.
 
-[ATTENTION] Please read the contribution guidelines before opening a pull request or contributing to this repository
+Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
+
+### Mantained by
+
+- [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
 
 ### Open source projects
 
@@ -33,4 +37,8 @@ The repository intends to give visibility to open source projects and stimulate 
 
 ### Contributors
 
-<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a> Made with [contrib.rocks](https://contrib.rocks).
+<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
+
+### License
+
+The project is made available under the GPL-3.0 license. See the `LICENSE` file for more information.
