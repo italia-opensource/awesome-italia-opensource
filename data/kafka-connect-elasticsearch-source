@@ -1,0 +1,11 @@
+{
+  "name": "Kafka Connect ElasticSearch Source",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source",
+  "site_url": "https://www.confluent.io/hub/dariobalinzo/kafka-connect-elasticsearch-source",
+  "type": "tool",
+  "license": "Apache-2.0",
+  "tags": [
+    "kafka", "connect", "elasticsearch", "source"
+  ]
+}
