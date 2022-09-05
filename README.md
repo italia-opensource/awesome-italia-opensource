@@ -1,6 +1,6 @@
 # Italia Opensource
 
-<img src='https://img.shields.io/badge/projects-17-green'>
+<img src='https://img.shields.io/badge/projects-18-green'>
 
 Italia Opensource is a list of open source projects created by Italian companies or developers.
 
@@ -16,6 +16,7 @@ The repository intends to give visibility to open source projects and stimulate 
 | [Bootstrap Italia](https://developers.italia.it)                                                                   | [Github](https://github.com/italia/bootstrap-italia)                         | BSD-3-Clause     | css, bootstrap, javascript                                                                                                                                        |             |
 | [Capsule](https://clastix.io/capsule)                                                                              | [Github](https://github.com/clastix/capsule)                                 | Apache-2.0       | kubernetes, operator, kubernetes-operator, multi-tenancy, namespaces, tenant, kubernetes-namespaces, multi-tenant-operator                                        |             |
 | [Daje](https://github.com/Schrodinger-Hat/daje)                                                                    | [Github](https://github.com/Schrodinger-Hat/daje)                            | GPL-3.0          | dotfiles, go, linux, ansible, dotfiles-manager                                                                                                                    |             |
+| [Fastify](https://www.fastify.io/)                                                                                 | [Github](https://github.com/fastify/fastify)                                 | MIT              | nodejs, web-framework, api                                                                                                                                        |             |
 | [Imagegonord](https://ign.schrodinger-hat.it/)                                                                     | [Github](https://github.com/Schrodinger-Hat/ImageGoNord)                     | MIT              | python, image-processing, vuejs, javascript, cli                                                                                                                  |             |
 | [Io App](https://io.italia.it)                                                                                     | [Github](https://github.com/pagopa/io-app)                                   | EUPL-1.2         | typescript, app, android, ios                                                                                                                                     |             |
 | [Italiaremote](https://italiaremote.com/companies)                                                                 | [Github](https://github.com/italiaremote/awesome-italia-remote)              | Undefined        | awesome, remote work                                                                                                                                              |             |
