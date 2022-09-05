@@ -1,6 +1,6 @@
 # Italia Opensource
 
-<img src='https://img.shields.io/badge/projects-8-green'>
+<img src='https://img.shields.io/badge/projects-9-green'>
 
 Italia Opensource is a list of open source projects created by Italian companies or developers.
 
@@ -18,6 +18,7 @@ The repository intends to give visibility to open source projects and stimulate 
 | [Arduino](https://www.arduino.cc/en/software/)                           | [Github](https://github.com/arduino/Arduino)                    | GPL-2.0          | css, bootstrap, javascript                       |
 | [Redis](https://redis.io)                                                | [Github](https://github.com/redis/redis)                        | BSD-3-Clause     | c, database                                      |
 | [Bootstrap Italia](https://developers.italia.it)                         | [Github](https://github.com/italia/bootstrap-italia)            | BSD-3-Clause     | css, bootstrap, javascript                       |
+| [Yamlinc](https://www.javanile.org)                                      | [Github](https://www.github.com/javanile/yamlinc)               | MIT              | yaml, openapi                                    |
 | Pyxis                                                                    | [Github](https://github.com/primait/pyxis)                      | Undefined        | design system, elm, typescript                   |
 | Nuvolaris                                                                | [Github](https://github.com/nuvolaris/nuvolaris)                | Apache-2.0       | go, python, serverless, startup                  |
 
