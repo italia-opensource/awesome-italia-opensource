@@ -5,7 +5,5 @@
     "site_url": "https://strawberry.rocks",
     "type": "library",
     "license": "MIT",
-    "tags": [
-      "python", "graphql",
-		]
+    "tags": ["python", "graphql"]
 }
