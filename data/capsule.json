@@ -1,0 +1,9 @@
+{
+	"name": "capsule",
+	"repository_platform": "github",
+	"repository_url": "https://github.com/clastix/capsule",
+	"site_url": "https://clastix.io/capsule",
+	"type": "tool",
+	"license": "Apache-2.0",
+	"tags": ["kubernetes", "operator", "kubernetes-operator", "multi-tenancy", "namespaces", "tenant", "kubernetes-namespaces", "multi-tenant-operator"]
+}
