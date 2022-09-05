@@ -1,0 +1,9 @@
+{
+	"name": "fastify",
+	"repository_platform": "github",
+	"repository_url": "https://github.com/fastify/fastify",
+	"site_url": "https://www.fastify.io/",
+	"type": "library",
+	"license": "MIT",
+	"tags": ["nodejs", "web-framework", "api"]
+}
