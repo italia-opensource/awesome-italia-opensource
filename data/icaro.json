@@ -3,7 +3,7 @@
     "repository_platform": "github",
     "repository_url": "https://github.com/LGala/Icaro",
     "site_url": "https://github.com/LGala/Icaro",
-    "type": "tool",
+    "type": "language",
     "license": "MIT",
     "tags": [
         "kotlin",
