@@ -223,6 +223,7 @@ def build(data):
             ['Name', 'Repository', 'License', 'Stack'],
             table_content_project
         )
+
     def _contributors(doc):
         doc.add_header('Contributors', level=3)
 
@@ -248,8 +249,14 @@ def build(data):
 def main(render, output):
     data = os.listdir(abspath(os.path.dirname(
         os.path.abspath(__file__)), 'data'))
-    loaded = [(project.replace('.json', ''), abspath(os.path.dirname(
-        os.path.abspath(__file__)), 'data', project)) for project in data if project.endswith(".json")]
+
+    loaded = []
+    for project in data:
+        if not project.endswith('.json'):
+            raise Exception(f'File {project} is not json')
+        item = (project.replace('.json', ''), abspath(
+            os.path.dirname(os.path.abspath(__file__)), 'data', project))
+        loaded.append(item)
 
     parsed = check(loaded)
 
@@ -258,7 +265,7 @@ def main(render, output):
 
     if output:
         with open('website/src/data/outputs.json', 'w+') as file_output:
-            file_output.write(json.dumps({"data": parsed}))
+            file_output.write(json.dumps({'data': parsed}))
 
 
 if __name__ == '__main__':

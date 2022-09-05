@@ -15,7 +15,7 @@ lint:
 	pre-commit run --all-files && python3 cli.py
 
 lint-ci:
-	python3 cli.py
+	python3 cli.py && make lint
 
 render:
 	python3 cli.py --render --output

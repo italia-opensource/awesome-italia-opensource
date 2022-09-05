@@ -8,26 +8,37 @@ repos:
     rev: v4.1.0
     hooks:
       - id: trailing-whitespace
+        exclude: ^website/
       - id: end-of-file-fixer
+        exclude: ^website/
       - id: check-docstring-first
+        exclude: ^website/
       - id: check-json
+        exclude: ^website/
       - id: check-yaml
+        exclude: ^website/
       - id: debug-statements
+        exclude: ^website/
       - id: requirements-txt-fixer
+        exclude: ^website/
       - id: double-quote-string-fixer
+        exclude: ^website/
   - repo: https://github.com/pycqa/isort
     rev: 5.10.1
     hooks:
       - id: isort
         name: isort (python)
+        exclude: ^website/
   - repo: https://github.com/pre-commit/mirrors-autopep8
     rev: v1.6.0
     hooks:
       - id: autopep8
+        exclude: ^website/
   - repo: https://github.com/PyCQA/flake8
     rev: 4.0.1
     hooks:
       - id: flake8
+        exclude: ^website/
         additional_dependencies: [flake8-typing-imports==1.12.0]
         args: # arguments to configure flake8
           # making isort line length compatible with black
