@@ -42,8 +42,9 @@ Setup env:
 
 ### How To Contribute with PRs
 
-The new project must be added to the `/data` folder using a dedicated file in `snake_case.json` format.
+The new project must be added to the `/data` folder using a dedicated file in `kebab-case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
+Projects entered must be maintained and have guidelines and/or documentation for use
 
 1. Open `./data` directory
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
@@ -75,6 +76,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 - library
 - community
 - learning
+- language
 
 #### Allowed Company Types
 

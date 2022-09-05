@@ -20,6 +20,7 @@
   --end-color: #021B79;
   --p-color: #929DA6;
   --button-background: #0575E6;
+  --wrapper-background: #fff;
   --input-background: #e4eff8;
   --radius-50: 50px;
   --padding-15: 15px;
@@ -35,6 +36,15 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --start-color: #075cb2;
+  --end-color: #66aef6;
+  --p-color: #929DA6;
+  --button-background: #0575E6;
+  --wrapper-background: #242526;
+  --input-background: #e4eff8;
+  --radius-50: 50px;
+  --padding-15: 15px;
 }
 
 
@@ -65,7 +75,7 @@ body {
 }
 
 .wrapper .content {
-  background: #fff;
+  background: var(--wrapper-background);
   padding: 40px;
   border-radius: 10px;
   text-align: center;

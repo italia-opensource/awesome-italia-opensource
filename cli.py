@@ -17,7 +17,8 @@ ALLOWED_TYPE = [
     'package',
     'saas',
     'scripts',
-    'tool'
+    'tool',
+    'language'
 ]
 
 ALLOWED_REPOSITORY_PLATFORM = [
@@ -205,14 +206,17 @@ def build(data):
         doc.add_header('Italia Opensource')
         doc.add_paragraph(
             f"<img src='https://img.shields.io/badge/projects-{len(data)}-green'>")
-
         doc.add_paragraph(
             'Italia Opensource is a list of open source projects created by Italian companies or developers.')
         doc.add_paragraph(
             'The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.')
-
         doc.add_paragraph(
-            '[ATTENTION] Please read the contribution guidelines before opening a pull request or contributing to this repository')
+            'Please read the contribution guidelines before opening a pull request or contributing to this repository') \
+            .insert_link('contribution guidelines', 'https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md')
+
+        doc.add_header('Mantained by', level=3)
+        doc.add_unordered_list(
+            [str(InlineText('Fabrizio Cafolla', url='https://github.com/FabrizioCafolla'))])
 
     def _projects(doc, data):
         doc.add_header('Open source projects', level=3)
@@ -237,13 +241,15 @@ def build(data):
 
     def _contributors(doc):
         doc.add_header('Contributors', level=3)
-
         doc.add_paragraph("""
-                <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors">
-                    <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" />
-                </a>
-                Made with [contrib.rocks](https://contrib.rocks).
-            """)
+            <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors">
+                <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" />
+            </a>
+        """)
+
+        doc.add_header('License', level=3)
+        doc.add_paragraph(
+            'The project is made available under the GPL-3.0 license. See the `LICENSE` file for more information.')
 
     doc = Document('README')
 
