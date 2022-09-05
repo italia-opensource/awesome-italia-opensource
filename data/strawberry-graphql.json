@@ -1,0 +1,11 @@
+{
+    "name": "Strawberry GraphQL",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/strawberry-graphql/strawberry",
+    "site_url": "https://strawberry.rocks",
+    "type": "library",
+    "license": "MIT",
+    "tags": [
+      "python", "graphql",
+		]
+}
