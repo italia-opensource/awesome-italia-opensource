@@ -9,8 +9,8 @@ repos:
     hooks:
       - id: trailing-whitespace
         exclude: ^website/
-      - id: end-of-file-fixer
-        exclude: ^website/
+      # - id: end-of-file-fixer
+        # exclude: ^website/
       - id: check-docstring-first
         exclude: ^website/
       - id: check-json
