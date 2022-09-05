@@ -23,8 +23,16 @@ export default function TableFeatures(): JSX.Element {
         initfilters();
     }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
+    function isLocalHost(url) {
+        return url.indexOf('localhost') !== -1 || url.indexOf('127.0.0.1') !== -1;
+    }
 
     const getData = () => {
+        if (isLocalHost(window.location.hostname)) {
+                console.warn("Development mode")
+                return fetch("").then(() => staticData)
+        }
+
         let url: string = 'https://api.github.com/repos/italia-opensource/awesome-italia-opensource/contents/website/src/data/outputs.json'
         return fetch(url)
             .then((response) => response.json())
