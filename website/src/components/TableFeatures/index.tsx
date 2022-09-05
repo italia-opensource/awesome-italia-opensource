@@ -122,8 +122,9 @@ export default function TableFeatures(): JSX.Element {
                     <Column field="name" header="Name"  body={nameBodyTemplate} filter filterPlaceholder="Search by name" style={{ minWidth: '20em' }} />
                     <Column field="repository_platform" body={repositoryPlatformBodyTemplate} header="Repository Platform" style={{ minWidth: '10em' }} />
                     <Column field="type" header="Type" filter filterPlaceholder="Search by type" style={{ minWidth: '10em' }} />
-                    <Column field="license" header="License" filter filterPlaceholder="Search by license" style={{ minWidth: '20em' }} />
-                    <Column field="tags" header="Tags" filter filterPlaceholder="Search by tags" style={{ minWidth: '55em' }} body={tagsBodyTemplate} />
+                    <Column field="license" header="License" filter filterPlaceholder="Search by license" style={{ minWidth: '10em' }} />
+                    <Column field="tags" header="Tags" filter filterPlaceholder="Search by tags" style={{ minWidth: '30em' }} body={tagsBodyTemplate} />
+                    <Column field="description" header="Description" style={{ minWidth: '50em' }}/>
                 </DataTable>
             </div>
         </div>

@@ -145,9 +145,19 @@ JSONSCHEME_COMPILE = fastjsonschema.compile(
             'repository_platform': {'type': 'string', 'enum': ALLOWED_REPOSITORY_PLATFORM},
             'repository_url': {'type': 'string', 'format': 'uri'},
             'site_url': {'type': 'string', 'format': 'uri'},
+            'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
             'type': {'type': 'string', 'enum': ALLOWED_TYPE},
             'license': {'type': 'string', 'enum': ALLOWED_LICENSES},
-            'tags': {'type': 'array'}
+            'tags': {
+                'type': 'array',
+                'minItems': 1,
+                'maxItems': 20,
+                'uniqueItems': True,
+                'items': {
+                    'type': 'string',
+                    'maxLength': 16
+                }
+            }
         },
         'required': [
             'name',
@@ -208,19 +218,20 @@ def build(data):
         doc.add_header('Open source projects', level=3)
         table_content_project = []
         for item in data:
-            if len(item['tags']) > 20:
-                raise Exception(
-                    f"Maximum number of tags exceeded {len(item['tags'])} (limit: 20)")
+            description = item.get('description', '')
+            if len(description) > 59:
+                description = description[0:60] + ' [..]'
             table_content_project.append([
                 InlineText(item['name'].title(), url=item.get('site_url')),
                 InlineText(item['repository_platform'].title(),
                            url=item.get('repository_url')),
                 item['license'],
-                ', '.join(item['tags'])
+                ', '.join(item['tags']),
+                description
             ])
 
         doc.add_table(
-            ['Name', 'Repository', 'License', 'Stack'],
+            ['Name', 'Repository', 'License', 'Stack', 'Description'],
             table_content_project
         )
 
