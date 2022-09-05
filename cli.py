@@ -227,7 +227,7 @@ def build(data):
         doc.add_header('Contributors', level=3)
 
         doc.add_paragraph("""
-                <a href="https://github.com/Italia-Open-Source/awesome-italia-opensource/graphs/contributors">
+                <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors">
                     <img src="https://contrib.rocks/image?repo=Italia-Open-Source/awesome-italia-opensource" />
                 </a>
                 Made with [contrib.rocks](https://contrib.rocks).

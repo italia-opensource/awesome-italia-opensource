@@ -51,7 +51,7 @@ const config = {
         // },
         items: [
           {
-            href: 'https://github.com/Italia-Open-Source/awesome-italia-opensource',
+            href: 'https://github.com/italia-opensource/awesome-italia-opensource',
             label: 'GitHub',
             position: 'left',
           },

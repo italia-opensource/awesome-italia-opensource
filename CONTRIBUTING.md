@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-Please read [the full text](https://github.com/Italia-Open-Source/awesome-italia-opensource/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+Please read [the full text](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ### Join our Community
 
