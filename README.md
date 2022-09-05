@@ -1,6 +1,6 @@
 # Italia Opensource
 
-<img src='https://img.shields.io/badge/projects-11-green'>
+<img src='https://img.shields.io/badge/projects-12-green'>
 
 Italia Opensource is a list of open source projects created by Italian companies or developers.
 
@@ -17,6 +17,7 @@ The repository intends to give visibility to open source projects and stimulate 
 | [Io App](https://io.italia.it)                                                                                     | [Github](https://github.com/pagopa/io-app)                                   | EUPL-1.2         | typescript, app, android, ios                                                                                                                                     |
 | [Kamaji](https://clastix.io/kamaji)                                                                                | [Github](https://github.com/clastix/kamaji)                                  | Apache-2.0       | kubernetes, multi-tenant, cluster, kubernetes-cluster, k8s, managed-kubernetes, multi-cluster, kubernetes-multitenancy, kubernetes-in-kubernetes, virtual-cluster |
 | [Italiaremote](https://italiaremote.com/companies)                                                                 | [Github](https://github.com/italiaremote/awesome-italia-remote)              | Undefined        | awesome, remote work                                                                                                                                              |
+| [Capsule](https://clastix.io/capsule)                                                                              | [Github](https://github.com/clastix/capsule)                                 | Apache-2.0       | kubernetes, operator, kubernetes-operator, multi-tenancy, namespaces, tenant, kubernetes-namespaces, multi-tenant-operator                                        |
 | [Arduino](https://www.arduino.cc/en/software/)                                                                     | [Github](https://github.com/arduino/Arduino)                                 | GPL-2.0          | css, bootstrap, javascript                                                                                                                                        |
 | [Redis](https://redis.io)                                                                                          | [Github](https://github.com/redis/redis)                                     | BSD-3-Clause     | c, database                                                                                                                                                       |
 | [Bootstrap Italia](https://developers.italia.it)                                                                   | [Github](https://github.com/italia/bootstrap-italia)                         | BSD-3-Clause     | css, bootstrap, javascript                                                                                                                                        |
