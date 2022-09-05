@@ -27,7 +27,26 @@ export default function Home(): JSX.Element {
               <TableFeatures />
             </section>
           </div>
+        </section>
 
+
+        <section className="wrapper">
+          <div className="content">
+            <header>
+              <h1>About Project</h1>
+            </header>
+            <section>
+              <h3>
+              The "Italia Opensource" project is the first of a series, the idea is to be able to give visibility to the Italian tech ecosystem, I started from what I know best: Software.
+               </h3>
+              <h3>
+              This is a starting point, the goal is to be able to create an open community that can collaborate on projects and events until we get to have an ecosystem based on open source.
+               </h3>
+              <p>
+                - Fabrizio Cafolla
+               </p>
+            </section>
+          </div>
         </section>
 
         <section className="wrapper">
