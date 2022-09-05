@@ -1,0 +1,14 @@
+{
+    "name": "Icaro",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/LGala/Icaro",
+    "site_url": "https://github.com/LGala/Icaro",
+    "type": "tool",
+    "license": "MIT",
+    "tags": [
+        "kotlin",
+        "ANTLR",
+        "programming language",
+        "java bytecode"
+    ]
+}
