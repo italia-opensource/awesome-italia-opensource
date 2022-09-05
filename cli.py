@@ -155,7 +155,7 @@ JSONSCHEME_COMPILE = fastjsonschema.compile(
                 'uniqueItems': True,
                 'items': {
                     'type': 'string',
-                    'maxLength': 16
+                    'maxLength': 24
                 }
             }
         },
