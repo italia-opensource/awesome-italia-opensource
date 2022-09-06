@@ -1,0 +1,10 @@
+{
+    "name": "Middy",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/middyjs/middy",
+    "site_url": "https://middy.js.org",
+    "type": "package",
+    "license": "MIT",
+    "description": "The stylish Node.js middleware engine for AWS Lambda",
+    "tags": ["nodejs", "javascript", "serverless", "aws lambda"]
+}
