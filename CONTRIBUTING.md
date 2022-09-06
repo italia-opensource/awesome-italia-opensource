@@ -55,8 +55,9 @@ Projects entered must be maintained and have guidelines and/or documentation for
   "name": "Test",
   "repository_platform": "github",
   "repository_url": "https://www.github.com/test/name-of-repo",
-  "site_url": "https://www.test.com",
+  "site_url": "https://www.test.com", // no required
   "type": "tool",
+  "description": "lorem ipsum", // no required
   "license": "GPL-3.0",
   "tags": [
     "python", "aws"
