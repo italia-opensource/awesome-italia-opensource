@@ -1,0 +1,10 @@
+{
+    "name": "Kathará",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/KatharaFramework/Kathara",
+    "site_url": "https://www.kathara.org/",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "description": "A Lightweight and Scalable Container-based Network Emulation System",
+    "tags": ["python", "docker", "kubernetes", "compuiter networks", "network emulation"]
+}
