@@ -1,0 +1,9 @@
+{
+    "name": "Caronte",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/eciavatta/caronte",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "description": "A tool to analyze the network flow during attack/defence Capture the Flag competitions",
+    "tags": ["javascript", "go"]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Espanso",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/espanso/espanso",
+    "site_url": "https://espanso.org/",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "description": "Cross-platform Text Expander written in Rust",
+    "tags": ["rust"]
+}

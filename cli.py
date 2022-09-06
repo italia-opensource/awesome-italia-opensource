@@ -221,10 +221,18 @@ def build(data):
     def _projects(doc, data):
         doc.add_header('Open source projects', level=3)
         table_content_project = []
+
+        repositories_url = []
+
         for item in data:
+            if item.get('repository_url') in repositories_url:
+                raise Exception(
+                    f"Project {item['name']} ({item.get('repository_url')}) already exist")
+
             description = item.get('description', '')
             if len(description) > 59:
                 description = description[0:60] + ' [..]'
+
             table_content_project.append([
                 InlineText(item['name'].title(), url=item.get('site_url')),
                 InlineText(item['repository_platform'].title(),
@@ -233,6 +241,7 @@ def build(data):
                 ', '.join(item['tags']),
                 description
             ])
+            repositories_url.append(item.get('repository_url'))
 
         doc.add_table(
             ['Name', 'Repository', 'License', 'Stack', 'Description'],

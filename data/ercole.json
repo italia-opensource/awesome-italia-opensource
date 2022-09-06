@@ -1,0 +1,10 @@
+{
+    "name": "Ercole",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/ercole-io/ercole",
+    "site_url": "https://ercole.io/",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "description": "Proactive Software Asset Management. Backend component",
+    "tags": ["go"]
+}

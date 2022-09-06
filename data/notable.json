@@ -1,0 +1,10 @@
+{
+    "name": "Notable",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/notable/notable",
+    "site_url": "https://notable.app/",
+    "type": "tool",
+    "license": "Undefined",
+    "description": "The Markdown-based note-taking app",
+    "tags": ["typescript", "software", "markdown"]
+}
