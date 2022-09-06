@@ -1,0 +1,9 @@
+{
+    "name": "Simple ehm",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/morrolinux/simple-ehm",
+    "type": "tool",
+    "license": "MIT",
+    "description": "A simple tool for a simple task: remove filler sounds ('ehm') from pre-recorded speeches. AI powered.",
+    "tags": ["Jupyter Notebook"]
+}

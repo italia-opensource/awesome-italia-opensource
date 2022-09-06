@@ -1,0 +1,10 @@
+{
+    "name": "Hanami",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/hanami/hanami",
+    "site_url": "http://hanamirb.org/",
+    "type": "tool",
+    "license": "MIT",
+    "description": "Hanami is a full-stack Ruby web framework. It's made up of smaller, single-purpose libraries.",
+    "tags": ["ruby", "web framework"]
+}

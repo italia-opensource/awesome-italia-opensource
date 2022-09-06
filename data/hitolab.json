@@ -1,0 +1,10 @@
+{
+    "name": "Histolab",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/histolab/histolab",
+    "site_url": "http://histolab.readthedocs.io/",
+    "type": "tool",
+    "license": "Apache-2.0",
+    "description": "Library for Digital Pathology Image Processing",
+    "tags": ["python"]
+}
