@@ -1,0 +1,10 @@
+{
+    "name": "Breathly",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/mmazzarolo/breathly-app",
+    "site_url": "https://breathly.app/",
+    "type": "app",
+    "license": "MPL-2.0",
+    "description": "Breath training mobile app",
+    "tags": ["javascript", "typescript", "react-native"]
+}
