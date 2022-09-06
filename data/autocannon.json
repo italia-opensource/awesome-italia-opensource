@@ -1,0 +1,9 @@
+{
+    "name": "Autocannon",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/mcollina/autocannon",
+    "type": "package",
+    "license": "MIT",
+    "description": "Fast HTTP/1.1 benchmarking tool written in Node.js",
+    "tags": ["nodejs", "javascript"]
+}
