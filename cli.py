@@ -219,32 +219,58 @@ def build(data):
             [str(InlineText('Fabrizio Cafolla', url='https://github.com/FabrizioCafolla'))])
 
     def _projects(doc, data):
+        def _repository(repository_platform, repositories_url, license):
+            license = f'<img align="right" src="https://img.shields.io/static/v1?label=license&message={license}&color=orange" alt="License">'
+            if repository_platform == 'github':
+                repositories_url = '/'.join(repository_url.replace(
+                    'https://github.com/', '').split('/')[0:2])
+                stars = f'<img align="right" src="https://img.shields.io/github/stars/{repositories_url}?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars">'
+                issues = f'<img align="right" src="https://img.shields.io/github/issues-raw/{repositories_url}" alt="Issues">'
+                return f'{stars}<br>{issues}<br>{license}'
+
+            if repository_platform == 'bitbucket':
+                repositories_url = '/'.join(repository_url.replace(
+                    'https://bitbucket.org/', '').split('/')[0:2])
+                issues = f'<img align="right" src="https://img.shields.io/bitbucket/issues-raw/{repositories_url}" alt="Issues">'
+                return f'{issues}<br>{license}'
+
+            if repository_platform == 'gitlab':
+                repositories_url = '/'.join(repository_url.replace(
+                    'https://gitlab.com', '').split('/')[0:2])
+                stars = f'<img align="right" src="https://img.shields.io/gitlab/stars/{repositories_url}?label=%E2%AD%90%EF%B8%8F&logo=gitlab" alt="Stars">'
+                issues = f'<img align="right" src="https://img.shields.io/gitlab/issues/open-raw/{repositories_url}" alt="Issues">'
+                return f'{stars}<br>{issues}<br>{license}'
+
         doc.add_header('Open source projects', level=3)
         table_content_project = []
 
         repositories_url = []
 
         for item in data:
+            repository_url = item['repository_url']
+
             if item.get('repository_url') in repositories_url:
                 raise Exception(
-                    f"Project {item['name']} ({item.get('repository_url')}) already exist")
+                    f"Project {item['name']} ({repository_url}) already exist")
 
+            name = item['name'].title()
+            repository = _repository(
+                item['repository_platform'], item['repository_url'], item['license'])
+            tags = ', '.join(item['tags'])
             description = item.get('description', '')
             if len(description) > 59:
                 description = description[0:60] + ' [..]'
 
             table_content_project.append([
-                InlineText(item['name'].title(), url=item.get('site_url')),
-                InlineText(item['repository_platform'].title(),
-                           url=item.get('repository_url')),
-                item['license'],
-                ', '.join(item['tags']),
+                InlineText(name, url=item.get('site_url')),
+                InlineText(repository, url=repository_url),
+                tags,
                 description
             ])
-            repositories_url.append(item.get('repository_url'))
+            repositories_url.append(repository_url)
 
         doc.add_table(
-            ['Name', 'Repository', 'License', 'Stack', 'Description'],
+            ['Name', 'Repository', 'Stack', 'Description'],
             table_content_project
         )
 
