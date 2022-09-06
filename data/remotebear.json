@@ -1,0 +1,10 @@
+{
+    "name": "Remotebear",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/remotebear-io/remotebear",
+    "site_url": "https://remotebear.io/",
+    "type": "app",
+    "license": "GPL-3.0",
+    "description": "Remote jobs aggregator",
+    "tags": ["javascript", "typescript", "react", "nodejs"]
+}
