@@ -1,0 +1,10 @@
+{
+    "name": "Ordinary Puzzles",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/mmazzarolo/ordinary-puzzles-app",
+    "site_url": "https://ordinarypuzzles.com/",
+    "type": "app",
+    "license": "MIT",
+    "description": "A minimalistic mobile puzzle game inspired by Picross and Sudoku",
+    "tags": ["javascript", "typescript", "react-native"]
+}
