@@ -4,6 +4,10 @@ on:
   pull_request:
     branches:
       - main
+    paths:
+      - '.github/workflows/test.yml'
+      - 'website/**'
+      - 'data/**'
     types: [opened, synchronize]
 
 
