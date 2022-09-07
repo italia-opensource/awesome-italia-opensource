@@ -1,0 +1,12 @@
+{
+    "name": "Comuni ISTAT API",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/passasooz/comuni-istat-api",
+    "site_url": "https://comuni-istat-api.herokuapp.com/",
+    "type": "tool",
+    "license": "MIT",
+    "description": "List of API to grab data about municipalities, provinces and regions of Italian country",
+    "tags": [
+      "css", "bootstrap", "javascript", "php", "laravel"
+    ]
+  }
