@@ -1,0 +1,10 @@
+{
+    "name": "Pet Therapy",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/curzel-it/pet-therapy",
+    "site_url": "https://apps.apple.com/app/desktop-pets/id1575542220",
+    "type": "app",
+    "license": "MIT",
+    "description": "Desktop Pets for macOS",
+    "tags": ["swift", "swiftui", "macos", "appkit", "desktop", "pets", "desktop pets"]
+}
