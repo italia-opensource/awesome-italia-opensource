@@ -6,5 +6,5 @@
     "type": "tool",
     "license": "GPL-3.0",
     "description": "A Lightweight and Scalable Container-based Network Emulation System",
-    "tags": ["python", "docker", "kubernetes", "compuiter networks", "network emulation"]
+    "tags": ["python", "docker", "kubernetes", "computer networks", "network emulation"]
 }
