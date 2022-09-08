@@ -1,0 +1,12 @@
+{
+  "name": "kube-green",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/kube-green/kube-green",
+  "site_url": "https://kube-green.dev/",
+  "type": "tool",
+  "description": "A Kubernetes operator to reduce CO2 footprint of your clusters",
+  "license": "MIT",
+  "tags": [
+    "kubernetes", "CO2", "K8s", "resources", "cloud-native", "downscale", "green-software"
+  ]
+}
