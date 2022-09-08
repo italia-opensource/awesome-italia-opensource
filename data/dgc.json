@@ -1,0 +1,12 @@
+{
+    "name": "Dgc",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/rust-italia/dgc",
+    "site_url": "https://docs.rs/dgc/latest/dgc/",
+    "type": "library",
+    "license": "MIT",
+    "description": "A parser and validator for the EU Digital Green Certificate (dgc) a.k.a. greenpass",
+    "tags": [
+      "rust", "green pass", "covid", "parser", "validator"
+    ]
+  }
