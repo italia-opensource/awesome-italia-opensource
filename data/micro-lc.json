@@ -1,0 +1,10 @@
+{
+    "name": "micro-lc",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/micro-lc/micro-lc",
+    "site_url": "https://micro-lc.io/documentation/",
+    "type": "app",
+    "license": "Apache-2.0",
+    "description": "Build flexible, multi-tenant frontend applications following the Micro Frontend architecture",
+    "tags": ["typescript", "javascript", "react", "micro frontend"]
+}
