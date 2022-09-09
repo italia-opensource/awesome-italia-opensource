@@ -204,8 +204,11 @@ def check(loaded: list):
 def build(data):
     def _header(doc, data):
         doc.add_header('Italia Opensource')
-        doc.add_paragraph(
-            f"<img src='https://img.shields.io/badge/projects-{len(data)}-green'>")
+        doc.add_paragraph(f"""
+            <img src='https://img.shields.io/badge/projects-{len(data)}-green'>
+            <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+        """)
+
         doc.add_paragraph(
             'Italia Opensource is a list of open source projects created by Italian companies or developers.')
         doc.add_paragraph(
@@ -215,8 +218,8 @@ def build(data):
             .insert_link('contribution guidelines', 'https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md')
 
         doc.add_header('Mantained by', level=3)
-        doc.add_unordered_list(
-            [str(InlineText('Fabrizio Cafolla', url='https://github.com/FabrizioCafolla'))])
+        doc.add_paragraph("""- **[Fabrizio Cafolla](https://github.com/FabrizioCafolla)**
+        <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>""")
 
     def _projects(doc, data):
         def _repository(repository_platform, repositories_url, license):
@@ -242,6 +245,12 @@ def build(data):
                 return f'{stars}<br>{issues}<br>{license}'
 
         doc.add_header('Open source projects', level=3)
+
+        doc.add_header('Website view', level=4)
+        doc.add_paragraph(
+            'italia-opensource.github.io').insert_link('italia-opensource.github.io', 'https://italia-opensource.github.io/awesome-italia-opensource/')
+
+        doc.add_header('List', level=4)
         table_content_project = []
 
         repositories_url = []

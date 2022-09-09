@@ -2,6 +2,7 @@
     "name": "Nuvolaris",
     "repository_platform": "github",
     "repository_url": "https://github.com/nuvolaris/nuvolaris",
+    "site_url": "https://nuvolaris.io",
     "type": "faas",
     "license": "Apache-2.0",
     "tags": [
