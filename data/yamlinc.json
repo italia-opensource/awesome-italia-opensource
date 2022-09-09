@@ -1,8 +1,8 @@
 {
   "name": "Yamlinc",
   "repository_platform": "github",
-  "repository_url": "https://www.github.com/javanile/yamlinc",
-  "site_url": "https://www.javanile.org",
+  "repository_url": "https://github.com/javanile/yamlinc",
+  "site_url": "https://javanile.org",
   "type": "tool",
   "license": "MIT",
   "tags": [
