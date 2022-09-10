@@ -1,0 +1,12 @@
+{
+  "name": "Tryvium Travels",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/tryvium-travels",
+  "site_url": "https://tryvium.io",
+  "type": "app",
+  "description": "A Cryptocurrency friendly travel ecosystem - Book your holiday on tryvium.io",
+  "license": "Undefined",
+  "tags": [
+    "golang", "docker", "netlify", "docker-netlify-cli", "memongo", "go", "vue", "typescript", "javascript", "js", "ts", "react", "tryvium", "tryvium-travels", "travel", "crypto", "cryptocurrencies", "solidity", "smart-contracts"
+  ]
+}
