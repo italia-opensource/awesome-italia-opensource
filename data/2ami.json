@@ -1,0 +1,11 @@
+{
+  "name": "2ami",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/endorama/2ami",
+  "type": "tool",
+  "description": "Two factor authenticator agent that keep the secrets secret.",
+  "license": "MPL-2.0",
+  "tags": [
+    "go", "2fa", "security"
+  ]
+}
