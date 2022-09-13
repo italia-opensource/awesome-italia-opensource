@@ -1,0 +1,12 @@
+{
+  "name": "Leapp",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/Noovolari/leapp",
+  "site_url": "https://github.com/Noovolari/leapp#:~:text=access%20your%20cloud-,www.leapp.cloud/,-Topics",
+  "type": "tool",
+  "description": "Leapp is the DevTool to access your cloud.",
+  "license": "MPL-2.0",
+  "tags": [
+    "typescript", "python", "cloud", "electron"
+  ]
+}
