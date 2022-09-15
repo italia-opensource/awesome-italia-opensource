@@ -1,4 +1,4 @@
-# Contributing to Italia Open Source
+# Contributing to Awesome Italia Open Source
 
 ## Code of Conduct
 
@@ -78,13 +78,6 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - community
 - learning
 - language
-
-#### Allowed Company Types
-
-1. B2B
-2. B2C
-3. Consulting
-4. Product
 
 #### Allowed Repository Platform
 

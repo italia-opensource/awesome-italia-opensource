@@ -56,7 +56,7 @@ export default function Home(): JSX.Element {
             </header>
             <section>
               <p>
-              The newsletter will be dedicated to keeping you updated on new open source projects in the Italian community and events around the country.
+              The newsletter will be dedicated to keeping you updated on new open source projects, new startups in the Italian community and events around the country.
               </p>
             </section>
             <footer>
