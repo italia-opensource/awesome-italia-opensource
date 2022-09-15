@@ -1,0 +1,10 @@
+{
+    "name": "Rönd",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/rond-authz/rond",
+    "site_url": "https://rond-authz.io/",
+    "type": "app",
+    "license": "Apache-2.0",
+    "description": "Rönd is a lightweight container that distributes security policy enforcement throughout your application.",
+    "tags": ["go", "open policy agent"]
+}

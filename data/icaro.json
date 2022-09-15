@@ -5,6 +5,7 @@
     "site_url": "https://github.com/LGala/Icaro",
     "type": "language",
     "license": "MIT",
+    "description": "JVM programming language born as a didactic project",
     "tags": [
         "kotlin",
         "ANTLR",

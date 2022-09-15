@@ -1,0 +1,9 @@
+{
+	"name": "Moquette",
+	"repository_platform": "github",
+	"repository_url": "https://github.com/moquette-io/moquette",
+	"site_url": "https://moquette-io.github.io/moquette/",
+	"type": "tool",
+	"license": "Apache-2.0",
+	"tags": ["java", "mqtt", "broker", "lightweight"]
+}

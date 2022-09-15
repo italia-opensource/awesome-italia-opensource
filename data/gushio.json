@@ -1,0 +1,12 @@
+{
+    "name": "Gushio",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Forge-Srl/gushio",
+    "site_url": "https://forge-srl.github.io/gushio/",
+    "type": "tool",
+    "description": "Execute scripts written in JavaScript",
+    "license": "MIT",
+    "tags": [
+        "javascript", "shell", "cli", "terminal", "multiplatform", "scripting"
+    ]
+}

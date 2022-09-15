@@ -1,0 +1,11 @@
+{
+    "name": "qrcp",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/claudiodangelis/qrcp",
+    "type": "tool",
+    "license": "MIT",
+    "description": "Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal",
+    "tags": [
+        "commandline", "qr", "utility", "golang"
+    ]
+}
