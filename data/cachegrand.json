@@ -1,0 +1,10 @@
+{
+    "name": "cachegrand",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/danielealbano/cachegrand",
+    "site_url": "https://cachegrand.io/",
+    "type": "tool",
+    "description": "A modern OSS Key-Value store, Redis compatible, built for today's hardware",
+    "license": "BSD-3-Clause",
+    "tags": [ "cache", "caching", "key-value", "database", "redis", "memcache", "prometheus", "opensource", "fast" ]
+}
