@@ -9,7 +9,7 @@ export default function Home(): JSX.Element {
     <Layout
       title={`Home`}
       wrapperClassName="layout"
-      description="Italia Opensource is a list of open source projects created by Italian companies or developers. The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.">
+      description="Awesome Italia Opensource is a list of open source projects created by Italian companies or developers. The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.">
       <main className="main">
         
 
@@ -17,11 +17,11 @@ export default function Home(): JSX.Element {
         <div className="content">
 
         <header>
-              <h1>Italia Opensource</h1>
+              <h1>Awesome Italia Opensource</h1>
             </header>
             <section>
               <p>
-                Italia Opensource is a list of open source projects created by Italian companies or developers.<br/>
+              Awesome Italia Opensource is a list of open source projects created by Italian companies or developers.<br/>
                 The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.
               </p>
               <TableFeatures />
