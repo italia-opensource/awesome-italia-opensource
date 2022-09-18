@@ -1,0 +1,10 @@
+{
+    "name": "Kong",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/kong/kong",
+    "site_url": "https://konghq.com/",
+    "type": "tool",
+    "license": "Apache-2.0",
+    "description": "Kong API Gateway is a cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins",
+    "tags": ["lua", "api gateway", "cloud-native"]
+}
