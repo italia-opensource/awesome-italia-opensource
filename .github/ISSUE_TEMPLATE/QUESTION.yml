@@ -1,0 +1,31 @@
+name: "❓ Question"
+description: Create a new ticket for a question
+title: "❓ [QUESTION] - <title>"
+labels: [
+  "question"
+]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Summary"
+      description: Provide a brief explanation of the qustion
+      placeholder: Describe in a few lines your question
+    validations:
+      required: true
+  - type: textarea
+    id: reference_issues
+    attributes:
+      label: "Reference Issues"
+      description: Common issues
+      placeholder: "#Issues IDs"
+    validations:
+      required: false
+  - type: textarea
+    id: basic_example
+    attributes:
+      label: "Basic Example"
+      description: Indicate here some basic examples of your question.
+      placeholder: Describe specific case or example
+    validations:
+      required: false

@@ -17,8 +17,7 @@ We have two type of issue:
 
 1. Bug report
 2. Feature reqeust
-
-**Please don't use the GitHub issue tracker for questions.** If you have any questions please contact us via Discord channel.
+2. Question
 
 ## Development
 
