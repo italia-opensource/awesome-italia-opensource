@@ -1,0 +1,11 @@
+{
+    "name": "Faker",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/joke2k/faker",
+    "site_url": "https://faker.readthedocs.io/",
+    "type": "tool",
+    "license": "MIT",
+    "tags": [
+      "faker", "python", "testing"
+    ]
+}
