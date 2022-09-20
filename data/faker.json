@@ -1,0 +1,10 @@
+{
+    "name": "Faker",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/joke2k/faker",
+    "site_url": "https://faker.readthedocs.io/",
+    "description": "Python package that generates fake data for you",
+    "type": "package",
+    "license": "MIT",
+    "tags": ["faker", "python", "testing"]
+}
