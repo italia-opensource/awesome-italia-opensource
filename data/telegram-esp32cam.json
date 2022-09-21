@@ -4,6 +4,7 @@
     "repository_url": "https://github.com/albino98/telegram_esp32",
     "site_url": "",
     "type": "tool",
+    "description": "Security System with ESP32, PIR and Telegram Bot.",
     "license": "MIT",
     "tags": [
       "C", "C++", "Arduino", "Oled", "Display"
