@@ -1,0 +1,11 @@
+{
+    "name": "Telegram Esp32-CAM",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/albino98/telegram_esp32",
+    "site_url": "",
+    "type": "tool",
+    "license": "MIT",
+    "tags": [
+      "C", "C++", "Arduino", "Oled", "Display"
+    ]
+  }
