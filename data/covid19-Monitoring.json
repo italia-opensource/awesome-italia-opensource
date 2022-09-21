@@ -4,6 +4,7 @@
     "repository_url": "https://github.com/albino98/Covid19Monitoring",
     "site_url": "https://alby98.pythonanywhere.com/",
     "type": "saas",
+    "description": "This is a small Python project for Covid19 monitoring. I used Python with Flask, MySql and Plotly library for graphs.",
     "license": "Apache-2.0",
     "tags": [
       "python", "covid19", "Flask", "MySql", "Plotly", "API"
