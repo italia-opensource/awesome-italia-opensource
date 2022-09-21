@@ -1,0 +1,11 @@
+{
+    "name": "Deploy-Helper",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/albino98/deploy-helper",
+    "site_url": "",
+    "type": "tool",
+    "license": "MIT",
+    "tags": [
+      "python", "PyQT5", "QT", "Desktop-Application"
+    ]
+  }
