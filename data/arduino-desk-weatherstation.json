@@ -3,6 +3,7 @@
     "repository_platform": "github",
     "repository_url": "https://github.com/albino98/Arduino_Desk_Weatherstation",
     "type": "tool",
+    "description": "Desk weather station with Esp8266 and oled display.",
     "license": "MIT",
     "tags": [
       "C", "C++", "Html", "Arduino", "Python", "Flask"
