@@ -2,7 +2,6 @@
     "name": "Arduino Desk WeatherStation",
     "repository_platform": "github",
     "repository_url": "https://github.com/albino98/Arduino_Desk_Weatherstation",
-    "site_url": "",
     "type": "tool",
     "license": "MIT",
     "tags": [
