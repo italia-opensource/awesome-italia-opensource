@@ -112,7 +112,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - CPL-1.0
 - CATOSL-1.1
 - CAL-1.0
-- Copyleft
+- Coopyleft
 - CopyFair
 - CSL
 - EPL-1.0

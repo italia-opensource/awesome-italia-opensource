@@ -59,7 +59,7 @@ ALLOWED_LICENSES = [
     'CPAL-1.0',
     'CPL-1.0',
     'CATOSL-1.1',
-    'Copyleft',
+    'Coopyleft',
     'CopyFair',
     'CSL',
     'CAL-1.0',
