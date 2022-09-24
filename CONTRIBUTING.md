@@ -112,6 +112,9 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - CPL-1.0
 - CATOSL-1.1
 - CAL-1.0
+- Copyleft
+- CopyFair
+- CSL
 - EPL-1.0
 - EPL-2.0
 - eCos-2.0
@@ -122,7 +125,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - Entessa
 - EUDatagrid
 - EUPL-1.2
-- Fair
+- FairSource
 - Frameworx-1.0
 - 0BSD
 - AGPL-3.0
@@ -170,6 +173,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - RPL-1.5
 - RSCPL
 - OFL-1.1
+- PPL
 - SimPL-2.0
 - Sleepycat
 - SPL-1.0
