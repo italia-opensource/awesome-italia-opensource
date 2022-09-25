@@ -4,7 +4,7 @@
   "repository_url": "https://github.com/Tech-Workers-Coalition-Italia",
   "type": "tool",
   "description": "Enables an organization to automate their social media strategy in regards to events and their promotion. ",
-  "license": "CoopyLeft",
+  "license": "Coopyleft",
   "tags": [
     "python", "mobilizon", "graphql"
   ]
