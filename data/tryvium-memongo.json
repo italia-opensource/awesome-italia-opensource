@@ -1,0 +1,11 @@
+{
+    "name": "Memongo",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/tryvium-travels/memongo",
+    "type": "tool",
+    "description": "A Go package that spins up a real MongoDB server, backed by in-memory storage, for use in testing and mocking during development. It's based on mongodb-memory-server for NodeJS.",
+    "license": "MIT",
+    "tags": [
+      "mongodb", "memory", "tryvium-travels", "golang", "mongodb-memory-server"
+    ]
+  }
