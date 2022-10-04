@@ -55,8 +55,8 @@ const config = {
             position: 'left',
             items: [
               {
-                href: 'https://italia-opensource.github.io/awesome-italia-startups',
-                label: 'Awesome Startups',
+                href: 'https://italia-opensource.github.io/awesome-italia-innovative-companies',
+                label: 'Innovative Companies',
               }
             ]
           },
