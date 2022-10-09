@@ -1,0 +1,15 @@
+{
+    "name": "nuvola",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/primait/nuvola",
+    "site_url": "https://github.com/primait/nuvola",
+    "type": "tool",
+    "description": "nuvola is a tool to dump and perform automatic and manual security analysis on AWS environments configurations and services using predefined, extensible and custom rules created using a simple Yaml syntax.",
+    "license": "GPL-3.0",
+    "tags": [
+        "aws",
+        "cloudsecurity",
+        "devsecops",
+        "golang"
+    ]
+}
