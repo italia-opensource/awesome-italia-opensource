@@ -18,7 +18,7 @@ ALLOWED_TYPE = [
     'saas',
     'scripts',
     'tool',
-    'language'
+    'language',
     'framework'
 ]
 
