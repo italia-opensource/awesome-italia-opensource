@@ -4,7 +4,7 @@
     "repository_url": "https://github.com/getevo/evo",
     "site_url": "https://getevo.github.io/evo/",
     "type": "framework",
-    "license": "MIT License",
+    "license": "MIT",
     "tags": [
       "go", "framework", "web framework"
     ]

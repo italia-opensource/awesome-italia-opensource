@@ -4,7 +4,7 @@
   "repository_url": "https://github.com/Tiledesk/tiledesk",
   "site_url": "https://tiledesk.com",
   "type": "saas",
-  "description": "Open Source Live Chat with adaptive multichannel Chatbots design technology. Alternative to Intercom and Zendesk for Customer Service and Conversational Marketing", 
+  "description": "Open Source Live Chat with adaptive multichannel Chatbots design technology. Alternative to Intercom and Zendesk for Customer Service and Conversational Marketing",
   "license": "MIT",
   "tags": [
     "customer service", "conversational commerce", "conversational marketing"
