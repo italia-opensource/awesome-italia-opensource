@@ -19,6 +19,7 @@ ALLOWED_TYPE = [
     'scripts',
     'tool',
     'language'
+    'framework'
 ]
 
 ALLOWED_REPOSITORY_PLATFORM = [
