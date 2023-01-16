@@ -2,6 +2,7 @@
     "name": "Http Bee Request",
     "repository_platform": "github",
     "repository_url": "https://github.com/DomeT99/beerequest",
+    "site_url":"https://github.com/DomeT99/beerequest",
     "type": "package",
     "description": "A little tool to make web calling a breeze!",
     "license": "MIT",
