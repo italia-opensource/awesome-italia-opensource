@@ -70,6 +70,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - saas
 - paas
 - faas
+- framework
 - tool
 - scripts
 - package
