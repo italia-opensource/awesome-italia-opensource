@@ -311,8 +311,7 @@ def build(data):
 
 @click.command()
 @click.option('--render', default=False, help='Make data render', is_flag=True)
-@click.option('--output', default=False, help='Make data output', is_flag=True)
-def main(render, output):
+def main(render):
     data = os.listdir(abspath(os.path.dirname(
         os.path.abspath(__file__)), 'data'))
 
@@ -329,10 +328,6 @@ def main(render, output):
 
     if render:
         build(parsed)
-
-    if output:
-        with open('website/src/data/outputs.json', 'w+') as file_output:
-            file_output.write(json.dumps({'data': parsed}))
 
 
 if __name__ == '__main__':

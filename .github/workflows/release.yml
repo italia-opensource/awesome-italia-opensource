@@ -1,12 +1,18 @@
 name: Release
 
+env:
+  AWS_REGION: ${{ vars.AWS_REGION }}
+
+permissions:
+  id-token: write
+  contents: read
+
 on:
   push:
     branches:
       - main
     paths:
       - '.github/workflows/release.yml'
-      - 'website/**'
       - 'data/**'
 
 
@@ -16,14 +22,14 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.9
 
@@ -36,47 +42,32 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
-          git add README.md website/src/data/outputs.json
-          git commit -m "feat(release): Update README.md"
-          git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to update"
+          else
+            git add README.md
+            git commit -m "release(data): Update README.md"
+            git push
+          fi
 
   deploy:
-    name: Deploy Github pages
+    name: Deploy data
     runs-on: ubuntu-20.04
     needs: render-data
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    defaults:
-      run:
-        working-directory: website
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: checkout
+        uses: actions/checkout@v3
         with:
-          node-version: '16.14'
+          fetch-depth: 0
+          ref: main
 
-      - name: Get yarn cache
-        id: yarn-cache
-        run: echo "::set-output name=dir::$(yarn cache dir)"
-
-      - name: Cache dependencies
-        uses: actions/cache@v2
+      - name: Configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
         with:
-          path: ${{ steps.yarn-cache.outputs.dir }}
-          key: ${{ runner.os }}-website-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-website-
+          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/${{ secrets.AWS_ROLE_NAME }}
+          aws-region: ${{ env.AWS_REGION }}
+          mask-aws-account-id: no
 
-      - run: npm install
-      - run: npm run build
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./website/build
+      - name: Rsync datalake
+        run: |
+          aws s3 sync --delete ./data s3://${{ secrets.AWS_BUCKET_DATALAKE_BRONZE }}/opensource

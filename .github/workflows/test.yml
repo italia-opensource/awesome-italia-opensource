@@ -1,12 +1,18 @@
 name: Pull request
 
+env:
+  AWS_REGION: ${{ vars.AWS_REGION }}
+
+permissions:
+  id-token: write
+  contents: read
+
 on:
   pull_request:
     branches:
       - main
     paths:
       - '.github/workflows/test.yml'
-      - 'website/**'
       - 'data/**'
     types: [opened, synchronize]
 
@@ -17,12 +23,19 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.9
+
+      - name: Configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/${{ secrets.AWS_ROLE_NAME }}
+          aws-region: ${{ env.AWS_REGION }}
+          mask-aws-account-id: no
 
       - name: Setup and test
         run: |
