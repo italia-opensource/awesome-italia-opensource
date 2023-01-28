@@ -18,4 +18,4 @@ lint-ci:
 	python3 cli.py
 
 render:
-	python3 cli.py --render --output
+	python3 cli.py --render
