@@ -1,0 +1,10 @@
+{
+    "name": "orchy-mfe",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/orchy-mfe/orchy-core",
+    "site_url": "https://orchy-mfe.github.io/",
+    "type": "app",
+    "license": "MIT",
+    "description": "The Micro Frontends orchestrator",
+    "tags": ["TypeScript", "JavaScript", "micro frontends", "web components"]
+}
