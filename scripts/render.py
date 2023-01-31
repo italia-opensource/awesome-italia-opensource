@@ -260,7 +260,7 @@ def main():
 
     def companies():
         data = render(type='companies')
-        builder = CompaniesReadme('Awesome Open Source', data, abspath(
+        builder = CompaniesReadme('Awesome Companies', data, abspath(
             BASEDIR, 'awesome', 'companies'))
         builder.build()
         builder.output()

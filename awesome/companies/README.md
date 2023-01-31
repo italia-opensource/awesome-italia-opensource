@@ -1,4 +1,4 @@
-# Awesome Open Source | Italia Opensource
+# Awesome Companies | Italia Opensource
 
 <img src='https://img.shields.io/badge/list-29-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
