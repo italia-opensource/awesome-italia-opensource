@@ -36,5 +36,7 @@ jobs:
 
       - name: Setup and render
         if: steps.changed-files-specific.outputs.any_changed == 'true'
+        env:
+          SQS_URL_DATA_INGESTION: ${{ secrets.SQS_URL_DATA_INGESTION }}
         run: |
           python3 cli.py --render --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'

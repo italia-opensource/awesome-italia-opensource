@@ -2,10 +2,15 @@ import json
 import os
 import sys
 
+import boto3
 import click
 import fastjsonschema
 from snakemd import Document
 from snakemd.generator import InlineText
+
+# Create SQS client
+sqs = boto3.client('sqs')
+
 
 ALLOWED_TYPE = [
     'app',
@@ -318,8 +323,13 @@ def send_sqs_message(changed: str, type: str, filename: str, data: dict):
         },
         'payload': data
     }
-    print()
     print(message)
+
+    sqs.send_message(
+        QueueUrl=os.getenv('SQS_URL_DATA_INGESTION'),
+        MessageAttributes={},
+        MessageBody=message
+    )
 
 
 def changed_files_send(changed: str, files: dict):
