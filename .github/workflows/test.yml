@@ -29,13 +29,6 @@ jobs:
         with:
           python-version: 3.9
 
-
-      - name: Get changed files in the docs folder
-        id: changed-files-specific
-        uses: tj-actions/changed-files@v35
-        with:
-          files: data/*.json
-
       - name: Configure aws credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
@@ -48,9 +41,20 @@ jobs:
           make setup-ci
           make lint-ci
 
+
+      - name: Get changed files in the docs folder
+        id: changed-files-specific
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            data/opensource/*.json
+            data/companies/*.json
+
       - name: Setup and render
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         env:
           SQS_URL_DATA_INGESTION: ${{ secrets.SQS_URL_DATA_INGESTION }}
         run: |
-          python3 cli.py --render --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'
+          python3 scripts/check.py
+          python3 scripts/render.py
+          python3 scripts/notify.py --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'
