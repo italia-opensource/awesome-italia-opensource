@@ -1,5 +1,12 @@
 name: Pull request
 
+env:
+  AWS_REGION: ${{ vars.AWS_REGION }}
+
+permissions:
+  id-token: write
+  contents: read
+
 on:
   pull_request:
     branches:
@@ -28,6 +35,13 @@ jobs:
         uses: tj-actions/changed-files@v35
         with:
           files: data/*.json
+
+      - name: Configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/${{ secrets.AWS_ROLE_NAME }}
+          aws-region: ${{ env.AWS_REGION }}
+          mask-aws-account-id: no
 
       - name: Setup and test
         run: |
