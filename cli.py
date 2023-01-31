@@ -328,7 +328,7 @@ def send_sqs_message(changed: str, type: str, filename: str, data: dict):
     sqs.send_message(
         QueueUrl=os.getenv('SQS_URL_DATA_INGESTION'),
         MessageAttributes={},
-        MessageBody=message
+        MessageBody=json.dumps(message)
     )
 
 
