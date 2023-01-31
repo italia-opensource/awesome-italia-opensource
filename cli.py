@@ -309,30 +309,81 @@ def build(data):
     doc.output_page()
 
 
+def send_sqs_message(changed: str, type: str, filename: str, data: dict):
+    message = {
+        'metadata': {
+            'filename': filename,
+            'changed': changed,
+            'type': type,
+        },
+        'payload': data
+    }
+    print()
+    print(message)
+
+
+def changed_files_send(changed: str, files: dict):
+    for file in files:
+        filename = abspath(os.path.dirname(
+            os.path.abspath(__file__)), 'data', file).strip()
+        type = os.path.dirname(filename).split('/')[-1]
+        if os.path.isfile(filename):
+            send_sqs_message(changed=changed, type=type,
+                             filename=filename, data=json_validate(filename))
+
+
+def render_readme(type: str):
+    if type not in ['opensource', 'companies', '']:
+        raise Exception('Error type')
+
+    dirpath = abspath(os.path.dirname(os.path.abspath(__file__)), 'data', type)
+
+    loaded = []
+    for project in os.listdir(dirpath):
+        filename = abspath(dirpath, project)
+
+        if not os.path.isfile(filename):
+            print(f"Skip render '{filename}'")
+            continue
+
+        if not project.endswith('.json'):
+            raise Exception(f'File {project} is not json')
+
+        item = (project.replace('.json', ''), filename)
+
+        loaded.append(item)
+
+    loaded = sorted(loaded, key=lambda tup: tup[0])
+    parsed = check(loaded)
+
+    build(parsed)
+
+
 @click.command()
 @click.option('--render', default=False, help='Data render', is_flag=True)
 @click.option('--changed-files', default='', help='JSON of tj-actions/changed-files action output')
 def main(render, changed_files):
     if changed_files:
         changed_files = json.loads(changed_files)
-        print(changed_files)
+
+        added_files = changed_files['added_files'].split('data/')
+        print(added_files)
+        changed_files_send(changed='added', files=added_files)
+
+#        deleted_files = changed_files["deleted_files"].split("data/")
+#        print(deleted_files)
+#        changed_files_send(changed='deleted', files=deleted_files)
+#
+#        modified_files = changed_files["modified_files"].split("data/")
+#        print(modified_files)
+#        changed_files_send(changed='modified', files=modified_files)
+#
+#        renamed_files = changed_files["renamed_files"].split("data/")
+#        print(renamed_files)
+#        changed_files_send(changed='renamed', files=renamed_files)
 
     if render:
-        data = os.listdir(abspath(os.path.dirname(
-            os.path.abspath(__file__)), 'data'))
-
-        loaded = []
-        for project in data:
-            if not project.endswith('.json'):
-                raise Exception(f'File {project} is not json')
-            item = (project.replace('.json', ''), abspath(
-                os.path.dirname(os.path.abspath(__file__)), 'data', project))
-            loaded.append(item)
-
-        loaded = sorted(loaded, key=lambda tup: tup[0])
-        parsed = check(loaded)
-
-        build(parsed)
+        render_readme(type='')
 
 
 if __name__ == '__main__':
