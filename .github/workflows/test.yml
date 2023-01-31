@@ -27,7 +27,7 @@ jobs:
         id: changed-files-specific
         uses: tj-actions/changed-files@v35
         with:
-          files: data/*.{json}
+          files: data/*.json
 
       - name: Setup and test
         run: |
