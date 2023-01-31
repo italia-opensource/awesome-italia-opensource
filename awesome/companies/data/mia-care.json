@@ -1,0 +1,11 @@
+{
+    "name": "Mia-Care",
+    "site_url": "https://mia-care.io",
+    "type": "B2B",
+    "market": "Health",
+    "description": "Mia-Care helps Pharma, MedTech, and Clinics accelerate their digital evolution and get integrated into the healthcare ecosystem.",
+    "tags": [
+        "cloud-native", "kubernetes", "digital health", "healthcare"
+    ],
+    "foundation_year": "2021"
+}

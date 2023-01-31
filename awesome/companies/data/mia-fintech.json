@@ -1,0 +1,11 @@
+{
+    "name": "Mia-FinTech",
+    "site_url": "https://mia-fintech.io",
+    "type": "B2B",
+    "market": "Fintech",
+    "description": "Mia-FinTech bridges the gap between traditional institutions and digitally-enabled modern finance.",
+    "tags": [
+        "cloud-native", "kubernetes", "financial services", "open finance", "open banking"
+    ],
+    "foundation_year": "2021"
+}
