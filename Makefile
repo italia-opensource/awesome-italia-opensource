@@ -16,6 +16,3 @@ lint:
 
 lint-ci:
 	python3 cli.py
-
-render:
-	python3 cli.py --render

@@ -22,7 +22,19 @@ jobs:
         with:
           python-version: 3.9
 
+
+      - name: Get changed files in the docs folder
+        id: changed-files-specific
+        uses: tj-actions/changed-files@v35
+        with:
+          files: data/*.{json}
+
       - name: Setup and test
         run: |
           make setup-ci
           make lint-ci
+
+      - name: Setup and render
+        if: steps.changed-files-specific.outputs.any_changed == 'true'
+        run: |
+          python3 cli.py --render --changed-files ${{ toJSON(steps.changed-files-specific.outputs) }}

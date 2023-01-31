@@ -310,23 +310,28 @@ def build(data):
 
 
 @click.command()
-@click.option('--render', default=False, help='Make data render', is_flag=True)
-def main(render):
-    data = os.listdir(abspath(os.path.dirname(
-        os.path.abspath(__file__)), 'data'))
-
-    loaded = []
-    for project in data:
-        if not project.endswith('.json'):
-            raise Exception(f'File {project} is not json')
-        item = (project.replace('.json', ''), abspath(
-            os.path.dirname(os.path.abspath(__file__)), 'data', project))
-        loaded.append(item)
-
-    loaded = sorted(loaded, key=lambda tup: tup[0])
-    parsed = check(loaded)
+@click.option('--render', default=False, help='Data render', is_flag=True)
+@click.option('--changed-files', default='', help='JSON of tj-actions/changed-files action output')
+def main(render, changed_files):
+    if changed_files:
+        changed_files = json.loads(changed_files)
+        print(changed_files)
 
     if render:
+        data = os.listdir(abspath(os.path.dirname(
+            os.path.abspath(__file__)), 'data'))
+
+        loaded = []
+        for project in data:
+            if not project.endswith('.json'):
+                raise Exception(f'File {project} is not json')
+            item = (project.replace('.json', ''), abspath(
+                os.path.dirname(os.path.abspath(__file__)), 'data', project))
+            loaded.append(item)
+
+        loaded = sorted(loaded, key=lambda tup: tup[0])
+        parsed = check(loaded)
+
         build(parsed)
 
 
