@@ -44,9 +44,8 @@ class Readme():
     def __init__(self, name, data, output_path) -> None:
         self.name = name
         self.data = data
-        self.output_path = f'{output_path}/README.md'
+        self.output_path = f'{output_path}/README'
         self.doc = Document(self.output_path)
-        self.build()
 
     @property
     def repository_fullname(self):
