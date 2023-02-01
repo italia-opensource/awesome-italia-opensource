@@ -50,8 +50,7 @@ def notify(changed: str, type: str, filename: str, data: dict):
     print(message)
 
     sqs.send_message(
-        QueueUrl=os.getenv('SQS_URL_DATA_INGESTION',
-                           'https://sqs.eu-central-1.amazonaws.com/772883009446/data-ingestion-772883009446'),
+        QueueUrl=os.getenv('SQS_URL_DATA_INGESTION'),
         MessageAttributes={},
         MessageBody=json.dumps(message)
     )
