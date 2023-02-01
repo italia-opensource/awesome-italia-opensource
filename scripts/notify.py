@@ -11,6 +11,11 @@ sqs = boto3.client('sqs')
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
 
+TYPE = {
+    'opensource': 'OpensourceItem',
+    'companies': 'CompanyItem'
+}
+
 
 def abspath(*args, os_path=True, separator='/'):
     path = separator.join(args)
@@ -59,9 +64,9 @@ def notify(changed: str, type: str, filename: str, data: dict):
 def changed_files_send(changed: str, files: dict):
     for file in files:
         filename = abspath(BASEDIR, 'awesome', file).strip()
-        type = os.path.dirname(filename).split('/')[-1]
-
         if os.path.isfile(filename):
+            type_key = os.path.dirname(filename).split('/')[-2]
+            type = TYPE[type_key]
             notify(
                 changed=changed,
                 type=type,
