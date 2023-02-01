@@ -63,15 +63,17 @@ def notify(changed: str, type: str, filename: str, data: dict):
 
 def changed_files_send(changed: str, files: dict):
     for file in files:
-        filename = abspath(BASEDIR, 'awesome', file).strip()
-        if os.path.isfile(filename):
-            type_key = os.path.dirname(filename).split('/')[-2]
+        filepath = abspath(BASEDIR, 'awesome', file).strip()
+        if os.path.isfile(filepath):
+            filename = os.path.basename(filepath)
+            type_key = os.path.dirname(filepath).split('/')[-2]
             type = TYPE[type_key]
+
             notify(
                 changed=changed,
                 type=type,
                 filename=filename,
-                data=json_validate(filename)
+                data=json_validate(filepath)
             )
 
 
