@@ -4,6 +4,7 @@ import sys
 
 import boto3
 import click
+from geopy.geocoders import Nominatim
 
 # Create SQS client
 sqs = boto3.client('sqs')
@@ -29,19 +30,28 @@ def json_validate(filename: str):
 
 
 def notify(changed: str, type: str, filename: str, data: dict):
+    def _process_address(address: str):
+        location = Nominatim(user_agent='myGeocoder').geocode(address)
+        return {
+            'type': 'Point',
+            'coordinates': [location.latitude, location.longitude]
+        }
+
+    if address := data.get('address'):
+        data['geometry'] = _process_address(address)
+
     message = {
-        'metadata': {
-            'filename': filename,
-            'changed': changed,
-            'type': type,
-        },
+        'filename': filename,
+        'changed': changed,
+        'type': type,
         'payload': data
     }
 
     print(message)
 
     sqs.send_message(
-        QueueUrl=os.getenv('SQS_URL_DATA_INGESTION'),
+        QueueUrl=os.getenv('SQS_URL_DATA_INGESTION',
+                           'https://sqs.eu-central-1.amazonaws.com/772883009446/data-ingestion-772883009446'),
         MessageAttributes={},
         MessageBody=json.dumps(message)
     )
@@ -69,13 +79,13 @@ def main(changed_files):
     added_files = changed_files['added_files'].split('awesome/')
     changed_files_send(changed='added', files=added_files)
 
-    deleted_files = changed_files['deleted_files'].split('data/')
+    deleted_files = changed_files['deleted_files'].split('awesome/')
     changed_files_send(changed='deleted', files=deleted_files)
 
-    modified_files = changed_files['modified_files'].split('data/')
+    modified_files = changed_files['modified_files'].split('awesome/')
     changed_files_send(changed='modified', files=modified_files)
 
-    renamed_files = changed_files['renamed_files'].split('data/')
+    renamed_files = changed_files['renamed_files'].split('awesome/')
     changed_files_send(changed='renamed', files=renamed_files)
 
 

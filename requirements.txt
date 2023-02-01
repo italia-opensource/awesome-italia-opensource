@@ -1,4 +1,6 @@
 boto3>=1.26.0
 click>=8.*
 fastjsonschema>=2.*
+geopandas
+geopy
 snakemd>=0.*
