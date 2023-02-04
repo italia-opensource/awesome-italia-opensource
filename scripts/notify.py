@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import time
 
 import boto3
 import click
@@ -76,6 +77,7 @@ def changed_files_send(changed: str, files: dict):
                 filename=filename,
                 data=json_validate(filepath)
             )
+            time.sleep(5)
 
 
 @click.command()
