@@ -64,6 +64,7 @@ def notify(changed: str, type: str, filename: str, data: dict):
 def changed_files_send(changed: str, files: dict):
     for file in files:
         filepath = abspath(BASEDIR, 'awesome', file).strip()
+
         if os.path.isfile(filepath):
             filename = os.path.basename(filepath)
             type_key = os.path.dirname(filepath).split('/')[-2]
@@ -78,20 +79,28 @@ def changed_files_send(changed: str, files: dict):
 
 
 @click.command()
-@click.option('--changed-files', default='', help='JSON of tj-actions/changed-files action output')
-def main(changed_files):
+@click.option('--massive', default=False, is_flag=True, help='Massive load')
+@click.option('--changed-files', default='{}', help='JSON of tj-actions/changed-files action output')
+def main(massive, changed_files):
+    if massive:
+        changed_files_send(changed='added', files=[
+                           f'opensource/data/{i}' for i in os.listdir('awesome/opensource/data')])
+        changed_files_send(changed='added', files=[
+                           f'companies/data/{i}' for i in os.listdir('awesome/companies/data')])
+        return
+
     changed_files = json.loads(changed_files)
     print(f'Changed files raw data: \n{changed_files}')
 
-    added_files = changed_files['added_files'].split('awesome/')
+    added_files = changed_files.get('added_files', '').split('awesome/')
     changed_files_send(changed='added', files=added_files)
     print(f'Added: \n{added_files}')
 
-    deleted_files = changed_files['deleted_files'].split('awesome/')
+    deleted_files = changed_files.get('deleted_files', '').split('awesome/')
     changed_files_send(changed='deleted', files=deleted_files)
     print(f'Deleted: \n{deleted_files}')
 
-    modified_files = changed_files['modified_files'].split('awesome/')
+    modified_files = changed_files.get('modified_files', '').split('awesome/')
     changed_files_send(changed='modified', files=modified_files)
     print(f'Modified: \n{modified_files}')
 
