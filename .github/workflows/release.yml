@@ -65,11 +65,10 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
-          changes=$(git status --porcelain | grep /README.md | cut -d\  -f 3)
-          if [ -z "${changes}" ]; then
+          if [ -z "$(git status --porcelain)" ]; then
               echo "Nothing to update"
           else
-              git add ${changes}
+              git add awesome/**/README.md
               git commit -m "release(awesome): Update README.md"
               git push
           fi
