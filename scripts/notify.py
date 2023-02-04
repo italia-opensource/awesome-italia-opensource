@@ -81,6 +81,7 @@ def changed_files_send(changed: str, files: dict):
 @click.option('--changed-files', default='', help='JSON of tj-actions/changed-files action output')
 def main(changed_files):
     changed_files = json.loads(changed_files)
+    print(f'Changed files raw data: \n{changed_files}')
 
     added_files = changed_files['added_files'].split('awesome/')
     changed_files_send(changed='added', files=added_files)
