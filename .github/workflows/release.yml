@@ -13,7 +13,8 @@ on:
       - main
     paths:
       - '.github/workflows/release.yml'
-      - 'data/**'
+      - 'awesome/**'
+  workflow_dispatch:
 
 
 jobs:
