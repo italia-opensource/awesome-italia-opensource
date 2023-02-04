@@ -11,10 +11,10 @@ We have
 
 ## Issues
 
-We have three type of issue:
+We have three type of issues:
 
 1. Bug report
-2. Feature reqeust
+2. Feature request
 2. Question
 
 ## Development
