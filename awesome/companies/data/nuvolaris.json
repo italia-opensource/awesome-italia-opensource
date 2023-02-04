@@ -1,0 +1,11 @@
+{
+    "name": "Nuvolaris",
+    "site_url": "https://nuvolaris.io/",
+    "type": "C2C",
+    "market": "Software",
+    "description": "Helps software developers and companies deliver business value by creating and deploying portable serverless apps in any cloud.",
+    "tags": [
+        "cloud-native", "serverless"
+    ],
+    "foundation_year": "2021"
+}

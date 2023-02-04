@@ -1,5 +1,12 @@
 name: Pull request
 
+env:
+  AWS_REGION: ${{ vars.AWS_REGION }}
+
+permissions:
+  id-token: write
+  contents: read
+
 on:
   pull_request:
     branches:
@@ -22,7 +29,29 @@ jobs:
         with:
           python-version: 3.9
 
+      - name: Configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/${{ secrets.AWS_ROLE_NAME }}
+          aws-region: ${{ env.AWS_REGION }}
+          mask-aws-account-id: no
+
       - name: Setup and test
         run: |
           make setup-ci
           make lint-ci
+
+      # - name: Get changed files in the docs folder
+      #   id: changed-files-specific
+      #   uses: tj-actions/changed-files@v35
+      #   with:
+      #     files: |
+      #       data/opensource/*.json
+      #       data/companies/*.json
+
+      # - name: Setup and render
+      #   if: steps.changed-files-specific.outputs.any_changed == 'true'
+      #   env:
+      #     SQS_URL_DATA_INGESTION: ${{ secrets.SQS_URL_DATA_INGESTION }}
+      #   run: |
+      #     python3 scripts/notify.py --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'

@@ -14,6 +14,8 @@
 
 **Our differences can be our strengths**. We can find strength in diversity. Different people have different perspectives on issues, and that can be valuable for solving problems or generating new ideas. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that we all make mistakes, and blaming each other doesn’t get us anywhere.
 
+**The accuracy of the data**. The data you wish to enter, modify or delete must be subjected to PR and that the actions taken to the data be consistent and truthful. In no way is the improper use of the data entered or deleted accepted to offend, disparage or other illegal actions. The responsible persons for the information entered/modified/deleted must be its owners or at least act in good faith without causing damage to third parties.
+
 Instead, focus on resolving issues and learning from mistakes.
 
 ### Our Responsibilities

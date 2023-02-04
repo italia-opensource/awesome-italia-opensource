@@ -1,0 +1,12 @@
+{
+    "name": "Tirasa",
+    "repository_organization_url": "https://github.com/Tirasa",
+    "site_url": "https://www.tirasa.net/",
+    "type": "B2B",
+    "market": "Software",
+    "description": "Build, maintain and deploy a whole stack of Open Source Identity and Access Management tools and frameworks.",
+    "tags": [
+        "identity", "sso", "provisioning"
+    ],
+    "foundation_year": "2011"
+}
