@@ -84,15 +84,15 @@ def main(changed_files):
 
     added_files = changed_files['added_files'].split('awesome/')
     changed_files_send(changed='added', files=added_files)
+    print(f'Added: \n{added_files}')
 
     deleted_files = changed_files['deleted_files'].split('awesome/')
     changed_files_send(changed='deleted', files=deleted_files)
+    print(f'Deleted: \n{deleted_files}')
 
     modified_files = changed_files['modified_files'].split('awesome/')
     changed_files_send(changed='modified', files=modified_files)
-
-    renamed_files = changed_files['renamed_files'].split('awesome/')
-    changed_files_send(changed='renamed', files=renamed_files)
+    print(f'Modified: \n{modified_files}')
 
 
 if __name__ == '__main__':
