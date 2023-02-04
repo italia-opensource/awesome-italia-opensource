@@ -1,0 +1,12 @@
+{
+    "name": "Satispay",
+    "site_url": "https://www.satispay.com/",
+    "type": "B2C",
+    "market": "Fintech",
+    "tags": [
+        "e-commerce", "payments"
+    ],
+    "description": "Semplificare i pagamenti per migliorare la vita delle persone.",
+    "foundation_year": "2013",
+    "address": "Via Luigi Porro Lambertenghi 7, 20159 Milano"
+}

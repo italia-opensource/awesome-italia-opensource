@@ -1,0 +1,12 @@
+{
+    "name": "Jobtech",
+    "site_url": "https://jobtech.it",
+    "type": "D2C",
+    "market": "Service",
+    "tags": [
+        "lavoro", "contratti"
+    ],
+    "description": "Ottimizzare il processo di incontro tra aziende e candidati sul mercato del lavoro.",
+    "foundation_year": "2020",
+    "address": "Via Borromei, 6 20123 Milano"
+}

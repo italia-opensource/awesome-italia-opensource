@@ -6,16 +6,13 @@ help: ## helper
 .DEFAULT_GOAL := help
 
 setup:
-	chmod -R +x ./setup.sh && ./setup.sh
+	chmod -R +x ./scripts/dev.sh && ./dev.sh
 
 setup-ci:
 	pip3 install -r requirements.txt
 
 lint:
-	pre-commit run --all-files && python3 cli.py
+	pre-commit run --all-files && python3 scripts/check.py && python3 scripts/render.py
 
 lint-ci:
-	python3 cli.py
-
-render:
-	python3 cli.py --render
+	python3 scripts/check.py && python3 scripts/render.py

@@ -36,7 +36,22 @@ jobs:
       - name: Setup and render
         run: |
           make setup-ci
-          make render
+          python3 scripts/render.py
+
+      - name: Get changed files in the docs folder
+        id: changed-files-specific
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            data/opensource/*.json
+            data/companies/*.json
+
+      - name: Notify SQS
+        if: steps.changed-files-specific.outputs.any_changed == 'true'
+        env:
+          SQS_URL_DATA_INGESTION: ${{ secrets.SQS_URL_DATA_INGESTION }}
+        run: |
+          python3 scripts/notify.py --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'
 
       - name: Commit changes
         run: |
@@ -49,25 +64,3 @@ jobs:
             git commit -m "release(data): Update README.md"
             git push
           fi
-
-  deploy:
-    name: Deploy data
-    runs-on: ubuntu-20.04
-    needs: render-data
-    steps:
-      - name: checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          ref: main
-
-      - name: Configure aws credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/${{ secrets.AWS_ROLE_NAME }}
-          aws-region: ${{ env.AWS_REGION }}
-          mask-aws-account-id: no
-
-      - name: Rsync datalake
-        run: |
-          aws s3 sync --delete ./data s3://${{ secrets.AWS_BUCKET_DATALAKE_BRONZE }}/opensource
