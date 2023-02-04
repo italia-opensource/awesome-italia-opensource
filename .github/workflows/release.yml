@@ -43,8 +43,8 @@ jobs:
         uses: tj-actions/changed-files@v35
         with:
           files: |
-            data/opensource/*.json
-            data/companies/*.json
+            awesome/opensource/data/*.json
+            awesome/companies/data/*.json
 
       - name: Notify SQS
         if: steps.changed-files-specific.outputs.any_changed == 'true'
