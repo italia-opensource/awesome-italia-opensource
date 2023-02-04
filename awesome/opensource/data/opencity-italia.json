@@ -1,0 +1,11 @@
+{
+    "name": "Opencity Italia",
+    "repository_platform": "gitlab",
+    "repository_url": "https://gitlab.com/opencontent/stanza-del-cittadino",
+    "site_url": "https://opencityitalia.it/",
+    "type": "saas",
+    "license": "AGPL-3.0",
+    "tags": [
+      "microservices", "event-sourcing", "symfony", "kafka", "golang", "fastapi", "python", "clickhouse", "surrealdb"
+    ]
+}
