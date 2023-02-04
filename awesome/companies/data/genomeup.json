@@ -1,0 +1,11 @@
+{
+    "name": "Genomeup",
+    "site_url": "http://www.genomeup.com/",
+    "type": "B2B",
+    "market": "Biotech",
+    "description": "GenomeUp has developed several bioinformatics tools and protocols to make data and metadata today big health data traceable, accessible, interoperable and reusable",
+    "tags": [
+        "health", "ai"
+    ],
+    "foundation_year": "2011"
+}

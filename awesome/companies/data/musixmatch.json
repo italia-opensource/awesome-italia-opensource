@@ -1,0 +1,11 @@
+{
+    "name": "Musixmatch",
+    "site_url": "https://www.musixmatch.com/it",
+    "type": "B2C",
+    "market": "Service",
+    "description": "Our mission is to provide data, tools and services that allow the experience of music to be enriched across the whole world.",
+    "tags": [
+        "ai", "music"
+    ],
+    "foundation_year": "2010"
+}

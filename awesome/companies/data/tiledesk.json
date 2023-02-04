@@ -1,0 +1,13 @@
+{
+    "name": "Tiledesk",
+    "repository_organization_url": "https://github.com/Tiledesk/tiledesk",
+    "site_url": "https://tiledesk.com",
+    "type": "B2B",
+    "market": "Software",
+    "description": "Open Source Live Chat with adaptive multichannel Chatbots design technology. Alternative to Intercom and Zendesk for Customer Service and Conversational Marketing",
+    "tags": [
+     "nodejs", "angular", "mqtt"
+    ],
+    "foundation_year": "2020",
+    "address": "Via Fratelli Bandiera, 17, 73010 Soleto LE"
+  }
