@@ -5,7 +5,7 @@ env:
 
 permissions:
   id-token: write
-  contents: read
+  contents: write
 
 on:
   push:
