@@ -41,10 +41,9 @@ jobs:
         with:
           python-version: 3.9
 
-      - name: Setup and render
+      - name: Setup
         run: |
           make setup-ci
-          python3 scripts/render.py
 
       - name: Get changed files in the docs folder
         id: changed-files-specific
@@ -60,8 +59,9 @@ jobs:
         run: |
           python3 scripts/notify.py --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'
 
-      - name: Commit changes
+      - name: Render awesome README.md
         run: |
+          python3 scripts/render.py
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
           if [ -z "$(git status --porcelain)" ]; then
