@@ -14,7 +14,7 @@ In a transparent way, you can access, add or modify the data in the repository, 
 
 #### List
 
-- [List of Innovative Comapnies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
+- [List of Innovative Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
 
 - [List of Opensource Projects](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/opensource/README.md)
 
