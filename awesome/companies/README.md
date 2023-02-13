@@ -1,6 +1,6 @@
 # Awesome Companies | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-30-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-31-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Innovative Companies is a list of italian startups, scale-up and companies that innovate.
 
@@ -22,6 +22,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 | Name                                        | Type | Market     | Tags                                                                     | Description                                                       |
 | ------------------------------------------- | ---- | ---------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| [Advigator](https://www.advigator.com)      | B2B  | Service    | amazon, ads, saas                                                        | Advertising optimization software for Amazon Ads                  |
 | [Amusi](https://www.amusi.it/)              | D2C  | Food       | cibo per animali, prodotti per animali                                   | Elevare il tenore di vita degli animali domestici offrendo p [..] |
 | [Biorfarm](https://www.biorfarm.com/)       | B2C  | Food       | sustainable, sharing                                                     | Adotta i tuoi alberi e diventa Agricoltore Digitale. Ricever [..] |
 | [Casavo](https://casavo.com/)               | B2C  | Housing    | house                                                                    | Vendere o comprare casa non è così semplice. Per questo nasc [..] |
