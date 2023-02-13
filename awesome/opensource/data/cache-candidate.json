@@ -1,0 +1,9 @@
+{
+    "name": "Cache Candidate",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/JointlyTech/cache-candidate",
+    "type": "package",
+    "license": "MIT",
+    "description": "This is a library providing a higher-order function and a decorator to cache the result of a function or method if given conditions are met.",
+    "tags": ["javascript", "typescript", "nodejs", "cache", "caching"]
+}
