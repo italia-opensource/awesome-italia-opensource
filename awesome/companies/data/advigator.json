@@ -1,0 +1,11 @@
+{
+  "name": "Advigator",
+  "site_url": "https://www.advigator.com",
+  "type": "B2B",
+  "market": "Service",
+  "description": "Advertising optimization software for Amazon Ads",
+  "tags": [
+    "amazon", "ads", "saas"
+  ],
+  "foundation_year": "2020"
+}
