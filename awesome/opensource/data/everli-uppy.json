@@ -6,6 +6,6 @@
     "description": "Mobile applications distribution platform.",
     "license": "AGPL-3.0",
     "tags": [
-      "microservices", "app", "mobile", "app"
+      "microservices", "mobile", "app"
     ]
 }
