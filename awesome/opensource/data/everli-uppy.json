@@ -1,0 +1,11 @@
+{
+    "name": "Everli Uppy",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/everli/uppy",
+    "type": "app",
+    "description": "Mobile applications distribution platform.",
+    "license": "AGPL-3.0",
+    "tags": [
+      "microservices", "mobile", "app"
+    ]
+}
