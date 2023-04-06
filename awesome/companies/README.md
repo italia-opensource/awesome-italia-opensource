@@ -1,6 +1,6 @@
 # Awesome Companies | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-29-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-32-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Innovative Companies is a list of italian startups, scale-up and companies that innovate.
 
@@ -22,11 +22,13 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 | Name                                        | Type | Market     | Tags                                                                     | Description                                                       |
 | ------------------------------------------- | ---- | ---------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| [Advigator](https://www.advigator.com)      | B2B  | Service    | amazon, ads, saas                                                        | Advertising optimization software for Amazon Ads                  |
 | [Amusi](https://www.amusi.it/)              | D2C  | Food       | cibo per animali, prodotti per animali                                   | Elevare il tenore di vita degli animali domestici offrendo p [..] |
 | [Biorfarm](https://www.biorfarm.com/)       | B2C  | Food       | sustainable, sharing                                                     | Adotta i tuoi alberi e diventa Agricoltore Digitale. Ricever [..] |
 | [Casavo](https://casavo.com/)               | B2C  | Housing    | house                                                                    | Vendere o comprare casa non è così semplice. Per questo nasc [..] |
 | [Dorbit](https://www.dorbit.space/)         | B2B  | Aeropsace  | space logistics                                                          | We offer solutions based on proprietary technologies that en [..] |
 | [Enel X](https://www.enelx.com/)            | B2C  | Energy     | energy supply, sustainable                                               | We are leading the energy transformation, making life smarte [..] |
+| [Everli](https://everli.com/)               | B2C  | Ecommerce  | e-commerce, grocery                                                      | Groceries delivered from local stores in 1 hour.                  |
 | [Flowe](https://www.flowe.com/)             | B2C  | Fintech    | carta di debito, sostenibilità                                           | La Flowe Card è la carta di debito in legno che rispetta rig [..] |
 | [Genomeup](http://www.genomeup.com/)        | B2B  | Biotech    | health, ai                                                               | GenomeUp has developed several bioinformatics tools and prot [..] |
 | [Hiway Media](https://hiway.media)          | B2C  | Fintech    | ott, digital, startup, video, streaming, platforms                       | Costruiamo esperienze d’intrattenimento digitali. Immaginiam [..] |
@@ -38,6 +40,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Musixmatch](https://www.musixmatch.com/it) | B2C  | Service    | ai, music                                                                | Our mission is to provide data, tools and services that allo [..] |
 | [Neulabs](https://neulabs.com)              | D2C  | Service    | ecommerce, aws                                                           | Born to identify and build the entrepreneurial successes of [..]  |
 | [Nuvolaris](https://nuvolaris.io/)          | C2C  | Software   | cloud-native, serverless                                                 | Helps software developers and companies deliver business val [..] |
+| [Opencity Labs](https://opencitylabs.it)    | B2B  | Software   | symfony, fastapi, kafka, golang, event-sourcing                          | The company behind OpencityItalia, the platform to create cl [..] |
 | [Orangefiber](https://orangefiber.it/)      | B2B  | Food       | sustainable                                                              | We create sustainable and innovative materials for fashion s [..] |
 | [Prima](https://prima.it)                   | B2C  | Insurance  | assicurazioni, polizze                                                   | Prima è un'agenzia assicurativa specializzata nella vendita [..]  |
 | [Satispay](https://www.satispay.com/)       | B2C  | Fintech    | e-commerce, payments                                                     | Semplificare i pagamenti per migliorare la vita delle person [..] |

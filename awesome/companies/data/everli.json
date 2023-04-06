@@ -1,0 +1,12 @@
+{
+    "name": "Everli",
+   "repository_organization_url": "https://www.github.com/everli",
+    "site_url": "https://everli.com/",
+    "type": "B2C",
+    "market": "Ecommerce",
+    "tags": [
+        "e-commerce", "grocery"
+    ],
+    "description": "Groceries delivered from local stores in 1 hour.",
+    "foundation_year": "2014"
+}
