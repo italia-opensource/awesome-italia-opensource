@@ -2,8 +2,7 @@ import json
 import os
 import sys
 
-from snakemd import Document
-from snakemd.generator import InlineText
+from snakemd import Document, Inline
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
 AWESOME_TYPE = ['opensource', 'companies']
@@ -135,7 +134,7 @@ class CompaniesReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content_project.append([
-                InlineText(name, url=item.get('site_url')),
+                Inline(name, url=item.get('site_url')),
                 item.get('type'),
                 item.get('market'),
                 ', '.join(item['tags']),
@@ -212,8 +211,8 @@ class OpensourceReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content_project.append([
-                InlineText(name, url=item.get('site_url')),
-                InlineText(repository, url=repository_url),
+                Inline(name, url=item.get('site_url')),
+                Inline(repository, url=repository_url),
                 tags,
                 description
             ])

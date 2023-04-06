@@ -6,7 +6,7 @@ help: ## helper
 .DEFAULT_GOAL := help
 
 setup:
-	chmod -R +x ./scripts/dev.sh && ./dev.sh
+	chmod -R +x ./scripts/dev.sh && ./scripts/dev.sh
 
 setup-ci:
 	pip3 install -r requirements.txt
