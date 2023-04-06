@@ -2,6 +2,7 @@
     "name": "Argon",
     "repository_platform": "github",
     "repository_url": "https://github.com/argonlang/argon",
+    "site_url": "https://www.arlang.io/",
     "type": "language",
     "description": "Argon is an interpreted multi-paradigm programming language that aims to be elegant, clean and simple to use.",
     "license": "Apache-2.0",
