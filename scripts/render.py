@@ -5,7 +5,7 @@ import sys
 from snakemd import Document, Inline
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
-AWESOME_TYPE = ['opensource', 'companies']
+AWESOME_TYPE = ['opensource', 'companies', 'communities']
 
 
 def abspath(*args, os_path=True, separator='/'):
@@ -54,10 +54,10 @@ class Readme():
     def repository_url(self):
         return f'https://github.com/{self.organization_name}/{self.repository_name}'
 
-    def component_website(self):
+    def component_website(self, path: str = ''):
         self.doc.add_header('Website view', level=4)
-        self.doc.add_paragraph('italia-opensource.github.io').insert_link(
-            'italia-opensource.github.io', 'https://italia-opensource.github.io/awesome-italia-opensource/')
+        self.doc.add_paragraph('italiaopensource.com').insert_link(
+            'italiaopensource.com', f'https://italiaopensource.com/{path}')
 
     def component_maneiner(self):
         self.doc.add_header('Mantained by', level=3)
@@ -74,7 +74,7 @@ class Readme():
         self.footer()
 
     def title(self, title: str, number_of_list_element):
-        self.doc.add_header(f'{title} | Italia Opensource')
+        self.doc.add_header(f'Awesome {title.title()} | Italia Opensource')
 
         self.doc.add_paragraph(f"""
             <img src='https://img.shields.io/badge/list-{number_of_list_element}-green'>
@@ -106,7 +106,7 @@ class CompaniesReadme(Readme):
 
     def header(self):
         self.doc.add_paragraph(
-            'Awesome Italia Innovative Companies is a list of italian startups, scale-up and companies that innovate.')
+            f'Awesome {self.name.title()} is a list of italian startups, scale-up and companies that innovate.')
         self.doc.add_paragraph(
             'The repository intends to give visibility to companies and stimulate the community to contribute to growing the ecosystem.')
         self.doc.add_paragraph(
@@ -116,9 +116,9 @@ class CompaniesReadme(Readme):
         self.component_maneiner()
 
     def content(self, data):
-        self.doc.add_header('Companies', level=3)
+        self.doc.add_header(self.name.title(), level=3)
 
-        self.component_website()
+        self.component_website(path='companies')
 
         self.doc.add_header('List', level=4)
         table_content_project = []
@@ -155,7 +155,7 @@ class OpensourceReadme(Readme):
 
     def header(self):
         self.doc.add_paragraph(
-            'Italia Opensource is a list of open source projects created by Italian companies or developers.')
+            f'Awesome Italia {self.name.title()} is a list of open-source projects created by italian companies or developers.')
         self.doc.add_paragraph(
             'The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.')
         self.doc.add_paragraph(
@@ -186,9 +186,9 @@ class OpensourceReadme(Readme):
                 issues = f'<img align="right" src="https://img.shields.io/gitlab/issues/open-raw/{repositories_url}" alt="Issues">'
                 return f'{stars}<br>{issues}<br>{license}'
 
-        self.doc.add_header('Open source projects', level=3)
+        self.doc.add_header(self.name.title(), level=3)
 
-        self.component_website()
+        self.component_website(path='opensource')
 
         self.doc.add_header('List', level=4)
         table_content_project = []
@@ -224,6 +224,29 @@ class OpensourceReadme(Readme):
         )
 
 
+class CommunitiesReadme(Readme):
+    def __init__(self, name, data, output_path) -> None:
+        super().__init__(name, data, output_path)
+
+    def header(self):
+        self.doc.add_paragraph(
+            f'Awesome Italia {self.name.title()} is a list of italian tech {self.name}.')
+        self.doc.add_paragraph(
+            f'The repository intends to give visibility to {self.name} and stimulate the community to contribute to growing the ecosystem.')
+        self.doc.add_paragraph(
+            'Please read the contribution guidelines before opening a pull request or contributing to this repository') \
+            .insert_link('contribution guidelines', f'{self.repository_url}/blob/main/CONTRIBUTING.md')
+
+        self.component_maneiner()
+
+    def content(self, data):
+        self.doc.add_header(self.name.title(), level=3)
+
+        self.component_website(path='communities')
+
+        self.doc.add_header('List', level=4)
+
+
 def render(type: str):
     if type not in AWESOME_TYPE:
         raise Exception(f'Error type "{type}" not in {AWESOME_TYPE}')
@@ -252,20 +275,28 @@ def render(type: str):
 def main():
     def opensource():
         data = render(type='opensource')
-        builder = OpensourceReadme('Awesome Open Source', data, abspath(
+        builder = OpensourceReadme('open-source', data, abspath(
             BASEDIR, 'awesome', 'opensource'))
         builder.build()
         builder.output()
 
     def companies():
         data = render(type='companies')
-        builder = CompaniesReadme('Awesome Companies', data, abspath(
+        builder = CompaniesReadme('companies', data, abspath(
             BASEDIR, 'awesome', 'companies'))
+        builder.build()
+        builder.output()
+
+    def communities():
+        data = render(type='communities')
+        builder = CommunitiesReadme('communities', data, abspath(
+            BASEDIR, 'awesome', 'communities'))
         builder.build()
         builder.output()
 
     opensource()
     companies()
+    communities()
 
 
 if __name__ == '__main__':
