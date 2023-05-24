@@ -43,7 +43,7 @@ class Readme():
     def __init__(self, name, data, output_path) -> None:
         self.name = name
         self.data = data
-        self.output_path = f'{output_path}/README'
+        self.output_path = f'{output_path}/'
         self.doc = Document()
 
     @property
@@ -65,7 +65,7 @@ class Readme():
         <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>""")
 
     def output(self):
-        self.doc.dump('README.md', self.output_path)
+        self.doc.dump('README', self.output_path)
 
     def build(self):
         self.title(self.name, len(self.data))
