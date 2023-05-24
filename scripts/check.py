@@ -312,6 +312,7 @@ class CommunitiesChecker(Checker):
         'Blog',
         'Channel',
         'Newsletter',
+        'Event',
     ]
 
     ALLOWED_PLATFORM = [

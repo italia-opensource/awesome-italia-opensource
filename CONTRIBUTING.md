@@ -91,6 +91,36 @@ Projects entered must be maintained and have guidelines and/or documentation for
   - Travel
   - Other
 
+
+### awesome/communities rules
+
+```JSON
+{
+  "name": "Test",
+  "url": "https://url",
+  "type": "...",
+  "platform": "...",
+  "description": "lorem ipsum", // no required
+  "tags": [
+    "tech", "aws"
+  ]
+}
+```
+
+- *Allowed Type of communities*
+  - Blog
+  - Channel
+  - Newsletter
+  - Event
+
+- *Allowed Platform of communities*
+  - Telegram
+  - Discord
+  - Slack
+  - Reddit
+  - Website
+  - Email
+
 ### awesome/opensource rules
 
 ```JSON
