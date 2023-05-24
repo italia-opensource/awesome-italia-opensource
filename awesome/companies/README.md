@@ -2,7 +2,7 @@
 
 <img src='https://img.shields.io/badge/list-32-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
-Awesome Italia Innovative Companies is a list of italian startups, scale-up and companies that innovate.
+Awesome Companies is a list of italian startups, scale-up and companies that innovate.
 
 The repository intends to give visibility to companies and stimulate the community to contribute to growing the ecosystem.
 
@@ -16,7 +16,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### Website view
 
-[italia-opensource.github.io](https://italia-opensource.github.io/awesome-italia-opensource/)
+[italiaopensource.com](https://italiaopensource.com/companies)
 
 #### List
 

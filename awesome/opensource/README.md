@@ -1,8 +1,8 @@
-# Awesome Open Source | Italia Opensource
+# Awesome Open-Source | Italia Opensource
 
 <img src='https://img.shields.io/badge/list-61-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
-Italia Opensource is a list of open source projects created by Italian companies or developers.
+Awesome Italia Open-Source is a list of open-source projects created by italian companies or developers.
 
 The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.
 
@@ -12,11 +12,11 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 - **[Fabrizio Cafolla](https://github.com/FabrizioCafolla)** <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
 
-### Open source projects
+### Open-Source
 
 #### Website view
 
-[italia-opensource.github.io](https://italia-opensource.github.io/awesome-italia-opensource/)
+[italiaopensource.com](https://italiaopensource.com/opensource)
 
 #### List
 
