@@ -8,15 +8,18 @@ Through a series of **awesome** lists, we seek to give visibility to open-source
 
 In a transparent way, you can access, add or modify the data in the repository, respecting the contribution conduct criteria.
 
-#### Website view
+#### Website
 
-...in progess
+[italiaopensource.com](https://italiaopensource.com)
 
 #### List
 
-- [List of Innovative Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
+- [List of Open-source projects](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/opensource/README.md)
 
-- [List of Opensource Projects](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/opensource/README.md)
+- [List of Tech Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
+
+- [List of Tech Communities](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/communities/README.md)
+
 
 ### Contributors
 
