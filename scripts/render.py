@@ -44,7 +44,7 @@ class Readme():
         self.name = name
         self.data = data
         self.output_path = f'{output_path}/README'
-        self.doc = Document(self.output_path)
+        self.doc = Document()
 
     @property
     def repository_fullname(self):
@@ -55,17 +55,17 @@ class Readme():
         return f'https://github.com/{self.organization_name}/{self.repository_name}'
 
     def component_website(self, path: str = ''):
-        self.doc.add_header('Website view', level=4)
+        self.doc.add_heading('Website view', level=4)
         self.doc.add_paragraph('italiaopensource.com').insert_link(
             'italiaopensource.com', f'https://italiaopensource.com/{path}')
 
     def component_maneiner(self):
-        self.doc.add_header('Mantained by', level=3)
+        self.doc.add_heading('Mantained by', level=3)
         self.doc.add_paragraph("""- **[Fabrizio Cafolla](https://github.com/FabrizioCafolla)**
         <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>""")
 
     def output(self):
-        self.doc.output_page()
+        self.doc.dump('README.md', self.output_path)
 
     def build(self):
         self.title(self.name, len(self.data))
@@ -74,7 +74,7 @@ class Readme():
         self.footer()
 
     def title(self, title: str, number_of_list_element):
-        self.doc.add_header(f'Awesome {title.title()} | Italia Opensource')
+        self.doc.add_heading(f'Awesome {title.title()} | Italia Opensource')
 
         self.doc.add_paragraph(f"""
             <img src='https://img.shields.io/badge/list-{number_of_list_element}-green'>
@@ -88,14 +88,14 @@ class Readme():
         raise NotImplementedError('header not content')
 
     def footer(self):
-        self.doc.add_header('Contributors', level=3)
+        self.doc.add_heading('Contributors', level=3)
         self.doc.add_paragraph(f"""
             <a href="{self.repository_url}/graphs/contributors">
                 <img src="https://contrib.rocks/image?repo={self.repository_fullname}" />
             </a>
         """)
 
-        self.doc.add_header('License', level=3)
+        self.doc.add_heading('License', level=3)
         self.doc.add_paragraph(
             'The project is made available under the GPL-3.0 license. See the `LICENSE` file for more information.')
 
@@ -116,11 +116,11 @@ class CompaniesReadme(Readme):
         self.component_maneiner()
 
     def content(self, data):
-        self.doc.add_header(self.name.title(), level=3)
+        self.doc.add_heading(self.name.title(), level=3)
 
         self.component_website(path='companies')
 
-        self.doc.add_header('List', level=4)
+        self.doc.add_heading('List', level=4)
         table_content_project = []
         companies_name = []
 
@@ -134,7 +134,7 @@ class CompaniesReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content_project.append([
-                Inline(name, url=item.get('site_url')),
+                Inline(name, link=item.get('site_url')),
                 item.get('type'),
                 item.get('market'),
                 ', '.join(item['tags']),
@@ -186,11 +186,11 @@ class OpensourceReadme(Readme):
                 issues = f'<img align="right" src="https://img.shields.io/gitlab/issues/open-raw/{repositories_url}" alt="Issues">'
                 return f'{stars}<br>{issues}<br>{license}'
 
-        self.doc.add_header(self.name.title(), level=3)
+        self.doc.add_heading(self.name.title(), level=3)
 
         self.component_website(path='opensource')
 
-        self.doc.add_header('List', level=4)
+        self.doc.add_heading('List', level=4)
         table_content_project = []
 
         repositories_url = []
@@ -211,8 +211,8 @@ class OpensourceReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content_project.append([
-                Inline(name, url=item.get('site_url')),
-                Inline(repository, url=repository_url),
+                Inline(name, link=item.get('site_url')),
+                Inline(repository, link=repository_url),
                 tags,
                 description
             ])
@@ -240,11 +240,11 @@ class CommunitiesReadme(Readme):
         self.component_maneiner()
 
     def content(self, data):
-        self.doc.add_header(self.name.title(), level=3)
+        self.doc.add_heading(self.name.title(), level=3)
 
         self.component_website(path='communities')
 
-        self.doc.add_header('List', level=4)
+        self.doc.add_heading('List', level=4)
 
 
 def render(type: str):
