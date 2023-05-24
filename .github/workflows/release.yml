@@ -52,6 +52,7 @@ jobs:
           files: |
             awesome/opensource/data/*.json
             awesome/companies/data/*.json
+            awesome/communities/data/*.json
 
       - name: Notify SQS
         env:
