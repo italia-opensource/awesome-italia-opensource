@@ -20,6 +20,10 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### List
 
+| Name                                                | Type    | Platform | Tags                         | Description                                                       |
+| --------------------------------------------------- | ------- | -------- | ---------------------------- | ----------------------------------------------------------------- |
+| [Latina In Tech](https://latina-in-tech.github.io/) | Channel | Telegram | dev, talks, networking, tech | Free events to foster knowledge sharing and professional gro [..] |
+
 ### Contributors
 
 <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
