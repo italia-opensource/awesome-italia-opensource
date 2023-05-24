@@ -30,6 +30,7 @@ class Checker():
         return self.jsonschema(content)
 
     def validate(self, dirpath: str):
+        print(f'Check: {dirpath.split("/")[-2].title()}')
         loaded = []
         for project in os.listdir(dirpath):
             filename = abspath(dirpath, project)
@@ -49,7 +50,7 @@ class Checker():
 
         values = []
         for name, filename in loaded:
-            print(f'Check: {name}')
+            print(f'\tFile: {name}.json')
             values.append(self.json_validate(filename))
 
         return values
@@ -306,9 +307,63 @@ class CompaniesChecker(Checker):
         )
 
 
+class CommunitiesChecker(Checker):
+    ALLOWED_TYPE = [
+        'Blog',
+        'Channel',
+        'Newsletter',
+    ]
+
+    ALLOWED_PLATFORM = [
+        'Telegram',
+        'Discord',
+        'Slack',
+        'Reddit',
+        'Website',
+        'Email',
+    ]
+
+    def __init__(self) -> None:
+        super().__init__()
+
+    def define_jsonschema(self):
+        return fastjsonschema.compile(
+            definition={
+                '$schema': 'https://json-schema.org/draft/2019-09/schema',
+                'type': 'object',
+                'properties': {
+                    'name': {'type': 'string'},
+                    'url': {'type': 'string', 'format': 'uri'},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'type': {'type': 'string', 'enum': self.ALLOWED_TYPE},
+                    'platform': {'type': 'string', 'enum': self.ALLOWED_PLATFORM},
+                    'tags': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'maxItems': 20,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'maxLength': 24
+                        }
+                    }
+                },
+                'required': [
+                    'name',
+                    'url',
+                    'type',
+                    'platform',
+                    'tags',
+                ],
+                'additionalProperties': False
+            }
+        )
+
+
 def main():
     OpensourceChecker().validate(abspath(BASEDIR, 'awesome', 'opensource', 'data'))
     CompaniesChecker().validate(abspath(BASEDIR, 'awesome', 'companies', 'data'))
+    CommunitiesChecker().validate(abspath(BASEDIR, 'awesome', 'communities', 'data'))
 
 
 if __name__ == '__main__':

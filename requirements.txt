@@ -3,4 +3,4 @@ click>=8.*
 fastjsonschema>=2.*
 geopandas
 geopy
-snakemd>=0.*
+snakemd==2.1.0

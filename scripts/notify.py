@@ -14,7 +14,8 @@ BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
 
 TYPE = {
     'opensource': 'OpensourceItem',
-    'companies': 'CompanyItem'
+    'companies': 'CompanyItem',
+    'communities': 'CommunityItem',
 }
 
 
@@ -89,6 +90,8 @@ def main(massive, changed_files):
                            f'opensource/data/{i}' for i in os.listdir('awesome/opensource/data')])
         changed_files_send(changed='added', files=[
                            f'companies/data/{i}' for i in os.listdir('awesome/companies/data')])
+        changed_files_send(changed='added', files=[
+                           f'communities/data/{i}' for i in os.listdir('awesome/communities/data')])
         return
 
     changed_files = json.loads(changed_files)
