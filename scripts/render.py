@@ -30,7 +30,7 @@ def json_validate(filename: str):
 def check(loaded: list):
     values = []
     for name, filename in loaded:
-        print(f'Check: {name}')
+        print(f'\tFile: {name}')
         values.append(json_validate(filename))
 
     return values
@@ -121,7 +121,7 @@ class CompaniesReadme(Readme):
         self.component_website(path='companies')
 
         self.doc.add_heading('List', level=4)
-        table_content_project = []
+        table_content = []
         companies_name = []
 
         for item in data:
@@ -133,7 +133,7 @@ class CompaniesReadme(Readme):
             if len(description) > 59:
                 description = description[0:60] + ' [..]'
 
-            table_content_project.append([
+            table_content.append([
                 Inline(name, link=item.get('site_url')),
                 item.get('type'),
                 item.get('market'),
@@ -145,7 +145,7 @@ class CompaniesReadme(Readme):
 
         self.doc.add_table(
             ['Name', 'Type', 'Market', 'Tags', 'Description'],
-            table_content_project
+            table_content
         )
 
 
@@ -191,7 +191,7 @@ class OpensourceReadme(Readme):
         self.component_website(path='opensource')
 
         self.doc.add_heading('List', level=4)
-        table_content_project = []
+        table_content = []
 
         repositories_url = []
 
@@ -210,7 +210,7 @@ class OpensourceReadme(Readme):
             if len(description) > 59:
                 description = description[0:60] + ' [..]'
 
-            table_content_project.append([
+            table_content.append([
                 Inline(name, link=item.get('site_url')),
                 Inline(repository, link=repository_url),
                 tags,
@@ -220,7 +220,7 @@ class OpensourceReadme(Readme):
 
         self.doc.add_table(
             ['Name', 'Repository', 'Stack', 'Description'],
-            table_content_project
+            table_content
         )
 
 
@@ -246,6 +246,33 @@ class CommunitiesReadme(Readme):
 
         self.doc.add_heading('List', level=4)
 
+        table_content = []
+        communities_name = []
+
+        for item in data:
+            name = item.get('name')
+            if name in communities_name:
+                raise Exception(f'Community {name} already exist')
+
+            description = item.get('description', '')
+            if len(description) > 59:
+                description = description[0:60] + ' [..]'
+
+            table_content.append([
+                Inline(name, link=item.get('url')),
+                item.get('type'),
+                item.get('platform'),
+                ', '.join(item['tags']),
+                description
+            ])
+
+            communities_name.append(name)
+
+        self.doc.add_table(
+            ['Name', 'Type', 'Platform', 'Tags', 'Description'],
+            table_content
+        )
+
 
 def render(type: str):
     if type not in AWESOME_TYPE:
@@ -269,6 +296,9 @@ def render(type: str):
         loaded.append(item)
 
     loaded = sorted(loaded, key=lambda tup: tup[0])
+
+    print(f'{type.title()} ({len(loaded)} files)')
+
     return check(loaded)
 
 
