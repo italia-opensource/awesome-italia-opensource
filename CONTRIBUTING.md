@@ -7,7 +7,7 @@ Please read [the full text](https://github.com/italia-opensource/awesome-italia-
 ### Join our Community
 
 We have
-- [Discord](https://discord.gg/CsPwpqTGDK)
+- [Telegram](https://t.me/italiaopensource)
 
 ## Issues
 

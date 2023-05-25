@@ -1,6 +1,6 @@
 # Italia Opensource
 
-<img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+![Last Commit](https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main)
 
 Italy Opensource is a project whose purpose is to give transparency to the Italian tech ecosystem.
 
@@ -11,6 +11,7 @@ In a transparent way, you can access, add or modify the data in the repository, 
 #### Website
 
 [italiaopensource.com](https://italiaopensource.com)
+
 
 #### List
 
@@ -33,6 +34,11 @@ Mantained by:
 <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
 
 ---
+
+## Join with us
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/italiaopensource)
 
 ### License
 
