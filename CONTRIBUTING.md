@@ -39,11 +39,11 @@ Setup env:
 
 ### How To Contribute with PRs
 
-The new project must be added to the `awesome/{companies or opensource}/data` folder using a dedicated file in `kebab-case.json` format.
+The new project must be added to the `awesome/{companies,opensource,communities}/data` folder using a dedicated file in `kebab-case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
 Projects entered must be maintained and have guidelines and/or documentation for use
 
-1. Open `awesome/{companies or opensource}/data` directory
+1. Open `awesome/{companies,opensource,communities}/data` directory
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
 3. File content should respect the following format:
 
