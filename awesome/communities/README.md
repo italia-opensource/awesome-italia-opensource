@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-1-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-5-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -20,9 +20,13 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### List
 
-| Name                                                | Type    | Platform | Tags                         | Description                                                       |
-| --------------------------------------------------- | ------- | -------- | ---------------------------- | ----------------------------------------------------------------- |
-| [Latina In Tech](https://latina-in-tech.github.io/) | Channel | Telegram | dev, talks, networking, tech | Free events to foster knowledge sharing and professional gro [..] |
+| Name                                                         | Type    | Platform | Tags                               | Description                                                       |
+| ------------------------------------------------------------ | ------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
+| [Codemotion](https://www.codemotion.com/)                    | Event   | Location | dev, talks, networking, tech       | We are the leading platform that supports tech professionals [..] |
+| [Latina In Tech](https://latina-in-tech.github.io/)          | Channel | Telegram | dev, talks, networking, tech       | Free events to foster knowledge sharing and professional gro [..] |
+| [Open Source Community](https://t.me/ptkdev_support_italian) | Channel | Telegram | developers, networking, tech, meme | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
+| [Schrödinger Hat](https://discord.com/invite/RTXr8A3eFn)     | Channel | Discord  | developers, networking, tech       |                                                                   |
+| [Tech Workers Coalition Italia](https://twc-italia.org/)     | Channel | Telegram | developers, tech, networking       | Senza di noi l'industria della tecnologia non esisterebbe, n [..] |
 
 ### Contributors
 
