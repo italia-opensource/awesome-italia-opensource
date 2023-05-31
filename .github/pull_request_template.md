@@ -5,8 +5,9 @@
 
 **If this is an added new project**
 
-- [ ] I created the "company-name.json" file in the /data folder and complied with the required fields
-- [ ] I created the "project-name.json" file in the /data folder and complied with the required fields
+- [ ] I created the "company-name.json" file in the awsome/companies/data folder and complied with the required fields
+- [ ] I created the "project-name.json" file in the awsome/opensource/data folder and complied with the required fields
+- [ ] I created the "communities-name.json" file in the awsome/communities/data folder and complied with the required fields
 - [ ] The project you entered is still maintained and includes guidelines for use
 
 **If this is related to an issue/PR**
