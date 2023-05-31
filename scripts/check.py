@@ -313,6 +313,7 @@ class CommunitiesChecker(Checker):
         'Channel',
         'Newsletter',
         'Event',
+        'Podcast',
     ]
 
     ALLOWED_PLATFORM = [
@@ -322,6 +323,20 @@ class CommunitiesChecker(Checker):
         'Reddit',
         'Website',
         'Email',
+        'Location',
+        'Youtube',
+        'Twitch',
+        'Other',
+    ]
+
+    ALLOWED_EVENTS_TYPE = [
+        'Meetup',
+        'Webinar',
+        'Conference',
+        'Workshop',
+        'Hackathon',
+        'Chat',
+        'Other',
     ]
 
     def __init__(self) -> None:
@@ -347,7 +362,16 @@ class CommunitiesChecker(Checker):
                             'type': 'string',
                             'maxLength': 24
                         }
-                    }
+                    },
+                    'events_type': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'enum': self.ALLOWED_EVENTS_TYPE
+                        }
+                    },
                 },
                 'required': [
                     'name',
@@ -355,6 +379,7 @@ class CommunitiesChecker(Checker):
                     'type',
                     'platform',
                     'tags',
+                    'events_type'
                 ],
                 'additionalProperties': False
             }

@@ -1,0 +1,14 @@
+{
+    "name": "Tech Workers Coalition Italia",
+    "url": "https://twc-italia.org/",
+    "type": "Channel",
+    "platform": "Telegram",
+    "description": "Senza di noi l'industria della tecnologia non esisterebbe, né in Italia né nel resto del mondo. Tech Workers Coalition esiste per darci voce, diritti e forza.",
+    "tags": [
+      "developers", "tech", "networking"
+    ],
+    "events_type": [
+      "Meetup",
+      "Chat"
+    ]
+  }
