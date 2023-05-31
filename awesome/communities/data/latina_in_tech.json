@@ -1,10 +1,14 @@
 {
-    "name": "Latina In Tech",
-    "url": "https://latina-in-tech.github.io/",
-    "type": "Channel",
-    "platform": "Telegram",
-    "description": "Free events to foster knowledge sharing and professional growth.",
-    "tags": [
-      "dev", "talks", "networking", "tech"
-    ]
-  }
+  "name": "Latina In Tech",
+  "url": "https://latina-in-tech.github.io/",
+  "type": "Channel",
+  "platform": "Telegram",
+  "description": "Free events to foster knowledge sharing and professional growth.",
+  "tags": [
+    "dev", "talks", "networking", "tech"
+  ],
+  "events_type": [
+    "Meetup",
+    "Workshop"
+  ]
+}

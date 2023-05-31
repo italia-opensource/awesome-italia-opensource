@@ -1,0 +1,12 @@
+{
+    "name": "Schrödinger Hat",
+    "url": "https://discord.com/invite/RTXr8A3eFn",
+    "type": "Channel",
+    "platform": "Discord",
+    "tags": [
+      "developers", "networking", "tech"
+    ],
+    "events_type": [
+      "Chat"
+    ]
+  }
