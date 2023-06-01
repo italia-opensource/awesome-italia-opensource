@@ -1,0 +1,10 @@
+{
+    "name": "Platformatic",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/platformatic/platformatic",
+    "site_url": "https://oss.platformatic.dev/",
+    "type": "tool",
+    "license": "Apache-2.0",
+    "description": "Platformatic open-source tools simplify building and running Node.js applications, with best practices baked in.",
+    "tags": ["javscript", "node.js", "applications", "rest api"]
+}
