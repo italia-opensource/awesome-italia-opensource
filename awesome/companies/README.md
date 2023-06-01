@@ -1,6 +1,6 @@
 # Awesome Companies | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-32-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-33-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Companies is a list of italian startups, scale-up and companies that innovate.
 
@@ -46,6 +46,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Satispay](https://www.satispay.com/)       | B2C  | Fintech    | e-commerce, payments                                                     | Semplificare i pagamenti per migliorare la vita delle person [..] |
 | [Scalapay](https://www.scalapay.com/)       | B2C  | Fintech    | e-commerce, payments                                                     | Scalapay è un innovativo metodo di pagamento che ti permette [..] |
 | [Scuter](https://www.scuter.co)             | D2C  | Automotive | sharing, mobility                                                        | Scuter is a Mobility as a Service (MaaS) solution that can s [..] |
+| [Sfuso Italia](https://www.sfusitalia.it)   | D2C  | Food       | green economy, rycle, sustainability, zero waste                         | Sfusitalia vuole ampliare, potenziare e digitalizzare il mer [..] |
 | [Spartantech](https://www.spartantech.it/)  | B2B  | Service    | blockchain                                                               | Rendere tecnologie di frontiera accessibili, attraverso appl [..] |
 | [Tiledesk](https://tiledesk.com)            | B2B  | Software   | nodejs, angular, mqtt                                                    | Open Source Live Chat with adaptive multichannel Chatbots de [..] |
 | [Tirasa](https://www.tirasa.net/)           | B2B  | Software   | identity, sso, provisioning                                              | Build, maintain and deploy a whole stack of Open Source Iden [..] |
