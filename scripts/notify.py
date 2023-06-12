@@ -67,24 +67,27 @@ def changed_files_send(changed: str, files: dict):
     for file in files:
         filepath = abspath(BASEDIR, 'awesome', file).strip()
 
-        if os.path.isfile(filepath):
-            filename = os.path.basename(filepath)
-            type_key = os.path.dirname(filepath).split('/')[-2]
-            type = TYPE[type_key]
+        if not os.path.isfile(filepath):
+            raise FileNotFoundError(filepath)
 
-            notify(
-                changed=changed,
-                type=type,
-                filename=filename,
-                data=json_validate(filepath)
-            )
-            time.sleep(5)
+        filename = os.path.basename(filepath)
+        type_key = os.path.dirname(filepath).split('/')[-2]
+        type = TYPE[type_key]
+
+        notify(
+            changed=changed,
+            type=type,
+            filename=filename,
+            data=json_validate(filepath)
+        )
+        time.sleep(5)
 
 
 @click.command()
 @click.option('--massive', default=False, is_flag=True, help='Massive load')
 @click.option('--changed-files', default='{}', help='JSON of tj-actions/changed-files action output')
-def main(massive, changed_files):
+@click.option('--manual-filepath', default=None, type=str, help='filepath of awesome/*/data/*.json')
+def main(massive, changed_files, manual_filepath):
     if massive:
         changed_files_send(changed='added', files=[
                            f'opensource/data/{i}' for i in os.listdir('awesome/opensource/data')])
@@ -94,20 +97,28 @@ def main(massive, changed_files):
                            f'communities/data/{i}' for i in os.listdir('awesome/communities/data')])
         return
 
+    if os.path.isfile(manual_filepath):
+        changed_files_send(changed='added', files=[
+                           manual_filepath.replace('awesome/', '')])
+        print(f'Manual: {manual_filepath}')
+
     changed_files = json.loads(changed_files)
     print(f'Changed files raw data: \n{changed_files}')
 
-    added_files = changed_files.get('added_files', '').split('awesome/')
-    changed_files_send(changed='added', files=added_files)
-    print(f'Added: \n{added_files}')
+    if added_files := changed_files.get('added_files', ''):
+        changed_files_send(
+            changed='added', files=added_files.split('awesome/'))
+        print(f'Added: \n{added_files}')
 
-    deleted_files = changed_files.get('deleted_files', '').split('awesome/')
-    changed_files_send(changed='deleted', files=deleted_files)
-    print(f'Deleted: \n{deleted_files}')
+    if deleted_files := changed_files.get('deleted_files', ''):
+        changed_files_send(changed='deleted',
+                           files=deleted_files.split('awesome/'))
+        print(f'Deleted: \n{deleted_files}')
 
-    modified_files = changed_files.get('modified_files', '').split('awesome/')
-    changed_files_send(changed='modified', files=modified_files)
-    print(f'Modified: \n{modified_files}')
+    if modified_files := changed_files.get('modified_files', ''):
+        changed_files_send(changed='modified',
+                           files=modified_files.split('awesome/'))
+        print(f'Modified: \n{modified_files}')
 
 
 if __name__ == '__main__':
