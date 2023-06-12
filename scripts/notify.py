@@ -67,26 +67,24 @@ def changed_files_send(changed: str, files: dict):
     for file in files:
         filepath = abspath(BASEDIR, 'awesome', file).strip()
 
-        if not os.path.isfile(filepath):
-            raise FileNotFoundError(filepath)
+        if os.path.isfile(filepath):
+            filename = os.path.basename(filepath)
+            type_key = os.path.dirname(filepath).split('/')[-2]
+            type = TYPE[type_key]
 
-        filename = os.path.basename(filepath)
-        type_key = os.path.dirname(filepath).split('/')[-2]
-        type = TYPE[type_key]
-
-        notify(
-            changed=changed,
-            type=type,
-            filename=filename,
-            data=json_validate(filepath)
-        )
-        time.sleep(5)
+            notify(
+                changed=changed,
+                type=type,
+                filename=filename,
+                data=json_validate(filepath)
+            )
+            time.sleep(5)
 
 
 @click.command()
 @click.option('--massive', default=False, is_flag=True, help='Massive load')
 @click.option('--changed-files', default='{}', help='JSON of tj-actions/changed-files action output')
-@click.option('--manual-filepath', default=None, type=str, help='filepath of awesome/*/data/*.json')
+@click.option('--manual-filepath', default='', type=str, help='filepath of awesome/*/data/*.json')
 def main(massive, changed_files, manual_filepath):
     if massive:
         changed_files_send(changed='added', files=[
