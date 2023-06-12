@@ -1,7 +1,7 @@
 {
     "name": "Opencity Italia",
     "repository_platform": "gitlab",
-    "repository_url": "https://gitlab.com/opencontent/stanza-del-cittadino",
+    "repository_url": "https://gitlab.com/opencontent/stanza-del-cittadino/core",
     "site_url": "https://opencityitalia.it/",
     "type": "saas",
     "license": "AGPL-3.0",
