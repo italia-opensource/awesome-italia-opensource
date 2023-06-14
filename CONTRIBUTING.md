@@ -103,6 +103,10 @@ Projects entered must be maintained and have guidelines and/or documentation for
   "description": "lorem ipsum", // no required
   "tags": [
     "tech", "aws"
+  ],
+  "events_type": [
+    "Meetup",
+    "Hackathon"
   ]
 }
 ```
@@ -120,6 +124,15 @@ Projects entered must be maintained and have guidelines and/or documentation for
   - Reddit
   - Website
   - Email
+
+- *Allowed Events Type of communities*
+  - Meetup
+  - Webinar
+  - Conference
+  - Workshop
+  - Hackathon
+  - Chat
+  - Other
 
 ### awesome/opensource rules
 
