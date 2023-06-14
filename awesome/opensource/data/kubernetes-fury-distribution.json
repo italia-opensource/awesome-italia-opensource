@@ -1,0 +1,12 @@
+{
+    "name": "Kubernetes Fury Distribution",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/sighupio/fury-distribution",
+    "site_url": "https://docs.kubernetesfury.com/",
+    "type": "paas",
+    "description": "A CNCF certified battle-tested Kubernetes distribution",
+    "license": "BSD-3-Clause",
+    "tags": [
+      "kubernetes", "K8s", "cncf", "kubernetes-distribution", "fury", "fury-distribution"
+    ]
+  }
