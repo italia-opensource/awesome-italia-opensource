@@ -4,3 +4,7 @@ if [ "${BASH_SOURCE-}" = "$0" ]; then
 fi
 
 source .venv/bin/activate
+
+if [[ -f .env ]]; then
+    source .env
+fi
