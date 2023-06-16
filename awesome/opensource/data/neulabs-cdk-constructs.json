@@ -1,0 +1,12 @@
+{
+  "name": "Neulabs CDK Constructs",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/neulabscom/neulabs-cdk-constructs",
+  "site_url": "https://constructs.dev/packages/neulabs-cdk-constructs",
+  "type": "package",
+  "description": "The neulabs-cdk-constructs library contains CDK-based constructs and stacks to allow the creation of cloud infrastructure on AWS.",
+  "license": "Apache-2.0",
+  "tags": [
+    "cdk", "typescript", "jsii", "aws", "constructs", "stack", "cloudformation", "npm package"
+  ]
+}

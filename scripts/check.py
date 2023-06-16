@@ -300,6 +300,16 @@ class CompaniesChecker(Checker):
                         'type': 'string',
                         'pattern': '^[2][0-0][1-2][0-9]$'
                     },
+                    'tech_stack': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'maxItems': 20,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'maxLength': 24
+                        }
+                    },
                     'tags': {
                         'type': 'array',
                         'minItems': 1,
