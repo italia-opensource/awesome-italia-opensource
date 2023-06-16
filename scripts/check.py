@@ -241,6 +241,7 @@ class CompaniesChecker(Checker):
         'B2C',
         'C2C',
         'D2C',
+        'Nonprofit',
         'Other',
     ]
 
@@ -254,12 +255,27 @@ class CompaniesChecker(Checker):
         'Fintech',
         'Energy',
         'AI',
+        'Recruiting',
+        'Blockchain',
         'Biotech',
         'Ecommerce',
         'Software',
         'Hardware',
         'Service',
         'Insurance',
+        'Entertainment',
+        'Education',
+        'Retail',
+        'Transport',
+        'Security',
+        'Agriculture',
+        'Manufacturing',
+        'Banking',
+        'Gaming',
+        'Sports',
+        'Fashion',
+        'Environment',
+        'Building',
         'Other',
         # TODO: in progress (crete issues if missing your market)
     ]
@@ -336,6 +352,9 @@ class CommunitiesChecker(Checker):
         'Workshop',
         'Hackathon',
         'Chat',
+        'Article',
+        'Video',
+        'Audio',
         'Other',
     ]
 
