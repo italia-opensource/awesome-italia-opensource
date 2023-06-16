@@ -1,0 +1,10 @@
+{
+    "name": "Data Pizza",
+    "site_url": "https://datapizza.tech/",
+    "type": "B2C",
+    "description": "Datapizza.tech permette ai Profili Tech di trovare gratuitamente materiali di formazione, progetti e opportunità lavorative.",
+    "tags": [
+      "ai", "data science", "machine learning", "deep learning", "big data", "data engineering", "data analysis"
+    ],
+    "market": "Recruiting"
+  }

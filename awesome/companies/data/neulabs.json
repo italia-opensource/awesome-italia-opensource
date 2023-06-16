@@ -9,5 +9,8 @@
         "ecommerce", "aws"
     ],
     "foundation_year": "2021",
-    "address": "Via Borromei, 6 20123 Milano"
+    "address": "Via Borromei, 6 20123 Milano",
+    "tech_stack": [
+        "AWS", "Node.js", "Typescript", "Docker", "Serverless", "Vercel", "Python", "Microservices", "Big Query"
+    ]
 }

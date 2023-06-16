@@ -1,0 +1,14 @@
+{
+    "name": "Startup Italia",
+    "url": "https://www.startupitalia.com/",
+    "type": "Blog",
+    "platform": "Website",
+    "description": "Il più grande network italiano di eventi dedicati all'innovazione con visibilità e partecipazione internazionale; un hub digitale con dati da startup, aziende innovative, investitori e professionisti",
+    "tags": [
+      "startup", "startup ecosystem", "tech news", "investors", "funding", "venture capital", "innovation", "innovation ecosystem", "innovation events"
+    ],
+    "events_type": [
+      "Article",
+      "Conference"
+    ]
+  }

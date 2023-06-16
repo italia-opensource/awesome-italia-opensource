@@ -241,6 +241,7 @@ class CompaniesChecker(Checker):
         'B2C',
         'C2C',
         'D2C',
+        'Nonprofit',
         'Other',
     ]
 
@@ -254,12 +255,27 @@ class CompaniesChecker(Checker):
         'Fintech',
         'Energy',
         'AI',
+        'Recruiting',
+        'Blockchain',
         'Biotech',
         'Ecommerce',
         'Software',
         'Hardware',
         'Service',
         'Insurance',
+        'Entertainment',
+        'Education',
+        'Retail',
+        'Transport',
+        'Security',
+        'Agriculture',
+        'Manufacturing',
+        'Banking',
+        'Gaming',
+        'Sports',
+        'Fashion',
+        'Environment',
+        'Building',
         'Other',
         # TODO: in progress (crete issues if missing your market)
     ]
@@ -283,6 +299,16 @@ class CompaniesChecker(Checker):
                     'foundation_year': {
                         'type': 'string',
                         'pattern': '^[2][0-0][1-2][0-9]$'
+                    },
+                    'tech_stack': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'maxItems': 20,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'maxLength': 24
+                        }
                     },
                     'tags': {
                         'type': 'array',
@@ -336,6 +362,9 @@ class CommunitiesChecker(Checker):
         'Workshop',
         'Hackathon',
         'Chat',
+        'Article',
+        'Video',
+        'Audio',
         'Other',
     ]
 
