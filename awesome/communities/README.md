@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-7-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-9-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -20,15 +20,17 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### List
 
-| Name                                                         | Type    | Platform | Tags                                       | Description                                                       |
-| ------------------------------------------------------------ | ------- | -------- | ------------------------------------------ | ----------------------------------------------------------------- |
-| [Codemotion](https://www.codemotion.com/)                    | Event   | Location | dev, talks, networking, tech               | We are the leading platform that supports tech professionals [..] |
-| [Latina In Tech](https://latina-in-tech.github.io/)          | Channel | Telegram | dev, talks, networking, tech               | Free events to foster knowledge sharing and professional gro [..] |
-| [MUG Marca User Group](https://marcausergroup.it)            | Channel | Slack    | dev, talks, networking, tech               | MUG is a user group localed around Treviso (Veneto region) u [..] |
-| [Open Source Community](https://t.me/ptkdev_support_italian) | Channel | Telegram | developers, networking, tech, meme         | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
-| [Ripsters](https://discord.com/invite/fbQXQ3zqce)            | Channel | Discord  | tech, career, community, networking        |                                                                   |
-| [Schrödinger Hat](https://discord.com/invite/RTXr8A3eFn)     | Channel | Discord  | developers, networking, tech               |                                                                   |
-| [Tech Workers Coalition Italia](https://twc-italia.org/)     | Channel | Telegram | developers, tech, networking, career, jobs | Senza di noi l'industria della tecnologia non esisterebbe, n [..] |
+| Name                                                         | Type    | Platform | Tags                                                                                                                            | Description                                                       |
+| ------------------------------------------------------------ | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Codemotion](https://www.codemotion.com/)                    | Event   | Location | dev, talks, networking, tech                                                                                                    | We are the leading platform that supports tech professionals [..] |
+| [Latina In Tech](https://latina-in-tech.github.io/)          | Channel | Telegram | dev, talks, networking, tech                                                                                                    | Free events to foster knowledge sharing and professional gro [..] |
+| [MUG Marca User Group](https://marcausergroup.it)            | Channel | Slack    | dev, talks, networking, tech                                                                                                    | MUG is a user group localed around Treviso (Veneto region) u [..] |
+| [Open Source Community](https://t.me/ptkdev_support_italian) | Channel | Telegram | developers, networking, tech, meme                                                                                              | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
+| [Red Hot Cyber](https://www.redhotcyber.com/)                | Blog    | Website  | cyber, security, tech, cybercrime, hack news                                                                                    | Red Hot Cyber è una rivista online che tratta temi di tecnol [..] |
+| [Ripsters](https://discord.com/invite/fbQXQ3zqce)            | Channel | Discord  | tech, career, community, networking                                                                                             |                                                                   |
+| [Schrödinger Hat](https://discord.com/invite/RTXr8A3eFn)     | Channel | Discord  | developers, networking, tech                                                                                                    |                                                                   |
+| [Startup Italia](https://www.startupitalia.com/)             | Blog    | Website  | startup, startup ecosystem, tech news, investors, funding, venture capital, innovation, innovation ecosystem, innovation events | Il più grande network italiano di eventi dedicati all'innova [..] |
+| [Tech Workers Coalition Italia](https://twc-italia.org/)     | Channel | Telegram | developers, tech, networking, career, jobs                                                                                      | Senza di noi l'industria della tecnologia non esisterebbe, n [..] |
 
 ### Contributors
 
