@@ -26,9 +26,11 @@ In a transparent way, you can access, add or modify the data in the repository, 
 
 Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
 
-Mantained by:
+### Maintained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
 
-- **[Fabrizio Cafolla](https://github.com/FabrizioCafolla)** <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
+<a href="https://opencollective.com/italia-open-source/donate" target="_blank">
+  <img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 />
+</a>
 
 ---
 <a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
