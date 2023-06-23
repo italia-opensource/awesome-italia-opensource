@@ -1,6 +1,6 @@
 # Awesome Companies | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-37-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-38-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Companies is a list of italian startups, scale-up and companies that innovate.
 
@@ -43,6 +43,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Musement](https://www.musement.com/it/)     | D2C  | Service     | culture                                                                                      | Musement aiuta i viaggiatori a rendere indimenticabili i lor [..] |
 | [Musixmatch](https://www.musixmatch.com/it)  | B2C  | Service     | ai, music                                                                                    | Our mission is to provide data, tools and services that allo [..] |
 | [Neulabs](https://neulabs.com)               | D2C  | Service     | ecommerce, aws                                                                               | Born to identify and build the entrepreneurial successes of [..]  |
+| [Noovolari](https://www.noovolari.com/)      | B2B  | Software    | was, azure, cybersecurity                                                                    | Leapp's creators. Dev-first approach to Cloud Operations.         |
 | [Nuvolaris](https://nuvolaris.io/)           | C2C  | Software    | cloud-native, serverless                                                                     | Helps software developers and companies deliver business val [..] |
 | [Opencity Labs](https://opencitylabs.it)     | B2B  | Software    | symfony, fastapi, kafka, golang, event-sourcing                                              | The company behind OpencityItalia, the platform to create cl [..] |
 | [Orangefiber](https://orangefiber.it/)       | B2B  | Food        | sustainable                                                                                  | We create sustainable and innovative materials for fashion s [..] |
