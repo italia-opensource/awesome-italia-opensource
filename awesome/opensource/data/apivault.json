@@ -1,0 +1,19 @@
+{
+   "name": "Apivault",
+   "repository_platform": "github",
+   "repository_url": "https://github.com/Exifly/ApiVault",
+   "site_url": "https://apivault.dev/",
+   "type": "app",
+   "description": "Your gateway to a world of public APIs",
+   "license": "MIT",
+   "tags": [
+      "python",
+      "javascript",
+      "django",
+      "api",
+      "apis",
+      "free",
+      "data",
+      "nuxt.js"
+   ]
+}
