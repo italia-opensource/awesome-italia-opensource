@@ -1,0 +1,13 @@
+{
+    "name": "Kubernetes It",
+    "url": "https://t.me/kubernetes_it",
+    "type": "Channel",
+    "platform": "Telegram",
+    "description": "Gruppo di utilizzatori, veterani e newbie su Kubernetes: parliamo anche di Cloud Native, Container, sviluppo e Systems Engineering!",
+    "tags": [
+      "developers", "tech", "kubernetes", "sys", "cloud"
+    ],
+    "events_type": [
+      "Chat"
+    ]
+  }
