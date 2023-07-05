@@ -1,0 +1,14 @@
+{
+    "name": "Developers Italia",
+    "url": "https://developers.italia.it/",
+    "type": "Blog",
+    "platform": "Website",
+    "description": "Il punto di riferimento per il software della Pubblica Amministrazione.",
+    "tags": [
+      "dev", "pubblica amministrazione", "open-source"
+    ],
+    "events_type": [
+      "Article",
+      "Chat"
+    ]
+  }
