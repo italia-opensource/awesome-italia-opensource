@@ -1,0 +1,12 @@
+{
+  "name": "Galactic CV Guide",
+  "repository_platform": "github",
+  "site_url": "https://guidopenta.github.io/galactic-CV-guide/",
+  "repository_url": "https://github.com/GuidoPenta/galactic-CV-guide",
+  "type": "learning",
+  "description": "Tips & Tricks to write a great CV",
+  "license": "MPL-2.0",
+  "tags": [
+    "guide", "cv", "work", "career", "personal branding"
+  ]
+}
