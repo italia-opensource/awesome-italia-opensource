@@ -356,6 +356,7 @@ class CommunitiesChecker(Checker):
     ]
 
     ALLOWED_EVENTS_TYPE = [
+        'Talk',
         'Meetup',
         'Webinar',
         'Conference',
