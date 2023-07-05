@@ -1,0 +1,12 @@
+{
+  "name": "Galactic Linkedin Profile Guide",
+  "repository_platform": "github",
+  "site_url": "https://guidopenta.github.io/galactic-linkedin-profile-guide/",
+  "repository_url": "https://github.com/GuidoPenta/galactic-linkedin-profile-guide",
+  "type": "learning",
+  "description": "Tips & Trick for a great Linkedin profile",
+  "license": "MPL-2.0",
+  "tags": [
+    "guide", "linkedin", "work", "career", "personal branding"
+  ]
+}
