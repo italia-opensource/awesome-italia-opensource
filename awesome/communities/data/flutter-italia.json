@@ -1,0 +1,14 @@
+{
+    "name": "Flutter Italia Developers",
+    "url": "https://t.me/flutteritdevs",
+    "type": "Channel",
+    "platform": "Telegram",
+    "tags": [
+      "dev", "flutter", "apps", "android", "ios", "mobile"
+    ],
+    "events_type": [
+      "Meetup",
+      "Conference",
+      "Chat"
+    ]
+  }
