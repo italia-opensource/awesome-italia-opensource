@@ -1,6 +1,6 @@
 # Awesome Companies | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-38-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-39-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Companies is a list of italian startups, scale-up and companies that innovate.
 
@@ -48,6 +48,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Opencity Labs](https://opencitylabs.it)     | B2B  | Software    | symfony, fastapi, kafka, golang, event-sourcing                                              | The company behind OpencityItalia, the platform to create cl [..] |
 | [Orangefiber](https://orangefiber.it/)       | B2B  | Food        | sustainable                                                                                  | We create sustainable and innovative materials for fashion s [..] |
 | [Prima](https://prima.it)                    | B2C  | Insurance   | assicurazioni, polizze                                                                       | Prima è un'agenzia assicurativa specializzata nella vendita [..]  |
+| [Pronto Pro](https://www.prontopro.it/)      | D2C  | Service     | startup, search, professionist                                                               | ProntoPro ti aiuta a trovare professionisti del mondo dei se [..] |
 | [Satispay](https://www.satispay.com/)        | B2C  | Fintech     | e-commerce, payments                                                                         | Semplificare i pagamenti per migliorare la vita delle person [..] |
 | [Scalapay](https://www.scalapay.com/)        | B2C  | Fintech     | e-commerce, payments                                                                         | Scalapay è un innovativo metodo di pagamento che ti permette [..] |
 | [Scuter](https://www.scuter.co)              | D2C  | Automotive  | sharing, mobility                                                                            | Scuter is a Mobility as a Service (MaaS) solution that can s [..] |
