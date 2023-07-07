@@ -1,6 +1,6 @@
 # Awesome Companies | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-40-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-41-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Companies is a list of italian startups, scale-up and companies that innovate.
 
@@ -28,6 +28,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Bending Spoons](https://bendingspoons.com/) | B2B  | Service     | app store, app ios, app android, app development                                             | At Bending Spoons, we create our own cutting-edge technologi [..] |
 | [Biorfarm](https://www.biorfarm.com/)        | B2C  | Food        | sustainable, sharing                                                                         | Adotta i tuoi alberi e diventa Agricoltore Digitale. Ricever [..] |
 | [Casavo](https://casavo.com/)                | B2C  | Housing     | house                                                                                        | Vendere o comprare casa non è così semplice. Per questo nasc [..] |
+| [Cloud Finance](https://www.cloudfinance.it) | B2B  | Fintech     | service, startup, reports                                                                    | Piattaforma di cloud computing, mette a disposizione di prof [..] |
 | [Data Pizza](https://datapizza.tech/)        | B2C  | Recruiting  | ai, data science, machine learning, deep learning, big data, data engineering, data analysis | Datapizza.tech permette ai Profili Tech di trovare gratuitam [..] |
 | [Dorbit](https://www.dorbit.space/)          | B2B  | Aeropsace   | space logistics                                                                              | We offer solutions based on proprietary technologies that en [..] |
 | [Enel X](https://www.enelx.com/)             | B2C  | Energy      | energy supply, sustainable                                                                   | We are leading the energy transformation, making life smarte [..] |
