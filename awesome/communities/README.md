@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Opensource
 
-<img src='https://img.shields.io/badge/list-14-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-15-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -24,6 +24,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | ------------------------------------------------------------------ | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Codemotion](https://www.codemotion.com/)                          | Event   | Location | dev, talks, networking, tech                                                                                                    | We are the leading platform that supports tech professionals [..] |
 | [Developers Italia](https://developers.italia.it/)                 | Blog    | Website  | dev, pubblica amministrazione, open-source                                                                                      | Il punto di riferimento per il software della Pubblica Ammin [..] |
+| [DevMarche](https://t.me/+j-h3ljrMZV8zZmVk)                        | Channel | Telegram | dev, talks, networking, tech                                                                                                    | La Community tech delle Marche: eventi, conferenze e serate [..]  |
 | [Fabio Biondi](https://www.twitch.tv/fabio_biondi)                 | Channel | Twitch   | developers, live, tech, javscript                                                                                               | Durante le mie live: studio, sperimento, condivido il mio kn [..] |
 | [Flutter Italia Developers](https://t.me/flutteritdevs)            | Channel | Telegram | dev, flutter, apps, android, ios, mobile                                                                                        |                                                                   |
 | [Kubernetes It](https://t.me/kubernetes_it)                        | Channel | Telegram | developers, tech, kubernetes, sys, cloud                                                                                        | Gruppo di utilizzatori, veterani e newbie su Kubernetes: par [..] |
