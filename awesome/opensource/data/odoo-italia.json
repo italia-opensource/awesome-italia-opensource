@@ -1,0 +1,12 @@
+{
+  "name": "Associazione Odoo Italia",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/OCA/l10n-italy",
+  "site_url": "https://www.odoo-italia.org",
+  "type": "community",
+  "description": "Addons concerning Odoo Italian Localization.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "python", "odoo"
+  ]
+}
