@@ -188,7 +188,7 @@ class OpensourceReadme(Readme):
 
         self.doc.add_heading(self.name.title(), level=3)
 
-        self.component_website(path='opensource')
+        self.component_website(path='opensources')
 
         self.doc.add_heading('List', level=4)
         table_content = []
