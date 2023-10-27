@@ -5,7 +5,7 @@ import sys
 from snakemd import Document, Inline
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
-AWESOME_TYPE = ['opensource', 'companies', 'communities']
+AWESOME_TYPE = ['opensource', 'companies', 'communities', 'digital_nomads']
 
 
 def abspath(*args, os_path=True, separator='/'):
@@ -60,9 +60,10 @@ class Readme():
             'italiaopensource.com', f'https://italiaopensource.com/{path}')
 
     def component_maneiner(self):
-        self.doc.add_heading('Mantained by', level=3)
-        self.doc.add_paragraph("""- **[Fabrizio Cafolla](https://github.com/FabrizioCafolla)**
-        <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>""")
+        self.doc.add_heading(
+            'Mantained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)', level=3)
+        self.doc.add_paragraph(
+            """<a href="https://opencollective.com/italia-open-source/donate" target="_blank"><img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 /></a>""")
 
     def output(self):
         self.doc.dump('README', self.output_path)
@@ -274,6 +275,52 @@ class CommunitiesReadme(Readme):
         )
 
 
+class DigitalNomadsReadme(Readme):
+    def __init__(self, name, data, output_path) -> None:
+        super().__init__(name, data, output_path)
+
+    def header(self):
+        self.doc.add_paragraph(
+            f'Awesome Italia {self.name.title()} is a list of best places for remote working.')
+        self.doc.add_paragraph(
+            f'The repository intends to give visibility to {self.name} and stimulate the people to share and contribute to growing the remote working ecosystem.')
+        self.doc.add_paragraph(
+            'Please read the contribution guidelines before opening a pull request or contributing to this repository') \
+            .insert_link('contribution guidelines', f'{self.repository_url}/blob/main/CONTRIBUTING.md')
+
+        self.component_maneiner()
+
+    def content(self, data):
+        self.doc.add_heading(self.name.title(), level=3)
+
+        self.component_website(path='digital_nomads')
+
+        self.doc.add_heading('List', level=4)
+
+        table_content = []
+        digital_nomads_name = []
+
+        for item in data:
+            name = item.get('name')
+            if name in digital_nomads_name:
+                raise Exception(f'Place {name} already exist')
+
+            table_content.append([
+                name,
+                item.get('state').upper(),
+                ', '.join(item['how_to_move']),
+                ', '.join(item['required_documents']),
+                ', '.join(item['tags'])
+            ])
+
+            digital_nomads_name.append(name)
+
+        self.doc.add_table(
+            ['Name', 'State', 'How to move', 'Required Documents', 'Tags'],
+            table_content
+        )
+
+
 def render(type: str):
     if type not in AWESOME_TYPE:
         raise Exception(f'Error type "{type}" not in {AWESOME_TYPE}')
@@ -324,9 +371,17 @@ def main():
         builder.build()
         builder.output()
 
+    def digital_nomads():
+        data = render(type='digital_nomads')
+        builder = DigitalNomadsReadme('digital nomads', data, abspath(
+            BASEDIR, 'awesome', 'digital_nomads'))
+        builder.build()
+        builder.output()
+
     opensource()
     companies()
     communities()
+    digital_nomads()
 
 
 if __name__ == '__main__':

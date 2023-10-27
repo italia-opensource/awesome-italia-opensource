@@ -1,0 +1,25 @@
+{
+  "name": "2ami",
+  "state": "IT",
+  "required_documents": [
+    "Passport"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 20,
+  "description": "Two factor authenticator agent that keep the secrets secret.",
+  "tags": [
+    "go", "2fa", "security"
+  ],
+  "how_to_arrive": [
+    "Walk"
+  ],
+  "how_to_move": [
+    "Bike"
+  ],
+  "resources": [
+    "https://www.google.co.uk/"
+  ],
+  "coworking": [
+    "https://www.google.co.uk/"
+  ]
+}
