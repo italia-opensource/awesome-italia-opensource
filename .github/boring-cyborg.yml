@@ -1,0 +1,38 @@
+labelPRBasedOnFilePath:
+  ci:
+    - .github/*
+    - .github/**/*
+
+  dependencies:
+    - requirements.txt
+
+  "awesome: communities":
+    - awesome/communities/*
+    - awesome/communities/**/*
+
+  "awesome: comapnies":
+    - awesome/comapnies/*
+    - awesome/comapnies/**/*
+
+  "awesome: opensource":
+    - awesome/opensource/*
+    - awesome/opensource/**/*
+
+  "awesome: digital-nomads":
+    - awesome/digital_nomads/*
+    - awesome/digital_nomads/**/*
+
+  infrastructure:
+    - scripts/*
+    - scripts/**/*
+
+firstPRWelcomeComment: >
+  Thanks for opening this pull request! Please check out our contributing guidelines.
+
+verifyTitles:
+  titleRegexp: ^(feat|feat!|fix|fix!|docs|refactor|refactor!|test|chore|build|ci)\((ci|docs|deps|deps-dev|awesome|companies|communities|opensource|digital-nomads)\):.*
+  alwaysUsePrTitle: true
+  validateEitherPrOrSingleCommitTitle: true
+  statusTitle: "Title Validator"
+  successMessage: "Validation successful!"
+  failureMessage: "Wrong ${type} title: ${title}"
