@@ -418,7 +418,7 @@ class CommunitiesChecker(Checker):
 
 class DigitalNomadsChecker(Checker):
     ALLOWED_MOVE = [
-        'Ariplane',
+        'Airplane',
         'Ship',
         'Walk',
         'Car',
