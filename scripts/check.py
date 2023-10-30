@@ -416,10 +416,124 @@ class CommunitiesChecker(Checker):
         )
 
 
+class DigitalNomadsChecker(Checker):
+    ALLOWED_MOVE = [
+        'Airplane',
+        'Ship',
+        'Walk',
+        'Car',
+        'Bike',
+        'Taxi',
+        'Bus',
+        'Train',
+        'Tram',
+        'Other',
+    ]
+
+    ALLOWED_DOCUMENTS = [
+        'CI',
+        'Passport',
+        'Visa',
+        'Other',
+    ]
+
+    ALLOWED_RATING = [
+        'Suggested',
+        'Not required',
+        'Not available',
+        'Other',
+    ]
+
+    def __init__(self) -> None:
+        super().__init__()
+
+    def define_jsonschema(self):
+        return fastjsonschema.compile(
+            definition={
+                '$schema': 'https://json-schema.org/draft/2019-09/schema',
+                'type': 'object',
+                'properties': {
+                    'name': {'type': 'string'},
+                    'state': {'type': 'string', 'minLength': 2, 'maxLength': 3},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'required_documents': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'items': {
+                            'type': 'string',
+                            'enum': self.ALLOWED_DOCUMENTS
+                        }
+                    },
+                    'internet_roaming': {'type': 'string', 'enum': self.ALLOWED_RATING},
+                    'daily_average_cost': {'type': 'number', 'min': 1},
+                    'tags': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'maxItems': 20,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'maxLength': 24
+                        }
+                    },
+                    'how_to_arrive': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'enum': self.ALLOWED_MOVE
+                        }
+                    },
+                    'how_to_move': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'enum': self.ALLOWED_MOVE
+                        }
+                    },
+                    'resources': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'format': 'uri'
+                        }
+                    },
+                    'coworking': {
+                        'type': 'array',
+                        'minItems': 1,
+                        'uniqueItems': True,
+                        'items': {
+                            'type': 'string',
+                            'format': 'uri'
+                        }
+                    },
+                },
+                'required': [
+                    'name',
+                    'state',
+                    'required_documents',
+                    'tags',
+                    'internet_roaming',
+                    'coworking',
+                    'resources',
+                    'how_to_move'
+                ],
+                'additionalProperties': False
+            }
+        )
+
+
 def main():
     OpensourceChecker().validate(abspath(BASEDIR, 'awesome', 'opensource', 'data'))
     CompaniesChecker().validate(abspath(BASEDIR, 'awesome', 'companies', 'data'))
     CommunitiesChecker().validate(abspath(BASEDIR, 'awesome', 'communities', 'data'))
+    DigitalNomadsChecker().validate(
+        abspath(BASEDIR, 'awesome', 'digital_nomads', 'data'))
 
 
 if __name__ == '__main__':
