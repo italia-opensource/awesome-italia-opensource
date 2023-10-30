@@ -8,13 +8,13 @@
   "daily_average_cost": 70,
   "description": "Barcelona is an historical city in the east cost of Spain, that houses Sagrada Familia. Barceloneta is a very nice place to chill and drink something, meanwhile in the city there are lot of different styles in districts. La Boqueria Market is, near the Rambla, is a place that you must add in your to-do list.",
   "tags": [
-    "nature", "sea", "wine", "nightlife", "parties", "museums", "museums"
+    "nature", "sea", "wine", "nightlife", "parties", "museums"
   ],
   "how_to_arrive": [
-    "Airplane", "Bus", "Train", "Ferry"
+    "Airplane", "Bus", "Train", "Ship"
   ],
   "how_to_move": [
-    "Bike", "Walk", "Taxi", "Public transport"
+    "Bike", "Walk", "Taxi", "Public transports"
   ],
   "resources": [
     "https://vitanellozaino.com/2022/08/30/barcellona/"

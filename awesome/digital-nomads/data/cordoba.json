@@ -14,12 +14,12 @@
     "Airplane", "Train", "Bus", "Car"
   ],
   "how_to_move": [
-    "Moped", "Walk", "Taxi", "Public transports", "Car"
+    "Motorbike", "Walk", "Taxi", "Public transports", "Car"
   ],
   "resources": [
-    ""
+    "https://www.viviandalucia.com/cordova/cosa-vedere-cordoba/"
   ],
   "coworking": [
-    ""
+    "https://www.coworker.com/spain/cordoba", "https://coworkingspaces.me/cordoba-argentina/"
   ]
 }

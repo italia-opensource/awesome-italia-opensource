@@ -429,6 +429,9 @@ class DigitalNomadsChecker(Checker):
         'Train',
         'Tram',
         'Public transports',
+        'Motorbike',
+        'Ferry',
+        'VAN',
         'Other',
     ]
 
@@ -443,6 +446,9 @@ class DigitalNomadsChecker(Checker):
         'Suggested',
         'Not required',
         'Not available',
+        'Not yet available',
+        'Not recommended',
+        'Not necessary',
         'Other',
     ]
 
@@ -457,7 +463,7 @@ class DigitalNomadsChecker(Checker):
                 'properties': {
                     'name': {'type': 'string'},
                     'state_name': {'type': 'string', 'minLength': 2, 'maxLength': 3},
-                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 508},
                     'required_documents': {
                         'type': 'array',
                         'minItems': 1,

@@ -11,10 +11,10 @@
     "nature", "sand", "beach", "surf", "wind", "wild", "van", "rv"
   ],
   "how_to_arrive": [
-    "Airplane"
+    "Airplane", "Ship"
   ],
   "how_to_move": [
-    "Taxi", "Car", "VAN", "RV", "Public transport"
+    "Taxi", "Car", "Public transports", "VAN"
   ],
   "resources": [
     "https://vitanellozaino.com/2022/02/13/fuerteventura-in-van/"

@@ -11,10 +11,10 @@
     "nature", "sea", "lake", "beaches", "sunsets", "chill", "relax", "naked"
   ],
   "how_to_arrive": [
-    "Airplane+Ferry"
+    "Airplane", "Ship"
   ],
   "how_to_move": [
-    "Bike", "Walk", "Taxi", "Moped", "Car"
+    "Bike", "Walk", "Taxi", "Motorbike", "Car"
   ],
   "resources": [
     "https://vitanellozaino.com/2022/03/14/formentera/"

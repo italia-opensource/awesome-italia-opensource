@@ -14,10 +14,10 @@
     "Airplane", "Bus", "Train", "Car"
   ],
   "how_to_move": [
-    "Bike", "Walk", "Taxi", "Public transport"
+    "Bike", "Walk", "Taxi", "Public transports"
   ],
   "resources": [
-    ""
+    "https://www.viviandalucia.com/siviglia/"
   ],
   "coworking": [
     "https://www.surfoffice.com/coworking/seville", "https://coworkingspaces.me/seville-spain/"
