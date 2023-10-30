@@ -1,4 +1,4 @@
-# Awesome Digital Nomads | Italia Opensource
+# Awesome Digital Nomads | Italia Open-Source
 
 <img src='https://img.shields.io/badge/list-1-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
