@@ -1,0 +1,25 @@
+{
+  "name": "Bansko",
+  "state": "BG",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 30,
+  "description": "Bansko is a town in southwestern Bulgaria, located at the foot of the Pirin Mountains at an elevation of 927 m above sea level. It is a popular ski resort. Wi-fi is available in most places (also in mountain), and the cost of living is very low.",
+  "tags": [
+    "nature", "snow", "lake", "mountain"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Train"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi"
+  ],
+  "resources": [
+    "https://freakingnomads.com/digital-nomad-guide-to-bansko-bulgaria/", "https://www.bbc.com/travel/article/20231003-bansko-bulgarias-unlikely-new-digital-nomad-hub"
+  ],
+  "coworking": [
+    "https://coworkingbansko.com/"
+  ]
+}
