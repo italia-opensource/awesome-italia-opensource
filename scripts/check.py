@@ -427,6 +427,7 @@ class DigitalNomadsChecker(Checker):
         'Bus',
         'Train',
         'Tram',
+        'Public transports'
         'Other',
     ]
 

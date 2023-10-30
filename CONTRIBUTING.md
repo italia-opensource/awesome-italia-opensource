@@ -256,6 +256,7 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Bus
   - Train
   - Tram
+  - Public transports
   - Other
 
 - *Allowed Documents for 'required_documents'*
