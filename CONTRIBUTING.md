@@ -16,11 +16,9 @@ We have three type of issues:
 2. Feature request
 2. Question
 
-## Pull Requests
+## How To Contribute with PRs
 
 *Pull requests can be used to add/edit/delete in awesome/**/data dir.*
-
-### How To Contribute with PRs
 
 The new project must be added to the `awesome/{companies,opensource,communities,digital-nomads}/data` folder using a dedicated file in `kebab-case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
@@ -28,7 +26,10 @@ Projects entered must be maintained and have guidelines and/or documentation for
 
 1. Open `awesome/{companies,opensource,communities,digital-nomads}/data` directory
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
-3. File content should respect the following format:
+3. File content should respect json rule
+4. Create PR on GitHub, the title should be `feat(type): added/updated Name`
+
+**ATTENTION** do not modify any README.md file.
 
 ## Json Rules
 
