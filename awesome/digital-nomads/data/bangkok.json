@@ -2,7 +2,7 @@
   "name": "Bangkok",
   "state": "TH",
   "required_documents": [
-    "Passport"
+    "Passport", "Visa"
   ],
   "internet_roaming": "Not available",
   "daily_average_cost": 40,

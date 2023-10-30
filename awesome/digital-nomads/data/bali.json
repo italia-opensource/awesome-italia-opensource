@@ -2,7 +2,7 @@
   "name": "Bali",
   "state": "ID",
   "required_documents": [
-    "Passport"
+    "Passport", "Visa"
   ],
   "internet_roaming": "Not available",
   "daily_average_cost": 20,

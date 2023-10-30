@@ -2,7 +2,7 @@
   "name": "Singapore",
   "state": "SG",
   "required_documents": [
-    "Passport"
+    "Passport", "Visa"
   ],
   "internet_roaming": "Suggested",
   "daily_average_cost": 100,
