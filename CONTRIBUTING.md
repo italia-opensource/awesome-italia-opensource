@@ -6,8 +6,7 @@ Please read [the full text](https://github.com/italia-opensource/awesome-italia-
 
 ### Join our Community
 
-We have
-- [Telegram](https://t.me/italiaopensource)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/italia-open-source)
 
 ## Issues
 
@@ -17,122 +16,26 @@ We have three type of issues:
 2. Feature request
 2. Question
 
-## Development
-
-### Online one-click setup for contributing
-
-Reuirements:
-
-- Python >= 3.6
-- utils: make, pip3
-
-Setup env:
-
-- clone the awesome-italia-opensource repostory.
-- run `make setup`
-- run `source .activate`
-
-
 ## Pull Requests
 
 *Pull requests can be used to add/edit/delete in awesome/**/data dir.*
 
 ### How To Contribute with PRs
 
-The new project must be added to the `awesome/{companies,opensource,communities}/data` folder using a dedicated file in `kebab-case.json` format.
+The new project must be added to the `awesome/{companies,opensource,communities,digital-nomads}/data` folder using a dedicated file in `kebab-case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
 Projects entered must be maintained and have guidelines and/or documentation for use
 
-1. Open `awesome/{companies,opensource,communities}/data` directory
+1. Open `awesome/{companies,opensource,communities,digital-nomads}/data` directory
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
 3. File content should respect the following format:
 
-### awesome/companies rules
+## Json Rules
 
-```JSON
-{
-  "name": "Test",
-  "repository_organization_url": "https://www.github.com/test/name-of-repo", // no required
-  "site_url": "https://www.test.com",
-  "type": "B2B",
-  "market": "Fintech",
-  "description": "lorem ipsum",
-  "tags": [
-    "python", "aws"
-  ],
-  "foundation_year": "YYYY", // required data >= 2010
-  "address": "Colosseum, Piazza del Colosseo, 1, 00184 Roma RM" // no required
-}
-```
-
-- *Allowed Type of companies*
-  - B2B
-  - B2C
-  - C2C
-  - D2C
-  - Consulting
-  - Other
-
-- *Allowed Market of companies*
-  - Food
-  - Aerospace
-  - Housing
-  - Health
-  - Automotive
-  - Fintech
-  - Energy
-  - AI
-  - Biotech
-  - Ecommerce
-  - Software
-  - Hardware
-  - Service
-  - Insurance
-  - Travel
-  - Other
-
-
-### awesome/communities rules
-
-```JSON
-{
-  "name": "Test",
-  "url": "https://url",
-  "type": "...",
-  "platform": "...",
-  "description": "lorem ipsum", // no required
-  "tags": [
-    "tech", "aws"
-  ],
-  "events_type": [
-    "Meetup",
-    "Hackathon"
-  ]
-}
-```
-
-- *Allowed Type of communities*
-  - Blog
-  - Channel
-  - Newsletter
-  - Event
-
-- *Allowed Platform of communities*
-  - Telegram
-  - Discord
-  - Slack
-  - Reddit
-  - Website
-  - Email
-
-- *Allowed Events Type of communities*
-  - Meetup
-  - Webinar
-  - Conference
-  - Workshop
-  - Hackathon
-  - Chat
-  - Other
+- [Open-Source Projects](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomeopensource-rules)
+- [Communities](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomecommunities-rules)
+- [Digital-Nomads](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomedigital-nomads-rules)
+- [Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomecompanies-rules)
 
 ### awesome/opensource rules
 
@@ -170,7 +73,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
   - gitlab
   - bitbucket
 
-- Allowed Licenses
+- *Allowed Licenses*
   - Undefined
   - 0BSD
   - BSD-1-Clause
@@ -280,3 +183,148 @@ Projects entered must be maintained and have guidelines and/or documentation for
 #### Tags
 
 The maximum number of tags is 20. This rule is necessary to avoid format problems with the MarkDown file.
+
+### awesome/communities rules
+
+```JSON
+{
+  "name": "Test",
+  "url": "https://url",
+  "type": "...",
+  "platform": "...",
+  "description": "lorem ipsum", // no required
+  "tags": [
+    "tech", "aws"
+  ],
+  "events_type": [
+    "Meetup",
+    "Hackathon"
+  ]
+}
+```
+
+- *Allowed Type of communities*
+  - Blog
+  - Channel
+  - Newsletter
+  - Event
+
+- *Allowed Platform of communities*
+  - Telegram
+  - Discord
+  - Slack
+  - Reddit
+  - Website
+  - Email
+
+- *Allowed Events Type of communities*
+  - Meetup
+  - Webinar
+  - Conference
+  - Workshop
+  - Hackathon
+  - Chat
+  - Other
+
+
+### awesome/digital-nomads rules
+
+```JSON
+{
+  "name": "Bansko",
+  "state": "BG",
+  "required_documents": [ "Passport", "CI" ],
+  "internet_roaming": "Suggested",
+  "tags": [ "nature", "snow", "lake", "mountain"],
+  "how_to_arrive": [ "Airplane", "Bus", "Train" ],
+  "resources": [ "https://example.com/" ],
+  "coworking": [ "https://exmaple.com/" ],
+  "daily_average_cost": 30, // no required
+  "description": "lorem ipsum", // no required
+  "how_to_move": [ "Bike", "Walk", "Taxi" ], // no required
+}
+```
+
+- *Allowed Move for 'how_to_arrive', 'how_to_move'*
+  - Airplane
+  - Ship
+  - Walk
+  - Car
+  - Bike
+  - Taxi
+  - Bus
+  - Train
+  - Tram
+  - Other
+
+- *Allowed Documents for 'required_documents'*
+  - CI
+  - Passport
+  - Visa
+  - Other
+
+- *Allowed Rating for 'internet_roaming'*
+  - Suggested
+  - Not required
+  - Not available
+  - Other
+
+
+### awesome/companies rules
+
+```JSON
+{
+  "name": "Test",
+  "repository_organization_url": "https://www.github.com/test/name-of-repo", // no required
+  "site_url": "https://www.test.com",
+  "type": "B2B",
+  "market": "Fintech",
+  "description": "lorem ipsum",
+  "tags": [
+    "python", "aws"
+  ],
+  "foundation_year": "YYYY", // required data >= 2010
+  "address": "Colosseum, Piazza del Colosseo, 1, 00184 Roma RM" // no required
+}
+```
+
+- *Allowed Type of companies*
+  - B2B
+  - B2C
+  - C2C
+  - D2C
+  - Consulting
+  - Other
+
+- *Allowed Market of companies*
+  - Food
+  - Aerospace
+  - Housing
+  - Health
+  - Automotive
+  - Fintech
+  - Energy
+  - AI
+  - Biotech
+  - Ecommerce
+  - Software
+  - Hardware
+  - Service
+  - Insurance
+  - Travel
+  - Other
+
+## Development
+
+### Online one-click setup for contributing
+
+Reuirements:
+
+- Python >= 3.6
+- utils: make, pip3
+
+Setup env:
+
+- clone the awesome-italia-opensource repostory.
+- run `make setup`
+- run `source .activate`

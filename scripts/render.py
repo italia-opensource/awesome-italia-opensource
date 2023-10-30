@@ -75,7 +75,7 @@ class Readme():
         self.footer()
 
     def title(self, title: str, number_of_list_element):
-        self.doc.add_heading(f'Awesome {title.title()} | Italia Opensource')
+        self.doc.add_heading(f'Awesome {title.title()} | Italia Open-Source')
 
         self.doc.add_paragraph(f"""
             <img src='https://img.shields.io/badge/list-{number_of_list_element}-green'>
