@@ -20,6 +20,8 @@ In a transparent way, you can access, add or modify the data in the repository, 
 - [List of Tech Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
 
 - [List of Tech Communities](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/communities/README.md)
+-
+- [List of Digital Nomads](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/digital-nomads/README.md)
 
 
 ### Contributors

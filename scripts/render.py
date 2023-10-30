@@ -5,7 +5,7 @@ import sys
 from snakemd import Document, Inline
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
-AWESOME_TYPE = ['opensource', 'companies', 'communities', 'digital_nomads']
+AWESOME_TYPE = ['opensource', 'companies', 'communities', 'digital-nomads']
 
 
 def abspath(*args, os_path=True, separator='/'):
@@ -293,7 +293,7 @@ class DigitalNomadsReadme(Readme):
     def content(self, data):
         self.doc.add_heading(self.name.title(), level=3)
 
-        self.component_website(path='digital_nomads')
+        self.component_website(path='digital-nomads')
 
         self.doc.add_heading('List', level=4)
 
@@ -372,9 +372,9 @@ def main():
         builder.output()
 
     def digital_nomads():
-        data = render(type='digital_nomads')
+        data = render(type='digital-nomads')
         builder = DigitalNomadsReadme('digital nomads', data, abspath(
-            BASEDIR, 'awesome', 'digital_nomads'))
+            BASEDIR, 'awesome', 'digital-nomads'))
         builder.build()
         builder.output()
 

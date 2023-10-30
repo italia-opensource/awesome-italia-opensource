@@ -533,7 +533,7 @@ def main():
     CompaniesChecker().validate(abspath(BASEDIR, 'awesome', 'companies', 'data'))
     CommunitiesChecker().validate(abspath(BASEDIR, 'awesome', 'communities', 'data'))
     DigitalNomadsChecker().validate(
-        abspath(BASEDIR, 'awesome', 'digital_nomads', 'data'))
+        abspath(BASEDIR, 'awesome', 'digital-nomads', 'data'))
 
 
 if __name__ == '__main__':

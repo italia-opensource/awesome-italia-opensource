@@ -19,8 +19,8 @@ labelPRBasedOnFilePath:
     - awesome/opensource/**/*
 
   "awesome: digital-nomads":
-    - awesome/digital_nomads/*
-    - awesome/digital_nomads/**/*
+    - awesome/digital-nomads/*
+    - awesome/digital-nomads/**/*
 
   infrastructure:
     - scripts/*

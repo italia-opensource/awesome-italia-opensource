@@ -16,7 +16,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### Website view
 
-[italiaopensource.com](https://italiaopensource.com/digital_nomads)
+[italiaopensource.com](https://italiaopensource.com/digital-nomads)
 
 #### List
 
