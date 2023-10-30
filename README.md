@@ -4,11 +4,11 @@
 
 **Italy Open-Source** is a project whose purpose is to give transparency to the Italian tech ecosystem.
 
-The **only fully open-source platform** that transparently gives voice, and discovers, and explores **Italy tech innovations**.
+The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy tech innovations**.
 
-Through a series of **awesome** lists, we seek to give visibility to open-source projects, communities, tech blogs, innovative companies and much more.
+Through a series of **awesome** lists, we seek to give visibility to open-source projects, communities, tech blogs, innovative companies, and more.
 
-In a transparent way, you can access, add or modify the data in the repository, respecting the contribution conduct criteria.
+In a transparent way, you can access, add, or modify the data in the repository, respecting the contribution conduct criteria.
 
 ### 💻 Website view
 
