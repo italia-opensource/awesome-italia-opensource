@@ -1,0 +1,25 @@
+{
+  "name": "Bali",
+  "state": "ID",
+  "required_documents": [
+    "Passport"
+  ],
+  "internet_roaming": "Not available",
+  "daily_average_cost": 20,
+  "description": "Bali is one of the most famous island of Indonesia. Temples, culture, surfing, sea, trekking, people and night life are the most important things to live. The average cost is very low but not for coworking. Is one of the main place in the world for digital nomad, you can face them all over the world",
+  "tags": [
+    "nature", "temples", "surfing", "mountain", "visit", "sea", "dancing", "trekking", "volcano"
+  ],
+  "how_to_arrive": [
+    "Airplane"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Moped"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2023/08/03/bali/"
+  ],
+  "coworking": [
+    "https://www.coworker.com/mag/top-ten-coworking-spaces-in-bali", "https://thehoneycombers.com/bali/coworking-spaces-bali-work-remotely/"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Bansko",
+  "state": "BG",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 30,
+  "description": "Tenerife is the most populated island of the Canary archipelago",
+  "tags": [
+    "nature", "volcano", "lake", "sea", "beach", "mountain", "chill", "relaxing", "wine"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Ferry"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Car", "Moped"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2022/02/21/tenerife/"
+  ],
+  "coworking": [
+    "https://www.coworkinginthesun.com/", "https://www.surfoffice.com/coworking/tenerife"
+  ]
+}

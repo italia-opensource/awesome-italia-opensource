@@ -1,0 +1,25 @@
+{
+  "name": "Fuerteventura",
+  "state": "ES",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 60,
+  "description": "Fuerteventura is a very wild island in Canary archipelago. From south to north there are just 3 big cities and lot of little ones, very windy and perfect to surfing, relaxing, explore and chilling. Perfect to rent RV or VAN with lot of area to stay",
+  "tags": [
+    "nature", "sand", "beach", "surf", "wind", "wild", "van", "rv"
+  ],
+  "how_to_arrive": [
+    "Airplane"
+  ],
+  "how_to_move": [
+    "Taxi", "Car", "VAN", "RV", "Public transport"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2022/02/13/fuerteventura-in-van/"
+  ],
+  "coworking": [
+    "https://www.bychloe.it/smartworking-alle-canarie-9-coworking-a-fuerteventura/", "https://www.vivifuerteventura.com/i-migliori-coworking-a-fuerteventura/"
+  ]
+}

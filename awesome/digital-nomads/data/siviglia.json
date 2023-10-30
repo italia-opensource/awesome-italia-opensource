@@ -1,0 +1,25 @@
+{
+  "name": "Sevilla",
+  "state": "ES",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 45,
+  "description": "Is a pearl in the south of Spain, very hot but really beautiful. City center is amazing and Plaza de Espana is an amazing architectural building to see.",
+  "tags": [
+    "nature", "square", "castle", "church"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Train", "Car"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transport"
+  ],
+  "resources": [
+    ""
+  ],
+  "coworking": [
+    "https://www.surfoffice.com/coworking/seville", "https://coworkingspaces.me/seville-spain/"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Madrid",
+  "state": "ES",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 60,
+  "description": "",
+  "tags": [
+    "park", "nature", "lake", "city", "skyline", "sunset", "chilling", "nightlife"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Train", "cCar"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Moped", "Car"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2022/08/22/madrid/"
+  ],
+  "coworking": [
+    "https://talentgarden.org/it/coworking/spain/madrid/", "https://flydesk-com.webpkgcache.com/doc/-/s/flydesk.com/it/insights/top-10-coworking-spaces-madrid/"
+  ]
+}

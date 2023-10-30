@@ -1,0 +1,25 @@
+{
+  "name": "Malaga",
+  "state": "ES",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Suggested",
+  "daily_average_cost": 45,
+  "description": "Malaga is places in the south of Spain, on the Mediterranean sea. Hot, with beautiful beaches, lively and very nice to visit. From the castle you can see an amazing vew of the city",
+  "tags": [
+    "nature", "beach", "sea", "church", "castle"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Train", "Car"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transport"
+  ],
+  "resources": [
+    ""
+  ],
+  "coworking": [
+    "https://www.surfoffice.com/coworking/malaga", "https://www.regus.com/it-it/spain/malaga/coworking"
+  ]
+}
