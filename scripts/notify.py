@@ -16,6 +16,7 @@ TYPE = {
     'opensource': 'OpensourceItem',
     'companies': 'CompanyItem',
     'communities': 'CommunityItem',
+    'digital-nomads': 'DigitalNomadItem',
 }
 
 
