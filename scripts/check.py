@@ -455,7 +455,7 @@ class DigitalNomadsChecker(Checker):
                 'type': 'object',
                 'properties': {
                     'name': {'type': 'string'},
-                    'state': {'type': 'string', 'minLength': 2, 'maxLength': 3},
+                    'state_name': {'type': 'string', 'minLength': 2, 'maxLength': 3},
                     'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
                     'required_documents': {
                         'type': 'array',
@@ -516,7 +516,7 @@ class DigitalNomadsChecker(Checker):
                 },
                 'required': [
                     'name',
-                    'state',
+                    'state_name',
                     'required_documents',
                     'tags',
                     'internet_roaming',

@@ -1,6 +1,6 @@
 {
   "name": "Bansko",
-  "state": "BG",
+  "state_name": "BG",
   "required_documents": [
     "Passport", "CI"
   ],

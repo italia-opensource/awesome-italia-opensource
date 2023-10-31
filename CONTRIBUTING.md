@@ -239,16 +239,16 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
 ```JSON
 {
   "name": "Bansko",
-  "state": "BG",
+  "state_name": "BG",
   "required_documents": [ "Passport", "CI" ],
   "internet_roaming": "Suggested",
   "tags": [ "nature", "snow", "lake", "mountain"],
-  "how_to_arrive": [ "Airplane", "Bus", "Train" ],
   "resources": [ "https://example.com/" ],
   "coworking": [ "https://exmaple.com/" ],
+  "how_to_move": [ "Bike", "Walk", "Taxi" ],
   "daily_average_cost": 30, // no required
   "description": "lorem ipsum", // no required
-  "how_to_move": [ "Bike", "Walk", "Taxi" ], // no required
+  "how_to_arrive": [ "Airplane", "Bus", "Train" ],  // no required
 }
 ```
 
