@@ -239,7 +239,7 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
 ```JSON
 {
   "name": "Bansko",
-  "state_name": "BG",
+  "state_name": "Bulgaria",
   "required_documents": [ "Passport", "CI" ],
   "internet_roaming": "Suggested",
   "tags": [ "nature", "snow", "lake", "mountain"],
@@ -263,6 +263,9 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Train
   - Tram
   - Public transports
+  - Motorbike
+  - Ferry
+  - VAN
   - Other
 
 - *Allowed Documents for 'required_documents'*
@@ -271,10 +274,13 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Visa
   - Other
 
-- *Allowed Rating for 'internet_roaming'*
+- *Allowed item for 'internet_roaming'*
   - Suggested
   - Not required
   - Not available
+  - Not yet available
+  - Not recommended
+  - Not necessary
   - Other
 
 

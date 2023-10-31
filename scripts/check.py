@@ -438,7 +438,7 @@ class DigitalNomadsChecker(Checker):
         'Other',
     ]
 
-    ALLOWED_RATING = [
+    ALLOWED_INTERNET_ROAMING = [
         'Suggested',
         'Not required',
         'Not available',
@@ -465,7 +465,7 @@ class DigitalNomadsChecker(Checker):
                             'enum': self.ALLOWED_DOCUMENTS
                         }
                     },
-                    'internet_roaming': {'type': 'string', 'enum': self.ALLOWED_RATING},
+                    'internet_roaming': {'type': 'string', 'enum': self.ALLOWED_INTERNET_ROAMING},
                     'daily_average_cost': {'type': 'number', 'min': 1},
                     'tags': {
                         'type': 'array',
