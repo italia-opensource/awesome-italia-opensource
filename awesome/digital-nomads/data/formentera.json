@@ -1,0 +1,25 @@
+{
+  "name": "Formentera",
+  "state_name": "Spain",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Available",
+  "daily_average_cost": 70,
+  "description": "Placed in Baleares islands Formentera is very chilling and relaxing, with some hippies living in there and lot of beaches are made for nudism. The island is not so big so a moped is advised to visit it, it's almost wild in most of the places.",
+  "tags": [
+    "nature", "sea", "lake", "beaches", "sunsets", "chill", "relax", "naked"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Ship"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Motorbike", "Car"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2022/03/14/formentera/"
+  ],
+  "coworking": [
+    "https://www.dorms.com/Spain/Formentera"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Bangkok",
+  "state_name": "Thailand",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 40,
+  "description": "Bangkok is a very picturesque city in Thailand. Street foods, temples and the skyline are very cool to see here. Pad Thai is the most delicious and famous food. In the night there are lot of parties and lot of rooftops to visit for a magic view.",
+  "tags": [
+    "nature", "temples", "skyline", "nightlife", "food", "street food"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Train"
+  ],
+  "how_to_move": [
+    "Motorbike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2023/07/07/bangkok/"
+  ],
+  "coworking": [
+    "https://www.starbucks.co.th/", "https://www.wework.com/l/coworking-space/bangkok", "https://coworkingspaces.me/bangkok/"
+  ]
+}

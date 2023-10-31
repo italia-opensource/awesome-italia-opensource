@@ -1,0 +1,25 @@
+{
+  "name": "Tenerife",
+  "state_name": "Spain",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Available",
+  "daily_average_cost": 30,
+  "description": "Tenerife is the most populated island of the Canary archipelago. The island welcomes you with 13 different climates, beautiful sunset and beaches, full of nightlife and place to visit. Ideal for surfing and kayaking, but also for trekking and visiting places.",
+  "tags": [
+    "nature", "volcano", "lake", "sea", "beach", "mountain", "chill", "relaxing", "wine"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Ship"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Car", "Motorbike"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2022/02/21/tenerife/"
+  ],
+  "coworking": [
+    "https://www.coworkinginthesun.com/", "https://www.surfoffice.com/coworking/tenerife"
+  ]
+}

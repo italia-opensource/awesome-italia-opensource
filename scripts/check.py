@@ -367,6 +367,7 @@ class CommunitiesChecker(Checker):
         'Video',
         'Audio',
         'Other',
+        'Coworking trips'
     ]
 
     def __init__(self) -> None:
@@ -428,6 +429,9 @@ class DigitalNomadsChecker(Checker):
         'Train',
         'Tram',
         'Public transports',
+        'Motorbike',
+        'Ferry',
+        'VAN',
         'Other',
     ]
 
@@ -439,10 +443,10 @@ class DigitalNomadsChecker(Checker):
     ]
 
     ALLOWED_INTERNET_ROAMING = [
-        'Suggested',
-        'Not required',
-        'Not available',
-        'Other',
+        'Available',
+        'Not required',  # Just for Italy
+        'Local SIM required',
+        'Not yet available',  # For countries like Albania or Türkiye who requested to join EU
     ]
 
     def __init__(self) -> None:
@@ -455,8 +459,8 @@ class DigitalNomadsChecker(Checker):
                 'type': 'object',
                 'properties': {
                     'name': {'type': 'string'},
-                    'state_name': {'type': 'string', 'minLength': 2, 'maxLength': 3},
-                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'state_name': {'type': 'string', 'minLength': 2, 'maxLength': 40},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 508},
                     'required_documents': {
                         'type': 'array',
                         'minItems': 1,

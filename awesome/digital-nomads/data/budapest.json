@@ -1,0 +1,25 @@
+{
+  "name": "Budapest",
+  "state_name": "Hungary",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Available",
+  "daily_average_cost": 45,
+  "description": "Budapest is the capital of Hungary, placed near the Danubio rived in the middle of the country.",
+  "tags": [
+    "nature", "museum", "city", "river", "sidewalk"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Train", "Ship"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/2023/08/31/budapest/"
+  ],
+  "coworking": [
+    "https://lifefromabag.com/coworking-spaces-budapest/", "https://www.coworker.com/hungary/budapest"
+  ]
+}
