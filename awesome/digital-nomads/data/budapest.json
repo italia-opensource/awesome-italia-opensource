@@ -1,10 +1,10 @@
 {
   "name": "Budapest",
-  "state": "HU",
+  "state_name": "Hungary",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Available",
   "daily_average_cost": 45,
   "description": "Budapest is the capital of Hungary, placed near the Danubio rived in the middle of the country.",
   "tags": [

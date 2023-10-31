@@ -1,10 +1,10 @@
 {
   "name": "Singapore",
-  "state": "SG",
+  "state_name": "Singapore",
   "required_documents": [
     "Passport", "Visa"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Local SIM required",
   "daily_average_cost": 100,
   "description": "Singapore is a city-state in the south of Malaysia peninsula, very expensive and with lot of thing sto see. Skyline is amazing and Marina Bay Sands and gardens are very beautiful during the day and night and botanical gardens are amazing",
   "tags": [

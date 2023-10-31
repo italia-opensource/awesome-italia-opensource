@@ -1,10 +1,10 @@
 {
   "name": "Bangkok",
-  "state": "TH",
+  "state_name": "Thailand",
   "required_documents": [
     "Passport", "Visa"
   ],
-  "internet_roaming": "Not available",
+  "internet_roaming": "Local SIM required",
   "daily_average_cost": 40,
   "description": "Bangkok is a very picturesque city in Thailand. Street foods, temples and the skyline are very cool to see here. Pad Thai is the most delicious and famous food. In the night there are lot of parties and lot of rooftops to visit for a magic view.",
   "tags": [

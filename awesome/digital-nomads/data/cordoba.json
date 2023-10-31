@@ -1,10 +1,10 @@
 {
   "name": "Cordoba",
-  "state": "ES",
+  "state_name": "Spain",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Available",
   "daily_average_cost": 40,
   "description": "Cordoba is a city places in the Southern Spain, Andalusia region. Hot almost of the year, very nice to visit for a couple of days",
   "tags": [

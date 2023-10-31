@@ -1,12 +1,12 @@
 {
   "name": "Tenerife",
-  "state": "ES",
+  "state_name": "Spain",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Available",
   "daily_average_cost": 30,
-  "description": "Tenerife is the most populated island of the Canary archipelago. The island welcomes you with 13 different climates, beautiful sunset and beaches, full of nightlife and place to visit",
+  "description": "Tenerife is the most populated island of the Canary archipelago. The island welcomes you with 13 different climates, beautiful sunset and beaches, full of nightlife and place to visit. Ideal for surfing and kayaking, but also for trekking and visiting places.",
   "tags": [
     "nature", "volcano", "lake", "sea", "beach", "mountain", "chill", "relaxing", "wine"
   ],

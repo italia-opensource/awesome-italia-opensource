@@ -1,10 +1,10 @@
 {
   "name": "Madrid",
-  "state": "ES",
+  "state_name": "Spain",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Available",
   "daily_average_cost": 60,
   "description": "Capital of Spain is a huge city with amazing nightlife, skyline and sunsets. Parks, monuments, squares and rooftops are just some of the best things to view",
   "tags": [

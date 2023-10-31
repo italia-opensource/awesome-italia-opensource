@@ -1,6 +1,6 @@
 {
   "name": "Istanbul",
-  "state": "TR",
+  "state_name": "Türkiye",
   "required_documents": [
     "Passport", "CI"
   ],

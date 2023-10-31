@@ -1,10 +1,10 @@
 {
   "name": "Sevilla",
-  "state": "ES",
+  "state_name": "Spain",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Available",
   "daily_average_cost": 45,
   "description": "Is a pearl in the south of Spain, very hot but really beautiful. City center is amazing and Plaza de Espana is an amazing architectural building to see.",
   "tags": [

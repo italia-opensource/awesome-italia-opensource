@@ -1,11 +1,11 @@
 {
   "name": "Kuala Lumpur",
-  "state": "MY",
+  "state_name": "Malaysia",
   "required_documents": [
     "Passport"
   ],
-  "internet_roaming": "Not available",
-  "daily_average_cost": 30,
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 25,
   "description": "Kuala Lumpur, or KL, is the capital of Malaysia. Petronas towers, Batu caves, temples and KL tower are the most interesting things in this giant city, that you can visit entirely with public transports",
   "tags": [
     "temple", "skyline", "nightlife", "tower", "food"

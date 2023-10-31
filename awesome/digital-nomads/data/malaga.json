@@ -1,10 +1,10 @@
 {
   "name": "Malaga",
-  "state": "ES",
+  "state_name": "Spain",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
+  "internet_roaming": "Available",
   "daily_average_cost": 45,
   "description": "Malaga is places in the south of Spain, on the Mediterranean sea. Hot, with beautiful beaches, lively and very nice to visit. From the castle you can see an amazing vew of the city",
   "tags": [

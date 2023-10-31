@@ -1,11 +1,11 @@
 {
   "name": "Amsterdam",
-  "state": "NL",
+  "state_name": "Netherlands",
   "required_documents": [
     "Passport", "CI"
   ],
-  "internet_roaming": "Suggested",
-  "daily_average_cost": 100,
+  "internet_roaming": "Available",
+  "daily_average_cost": 80,
   "description": "Amsterdam is capital of Netherlands a beautiful and very nice city to visit. Museums, environment, red light district, free weed, people and culture are the main reason to visit this city and surroundings (eg. Utrecht, Zaandam)",
   "tags": [
     "nature", "snow", "river", "mountain", "museums", ""
