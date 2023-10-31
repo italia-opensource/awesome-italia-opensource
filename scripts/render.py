@@ -307,7 +307,7 @@ class DigitalNomadsReadme(Readme):
 
             table_content.append([
                 name,
-                item.get('state').upper(),
+                item.get('state_name').upper(),
                 ', '.join(item['how_to_move']),
                 ', '.join(item['required_documents']),
                 ', '.join(item['tags'])
