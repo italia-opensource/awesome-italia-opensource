@@ -94,6 +94,8 @@ def main(massive, changed_files, manual_filepath):
                            f'companies/data/{i}' for i in os.listdir('awesome/companies/data')])
         changed_files_send(changed='added', files=[
                            f'communities/data/{i}' for i in os.listdir('awesome/communities/data')])
+        changed_files_send(changed='added', files=[
+                           f'digital-nomads/data/{i}' for i in os.listdir('awesome/digital-nomads/data')])
         return
 
     if os.path.isfile(manual_filepath):
