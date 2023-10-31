@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-15-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-16-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -37,6 +37,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Sistemista Italiano](https://www.youtube.com/@SistemistaItaliano) | Channel | Youtube  | dev, os, server, windows, linux, system, network                                                                                | Canale di informazione, video tutorial, guide e how-to dedic [..] |
 | [Startup Italia](https://www.startupitalia.com/)                   | Blog    | Website  | startup, startup ecosystem, tech news, investors, funding, venture capital, innovation, innovation ecosystem, innovation events | Il più grande network italiano di eventi dedicati all'innova [..] |
 | [Tech Workers Coalition Italia](https://twc-italia.org/)           | Channel | Telegram | developers, tech, networking, career, jobs                                                                                      | Senza di noi l'industria della tecnologia non esisterebbe, n [..] |
+| [Vita nello zaino](https://vitanellozaino.com)                     | Blog    | Website  | developers, tech, networking, digital nomad, coworking                                                                          | Chiusa una porta si apre un portellone.                           |
 
 ### Contributors
 
