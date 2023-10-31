@@ -20,9 +20,9 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### List
 
-| Name   | State | How to move      | Required Documents | Tags                         |
-| ------ | ----- | ---------------- | ------------------ | ---------------------------- |
-| Bansko | BG    | Bike, Walk, Taxi | Passport, CI       | nature, snow, lake, mountain |
+| Name   | State    | How to move      | Required Documents | Tags                         |
+| ------ | -------- | ---------------- | ------------------ | ---------------------------- |
+| Bansko | BULGARIA | Bike, Walk, Taxi | Passport, CI       | nature, snow, lake, mountain |
 
 ### Contributors
 
