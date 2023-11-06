@@ -15,7 +15,7 @@ In a transparent way, you can access, add, or modify the data in the repository,
 [italiaopensource.com](https://italiaopensource.com)
 
 
-### 🚀 Awsome Lists
+### 🚀 Awesome Lists
 
 - [List of Open-source projects](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/opensource/README.md)
 

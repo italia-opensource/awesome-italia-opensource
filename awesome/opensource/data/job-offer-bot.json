@@ -1,0 +1,13 @@
+{
+    "name": "Job Offer Bot",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/elgorditosalsero/job-offer-bot",
+    "type": "app",
+    "license": "MIT",
+    "tags": [
+        "bot",
+        "job",
+        "offer",
+        "telegram"
+    ]
+}
