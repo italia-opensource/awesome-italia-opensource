@@ -53,6 +53,7 @@ jobs:
             awesome/opensource/data/*.json
             awesome/companies/data/*.json
             awesome/communities/data/*.json
+            awesome/digital-nomads/data/*.json
 
       - name: Notify SQS
         env:
@@ -72,3 +73,20 @@ jobs:
               git commit -m "release(awesome): Update README.md"
               git push
           fi
+
+      - name: Trigger deployment workflow
+        uses: actions/github-script@v6
+        with:
+            github-token: ${{ secrets.ACTION_WORKFLOWS }}
+            retries: 3
+            script: |
+                const owner = 'italia-opensource';
+                const repo = 'infrastructure';
+                const event_type = 'deployment';
+                const ref = 'main';
+
+                github.rest.repos.createDispatchEvent({
+                    owner,
+                    repo,
+                    event_type
+                });

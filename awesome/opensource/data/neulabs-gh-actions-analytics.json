@@ -1,0 +1,12 @@
+{
+  "name": "Neulabs GH Actions Analytics",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/neulabscom/devops-gh-actions-analytics",
+  "site_url": "https://gh-actions-analytics.streamlit.app/",
+  "type": "app",
+  "description": "This application allows you to view GitHub's 'Usage Report' data.",
+  "license": "GPL-3.0",
+  "tags": [
+    "github", "finops", "analytics", "streamlit", "python"
+  ]
+}
