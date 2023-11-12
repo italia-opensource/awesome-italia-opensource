@@ -3,4 +3,5 @@ click>=8.*
 fastjsonschema>=2.*
 geopandas
 geopy
+pre-commit
 snakemd==2.1.0
