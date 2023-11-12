@@ -208,7 +208,7 @@ class OpensourceChecker(Checker):
                     'repository_platform': {'type': 'string', 'enum': self.ALLOWED_REPOSITORY_PLATFORM},
                     'repository_url': {'type': 'string', 'format': 'uri'},
                     'site_url': {'type': 'string', 'format': 'uri'},
-                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 508},
                     'type': {'type': 'string', 'enum': self.ALLOWED_TYPE},
                     'license': {'type': 'string', 'enum': self.ALLOWED_LICENSES},
                     'tags': {
@@ -292,7 +292,7 @@ class CompaniesChecker(Checker):
                     'name': {'type': 'string'},
                     'repository_organization_url': {'type': 'string', 'format': 'uri'},
                     'site_url': {'type': 'string', 'format': 'uri'},
-                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 508},
                     'type': {'type': 'string', 'enum': self.ALLOWED_TYPE},
                     'market': {'type': 'string', 'enum': self.ALLOWED_MARKET},
                     'address': {'type': 'string'},
@@ -381,7 +381,7 @@ class CommunitiesChecker(Checker):
                 'properties': {
                     'name': {'type': 'string'},
                     'url': {'type': 'string', 'format': 'uri'},
-                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 254},
+                    'description': {'type': 'string', 'minLength': 5, 'maxLength': 508},
                     'type': {'type': 'string', 'enum': self.ALLOWED_TYPE},
                     'platform': {'type': 'string', 'enum': self.ALLOWED_PLATFORM},
                     'tags': {
