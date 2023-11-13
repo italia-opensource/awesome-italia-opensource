@@ -8,7 +8,6 @@
       "dev", "community", "networking", "tech"
     ],
     "events_type": [
-      "Chat",
-     
+      "Chat"
     ]
   }
