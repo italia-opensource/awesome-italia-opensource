@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-16-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-17-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -28,6 +28,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Fabio Biondi](https://www.twitch.tv/fabio_biondi)                 | Channel | Twitch   | developers, live, tech, javscript                                                                                               | Durante le mie live: studio, sperimento, condivido il mio kn [..] |
 | [Flutter Italia Developers](https://t.me/flutteritdevs)            | Channel | Telegram | dev, flutter, apps, android, ios, mobile                                                                                        |                                                                   |
 | [Kubernetes It](https://t.me/kubernetes_it)                        | Channel | Telegram | developers, tech, kubernetes, sys, cloud                                                                                        | Gruppo di utilizzatori, veterani e newbie su Kubernetes: par [..] |
+| [La Locanda del Tech](https://t.me/+mqQJQ9BqKOViMmVk)              | Channel | Telegram | dev, community, networking, tech                                                                                                | The Telegram channel of La Locanda del Tech, a Twitch channe [..] |
 | [Latina In Tech](https://latina-in-tech.github.io/)                | Channel | Telegram | dev, talks, networking, tech                                                                                                    | Free events to foster knowledge sharing and professional gro [..] |
 | [MUG Marca User Group](https://marcausergroup.it)                  | Channel | Slack    | dev, talks, networking, tech                                                                                                    | MUG is a user group localed around Treviso (Veneto region) u [..] |
 | [Open Source Community](https://t.me/ptkdev_support_italian)       | Channel | Telegram | developers, networking, tech, meme                                                                                              | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
