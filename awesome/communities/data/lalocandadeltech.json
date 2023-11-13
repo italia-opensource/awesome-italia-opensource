@@ -1,0 +1,13 @@
+{
+    "name": "La Locanda del Tech",
+    "url": "https://t.me/+mqQJQ9BqKOViMmVk",
+    "type": "Channel",
+    "platform": "Telegram",
+    "description": "The Telegram channel of La Locanda del Tech, a Twitch channel hosted by Guido Penta, that deals with various arguments like working in tech, money, professional development and many others",
+    "tags": [
+      "dev", "community", "networking", "tech"
+    ],
+    "events_type": [
+      "Chat"
+    ]
+  }
