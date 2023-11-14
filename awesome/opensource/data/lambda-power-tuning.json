@@ -1,0 +1,9 @@
+{
+  "name": "AWS Lambda Power Tuning",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
+  "type": "tool",
+  "license": "Apache-2.0",
+  "description": "AWS Lambda Power Tuning helps you visualize and fine-tune the memory/power configuration of Lambda functions.", 
+  "tags": ["nodejs", "aws", "lambda", "serverless", "cloud", "performance", "cost"] 
+}
