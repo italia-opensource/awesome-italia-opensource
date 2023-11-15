@@ -1,0 +1,9 @@
+{
+  "name": "fullremote.it",
+  "url": "https://fullremote.it/",
+  "type": "Newsletter",
+  "platform": "Email",
+  "description": "A weekly newsletter (with remote jobs) and a telegram channel dedicated to italian tech workers who work (or want to work) remotely.",
+  "tags": ["tech", "remoteworking", "remote", "jobs"],
+  "events_type": ["Other"]
+}
