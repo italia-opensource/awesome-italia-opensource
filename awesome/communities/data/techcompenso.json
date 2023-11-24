@@ -1,0 +1,13 @@
+{
+    "name": "TechCompenso",
+    "url": "https://techcompenso.com/",
+    "type": "Blog",
+    "platform": "Website",
+    "description": "TechCompenso is the go-to portal for uncovering the real earnings in Italy's tech sector, including technology, product management, and marketing roles within Italian tech companies",
+    "tags": [
+      "dev", "community", "networking", "tech", "salary", "transparency", "italy"
+    ],
+    "events_type": [
+      "Other"
+    ]
+  }
