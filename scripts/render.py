@@ -1,11 +1,17 @@
 import json
 import os
 import sys
+import unicodedata
 
 from snakemd import Document, Inline
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace('scripts/', ''))
 AWESOME_TYPE = ['opensource', 'companies', 'communities', 'digital-nomads']
+
+
+def get_url_name(category, name):
+    return f'https://italiaopensource.com/{category}/' + ''.join(c for c in unicodedata.normalize('NFD', name)
+                                                                 if unicodedata.category(c) != 'Mn').replace(' ', '-').lower()
 
 
 def abspath(*args, os_path=True, separator='/'):
@@ -135,7 +141,7 @@ class CompaniesReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content.append([
-                Inline(name, link=item.get('site_url')),
+                Inline(name, link=get_url_name('companies', name)),
                 item.get('type'),
                 item.get('market'),
                 ', '.join(item['tags']),
@@ -212,7 +218,7 @@ class OpensourceReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content.append([
-                Inline(name, link=item.get('site_url')),
+                Inline(name, link=get_url_name('opensources', name)),
                 Inline(repository, link=repository_url),
                 tags,
                 description
@@ -260,7 +266,7 @@ class CommunitiesReadme(Readme):
                 description = description[0:60] + ' [..]'
 
             table_content.append([
-                Inline(name, link=item.get('url')),
+                Inline(name, link=get_url_name('communities', name)),
                 item.get('type'),
                 item.get('platform'),
                 ', '.join(item['tags']),
@@ -306,7 +312,7 @@ class DigitalNomadsReadme(Readme):
                 raise Exception(f'Place {name} already exist')
 
             table_content.append([
-                name,
+                Inline(name, link=get_url_name('digital-nomads', name)),
                 item.get('state_name').upper(),
                 ', '.join(item['how_to_move']),
                 ', '.join(item['required_documents']),
