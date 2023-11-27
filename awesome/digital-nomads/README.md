@@ -20,24 +20,24 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### List
 
-| Name          | State       | How to move                                   | Required Documents | Tags                                                                       |
-| ------------- | ----------- | --------------------------------------------- | ------------------ | -------------------------------------------------------------------------- |
-| Amsterdam     | NETHERLANDS | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, snow, river, mountain, museums,                                    |
-| Bali          | INDONESIA   | Walk, Taxi, Other                             | Passport, Visa     | nature, temples, surfing, mountain, visit, sea, dancing, trekking, volcano |
-| Bangkok       | THAILAND    | Motorbike, Walk, Taxi, Public transports      | Passport, Visa     | nature, temples, skyline, nightlife, food, street food                     |
-| Bansko        | BULGARIA    | Bike, Walk, Taxi                              | Passport, CI       | nature, snow, lake, mountain                                               |
-| Barcelona     | SPAIN       | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, sea, wine, nightlife, parties, museums                             |
-| Budapest      | HUNGARY     | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, museum, city, river, sidewalk                                      |
-| Cordoba       | SPAIN       | Motorbike, Walk, Taxi, Public transports, Car | Passport, CI       | nature, bridge, nightlife, food                                            |
-| Formentera    | SPAIN       | Bike, Walk, Taxi, Motorbike, Car              | Passport, CI       | nature, sea, lake, beaches, sunsets, chill, relax, naked                   |
-| Fuerteventura | SPAIN       | Taxi, Car, Public transports, VAN             | Passport, CI       | nature, sand, beach, surf, wind, wild, van, rv                             |
-| Istanbul      | TÜRKIYE     | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, river, bridge, temple                                              |
-| Kuala Lumpur  | MALAYSIA    | Walk, Taxi, Public transports                 | Passport           | temple, skyline, nightlife, tower, food                                    |
-| Madrid        | SPAIN       | Bike, Walk, Taxi, Motorbike, Car              | Passport, CI       | park, nature, lake, city, skyline, sunset, chilling, nightlife             |
-| Malaga        | SPAIN       | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, beach, sea, church, castle                                         |
-| Singapore     | SINGAPORE   | Bike, Walk, Taxi, Public transports           | Passport, Visa     | nature, skyline, sea, beach                                                |
-| Sevilla       | SPAIN       | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, square, castle, church                                             |
-| Tenerife      | SPAIN       | Bike, Walk, Taxi, Car, Motorbike              | Passport, CI       | nature, volcano, lake, sea, beach, mountain, chill, relaxing, wine         |
+| Name                                                                       | State       | How to move                                   | Required Documents | Tags                                                                       |
+| -------------------------------------------------------------------------- | ----------- | --------------------------------------------- | ------------------ | -------------------------------------------------------------------------- |
+| [Amsterdam](https://italiaopensource.com/digital-nomads/amsterdam)         | NETHERLANDS | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, snow, river, mountain, museums,                                    |
+| [Bali](https://italiaopensource.com/digital-nomads/bali)                   | INDONESIA   | Walk, Taxi, Other                             | Passport, Visa     | nature, temples, surfing, mountain, visit, sea, dancing, trekking, volcano |
+| [Bangkok](https://italiaopensource.com/digital-nomads/bangkok)             | THAILAND    | Motorbike, Walk, Taxi, Public transports      | Passport, Visa     | nature, temples, skyline, nightlife, food, street food                     |
+| [Bansko](https://italiaopensource.com/digital-nomads/bansko)               | BULGARIA    | Bike, Walk, Taxi                              | Passport, CI       | nature, snow, lake, mountain                                               |
+| [Barcelona](https://italiaopensource.com/digital-nomads/barcelona)         | SPAIN       | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, sea, wine, nightlife, parties, museums                             |
+| [Budapest](https://italiaopensource.com/digital-nomads/budapest)           | HUNGARY     | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, museum, city, river, sidewalk                                      |
+| [Cordoba](https://italiaopensource.com/digital-nomads/cordoba)             | SPAIN       | Motorbike, Walk, Taxi, Public transports, Car | Passport, CI       | nature, bridge, nightlife, food                                            |
+| [Formentera](https://italiaopensource.com/digital-nomads/formentera)       | SPAIN       | Bike, Walk, Taxi, Motorbike, Car              | Passport, CI       | nature, sea, lake, beaches, sunsets, chill, relax, naked                   |
+| [Fuerteventura](https://italiaopensource.com/digital-nomads/fuerteventura) | SPAIN       | Taxi, Car, Public transports, VAN             | Passport, CI       | nature, sand, beach, surf, wind, wild, van, rv                             |
+| [Istanbul](https://italiaopensource.com/digital-nomads/istanbul)           | TÜRKIYE     | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, river, bridge, temple                                              |
+| [Kuala Lumpur](https://italiaopensource.com/digital-nomads/kuala-lumpur)   | MALAYSIA    | Walk, Taxi, Public transports                 | Passport           | temple, skyline, nightlife, tower, food                                    |
+| [Madrid](https://italiaopensource.com/digital-nomads/madrid)               | SPAIN       | Bike, Walk, Taxi, Motorbike, Car              | Passport, CI       | park, nature, lake, city, skyline, sunset, chilling, nightlife             |
+| [Malaga](https://italiaopensource.com/digital-nomads/malaga)               | SPAIN       | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, beach, sea, church, castle                                         |
+| [Singapore](https://italiaopensource.com/digital-nomads/singapore)         | SINGAPORE   | Bike, Walk, Taxi, Public transports           | Passport, Visa     | nature, skyline, sea, beach                                                |
+| [Sevilla](https://italiaopensource.com/digital-nomads/sevilla)             | SPAIN       | Bike, Walk, Taxi, Public transports           | Passport, CI       | nature, square, castle, church                                             |
+| [Tenerife](https://italiaopensource.com/digital-nomads/tenerife)           | SPAIN       | Bike, Walk, Taxi, Car, Motorbike              | Passport, CI       | nature, volcano, lake, sea, beach, mountain, chill, relaxing, wine         |
 
 ### Contributors
 
