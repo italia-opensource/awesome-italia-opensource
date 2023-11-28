@@ -1,0 +1,13 @@
+{
+  "name": "Syros",
+  "state_name": "Greece",
+  "required_documents": ["Passport", "CI"],
+  "internet_roaming": "Available",
+  "daily_average_cost": 40,
+  "description": "Syros is a Greek island located in the Aegean Sea, known for its rich history, picturesque landscapes, and well-preserved architecture. The island's main town, Ermoupoli, is distinguished by its neoclassical buildings and vibrant cultural scene. You will enjoy working from a café in the main square or directly in front of the sea. Plus, it's a very family friendly island.",
+  "tags": ["nature", "beach", "sea", "trekking", "family"],
+  "how_to_arrive": ["Airplane", "Ship", "Ferry"],
+  "how_to_move": ["Bike", "Walk", "Taxi", "Motorbike", "Public transports"],
+  "resources": ["https://workfromgreece.gr/location/syros/"],
+  "coworking": ["https://www.apanomeria.org/co-working/"]
+}
