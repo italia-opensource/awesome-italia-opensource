@@ -1,0 +1,9 @@
+{
+  "name": "Continuous Delivery",
+  "url": "https://www.youtube.com/@ContinuousDeliverySpark",
+  "type": "Channel",
+  "platform": "Youtube",
+  "description": "Un podcast in cui chiacchieriamo di sviluppo software, open source, cloud native, metodologie, e tutto quello che sta intorno al mondo IT.",
+  "tags": ["coding", "tech", "cloud native", "open source", "developers"],
+  "events_type": ["Podcast", "Video", "Conference"]
+}
