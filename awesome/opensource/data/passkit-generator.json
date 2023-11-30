@@ -2,7 +2,6 @@
   "name": "passkit-generator",
   "repository_platform": "github",
   "repository_url": "https://github.com/alexandercerutti/passkit-generator",
-  "site_url": "https://github.com/alexandercerutti/passkit-generator/wiki/API-Documentation-Reference",
   "type": "library",
   "description": "The easiest way to generate custom Apple Wallet passes in Node.js",
   "license": "MIT",
