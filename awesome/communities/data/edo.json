@@ -1,0 +1,9 @@
+{
+  "name": "Edoardo Dusi",
+  "url": "https://www.youtube.com/@edodusi",
+  "type": "Channel",
+  "platform": "Youtube",
+  "description": "Cerco di divulgare la tecnologia, tenere aggiornati sulle tech news, incentivare la contribuzione e le best practices.",
+  "tags": ["coding", "news", "tech", "cloud", "open source"],
+  "events_type": ["Podcast", "Video", "Conference"]
+}
