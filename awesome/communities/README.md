@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-20-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-21-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -38,6 +38,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Ripsters](https://italiaopensource.com/communities/ripsters)                                           | Channel    | Discord  | tech, career, community, networking                                                                                             |                                                                   |
 | [Schrödinger Hat](https://italiaopensource.com/communities/schrodinger-hat)                             | Channel    | Discord  | developers, networking, tech                                                                                                    |                                                                   |
 | [Sistemista Italiano](https://italiaopensource.com/communities/sistemista-italiano)                     | Channel    | Youtube  | dev, os, server, windows, linux, system, network                                                                                | Canale di informazione, video tutorial, guide e how-to dedic [..] |
+| [Startup Checklist](https://italiaopensource.com/communities/startup-checklist)                         | Blog       | Website  | startup, tech, business, funding, venture capital, angel, seed, business plan, pitch, mentors, startup studio                   | La ricetta per fare Startup, un percorso guidato dall'idea a [..] |
 | [Startup Italia](https://italiaopensource.com/communities/startup-italia)                               | Blog       | Website  | startup, startup ecosystem, tech news, investors, funding, venture capital, innovation, innovation ecosystem, innovation events | Il più grande network italiano di eventi dedicati all'innova [..] |
 | [TechCompenso](https://italiaopensource.com/communities/techcompenso)                                   | Blog       | Website  | dev, community, networking, tech, salary, transparency, italy                                                                   | TechCompenso is the go-to portal for uncovering the real ear [..] |
 | [Tech Workers Coalition Italia](https://italiaopensource.com/communities/tech-workers-coalition-italia) | Channel    | Telegram | developers, tech, networking, career, jobs                                                                                      | Senza di noi l'industria della tecnologia non esisterebbe, n [..] |
