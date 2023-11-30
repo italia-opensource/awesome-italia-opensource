@@ -2,6 +2,14 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main)
 
+## ⚠️ The State of Italian Open-Source Survey
+
+Join us and hundreds of other developers.
+
+Take part in the [survey](https://forms.gle/FvRxowZh5XPhByrM7) yourself, it will only take two minutes to complete.
+
+---
+
 **Italy Open-Source** is a project whose purpose is to give transparency to the Italian tech ecosystem.
 
 The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy's tech innovations**.
