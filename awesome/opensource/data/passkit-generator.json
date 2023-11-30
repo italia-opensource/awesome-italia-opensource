@@ -1,0 +1,15 @@
+{
+  "name": "passkit-generator",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/alexandercerutti/passkit-generator",
+  "type": "library",
+  "description": "The easiest way to generate custom Apple Wallet passes in Node.js",
+  "license": "MIT",
+  "tags": [
+    "nodejs",
+    "typescript",
+    "javascript",
+    "ios",
+    "passkit"
+  ]
+}
