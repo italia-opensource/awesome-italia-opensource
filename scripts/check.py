@@ -367,7 +367,8 @@ class CommunitiesChecker(Checker):
         'Video',
         'Audio',
         'Other',
-        'Coworking trips'
+        'Coworking trips',
+        'Podcast'
     ]
 
     def __init__(self) -> None:
