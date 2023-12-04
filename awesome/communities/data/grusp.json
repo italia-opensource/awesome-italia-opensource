@@ -1,0 +1,16 @@
+{
+    "name": "GrUSP",
+    "url": "https://www.grusp.org",
+    "type": "Event",
+    "platform": "Website",
+    "description": "Dal 2003 organizziamo eventi per formare e mettere in contatto persone accomunate dalla passione per lo sviluppo web.",
+    "tags": [
+      "tech", "career", "community", "networking", "developers", "user group"
+    ],
+    "events_type": [
+      "Meetup",
+      "Conference",
+      "Workshop",
+      "Hackathon"
+    ]
+  }

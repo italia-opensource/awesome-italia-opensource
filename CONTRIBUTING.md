@@ -231,6 +231,7 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Workshop
   - Hackathon
   - Chat
+  - Podcast
   - Other
 
 
