@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-23-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-24-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -31,6 +31,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Flutter Italia Developers](https://italiaopensource.com/communities/flutter-italia-developers)         | Channel    | Telegram | dev, flutter, apps, android, ios, mobile                                                                                        |                                                                   |
 | [fullremote.it](https://italiaopensource.com/communities/fullremote.it)                                 | Newsletter | Email    | tech, remoteworking, remote, jobs                                                                                               | A weekly newsletter (with remote jobs) and a telegram channe [..] |
 | [Giuppi dev](https://italiaopensource.com/communities/giuppi-dev)                                       | Channel    | Youtube  | developers, live, coding, javascript, digital nomad                                                                             | Sono un programmatore freelance e un nomade digitale, che la [..] |
+| [GrUSP](https://italiaopensource.com/communities/grusp)                                                 | Event      | Website  | tech, career, community, networking, developers, user group                                                                     | Dal 2003 organizziamo eventi per formare e mettere in contat [..] |
 | [Kubernetes It](https://italiaopensource.com/communities/kubernetes-it)                                 | Channel    | Telegram | developers, tech, kubernetes, sys, cloud                                                                                        | Gruppo di utilizzatori, veterani e newbie su Kubernetes: par [..] |
 | [La Locanda del Tech](https://italiaopensource.com/communities/la-locanda-del-tech)                     | Channel    | Telegram | dev, community, networking, tech                                                                                                | The Telegram channel of La Locanda del Tech, a Twitch channe [..] |
 | [Latina In Tech](https://italiaopensource.com/communities/latina-in-tech)                               | Channel    | Telegram | dev, talks, networking, tech                                                                                                    | Free events to foster knowledge sharing and professional gro [..] |
