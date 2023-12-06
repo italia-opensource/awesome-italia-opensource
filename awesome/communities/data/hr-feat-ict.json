@@ -1,0 +1,16 @@
+{
+    "name": "HR feat ICT",
+    "url": "https://t.me/+IxwjMC4ytMU4YjRk",
+    "type": "Channel",
+    "platform": "Telegram",
+    "description": "Nata per creare uno spazio di confronto e condivisione tra HR e professionisti ICT. È aperto a tutti/e, purché motivatə da reciproco scambio e dal sano confronto. È il luogo ideale dove: Ricevere supporto sull’iter di ricerca e selezione, Chiedere consigli (su CV, RAL, benefit), Esprimere dubbi e domande realtive al lavoro, Confrontarsi tra professionisti, Aiutare i recruiter a svolgere al meglio il loro lavoro. Possono utilizzare un bot open source per la condivisione degli annunci (Job Offer Bot)",
+    "tags": [
+      "dev", "talks", "networking", "tech", "hr", "ict", "job offers"
+    ],
+    "events_type": [
+      "Conference",
+      "Workshop",
+      "Webinar",
+      "Chat"
+    ]
+  }
