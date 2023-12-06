@@ -1,6 +1,6 @@
 # Awesome Digital Nomads | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-17-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-18-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Digital Nomads is a list of best places for remote working.
 
@@ -35,6 +35,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Kuala Lumpur](https://italiaopensource.com/digital-nomads/kuala-lumpur)   | MALAYSIA    | Walk, Taxi, Public transports                  | Passport           | temple, skyline, nightlife, tower, food                                    |
 | [Madrid](https://italiaopensource.com/digital-nomads/madrid)               | SPAIN       | Bike, Walk, Taxi, Motorbike, Car               | Passport, CI       | park, nature, lake, city, skyline, sunset, chilling, nightlife             |
 | [Malaga](https://italiaopensource.com/digital-nomads/malaga)               | SPAIN       | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, beach, sea, church, castle                                         |
+| [Nosy Be](https://italiaopensource.com/digital-nomads/nosy-be)             | MADAGASCAR  | Taxi, Motorbike, Public transports             | Passport           | relax, nature, beach, sea, exploration                                     |
 | [Singapore](https://italiaopensource.com/digital-nomads/singapore)         | SINGAPORE   | Bike, Walk, Taxi, Public transports            | Passport, Visa     | nature, skyline, sea, beach                                                |
 | [Sevilla](https://italiaopensource.com/digital-nomads/sevilla)             | SPAIN       | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, square, castle, church                                             |
 | [Syros](https://italiaopensource.com/digital-nomads/syros)                 | GREECE      | Bike, Walk, Taxi, Motorbike, Public transports | Passport, CI       | nature, beach, sea, trekking, family                                       |

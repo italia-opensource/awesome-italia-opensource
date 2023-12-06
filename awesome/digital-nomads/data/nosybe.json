@@ -1,0 +1,13 @@
+{
+    "name": "Nosy Be",
+    "state_name": "Madagascar",
+    "required_documents": ["Passport"],
+    "internet_roaming": "Local SIM required",
+    "daily_average_cost": 30,
+    "description": "Nosy Be, Madagascar, is a tropical island nestled in the Mozambique Channel, famed for its pristine beaches, thriving coral reefs, and lush landscapes. With vanilla plantations and diverse wildlife, this serene island invites visitors to explore its natural wonders and savor its calm allure amidst the Indian Ocean's beauty.",
+    "tags": ["relax", "nature", "beach", "sea", "exploration"],
+    "how_to_arrive": ["Airplane"],
+    "how_to_move": ["Taxi", "Motorbike", "Public transports"],
+    "resources": ["https://nosybe-tourisme.com/en/", "https://medium.com/@jayrald.ado/an-unforgettable-journey-exploring-madagascar-as-a-digital-nomad-1b04e1d1b0bb"],
+    "coworking": ["https://nosybe-pro.com/view-category?id=1026"]
+  }
