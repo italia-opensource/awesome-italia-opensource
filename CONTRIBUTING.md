@@ -276,13 +276,10 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Other
 
 - *Allowed item for 'internet_roaming'*
-  - Suggested
+  - Available
   - Not required
-  - Not available
+  - Local SIM required
   - Not yet available
-  - Not recommended
-  - Not necessary
-  - Other
 
 
 ### awesome/companies rules
