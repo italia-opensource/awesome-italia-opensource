@@ -215,6 +215,7 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Channel
   - Newsletter
   - Event
+  - Podcast
 
 - *Allowed Platform of communities*
   - Telegram
@@ -225,13 +226,15 @@ The maximum number of tags is 20. This rule is necessary to avoid format problem
   - Email
 
 - *Allowed Events Type of communities*
-  - Meetup
-  - Webinar
-  - Conference
-  - Workshop
-  - Hackathon
-  - Chat
-  - Podcast
+  - Telegram
+  - Discord
+  - Slack
+  - Reddit
+  - Website
+  - Email
+  - Location
+  - Youtube
+  - Twitch
   - Other
 
 
