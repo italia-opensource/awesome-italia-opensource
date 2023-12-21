@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-25-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-26-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -37,6 +37,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [La Locanda del Tech](https://italiaopensource.com/communities/la-locanda-del-tech)                     | Channel    | Telegram | dev, community, networking, tech                                                                                                | The Telegram channel of La Locanda del Tech, a Twitch channe [..] |
 | [Latina In Tech](https://italiaopensource.com/communities/latina-in-tech)                               | Channel    | Telegram | dev, talks, networking, tech                                                                                                    | Free events to foster knowledge sharing and professional gro [..] |
 | [MUG Marca User Group](https://italiaopensource.com/communities/mug-marca-user-group)                   | Channel    | Slack    | dev, talks, networking, tech                                                                                                    | MUG is a user group localed around Treviso (Veneto region) u [..] |
+| [Need for Nerd](https://italiaopensource.com/communities/need-for-nerd)                                 | Channel    | Other    | lavoro, tech, linguaggi                                                                                                         | Community generalista per developers in cui si discute di te [..] |
 | [Open Source Community](https://italiaopensource.com/communities/open-source-community)                 | Channel    | Telegram | developers, networking, tech, meme                                                                                              | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
 | [Red Hot Cyber](https://italiaopensource.com/communities/red-hot-cyber)                                 | Blog       | Website  | cyber, security, tech, cybercrime, hack news                                                                                    | Red Hot Cyber è una rivista online che tratta temi di tecnol [..] |
 | [Ripsters](https://italiaopensource.com/communities/ripsters)                                           | Channel    | Discord  | tech, career, community, networking                                                                                             |                                                                   |
