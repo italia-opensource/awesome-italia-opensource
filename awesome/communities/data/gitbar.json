@@ -1,0 +1,14 @@
+{
+    "name": "Gitbar",
+    "url": "https://t.me/gitbar",
+    "type": "Podcast",
+    "platform": "Telegram",
+    "description": "Il podcast dei developer italiani",
+    "tags": [
+      "developers", "networking", "tech", "podcast"
+    ],
+    "events_type": [
+      "Chat",
+      "Youtube"
+    ]
+  }
