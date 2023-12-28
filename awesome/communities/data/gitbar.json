@@ -5,7 +5,7 @@
     "platform": "Telegram",
     "description": "Il podcast dei developer italiani",
     "tags": [
-      "developers", "networking", "tech", "podcast"
+      "developers", "networking", "tech"
     ],
     "events_type": [
       "Chat",
