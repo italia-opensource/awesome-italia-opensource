@@ -1,6 +1,6 @@
 # Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-26-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-27-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -30,6 +30,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Fabio Biondi](https://italiaopensource.com/communities/fabio-biondi)                                   | Channel    | Twitch   | developers, live, tech, javscript                                                                                               | Durante le mie live: studio, sperimento, condivido il mio kn [..] |
 | [Flutter Italia Developers](https://italiaopensource.com/communities/flutter-italia-developers)         | Channel    | Telegram | dev, flutter, apps, android, ios, mobile                                                                                        |                                                                   |
 | [fullremote.it](https://italiaopensource.com/communities/fullremote.it)                                 | Newsletter | Email    | tech, remoteworking, remote, jobs                                                                                               | A weekly newsletter (with remote jobs) and a telegram channe [..] |
+| [Gitbar](https://italiaopensource.com/communities/gitbar)                                               | Podcast    | Telegram | developers, networking, tech                                                                                                    | Il podcast dei developer italiani                                 |
 | [Giuppi dev](https://italiaopensource.com/communities/giuppi-dev)                                       | Channel    | Youtube  | developers, live, coding, javascript, digital nomad                                                                             | Sono un programmatore freelance e un nomade digitale, che la [..] |
 | [GrUSP](https://italiaopensource.com/communities/grusp)                                                 | Event      | Website  | tech, career, community, networking, developers, user group                                                                     | Dal 2003 organizziamo eventi per formare e mettere in contat [..] |
 | [HR feat ICT](https://italiaopensource.com/communities/hr-feat-ict)                                     | Channel    | Telegram | dev, talks, networking, tech, hr, ict, job offers                                                                               | Nata per creare uno spazio di confronto e condivisione tra H [..] |
