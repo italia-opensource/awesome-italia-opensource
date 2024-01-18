@@ -1,0 +1,14 @@
+{
+    "name": "fiume",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/marco-ippolito/fiume",
+    "site_url": "https://www.npmjs.com/package/fiume",
+    "type": "library",
+    "license": "Apache-2.0",
+    "description": "State machine library for TypeScript",
+    "tags": [
+        "TypeScript",
+        "JavaScript",
+        "State machine"
+    ]
+}
