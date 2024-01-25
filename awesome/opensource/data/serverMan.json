@@ -1,0 +1,9 @@
+{
+    "name": "ServerMan",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Giuliano1993/serverMan",
+    "type": "tool",
+    "license": "MIT",
+    "description": "Serverman is a comprehensive tool for managing your servers across different platforms directly from your terminal.",
+    "tags": ["Node","DigitalOcean","Server","Vercel","Netlify","CLI"]
+}
