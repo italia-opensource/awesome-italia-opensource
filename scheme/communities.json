@@ -1,0 +1,70 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "type": "object",
+    "properties": {
+        "name": {"type": "string"},
+        "url": {"type": "string", "format": "uri"},
+        "description": {"type": "string", "minLength": 5, "maxLength": 508},
+        "type": {"type": "string", "enum": [
+            "Blog",
+            "Channel",
+            "Newsletter",
+            "Event",
+            "Podcast"
+        ]},
+        "platform": {"type": "string", "enum": [
+            "Telegram",
+            "Discord",
+            "Slack",
+            "Reddit",
+            "Website",
+            "Email",
+            "Location",
+            "Youtube",
+            "Twitch",
+            "Other"
+        ]},
+        "tags": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 20,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "maxLength": 24
+            }
+        },
+        "events_type": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": [
+                    "Talk",
+                    "Meetup",
+                    "Webinar",
+                    "Conference",
+                    "Workshop",
+                    "Hackathon",
+                    "Chat",
+                    "Article",
+                    "Video",
+                    "Audio",
+                    "Other",
+                    "Coworking trips",
+                    "Podcast"
+                ]
+            }
+        }
+    },
+    "required": [
+        "name",
+        "url",
+        "type",
+        "platform",
+        "tags",
+        "events_type"
+    ],
+    "additionalProperties": false
+}
