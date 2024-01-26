@@ -1,0 +1,12 @@
+{
+    "name": "Gitapper",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/gitapper",
+    "site_url": "https://github.com/Mte90/gitapper",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "git"
+		],
+    "description": "Remap Git with your custom scripts or new commands"
+}

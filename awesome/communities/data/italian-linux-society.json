@@ -1,0 +1,16 @@
+{
+    "name": "HR feat ICT",
+    "url": "https://www.ils.org/",
+    "type": "Channel",
+    "platform": "Other",
+    "description": "L'associazione italiana per la promozione e la divulgazione di Linux e del Software Libero e Open Source in Italia",
+    "tags": [
+      "dev", "talks", "networking", "tech", "linuz", "opensource", "job offers"
+    ],
+    "events_type": [
+      "Conference",
+      "Meetup",
+      "Email",
+      "Telegram",
+    ]
+  }

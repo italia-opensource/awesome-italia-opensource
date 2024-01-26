@@ -1,0 +1,12 @@
+{
+    "name": "GBAATM-Rebirth",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/GBAATM-Rebirth",
+    "site_url": "https://github.com/Mte90/GBAATM-Rebirth",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "retrogaming", "gameboy"
+		],
+    "description": "From the original source code a new rebirth, to add a Trainer in your GBA roms!"
+}
