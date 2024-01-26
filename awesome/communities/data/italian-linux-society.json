@@ -10,7 +10,6 @@
     "events_type": [
       "Conference",
       "Meetup",
-      "Email",
-      "Telegram",
+      "Other"
     ]
   }
