@@ -1,8 +1,7 @@
 {
-    "name": "Share-Backported",
+    "name": "GlotDict",
     "repository_platform": "github",
     "repository_url": "https://github.com/Mte90/GlotDict",
-    "site_url": "https://github.com/Mte90/GlotDict",
     "type": "tool",
     "license": "GPL-2.0",
     "tags": [

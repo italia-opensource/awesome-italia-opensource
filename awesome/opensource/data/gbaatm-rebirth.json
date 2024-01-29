@@ -1,8 +1,7 @@
 {
-    "name": "GBAATM-Rebirth",
+    "name": "GBAATM Rebirth",
     "repository_platform": "github",
     "repository_url": "https://github.com/Mte90/GBAATM-Rebirth",
-    "site_url": "https://github.com/Mte90/GBAATM-Rebirth",
     "type": "tool",
     "license": "GPL-3.0",
     "tags": [

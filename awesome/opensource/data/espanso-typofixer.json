@@ -1,8 +1,7 @@
 {
-    "name": "espanso-typofixer ",
+    "name": "espanso typofixer ",
     "repository_platform": "github",
     "repository_url": "https://github.com/Mte90/espanso-typofixer",
-    "site_url": "https://github.com/Mte90/espanso-typofixer",
     "type": "tool",
     "license": "GPL-3.0",
     "tags": [

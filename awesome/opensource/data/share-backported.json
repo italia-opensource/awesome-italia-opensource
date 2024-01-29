@@ -1,8 +1,7 @@
 {
-    "name": "Share-Backported",
+    "name": "Share Backported",
     "repository_platform": "github",
     "repository_url": "https://github.com/Mte90/Share-Backported",
-    "site_url": "https://github.com/Mte90/Share-Backported",
     "type": "tool",
     "license": "GPL-3.0",
     "tags": [
