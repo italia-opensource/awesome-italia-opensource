@@ -1,0 +1,11 @@
+{
+    "name": "Contribute to opensource: the right way",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/Contribute-to-opensource-the-right-way",
+    "type": "learning",
+    "license": "GPL-3.0",
+    "tags": [
+      "opensource", "book"
+		],
+    "description": "An open source book about how to contribute to open source."
+}

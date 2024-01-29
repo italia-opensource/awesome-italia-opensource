@@ -1,0 +1,11 @@
+{
+    "name": "espanso typofixer ",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/espanso-typofixer",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "typo"
+		],
+    "description": "Various Espanso packages to fix typos automatically for you on Italian, English, Spanish and French"
+}

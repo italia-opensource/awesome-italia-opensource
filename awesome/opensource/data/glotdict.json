@@ -1,0 +1,11 @@
+{
+    "name": "GlotDict",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/GlotDict",
+    "type": "tool",
+    "license": "GPL-2.0",
+    "tags": [
+      "javascript", "firefox", "browser-extension"
+		],
+    "description": "This extension for WordPress polyglots implements new features to improve the quality of translation/reviews!"
+}

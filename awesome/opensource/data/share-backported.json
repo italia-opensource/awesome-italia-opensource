@@ -1,0 +1,11 @@
+{
+    "name": "Share Backported",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/Share-Backported",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "javascript", "firefox", "browser-extension"
+		],
+    "description": "Extension to get back the Firefox Share modal"
+}

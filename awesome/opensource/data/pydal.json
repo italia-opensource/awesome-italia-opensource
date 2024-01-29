@@ -1,0 +1,11 @@
+{
+    "name": "Pydal",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/pydal",
+    "type": "scripts",
+    "license": "GPL-3.0",
+    "tags": [
+      "python"
+		],
+    "description": "Remap your specific keyboard to execute custom scripts!"
+}

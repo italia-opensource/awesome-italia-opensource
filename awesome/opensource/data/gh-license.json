@@ -1,0 +1,11 @@
+{
+    "name": "GH License",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/GH-License",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "python", "git", "license"
+		],
+    "description": "Scan your online repo, check if it is missing the license (or install the Git Hooks in your machine)"
+}

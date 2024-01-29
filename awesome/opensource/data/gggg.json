@@ -1,0 +1,11 @@
+{
+    "name": "Game Genie Good Guy",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Mte90/Game-Genie-Good-Guy",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "retrogaming", "gameboy", "genesis"
+		],
+    "description": "Patch your rom with Game Genie codes"
+}

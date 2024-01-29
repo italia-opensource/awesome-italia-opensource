@@ -1,0 +1,12 @@
+{
+    "name": "WordPress Plugin Boilerplate Powered",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
+    "site_url": "https://wpbp.github.io/",
+    "type": "tool",
+    "license": "GPL-3.0",
+    "tags": [
+      "wordpress", "boilerplate"
+		],
+    "description": "Wordpress Plugin Boilerplate but Powered with examples and a generator!"
+}
