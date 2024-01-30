@@ -1,0 +1,17 @@
+{
+    "name": "Open Profiler",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/Til0r/open-profiler",
+    "type": "tool",
+    "description": "Build your unique online presence with Open Profiler a responsive and feature-rich portfolio, easily tailored to showcase your skills, experience, and projects.",
+    "license": "MIT",
+    "tags": [
+        "portfolio",
+        "personal-brand",
+        "experiences",
+        "skills",
+        "projects",
+        "educations",
+        "angular"
+    ]
+}
