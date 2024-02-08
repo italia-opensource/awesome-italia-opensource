@@ -1,0 +1,25 @@
+{
+  "name": "Milano",
+  "state_name": "Italy",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Available",
+  "daily_average_cost": 80,
+  "description": "Milan is the most modern city in Italy. Skyscrapers, business, finance, fashion and sports are the most productive things in the city, that extends itself around the Duomo",
+  "tags": [
+    "nature", "river", "museums"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Train", "Car"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://www.scopriremilano.com/cosa-vedere"
+  ],
+  "coworking": [
+    "https://www.yesmilano.it/coworking-milano", "https://citylifeshoppingdistrict.it/en/"
+  ]
+}
