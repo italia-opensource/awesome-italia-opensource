@@ -1,0 +1,10 @@
+{
+  "name": "Astro Minimal",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/DomeT99/astro-minimal",
+  "site_url": "https://demo-astro-minimal.netlify.app/",
+  "type": "template",
+  "description": "An open source blog template build with Astro and Bulma",
+  "license": "MIT",
+  "tags": ["astro", "javascript", "typescript", "bulmacss"]
+}
