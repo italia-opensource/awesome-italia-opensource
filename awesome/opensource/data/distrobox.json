@@ -1,0 +1,21 @@
+{
+  "name": "Distrobox",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/89luca89/distrobox",
+  "site_url": "https://distrobox.it",
+  "description": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with",
+  "type": "tool",
+  "license": "GPL-3.0",
+  "tags": [
+    "bash",
+    "command-line",
+    "containers",
+    "development",
+    "docker",
+    "linux",
+    "podman",
+    "posix",
+    "sh",
+    "tools"
+  ]
+}
