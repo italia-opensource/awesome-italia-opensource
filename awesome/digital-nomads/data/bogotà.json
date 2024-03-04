@@ -1,0 +1,14 @@
+{
+    "name": "Bogotà",
+    "state_name": "Colombia",
+    "required_documents": ["Passport", "CI"],
+    "internet_roaming": "Available",
+    "daily_average_cost": 20,
+    "description": "Bogotá, the capital of Colombia, is known for its rich history, vibrant culture, and stunning Andean setting. The city features colonial architecture in La Candelaria, world-class museums like the Gold Museum, and lush green spaces such as Simon Bolivar Park. With its lively café culture and family-friendly vibe, Bogotá offers a unique blend of the traditional and modern.",
+    "tags": ["nature", "beach", "sea", "trekking", "family"],
+    "how_to_arrive": ["Airplane", "Ship", "Ferry"],
+    "how_to_move": ["Bike", "Walk", "Taxi", "Motorbike", "Public transports"],
+    "resources": ["https://www.civitatis.com/blog/it/bogota-in-un-giorno/"],
+    "coworking": ["https://www.wework.com/l/coworking-space/bogota"]
+  }
+  
