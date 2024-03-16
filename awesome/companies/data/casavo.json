@@ -2,10 +2,11 @@
     "name": "Casavo",
     "site_url": "https://casavo.com/",
     "type": "B2C",
-    "market": "Housing",
-    "description": "Vendere o comprare casa non è così semplice. Per questo nasce Casavo, per migliorare questa esperienza.",
+    "market": "Real Estate",
     "tags": [
-        "house"
+        "agenzia online", "case"
     ],
-    "foundation_year": "2017"
+    "description": "Casavo è un'agenzia online per la compravendita di casa con largo uso di data analytics e machina learning",
+    "foundation_year": "20158",
+    "address": "Via Elia Lombardini, 10, 20143 Milano"
 }

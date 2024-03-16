@@ -1,0 +1,25 @@
+{
+  "name": "Livigno",
+  "state_name": "Italy",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Available",
+  "daily_average_cost": 70,
+  "description": "Livigno is a city placed between mountains 1816m above sea level. Is amazing for his view on the lake, to ski, to ride a bicycle and to do some hiking and trekking.",
+  "tags": [
+    "nature", "snow", "river", "mountain", "hiking", "trekking"
+  ],
+  "how_to_arrive": [
+    "Bus", "Car"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://www.livigno.eu/cosa-vedere-livigno"
+  ],
+  "coworking": [
+    "https://www.mottolino.com/categoria-prodotto/coworking/"
+  ]
+}
