@@ -1,6 +1,6 @@
 # Awesome Digital Nomads | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-18-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-19-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Digital Nomads is a list of best places for remote working.
 
@@ -27,6 +27,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Bangkok](https://italiaopensource.com/digital-nomads/bangkok)             | THAILAND    | Motorbike, Walk, Taxi, Public transports       | Passport, Visa     | nature, temples, skyline, nightlife, food, street food                     |
 | [Bansko](https://italiaopensource.com/digital-nomads/bansko)               | BULGARIA    | Bike, Walk, Taxi                               | Passport, CI       | nature, snow, lake, mountain                                               |
 | [Barcelona](https://italiaopensource.com/digital-nomads/barcelona)         | SPAIN       | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, sea, wine, nightlife, parties, museums                             |
+| [Bogotà](https://italiaopensource.com/digital-nomads/bogota)               | COLOMBIA    | Bike, Walk, Taxi, Motorbike, Public transports | Passport, CI       | nature, beach, sea, trekking, family                                       |
 | [Budapest](https://italiaopensource.com/digital-nomads/budapest)           | HUNGARY     | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, museum, city, river, sidewalk                                      |
 | [Cordoba](https://italiaopensource.com/digital-nomads/cordoba)             | SPAIN       | Motorbike, Walk, Taxi, Public transports, Car  | Passport, CI       | nature, bridge, nightlife, food                                            |
 | [Formentera](https://italiaopensource.com/digital-nomads/formentera)       | SPAIN       | Bike, Walk, Taxi, Motorbike, Car               | Passport, CI       | nature, sea, lake, beaches, sunsets, chill, relax, naked                   |
