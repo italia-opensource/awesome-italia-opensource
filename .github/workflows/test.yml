@@ -25,4 +25,4 @@ jobs:
       - name: Setup and test
         run: |
           make setup-ci
-          make lint-ci
+          make lint
