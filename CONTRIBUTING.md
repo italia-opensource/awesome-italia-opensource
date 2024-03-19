@@ -31,7 +31,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
    ```
    make setup
    source .activate
-   python scripts/check.py
+   make lint
    ```
 5. if the tests are passed successfully create PR on GitHub, the title should be `feat(type): added/updated Name`
 
