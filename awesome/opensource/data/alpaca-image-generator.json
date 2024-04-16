@@ -1,9 +1,9 @@
 {
     "name": "Alpaca Image Generator",
     "repository_platform": "github",
-    "repository_url": "https://github.com/salvatorericcardi/awesome-italia-opensource",
+    "repository_url": "https://github.com/salvatorericcardi/alpaca-generator",
     "site_url": "https://salvatorericcardi.github.io/alpaca-generator",
-    "type": "opensource",
+    "type": "tool",
     "description": "Customize your alpaca or generate a random one and download it.",
     "license": "MIT",
     "tags": [
