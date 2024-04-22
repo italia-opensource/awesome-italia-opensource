@@ -17,9 +17,9 @@
     "Walk", "Taxi", "Other"
   ],
   "resources": [
-    ""
+    "https://google.it"
   ],
   "coworking": [
-    "https://www.coworker.com/thailand/chiang-rai?view=list", "Starbucks", "Amazon Cafè"
+    "https://www.coworker.com/thailand/chiang-rai?view=list", "https://www.starbucks.co.th/", "https://www.cafe-amazon.com/index.aspx?Lang=EN"
   ]
 }

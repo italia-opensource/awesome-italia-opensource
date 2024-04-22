@@ -17,9 +17,9 @@
     "Walk", "Taxi", "Other"
   ],
   "resources": [
-    ""
+    "https://vitanellozaino.com/"
   ],
   "coworking": [
-    "https://www.coworker.com/thailand/koh-samui?view=list", "Starbucks", "Amazon Cafè"
+    "https://www.coworker.com/thailand/koh-samui?view=list", "https://www.starbucks.co.th/", "https://www.cafe-amazon.com/index.aspx?Lang=EN"
   ]
 }

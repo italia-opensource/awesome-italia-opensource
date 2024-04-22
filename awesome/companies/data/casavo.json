@@ -1,12 +1,11 @@
 {
     "name": "Casavo",
-    "site_url": "https://casavo.com/",
+    "site_url": "https://casavo.com",
     "type": "B2C",
     "market": "Housing",
     "tags": [
-        "Housing"
+        "real estate"
     ],
     "description": "Casavo è un'agenzia online per la compravendita di casa con largo uso di data analytics e machina learning",
-    "foundation_year": "20158",
-    "address": "Via Elia Lombardini, 10, 20143 Milano"
+    "foundation_year": "2017"
 }
