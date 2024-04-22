@@ -9,10 +9,7 @@ setup:
 	chmod -R +x ./scripts/dev.sh && ./scripts/dev.sh
 
 setup-ci:
-	pip3 install -r requirements.txt
+	pip3 install -r requirements.txt && pre-commit install
 
 lint:
 	pre-commit run --all-files && python3 scripts/check.py && python3 scripts/render.py
-
-lint-ci:
-	python3 scripts/check.py && python3 scripts/render.py
