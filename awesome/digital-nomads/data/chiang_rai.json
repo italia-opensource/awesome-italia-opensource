@@ -1,0 +1,25 @@
+{
+  "name": "Chiang Rai",
+  "state_name": "Thailand",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 30,
+  "description": "Chiang Mai is a city in the north of Thailand, avoid it in March/April due to smoky season. Temples, nature and tours are amazing. The city center is an old fortress and there is a viewpoint on mountain that is amazing",
+  "tags": [
+    "nature", "temples", "mountain", "visit", "dancing", "trekking"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Car"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Other"
+  ],
+  "resources": [
+    "http://vitanellozaino.com/2024/04/02/chiang-rai/"
+  ],
+  "coworking": [
+    "https://www.coworker.com/thailand/chiang-mai?view=list", "Starbucks", "Amazon Cafè"
+  ]
+}

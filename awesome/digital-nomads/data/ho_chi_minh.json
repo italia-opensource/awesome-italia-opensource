@@ -1,0 +1,25 @@
+{
+  "name": "Ho Chi Ming / Saigon",
+  "state_name": "Vietnam",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 40,
+  "description": "Ho Chi Minh, or Saigon, is a city in the south of Vietnam. Full of life, people and temples, parks and gardens to see.",
+  "tags": [
+    "nature", "temples", "mountain", "visit", "dancing"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Car"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Other"
+  ],
+  "resources": [
+    ""
+  ],
+  "coworking": [
+    "https://maps.app.goo.gl/SzwEq9R6GvCubiRS7"
+  ]
+}

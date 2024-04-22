@@ -1,0 +1,25 @@
+{
+  "name": "Phuket",
+  "state_name": "Thailand",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 40,
+  "description": "Phuket is a big island in south of Thailand. Beautiful sunsets, beaches and bars to enjoy life and work remotely",
+  "tags": [
+    "nature", "temples", "mountain", "visit", "sea", "dancing", "trekking"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Car"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Other"
+  ],
+  "resources": [
+    ""
+  ],
+  "coworking": [
+    "Rock Salt Cafè", "https://www.xyzlab.com/post/coworking-spaces-phuket", "Starbucks", "Amazon Cafè"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Chiang Mai",
+  "state_name": "Thailand",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 30,
+  "description": "Chiang Rai is a city in the north of Thailand, avoid it in March/April due to smoky season. Temples, nature and tours are amazing",
+  "tags": [
+    "nature", "temples", "mountain", "visit", "dancing", "trekking"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Car"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Other"
+  ],
+  "resources": [
+    ""
+  ],
+  "coworking": [
+    "https://www.coworker.com/thailand/chiang-rai?view=list", "Starbucks", "Amazon Cafè"
+  ]
+}
