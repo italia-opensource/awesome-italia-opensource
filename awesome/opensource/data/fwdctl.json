@@ -1,0 +1,12 @@
+{
+  "name": "Fwdctl",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/alegrey91/fwdctl",
+  "site_url": "https://github.com/alegrey91/fwdctl",
+  "type": "tool",
+  "description": "CLI tool to easily manage IPTables forwards",
+  "license": "Apache-2.0",
+  "tags": [
+	"golang", "network", "iptables", "linux"
+  ]
+}
