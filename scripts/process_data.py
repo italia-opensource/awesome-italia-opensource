@@ -2,10 +2,11 @@ import argparse
 import json
 import os
 import sys
-import urllib
-from datetime import datetime
+from datetime import datetime, timezone
 from random import randint
 from time import sleep
+
+import urllib3
 
 # Set the base directory to the root of the project
 _BASEDIR = os.path.dirname(os.path.abspath(__file__))
@@ -13,8 +14,8 @@ if _BASEDIR.endswith('scripts'):
     _BASEDIR = _BASEDIR.split('/scripts')[0]
 sys.path.insert(1, _BASEDIR)  # noqa
 
-_TIMESTAMP_OBJ = datetime.now()
-_TIMESTAMP = str(_TIMESTAMP_OBJ.strftime('%Y/%m/%d %H:%M'))
+_TIMESTAMP_OBJ = datetime.now(timezone.utc)
+_TIMESTAMP = str(_TIMESTAMP_OBJ.isoformat()[:-13] + 'Z')
 _ANALYTICS_DIR = f'{_BASEDIR}/analytics'
 
 
@@ -91,16 +92,15 @@ def github_get_repo_languages(owner: str, repo: str, token: str):
         'Authorization': f'Bearer {token}'
     }
     languages = {}
-    request = urllib.request.Request(url, headers=headers)
+    response = urllib3.request('GET', url, headers=headers)
     try:
-        with urllib.request.urlopen(request) as response:
-            data = response.read().decode('utf-8')
-            try:
-                languages = json.loads(data)
-            except json.JSONDecodeError as e:
-                raise json.JSONDecodeError(f'Error decoding JSON: {e}')
-    except urllib.error.HTTPError as e:
-        raise urllib.error.HTTPError(f'Error fetching data: {e}')
+        data = response.data.decode('utf-8')
+        try:
+            languages = json.loads(data)
+        except json.JSONDecodeError as e:
+            raise json.JSONDecodeError(f'Error decoding JSON: {e}')
+    except urllib3.exceptions.HTTPError as e:
+        raise urllib3.exceptions.HTTPError(f'Error fetching data: {e}')
 
     return languages
 
@@ -255,44 +255,42 @@ def github_get_repo_metadata(owner: str, repo: str, token: str, languages: dict)
         'Authorization': f'Bearer {token}'
     }
 
-    request = urllib.request.Request(url, headers=headers)
+    reqsponse = urllib3.request('GET', url, headers=headers)
     try:
-        with urllib.request.urlopen(request) as response:
-            data = response.read().decode('utf-8')
-            try:
-                metadata = json.loads(data)
-                return {
-                    'meta': {
-                        'name': metadata['name'],
-                        'full_name': metadata['full_name'],
-                        'html_url': metadata['html_url'],
-                        'created_at': metadata['created_at'],
-                        'updated_at': metadata['updated_at'],
-                        'pushed_at': metadata['pushed_at'],
-                        'archived': metadata['archived'],
-                        'disabled': metadata['disabled'],
-                        'owner': metadata['owner']['login'],
-                        'owner_type': metadata['owner']['type'],
-                        'topics': metadata['topics'] if metadata['topics'] else [],
-                        'license': metadata['license']['name'] if metadata['license'] else '',
-                    },
-                    'analytics': {
-                        'language': metadata['language'],
-                        'languages': github_convert_to_percentage(languages),
-                        'languages_byte': languages,
-                        'stargazers_count': metadata['stargazers_count'],
-                        'forks_count': metadata['forks_count'],
-                        'open_issues_count': metadata['open_issues_count'],
-                        'forks': metadata['forks'],
-                        'open_issues': metadata['open_issues'],
-                        'watchers': metadata['watchers'],
-                        'updated_at': _TIMESTAMP
-                    }
+        try:
+            metadata = json.loads(reqsponse.data)
+            return {
+                'meta': {
+                    'name': metadata['name'],
+                    'full_name': metadata['full_name'],
+                    'html_url': metadata['html_url'],
+                    'created_at': metadata['created_at'],
+                    'updated_at': metadata['updated_at'],
+                    'pushed_at': metadata['pushed_at'],
+                    'archived': metadata['archived'],
+                    'disabled': metadata['disabled'],
+                    'owner': metadata['owner']['login'],
+                    'owner_type': metadata['owner']['type'],
+                    'topics': metadata['topics'] if metadata['topics'] else [],
+                    'license': metadata['license']['name'] if metadata['license'] else '',
+                },
+                'analytics': {
+                    'language': metadata['language'],
+                    'languages': github_convert_to_percentage(languages),
+                    'languages_byte': languages,
+                    'stargazers_count': metadata['stargazers_count'],
+                    'forks_count': metadata['forks_count'],
+                    'open_issues_count': metadata['open_issues_count'],
+                    'forks': metadata['forks'],
+                    'open_issues': metadata['open_issues'],
+                    'watchers': metadata['watchers'],
+                    'updated_at': _TIMESTAMP
                 }
-            except json.JSONDecodeError as e:
-                raise json.JSONDecodeError(f'Error decoding JSON: {e}')
-    except urllib.error.HTTPError as e:
-        raise urllib.error.HTTPError(f'Error fetching data: {e}')
+            }
+        except json.JSONDecodeError as e:
+            raise json.JSONDecodeError(f'Error decoding JSON: {e}')
+    except urllib3.exceptions.HTTPError as e:
+        raise urllib3.exceptions.HTTPError(f'Error fetching data: {e}')
 
 
 def prepare_data_for_database(data: list):
@@ -332,8 +330,11 @@ def render_db(path: str):
 
             with open(file_path, 'r') as f:
                 el = json.load(f)
-                el['filename'] = file
-                el['timestamp'] = _TIMESTAMP
+                el['autogenerated'] = {
+                    **el.get('autogenerated', {}),
+                    'filename': file,
+                    'timestamp': _TIMESTAMP
+                }
                 data[el['name']] = el
 
     return prepare_data_for_database(data)
@@ -372,40 +373,41 @@ def process_opensource(with_analytics: bool = False):
 
     if with_analytics:
         for idx, repo_object in enumerate(db_opensources['data']):
-            if repo_object['repository_url'] == 'gitlab':
-                print(f"# {idx + 1} - Skipping {repo_object['name']}")
+            if idx != 59:
                 continue
-            owner, name = github_split_repo_url(repo_object['repository_url'])
-            print(f"# {idx + 1} - Getting languages for {owner}/{name}")
 
-            try:
+            if repo_object['repository_platform'] == 'gitlab':
+                print(f"# {idx + 1} - Skipping {repo_object['name']}")
+
+            if repo_object['repository_platform'] == 'github':
+                owner, name = github_split_repo_url(
+                    repo_object['repository_url'])
+                print(f"# {idx + 1} - Getting languages for {owner}/{name}")
+
                 languages = github_get_repo_languages(
                     owner, name, os.environ['CALL_GH_API'])
                 db_languages = update_languages(
                     db_languages['data'], languages)
-            except:  # noqa
-                languages = {}
 
-            try:
                 metadata = github_get_repo_metadata(
                     owner, name, os.environ['CALL_GH_API'], languages)
-            except:  # noqa
-                metadata = {}
 
-            repo_object['meta'] = metadata.get('meta', {})
-            repo_object['analytics'] = metadata.get('analytics', {})
+                autogenerated = repo_object.get('autogenerated', {})
+                autogenerated['meta'] = metadata.get('meta', {})
+                autogenerated['analytics'] = metadata.get('analytics', {})
 
-            analytics = repo_object.get('analytics_history', {})
-            analytics_year = analytics.get(str(_TIMESTAMP_OBJ.year), {})
-            analytics_year[str(_TIMESTAMP_OBJ.month)
-                           ] = repo_object['analytics']
-            analytics[str(_TIMESTAMP_OBJ.year)] = analytics_year
-            repo_object['analytics_history'] = analytics
+                analytics_history = autogenerated.get('analytics_history', {})
+                analytics_year = analytics_history.get(
+                    str(_TIMESTAMP_OBJ.year), {})
+                analytics_year[str(_TIMESTAMP_OBJ.month)
+                               ] = autogenerated['analytics']
+                analytics_history[str(_TIMESTAMP_OBJ.year)] = analytics_year
+                autogenerated['analytics_history'] = analytics_history
 
-            with open(f'{get_raw_data_filepath('opensource')}/{repo_object['filename']}', 'w') as f:
+                _delay()
+
+            with open(f'{get_raw_data_filepath('opensource')}/{repo_object['autogenerated']['filename']}', 'w') as f:
                 json.dump(repo_object, f, indent=2)
-
-            _delay()
 
         with open(get_languages_analytics_filename(), 'w') as f:
             json.dump(db_languages, f, indent=2)
