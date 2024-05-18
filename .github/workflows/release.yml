@@ -34,11 +34,11 @@ jobs:
       - name: Setup
         run: |
           make setup-ci
-          make lint
+          make check-data
+          make render-data
 
       - name: Render awesome README.md
         run: |
-          python3 scripts/render.py
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
           if [ -z "$(git status --porcelain)" ]; then

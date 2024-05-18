@@ -12,4 +12,12 @@ setup-ci:
 	pip3 install -r requirements.txt && pre-commit install
 
 lint:
-	pre-commit run --all-files && python3 scripts/check.py && python3 scripts/render.py
+	pre-commit run --all-files
+
+check-data:
+	python3 scripts/check.py
+
+render-data:
+	python3 scripts/render.py
+
+test: lint check-data render-data
