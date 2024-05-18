@@ -10,23 +10,32 @@ from time import sleep
 # Set the base directory to the root of the project
 _BASEDIR = os.path.dirname(os.path.abspath(__file__))
 if _BASEDIR.endswith('scripts'):
-    BASEDIR = _BASEDIR.split('/scripts')[0]
+    _BASEDIR = _BASEDIR.split('/scripts')[0]
 sys.path.insert(1, _BASEDIR)  # noqa
 
 _TIMESTAMP_OBJ = datetime.now()
 _TIMESTAMP = str(_TIMESTAMP_OBJ.strftime('%Y/%m/%d %H:%M'))
+_ANALYTICS_DIR = f'{_BASEDIR}/analytics'
 
 
-def get_database_filename():
-    return f'{BASEDIR}/database.json'
+def get_database_analytitcs_filename():
+    return f'{_ANALYTICS_DIR}/database.json'
 
 
-def get_languages_database_filename():
-    return f'{BASEDIR}/languages.json'
+def get_languages_analytics_filename():
+    return f'{_ANALYTICS_DIR}/languages.json'
+
+
+def get_analytics_mounth_filepath():
+    analytics_mounth_basepath = f'{
+        _ANALYTICS_DIR}/{_TIMESTAMP_OBJ.year}/{_TIMESTAMP_OBJ.month}'
+    if not os.path.exists(analytics_mounth_basepath):
+        os.makedirs(analytics_mounth_basepath)
+    return analytics_mounth_basepath
 
 
 def get_awesomelist_database_filename(list_name: str):
-    filepath = f'{BASEDIR}/awesome/{list_name}/'
+    filepath = f'{_BASEDIR}/awesome/{list_name}/'
     if not os.path.dirname(filepath):
         raise Exception(f"Directory {filepath} does not exist")
 
@@ -34,7 +43,7 @@ def get_awesomelist_database_filename(list_name: str):
 
 
 def get_raw_data_filepath(list_name: str):
-    filepath = f'{BASEDIR}/awesome/{list_name}/data/'
+    filepath = f'{_BASEDIR}/awesome/{list_name}/data/'
     if not os.path.dirname(filepath):
         raise Exception(f"Directory {filepath} does not exist")
     return filepath
@@ -363,6 +372,9 @@ def process_opensource(with_analytics: bool = False):
 
     if with_analytics:
         for idx, repo_object in enumerate(db_opensources['data']):
+            if repo_object['repository_url'] == 'gitlab':
+                print(f"# {idx + 1} - Skipping {repo_object['name']}")
+                continue
             owner, name = github_split_repo_url(repo_object['repository_url'])
             print(f"# {idx + 1} - Getting languages for {owner}/{name}")
 
@@ -395,15 +407,10 @@ def process_opensource(with_analytics: bool = False):
 
             _delay()
 
-        with open(get_languages_database_filename(), 'w') as f:
+        with open(get_languages_analytics_filename(), 'w') as f:
             json.dump(db_languages, f, indent=2)
 
-        basepath = f'{BASEDIR}/_languages/{
-            _TIMESTAMP_OBJ.year}/{_TIMESTAMP_OBJ.month}'
-        if not os.path.exists(basepath):
-            os.makedirs(basepath)
-
-        with open(f'{basepath}/languages.json', 'w') as f:
+        with open(f'{get_analytics_mounth_filepath()}/languages.json', 'w') as f:
             json.dump(db_languages, f, indent=2)
 
     with open(get_awesomelist_database_filename('opensource'), 'w') as f:

@@ -1,11 +1,20 @@
 {
-    "name": "Opencity Italia",
-    "repository_platform": "gitlab",
-    "repository_url": "https://gitlab.com/opencontent/stanza-del-cittadino/core",
-    "site_url": "https://opencityitalia.it/",
-    "type": "saas",
-    "license": "AGPL-3.0",
-    "tags": [
-      "microservices", "event-sourcing", "symfony", "kafka", "golang", "fastapi", "python", "clickhouse", "surrealdb"
-    ]
+  "name": "Opencity Italia",
+  "type": "saas",
+  "tags": [
+    "microservices",
+    "event-sourcing",
+    "symfony",
+    "kafka",
+    "golang",
+    "fastapi",
+    "python",
+    "clickhouse",
+    "surrealdb"
+  ],
+  "description": null,
+  "site_url": "https://opencityitalia.it/",
+  "repository_platform": "gitlab",
+  "repository_url": "https://gitlab.com/opencontent/stanza-del-cittadino/core",
+  "license": "AGPL-3.0"
 }

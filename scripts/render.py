@@ -220,7 +220,7 @@ class OpensourceReadme(Readme):
                 item['repository_platform'], item['repository_url'], item['license'])
             tags = ', '.join(item['tags'])
             description = item.get('description', '')
-            if len(description) > 59:
+            if description and len(description) > 59:
                 description = description[0:60] + ' [..]'
 
             table_content.append([
