@@ -19,7 +19,7 @@
       "full_name": "platformatic/platformatic",
       "html_url": "https://github.com/platformatic/platformatic",
       "created_at": "2022-09-22T07:32:19Z",
-      "updated_at": "2024-05-18T10:17:04Z",
+      "updated_at": "2024-05-18T13:43:01Z",
       "pushed_at": "2024-05-18T12:38:47Z",
       "archived": false,
       "disabled": false,
@@ -53,13 +53,13 @@
         "Shell": 1746,
         "Dockerfile": 1282
       },
-      "stargazers_count": 1390,
+      "stargazers_count": 1391,
       "forks_count": 135,
       "open_issues_count": 175,
       "forks": 135,
       "open_issues": 175,
-      "watchers": 1390,
-      "updated_at": "2024-05-18T12:51:54Z"
+      "watchers": 1391,
+      "updated_at": "2024-05-18T13:53:03Z"
     },
     "analytics_history": {
       "2024": {
@@ -185,16 +185,16 @@
             "Shell": 1746,
             "Dockerfile": 1282
           },
-          "stargazers_count": 1390,
+          "stargazers_count": 1391,
           "forks_count": 135,
           "open_issues_count": 175,
           "forks": 135,
           "open_issues": 175,
-          "watchers": 1390,
-          "updated_at": "2024-05-18T12:51:54Z"
+          "watchers": 1391,
+          "updated_at": "2024-05-18T13:53:03Z"
         }
       }
     },
-    "timestamp": "2024-05-18T12:51:54Z"
+    "timestamp": "2024-05-18T13:53:03Z"
   }
 }

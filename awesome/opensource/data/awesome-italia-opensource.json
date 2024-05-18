@@ -23,7 +23,7 @@
       "html_url": "https://github.com/italia-opensource/awesome-italia-opensource",
       "created_at": "2022-09-02T21:10:31Z",
       "updated_at": "2024-05-17T08:52:11Z",
-      "pushed_at": "2024-05-18T09:05:30Z",
+      "pushed_at": "2024-05-18T13:42:02Z",
       "archived": false,
       "disabled": false,
       "owner": "italia-opensource",
@@ -62,7 +62,7 @@
       "forks": 68,
       "open_issues": 2,
       "watchers": 255,
-      "updated_at": "2024-05-18T12:19:00Z"
+      "updated_at": "2024-05-18T13:53:03Z"
     },
     "analytics_history": {
       "2024": {
@@ -164,10 +164,10 @@
           "forks": 68,
           "open_issues": 2,
           "watchers": 255,
-          "updated_at": "2024-05-18T12:19:00Z"
+          "updated_at": "2024-05-18T13:53:03Z"
         }
       }
     },
-    "timestamp": "2024-05-18T12:19:00Z"
+    "timestamp": "2024-05-18T13:53:03Z"
   }
 }

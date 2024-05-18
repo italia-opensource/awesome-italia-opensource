@@ -18,7 +18,7 @@
       "html_url": "https://github.com/strawberry-graphql/strawberry",
       "created_at": "2018-12-21T08:56:55Z",
       "updated_at": "2024-05-17T14:45:09Z",
-      "pushed_at": "2024-05-17T07:35:18Z",
+      "pushed_at": "2024-05-18T13:11:54Z",
       "archived": false,
       "disabled": false,
       "owner": "strawberry-graphql",
@@ -62,7 +62,7 @@
       "forks": 504,
       "open_issues": 486,
       "watchers": 3796,
-      "updated_at": "2024-05-18T12:51:54Z"
+      "updated_at": "2024-05-18T13:53:03Z"
     },
     "analytics_history": {
       "2024": {
@@ -184,10 +184,10 @@
           "forks": 504,
           "open_issues": 486,
           "watchers": 3796,
-          "updated_at": "2024-05-18T12:51:54Z"
+          "updated_at": "2024-05-18T13:53:03Z"
         }
       }
     },
-    "timestamp": "2024-05-18T12:51:54Z"
+    "timestamp": "2024-05-18T13:53:03Z"
   }
 }

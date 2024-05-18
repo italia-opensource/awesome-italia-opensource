@@ -17,7 +17,7 @@
       "full_name": "redis/redis",
       "html_url": "https://github.com/redis/redis",
       "created_at": "2009-03-21T22:32:25Z",
-      "updated_at": "2024-05-18T12:38:44Z",
+      "updated_at": "2024-05-18T13:12:23Z",
       "pushed_at": "2024-05-18T08:34:13Z",
       "archived": false,
       "disabled": false,
@@ -57,13 +57,13 @@
         "Smarty": 1047,
         "JavaScript": 953
       },
-      "stargazers_count": 65088,
+      "stargazers_count": 65091,
       "forks_count": 23498,
       "open_issues_count": 2468,
       "forks": 23498,
       "open_issues": 2468,
-      "watchers": 65088,
-      "updated_at": "2024-05-18T12:51:54Z"
+      "watchers": 65091,
+      "updated_at": "2024-05-18T13:53:03Z"
     },
     "analytics_history": {
       "2024": {
@@ -219,16 +219,16 @@
             "Smarty": 1047,
             "JavaScript": 953
           },
-          "stargazers_count": 65088,
+          "stargazers_count": 65091,
           "forks_count": 23498,
           "open_issues_count": 2468,
           "forks": 23498,
           "open_issues": 2468,
-          "watchers": 65088,
-          "updated_at": "2024-05-18T12:51:54Z"
+          "watchers": 65091,
+          "updated_at": "2024-05-18T13:53:03Z"
         }
       }
     },
-    "timestamp": "2024-05-18T12:51:54Z"
+    "timestamp": "2024-05-18T13:53:03Z"
   }
 }
