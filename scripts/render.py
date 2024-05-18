@@ -172,25 +172,31 @@ class OpensourceReadme(Readme):
 
     def content(self, data):
         def _repository(repository_platform, repositories_url, license):
-            license = f'<img align="right" src="https://img.shields.io/static/v1?label=license&message={license}&color=orange" alt="License">'
+            license = f'<img align="right" src="https://img.shields.io/static/v1?label=license&message={
+                license}&color=orange" alt="License">'
             if repository_platform == 'github':
                 repositories_url = '/'.join(repository_url.replace(
                     'https://github.com/', '').split('/')[0:2])
-                stars = f'<img align="right" src="https://img.shields.io/github/stars/{repositories_url}?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars">'
-                issues = f'<img align="right" src="https://img.shields.io/github/issues-raw/{repositories_url}" alt="Issues">'
+                stars = f'<img align="right" src="https://img.shields.io/github/stars/{
+                    repositories_url}?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars">'
+                issues = f'<img align="right" src="https://img.shields.io/github/issues-raw/{
+                    repositories_url}" alt="Issues">'
                 return f'{stars}<br>{issues}<br>{license}'
 
             if repository_platform == 'bitbucket':
                 repositories_url = '/'.join(repository_url.replace(
                     'https://bitbucket.org/', '').split('/')[0:2])
-                issues = f'<img align="right" src="https://img.shields.io/bitbucket/issues-raw/{repositories_url}" alt="Issues">'
+                issues = f'<img align="right" src="https://img.shields.io/bitbucket/issues-raw/{
+                    repositories_url}" alt="Issues">'
                 return f'{issues}<br>{license}'
 
             if repository_platform == 'gitlab':
                 repositories_url = '/'.join(repository_url.replace(
                     'https://gitlab.com', '').split('/')[0:2])
-                stars = f'<img align="right" src="https://img.shields.io/gitlab/stars/{repositories_url}?label=%E2%AD%90%EF%B8%8F&logo=gitlab" alt="Stars">'
-                issues = f'<img align="right" src="https://img.shields.io/gitlab/issues/open-raw/{repositories_url}" alt="Issues">'
+                stars = f'<img align="right" src="https://img.shields.io/gitlab/stars/{
+                    repositories_url}?label=%E2%AD%90%EF%B8%8F&logo=gitlab" alt="Stars">'
+                issues = f'<img align="right" src="https://img.shields.io/gitlab/issues/open-raw/{
+                    repositories_url}" alt="Issues">'
                 return f'{stars}<br>{issues}<br>{license}'
 
         self.doc.add_heading(self.name.title(), level=3)

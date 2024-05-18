@@ -35,7 +35,7 @@ class Checker():
         return self.jsonschema(content)
 
     def validate(self, dirpath: str):
-        print(f'Check: {dirpath.split("/")[-2].title()}')
+        print(f'Check: {dirpath.split('/')[-2].title()}')
         loaded = []
         for project in os.listdir(dirpath):
             filename = abspath(dirpath, project)
