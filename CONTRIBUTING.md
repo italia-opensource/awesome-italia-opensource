@@ -14,7 +14,7 @@ We have three type of issues:
 
 1. Bug report
 2. Feature request
-2. Question
+3. Question
 
 ## How To Contribute with PRs
 
@@ -28,11 +28,13 @@ Projects entered must be maintained and have guidelines and/or documentation for
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
 3. File content should respect json rule
 4. Before commit exec
-   ```
+
+   ```bash
    make setup
    source .activate
    make lint
    ```
+
 5. if the tests are passed successfully create PR on GitHub, the title should be `feat(type): added/updated Name`
 
 **ATTENTION** do not modify any README.md file.
@@ -134,7 +136,7 @@ Schema reference: [companies.json](https://github.com/italia-opensource/awesome-
 
 Reuirements:
 
-- Python >= 3.6
+- Python >= 3.12
 - utils: make, pip3
 
 Setup env:
