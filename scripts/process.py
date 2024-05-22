@@ -429,7 +429,7 @@ def process_db(
     db = render_db_awesome_list(get_awesome_list_filepath(list_name))
 
     if not without_analytics:
-        if os.getenv("TOKEN_GITHUB_PUBLIC_API"):
+        if not os.getenv("TOKEN_GITHUB_PUBLIC_API"):
             raise ValueError(
                 "GitHub API token not found. Please set the environment variable TOKEN_GITHUB_PUBLIC_API in your shell."
             )
