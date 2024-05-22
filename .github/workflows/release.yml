@@ -26,13 +26,13 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python 3.12
+      - name: Setup Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip"
 
-      - name: Setup
+      - name: Setup CI
         run: |
           make setup-ci
 
@@ -41,7 +41,7 @@ jobs:
         run: |
           make release ARGS=--without-analytics
 
-      - name: Render analytics data
+      - name: Render awesome with analytics data
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           make release
