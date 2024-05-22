@@ -1,4 +1,4 @@
-# Awesome Open-Source | Italia Open-Source
+# 💻 Awesome Open-Source | Italia Open-Source
 
 <img src='https://img.shields.io/badge/list-91-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
@@ -6,9 +6,9 @@ Awesome Italia Open-Source is a list of open-source projects created by italian 
 
 The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.
 
-Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
+Feel free to make your contribution. If you want to add a new item to one or more lists please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
 
-### Mantained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
+### Support us
 
 <a href="https://opencollective.com/italia-open-source/donate" target="_blank"><img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 /></a>
 
@@ -113,10 +113,6 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Wordpress Plugin Boilerplate Powered](https://italiaopensource.com/opensources/wordpress-plugin-boilerplate-powered)     | [<img align="right" src="https://img.shields.io/github/stars/WPBP/WordPress-Plugin-Boilerplate-Powered?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/WPBP/WordPress-Plugin-Boilerplate-Powered" alt="Issues"><br><img align="right" src="https://img.shields.io/static/v1?label=license&message=GPL-3.0&color=orange" alt="License">](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered)                      | wordpress, boilerplate                                                                                                                                            | Wordpress Plugin Boilerplate but Powered with examples and a [..] |
 | [Yamlinc](https://italiaopensource.com/opensources/yamlinc)                                                               | [<img align="right" src="https://img.shields.io/github/stars/javanile/yamlinc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/javanile/yamlinc" alt="Issues"><br><img align="right" src="https://img.shields.io/static/v1?label=license&message=MIT&color=orange" alt="License">](https://github.com/javanile/yamlinc)                                                                                                     | yaml, openapi                                                                                                                                                     | None                                                              |
 | [Youtube-To-Anchorfm](https://italiaopensource.com/opensources/youtube-to-anchorfm)                                       | [<img align="right" src="https://img.shields.io/github/stars/Schrodinger-Hat/youtube-to-anchorfm?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/Schrodinger-Hat/youtube-to-anchorfm" alt="Issues"><br><img align="right" src="https://img.shields.io/static/v1?label=license&message=MIT&color=orange" alt="License">](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)                                            | javascript, automation, docker, puppeteer, github-action                                                                                                          | None                                                              |
-
-### Contributors
-
-<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
 
 ### License
 

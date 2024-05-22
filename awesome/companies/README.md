@@ -1,4 +1,4 @@
-# Awesome Companies | Italia Open-Source
+# 🏡 Awesome Companies | Italia Open-Source
 
 <img src='https://img.shields.io/badge/list-42-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
@@ -6,9 +6,9 @@ Awesome Companies is a list of italian startups, scale-up and companies that inn
 
 The repository intends to give visibility to companies and stimulate the community to contribute to growing the ecosystem.
 
-Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
+Feel free to make your contribution. If you want to add a new item to one or more lists please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
 
-### Mantained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
+### Support us
 
 <a href="https://opencollective.com/italia-open-source/donate" target="_blank"><img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 /></a>
 
@@ -64,10 +64,6 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Wiseair](https://italiaopensource.com/companies/wiseair)                                     | B2B  | Health      | smart city                                                                                   | Uniamo persone, municipalità e aziende nella difesa dell'ari [..] |
 | [Yolo](https://italiaopensource.com/companies/yolo)                                           | B2C  | Insurance   | assicurazioni, polizze                                                                       | Innovare l'offerta assicurativa per soddisfare nuove esigenz [..] |
 | [Zappyrent](https://italiaopensource.com/companies/zappyrent)                                 | D2C  | Service     | affitti, case                                                                                | Piattaforma di affitti a medio‑lungo termine, che gestisce l [..] |
-
-### Contributors
-
-<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
 
 ### License
 

@@ -17,16 +17,16 @@ repos:
       - id: check-yaml
       - id: debug-statements
       - id: requirements-txt-fixer
-      - id: double-quote-string-fixer
+  - repo: https://github.com/psf/black
+    rev: 23.12.1
+    hooks:
+      - id: black
+        language_version: python3.12
   - repo: https://github.com/pycqa/isort
     rev: 5.13.2
     hooks:
       - id: isort
-        name: isort (python)
-  - repo: https://github.com/hhatto/autopep8
-    rev: v2.1.0
-    hooks:
-      - id: autopep8
+        args: ["--profile", "black", "--filter-files"]
   - repo: https://github.com/PyCQA/flake8
     rev: 7.0.0
     hooks:

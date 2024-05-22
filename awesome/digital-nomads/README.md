@@ -1,4 +1,4 @@
-# Awesome Digital Nomads | Italia Open-Source
+# 🌍 Awesome Digital Nomads | Italia Open-Source
 
 <img src='https://img.shields.io/badge/list-19-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
@@ -6,9 +6,9 @@ Awesome Italia Digital Nomads is a list of best places for remote working.
 
 The repository intends to give visibility to digital nomads and stimulate the people to share and contribute to growing the remote working ecosystem.
 
-Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
+Feel free to make your contribution. If you want to add a new item to one or more lists please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
 
-### Mantained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
+### Support us
 
 <a href="https://opencollective.com/italia-open-source/donate" target="_blank"><img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 /></a>
 
@@ -41,10 +41,6 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Sevilla](https://italiaopensource.com/digital-nomads/sevilla)             | SPAIN       | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, square, castle, church                                             |
 | [Syros](https://italiaopensource.com/digital-nomads/syros)                 | GREECE      | Bike, Walk, Taxi, Motorbike, Public transports | Passport, CI       | nature, beach, sea, trekking, family                                       |
 | [Tenerife](https://italiaopensource.com/digital-nomads/tenerife)           | SPAIN       | Bike, Walk, Taxi, Car, Motorbike               | Passport, CI       | nature, volcano, lake, sea, beach, mountain, chill, relaxing, wine         |
-
-### Contributors
-
-<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
 
 ### License
 
