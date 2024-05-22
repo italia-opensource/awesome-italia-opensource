@@ -161,7 +161,7 @@ make test
 2. Run:
 
 ```bash
-echo "export CALL_GH_API=_YOUR_TOKEN_" > .env
+echo "export TOKEN_GITHUB_PUBLIC_API=_YOUR_TOKEN_" > .env
 source .activate
 make test
 make process-data
