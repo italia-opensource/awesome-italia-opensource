@@ -43,6 +43,8 @@ jobs:
 
       - name: Render awesome with analytics data
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          TOKEN_GITHUB_PUBLIC_API: ${{ secrets.TOKEN_GITHUB_PUBLIC_API }}
         run: |
           make release
 
