@@ -4,8 +4,12 @@ default_language_version:
 default_stages: [commit, push]
 
 repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.18.2
+    hooks:
+      - id: gitleaks
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.1.0
+    rev: v4.5.0
     hooks:
       - id: trailing-whitespace
       - id: check-docstring-first
@@ -13,21 +17,21 @@ repos:
       - id: check-yaml
       - id: debug-statements
       - id: requirements-txt-fixer
-      - id: double-quote-string-fixer
+  - repo: https://github.com/psf/black
+    rev: 23.12.1
+    hooks:
+      - id: black
+        language_version: python3.12
   - repo: https://github.com/pycqa/isort
-    rev: 5.12.0
+    rev: 5.13.2
     hooks:
       - id: isort
-        name: isort (python)
-  - repo: https://github.com/pre-commit/mirrors-autopep8
-    rev: v1.6.0
-    hooks:
-      - id: autopep8
+        args: ["--profile", "black", "--filter-files"]
   - repo: https://github.com/PyCQA/flake8
-    rev: 4.0.1
+    rev: 7.0.0
     hooks:
       - id: flake8
-        additional_dependencies: [flake8-typing-imports==1.12.0]
+        additional_dependencies: [flake8-typing-imports==1.15.0]
         args: # arguments to configure flake8
           # making isort line length compatible with black
           - "--max-line-length=88"

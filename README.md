@@ -2,18 +2,16 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main)
 
-**Italy Open-Source** is a project whose purpose is to give transparency to the Italian tech ecosystem.
 
 The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy's tech innovations**.
 
-Through a series of **awesome** lists, we seek to give visibility to open-source projects, communities, tech blogs, innovative companies, and more.
+Through a series of **awesome lists**, we seek to give visibility to open-source Projects, Communities, Tech blogs, Innovative companies, and more.
 
-Transparently, you can access, add, or modify the data in the repository, respecting the contribution conduct criteria.
+Feel free to make your contribution. If you want to add a new item to one or more lists please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
 
-### 🚀 Website view
+### 🟢 Website
 
 [italiaopensource.com](https://italiaopensource.com)
-
 
 ### ☀️ Awesome Lists
 
@@ -25,24 +23,27 @@ Transparently, you can access, add, or modify the data in the repository, respec
 
 - [List of Tech Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
 
-### ❤️ Maintained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
+### 📊 Analytics
+
+In the [analytics/](analytics) folder, you will find all the aggregated data for each awesome list. This will allow you to access the data to download and use it most easily.
+
+The aggregated file of open-source projects also contains statistical data and metadata retrieved via API from GitHub, allowing you to have a complete overview.
+
+### 🔥 Our Contributors
+
+<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
+
+### ❤️ Support us
 
 <a href="https://opencollective.com/italia-open-source/donate" target="_blank">
   <img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 />
 </a>
 
-
-### 🔥 Contributors
-
-Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
-
-<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
-
-
 ### Join with us
 
-
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/italia-open-source)
+
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+WsJ91uPMVbUzZjk0)
 
 ### License
 

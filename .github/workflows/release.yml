@@ -1,8 +1,5 @@
 name: Release
 
-env:
-  AWS_REGION: ${{ vars.AWS_REGION }}
-
 permissions:
   id-token: write
   contents: write
@@ -12,81 +9,71 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/release.yml'
-      - 'awesome/**'
+      - ".github/workflows/release.yml"
+      - "awesome/**"
+  schedule:
+    - cron: "0 9 15 * *" # every 15th of the month at 9:00 AM UTC
   workflow_dispatch:
-
 
 jobs:
   render-data:
     name: Render Data
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure aws credentials
-        uses: aws-actions/configure-aws-credentials@v1
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
         with:
-          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/${{ secrets.AWS_ROLE_NAME }}
-          aws-region: ${{ env.AWS_REGION }}
-          mask-aws-account-id: no
+          python-version: "3.12"
+          cache: "pip"
 
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9
-
-      - name: Setup
+      - name: Setup CI
         run: |
           make setup-ci
 
-      - name: Get changed files in the docs folder
-        id: changed-files-specific
-        uses: tj-actions/changed-files@v35
-        with:
-          files: |
-            awesome/opensource/data/*.json
-            awesome/companies/data/*.json
-            awesome/communities/data/*.json
-            awesome/digital-nomads/data/*.json
-
-      - name: Notify SQS
-        env:
-          SQS_URL_DATA_INGESTION: ${{ secrets.SQS_URL_DATA_INGESTION }}
+      - name: Render awesome data
+        if: github.event_name == 'push'
         run: |
-          python3 scripts/notify.py --changed-files '${{ toJSON(steps.changed-files-specific.outputs) }}'
+          make release ARGS=--without-analytics
+
+      - name: Render awesome with analytics data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          TOKEN_GITHUB_PUBLIC_API: ${{ secrets.TOKEN_GITHUB_PUBLIC_API }}
+        run: |
+          make release
 
       - name: Render awesome README.md
         run: |
-          python3 scripts/render.py
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
           if [ -z "$(git status --porcelain)" ]; then
               echo "Nothing to update"
           else
               git add awesome/**/README.md
-              git commit -m "release(awesome): Update README.md"
+              git add analytics/*
+              git commit -m "release(awesome): update awesome data"
               git push
           fi
 
       - name: Trigger deployment workflow
         uses: actions/github-script@v6
         with:
-            github-token: ${{ secrets.ACTION_WORKFLOWS }}
-            retries: 3
-            script: |
-                const owner = 'italia-opensource';
-                const repo = 'infrastructure';
-                const event_type = 'deployment';
-                const ref = 'main';
+          github-token: ${{ secrets.ACTION_WORKFLOWS }}
+          retries: 3
+          script: |
+            const owner = 'italia-opensource';
+            const repo = 'italia-opensource-website';
+            const event_type = 'deployment';
+            const ref = 'main';
 
-                github.rest.repos.createDispatchEvent({
-                    owner,
-                    repo,
-                    event_type
-                });
+            github.rest.repos.createDispatchEvent({
+                owner,
+                repo,
+                event_type
+            });
