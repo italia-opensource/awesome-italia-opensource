@@ -41,11 +41,12 @@ class Checker:
             filename = abspath(dirpath, project)
 
             if not os.path.isfile(filename):
-                print(f"Skip render '{filename}'")
+                print(f"\t(WARN)\t{filename} [Not found]")
                 continue
 
             if not project.endswith(".json"):
-                raise Exception(f"File {project} is not json")
+                print(f"\t(WARN)\t{filename} [Not json]")
+                continue
 
             item = (project.replace(".json", ""), filename)
 
@@ -55,7 +56,7 @@ class Checker:
 
         values = []
         for name, filename in loaded:
-            print(f"\tFile: {name}.json")
+            print(f"\t{name}")
             values.append(self.json_validate(filename))
 
         return values

@@ -33,8 +33,7 @@ jobs:
       - name: Setup
         run: |
           make setup-ci
-          make check-data
-          make render-data
+          make release ARGS=--without-analytics
 
       - name: Render awesome README.md
         run: |
@@ -44,7 +43,8 @@ jobs:
               echo "Nothing to update"
           else
               git add awesome/**/README.md
-              git commit -m "release(awesome): Update README.md"
+              git add analytics/*
+              git commit -m "release(awesome): update awesome data"
               git push
           fi
 

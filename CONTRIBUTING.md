@@ -27,15 +27,16 @@ Projects entered must be maintained and have guidelines and/or documentation for
 1. Open `awesome/{companies,opensource,communities,digital-nomads}/data` directory
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
 3. File content should respect json rule
-4. Before commit exec
+4. (Optional) Before commit exec
 
    ```bash
    make setup
    source .activate
-   make lint
+   make lint check-data
    ```
 
 5. if the tests are passed successfully create PR on GitHub, the title should be `feat(type): added/updated Name`
+   **WARNING *type*** must be: companies, opensource, communities or digital-nomads)
 
 **ATTENTION** do not modify any README.md file.
 
@@ -134,13 +135,34 @@ Schema reference: [companies.json](https://github.com/italia-opensource/awesome-
 
 ### Online one-click setup for contributing
 
-Reuirements:
+|Reuirements|Version|
+|---|---|
+|Python| >= 3.10|
+|Makefile| |
 
-- Python >= 3.12
-- utils: make, pip3
+**Setup local env**:
 
-Setup env:
+```bash
+git clone https://github.com/italia-opensource/awesome-italia-opensource.git
 
-- clone the awesome-italia-opensource repostory.
-- run `make setup`
-- run `source .activate`
+cd awesome-italia-opensource
+
+run make setup
+run source .activate
+
+make test
+```
+
+**Create Analytics**:
+
+1. Create GitHub PAT [here](https://github.com/settings/tokens?type=beta)
+   1. Add **Repository access** > `Public Repositories (read-only)`
+   2. Save and copy token
+2. Run:
+
+```bash
+echo "export CALL_GH_API=_YOUR_TOKEN_" > .env
+source .activate
+make test
+make process-data
+```
