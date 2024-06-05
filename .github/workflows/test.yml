@@ -5,24 +5,31 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/test.yml'
-      - 'awesome/**'
+      - ".github/workflows/test.yml"
+      - "awesome/**"
+      - "scheme/**"
+      - "scripts/render.py"
+      - "scripts/check.py"
     types: [opened, synchronize]
 
 jobs:
   test-data:
     name: Test Data
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Check out code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v4
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.9
+          python-version: "3.12"
+          cache: "pip"
 
-      - name: Setup and test
+      - name: Setup CI
         run: |
           make setup-ci
-          make lint
+
+      - name: Test awesome data
+        run: |
+          make test
