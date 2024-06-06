@@ -54,16 +54,19 @@ jobs:
           make release
 
       - name: Render awesome README.md
+        id: render-awesome
         run: |
           git config --global user.email "${{ secrets.ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
           if [ -z "$(git status --porcelain)" ]; then
-              echo "Nothing to update"
+            echo "Nothing to update"
+            echo "commit_sha=${{ github.sha }}" >> $GITHUB_OUTPUT
           else
-              git add awesome/**/README.md
-              git add analytics/*
-              git commit -m "release(awesome): update awesome data"
-              git push
+            git add awesome/**/README.md
+            git add analytics/*
+            git commit -m "release(awesome): update awesome data"
+            git push
+            echo "commit_sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
           fi
 
       - name: Trigger deployment workflow
@@ -77,7 +80,7 @@ jobs:
             const event_type = 'sync-database';
             const ref = 'main';
             const client_payload = {
-              "hash": "${{ github.sha }}",
+              "hash": "${{ steps.render-awesome.outputs.commit_sha }}",
               "run_id": "${{ github.run_id }}",
             };
 
