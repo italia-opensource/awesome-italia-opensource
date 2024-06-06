@@ -1,0 +1,25 @@
+{
+  "name": "Hua Hin",
+  "state_name": "Thailand",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 30,
+  "description": "Hua Hin is a city in the center of Thailand next to the sea and with kyte surf schools",
+  "tags": [
+    "nature", "temples", "mountain", "visit", "trekking"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Bus", "Car"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Other"
+  ],
+  "resources": [
+    "https://www.thailandiapertutti.it/citta-e-localita/hua-hin/"
+  ],
+  "coworking": [
+    "https://www.starbucks.co.th/", "https://www.cafe-amazon.com/index.aspx?Lang=EN"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Koh Samui",
+  "state_name": "Thailand",
+  "required_documents": [
+    "Passport", "Visa"
+  ],
+  "internet_roaming": "Local SIM required",
+  "daily_average_cost": 30,
+  "description": "Koh Samui is an island of Thailand. Placed in the center of the country, in the Gulf od Thailand, the water of the sea is very hot and have nice sunsets and temples next to the beaches.",
+  "tags": [
+    "nature", "temples", "mountain", "visit", "dancing", "trekking", "sea"
+  ],
+  "how_to_arrive": [
+    "Airplane", "Ferry"
+  ],
+  "how_to_move": [
+    "Walk", "Taxi", "Other"
+  ],
+  "resources": [
+    "https://vitanellozaino.com/"
+  ],
+  "coworking": [
+    "https://www.coworker.com/thailand/koh-samui?view=list", "https://www.starbucks.co.th/", "https://www.cafe-amazon.com/index.aspx?Lang=EN"
+  ]
+}

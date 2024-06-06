@@ -1,0 +1,25 @@
+{
+  "name": "Latina",
+  "state_name": "Italy",
+  "required_documents": [
+    "Passport", "CI"
+  ],
+  "internet_roaming": "Available",
+  "daily_average_cost": 40,
+  "description": "Latina is a  city 60km far away from Rome. Is 15km far from the sea and the province is full of history. Ninfa Gardens, old towns and the sea in the province is amazing.",
+  "tags": [
+    "nature", "temple", "river", "mountain", "museums"
+  ],
+  "how_to_arrive": [
+    "Bus", "Train", "Car"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://www.latinamipiace.it/citta-latina-cosa-vedere/"
+  ],
+  "coworking": [
+    "https://www.thespacecoworking.website/", "https://tooheadgraphicstudio.com/co-working-a-latina/"
+  ]
+}
