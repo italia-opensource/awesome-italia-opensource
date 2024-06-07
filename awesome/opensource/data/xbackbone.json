@@ -4,7 +4,7 @@
   "repository_url": "https://www.github.com/sergix44/xbackbone",
   "site_url": "https://xbackbone.app",
   "type": "tool",
-  "description": "XBackBone is a simple, self-hosted, lightweight file manager that support the instant sharing tool ShareX and *NIX",
+  "description": "XBackBone is a simple, self-hosted, lightweight file manager that support multiple instant sharing tools and storage backends.",
   "license": "AGPL-3.0",
   "tags": [
     "file-manager",
