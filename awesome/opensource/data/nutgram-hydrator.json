@@ -1,0 +1,13 @@
+{
+  "name": "Nutgram Hydrator",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/nutgram/hydrator",
+  "type": "library",
+  "description": "A super fast, strongly typed, and powerful hydrator for Nutgram",
+  "license": "MIT",
+  "tags": [
+    "php",
+    "dto",
+    "hydrator"
+  ]
+}

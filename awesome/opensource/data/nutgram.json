@@ -1,0 +1,17 @@
+{
+  "name": "Nutgram",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/nutgram/nutgram",
+  "site_url": "https://nutgram.dev",
+  "type": "library",
+  "description": "Nutgram is a powerful PHP Telegram bot framework that allows you to build bots easily. Integrates with Laravel and Symfony out of the box.",
+  "license": "MIT",
+  "tags": [
+    "php",
+    "telegram",
+    "bot",
+    "framework",
+    "laravel",
+    "symfony"
+  ]
+}
