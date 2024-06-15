@@ -1,0 +1,9 @@
+{
+  "name": "La Brigata dei Geek Estinti",
+  "url": "https://www.youtube.com/@LaBrigataDeiGeekEstinti",
+  "type": "Channel",
+  "platform": "Youtube",
+  "description": "Un podcast Live ad assetto variabile dove ogni geek estinto, ma vivo, può intervenire quando vuole. Si parla di IT, programmazione, DevOps, retro computing, cloud, scena demo, cultura geek, vita, universo e tutto quanto.",
+  "tags": ["it", "tech", "cloud", "geek", "devops", "retrocomputing"],
+  "events_type": ["Podcast", "Video"]
+}
