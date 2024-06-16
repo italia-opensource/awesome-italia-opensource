@@ -1,6 +1,6 @@
 # 👥 Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-29-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-30-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -36,6 +36,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [Italian Linux Society](https://italiaopensource.com/communities/italian-linux-society)                 | Channel    | Other    | dev, talks, networking, tech, linuz, opensource, job offers                                                                     | L'associazione italiana per la promozione e la divulgazione [..]  |
 | [KCD Italy](https://italiaopensource.com/communities/kcd-italy)                                         | Event      | Location | dev, talk, networking, tech, CloudNative, Kubernetes, DevOps, opensource                                                        | KCD Italy (#kcditaly) is a CNCF (Cloud Native Computing Foun [..] |
 | [Kubernetes It](https://italiaopensource.com/communities/kubernetes-it)                                 | Channel    | Telegram | developers, tech, kubernetes, sys, cloud                                                                                        | Gruppo di utilizzatori, veterani e newbie su Kubernetes: par [..] |
+| [La Brigata dei Geek Estinti](https://italiaopensource.com/communities/la-brigata-dei-geek-estinti)     | Channel    | Youtube  | it, tech, cloud, geek, devops, retrocomputing                                                                                   | Un podcast Live ad assetto variabile dove ogni geek estinto, [..] |
 | [La Locanda del Tech](https://italiaopensource.com/communities/la-locanda-del-tech)                     | Channel    | Telegram | dev, community, networking, tech                                                                                                | The Telegram channel of La Locanda del Tech, a Twitch channe [..] |
 | [Latina In Tech](https://italiaopensource.com/communities/latina-in-tech)                               | Channel    | Telegram | dev, talks, networking, tech                                                                                                    | Free events to foster knowledge sharing and professional gro [..] |
 | [MUG Marca User Group](https://italiaopensource.com/communities/mug-marca-user-group)                   | Channel    | Slack    | dev, talks, networking, tech                                                                                                    | MUG is a user group localed around Treviso (Veneto region) u [..] |
