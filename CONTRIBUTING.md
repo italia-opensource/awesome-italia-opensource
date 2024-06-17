@@ -30,7 +30,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 4. (Optional) Before commit exec
 
    ```bash
-   make setup
+   make deps
    source .activate
    make lint check-data
    ```
@@ -147,22 +147,28 @@ git clone https://github.com/italia-opensource/awesome-italia-opensource.git
 
 cd awesome-italia-opensource
 
-run make setup
-run source .activate
+make deps
+source .activate
 
 make test
 ```
 
 **Create Analytics**:
 
-1. Create GitHub PAT [here](https://github.com/settings/tokens?type=beta)
-   1. Add **Repository access** > `Public Repositories (read-only)`
-   2. Save and copy token
-2. Run:
-
 ```bash
+# Set secrets from Doppler
+doppler login
+make setup
+# Or set secrets manually (*)
 echo "export TOKEN_GITHUB_PUBLIC_API=_YOUR_TOKEN_" > .env
+
 source .activate
+
 make test
 make process-data
 ```
+
+(*) Create GitHub PAT [here](https://github.com/settings/tokens?type=beta):
+
+  1. Add **Repository access** > `Public Repositories (read-only)`
+  2. Save and copy token
