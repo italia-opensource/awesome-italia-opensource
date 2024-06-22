@@ -1,0 +1,17 @@
+{
+  "name": "Open Source Saturday Milano",
+  "url": "https://www.meetup.com/open-source-saturday-milano/",
+  "type": "Event",
+  "platform": "Other",
+  "description": "Ci troviamo un sabato al mese per contribuire insieme a progetti open source.",
+  "tags": [
+    "open source",
+    "saturday",
+    "hands-on",
+    "programming",
+    "hacking",
+    "sharing",
+    "contributing"
+  ],
+  "events_type": ["Meetup", "Hackathon"]
+}
