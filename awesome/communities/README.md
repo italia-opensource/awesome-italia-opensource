@@ -1,6 +1,6 @@
 # 👥 Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-32-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-33-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -52,6 +52,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [Startup Italia](https://italiaopensource.com/communities/startup-italia)                               | Blog       | Website  | startup, startup ecosystem, tech news, investors, funding, venture capital, innovation, innovation ecosystem, innovation events | Il più grande network italiano di eventi dedicati all'innova [..] |
 | [Tech Workers Coalition Italia](https://italiaopensource.com/communities/tech-workers-coalition-italia) | Channel    | Telegram | developers, tech, networking, career, jobs                                                                                      | Senza di noi l'industria della tecnologia non esisterebbe, n [..] |
 | [TechCompenso](https://italiaopensource.com/communities/techcompenso)                                   | Blog       | Website  | dev, community, networking, tech, salary, transparency, italy                                                                   | TechCompenso is the go-to portal for uncovering the real ear [..] |
+| [TomorrowDevs](https://italiaopensource.com/communities/tomorrowdevs)                                   | Channel    | Discord  | Coding Challenge, Collaborative Projects, Mentoring, Mock Interview                                                             | Il nostro focus è il Learn by Doing, di conseguenza ci focal [..] |
 | [Vita nello zaino](https://italiaopensource.com/communities/vita-nello-zaino)                           | Blog       | Website  | developers, tech, networking, digital nomad, coworking                                                                          | Chiusa una porta si apre un portellone.                           |
 | [fullremote.it](https://italiaopensource.com/communities/fullremote.it)                                 | Newsletter | Email    | tech, remoteworking, remote, jobs                                                                                               | A weekly newsletter (with remote jobs) and a telegram channe [..] |
 
