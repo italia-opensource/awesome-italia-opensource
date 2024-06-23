@@ -1,6 +1,6 @@
 # 👥 Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-30-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-32-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -42,6 +42,8 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [MUG Marca User Group](https://italiaopensource.com/communities/mug-marca-user-group)                   | Channel    | Slack    | dev, talks, networking, tech                                                                                                    | MUG is a user group localed around Treviso (Veneto region) u [..] |
 | [Need for Nerd](https://italiaopensource.com/communities/need-for-nerd)                                 | Channel    | Other    | lavoro, tech, linguaggi                                                                                                         | Community generalista per developers in cui si discute di te [..] |
 | [Open Source Community](https://italiaopensource.com/communities/open-source-community)                 | Channel    | Telegram | developers, networking, tech, meme                                                                                              | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
+| [Open Source Saturday Milano](https://italiaopensource.com/communities/open-source-saturday-milano)     | Event      | Other    | open source, saturday, hands-on, programming, hacking, sharing, contributing                                                    | Ci troviamo un sabato al mese per contribuire insieme a prog [..] |
+| [PyCon Italia](https://italiaopensource.com/communities/pycon-italia)                                   | Event      | Location | dev, talk, python, pydata, opensource                                                                                           | PyCon Italia is the Italian edition of the international PyC [..] |
 | [Red Hot Cyber](https://italiaopensource.com/communities/red-hot-cyber)                                 | Blog       | Website  | cyber, security, tech, cybercrime, hack news                                                                                    | Red Hot Cyber è una rivista online che tratta temi di tecnol [..] |
 | [Ripsters](https://italiaopensource.com/communities/ripsters)                                           | Channel    | Discord  | tech, career, community, networking                                                                                             |                                                                   |
 | [Schrödinger Hat](https://italiaopensource.com/communities/schrodinger-hat)                             | Channel    | Discord  | developers, networking, tech                                                                                                    | Schrodinger Hat é una community, un podcast, un livestream e [..] |
