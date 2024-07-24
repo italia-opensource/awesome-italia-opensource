@@ -1,6 +1,6 @@
 boto3>=1.26.0
-click>=8.*
-fastjsonschema>=2.*
+click>=8.0
+fastjsonschema>=2.0
 geopandas
 geopy
 pre-commit
