@@ -1,0 +1,14 @@
+{
+    "name": "wise-print",
+    "type": "package",
+    "tags": [
+      "python",
+      "logging",
+      "utilities"
+    ],
+    "description": "Simple package to add info to print statements",
+    "site_url": "https://github.com/dandpz/wise-print",
+    "repository_platform": "github",
+    "repository_url": "https://github.com/dandpz/wise-print",
+    "license": "MIT"
+  }
