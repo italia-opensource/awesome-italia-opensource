@@ -1,6 +1,6 @@
 # 👥 Awesome Communities | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-33-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-35-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -40,7 +40,9 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [La Locanda del Tech](https://italiaopensource.com/communities/la-locanda-del-tech)                     | Channel    | Telegram | dev, community, networking, tech                                                                                                | The Telegram channel of La Locanda del Tech, a Twitch channe [..] |
 | [Latina In Tech](https://italiaopensource.com/communities/latina-in-tech)                               | Channel    | Telegram | dev, talks, networking, tech                                                                                                    | Free events to foster knowledge sharing and professional gro [..] |
 | [MUG Marca User Group](https://italiaopensource.com/communities/mug-marca-user-group)                   | Channel    | Slack    | dev, talks, networking, tech                                                                                                    | MUG is a user group localed around Treviso (Veneto region) u [..] |
+| [Morrolinux](https://italiaopensource.com/communities/morrolinux)                                       | Channel    | Youtube  | tech, linux, opensource, projects                                                                                               | Canale di informazione e condivisione di esperienze in ambit [..] |
 | [Need for Nerd](https://italiaopensource.com/communities/need-for-nerd)                                 | Channel    | Other    | lavoro, tech, linguaggi                                                                                                         | Community generalista per developers in cui si discute di te [..] |
+| [Nix Milano](https://italiaopensource.com/communities/nix-milano)                                       | Event      | Location | meetup, nix, nixos, opensource, talk, unconference                                                                              | Nix Milano is a community for anyone interested in Nix and N [..] |
 | [Open Source Community](https://italiaopensource.com/communities/open-source-community)                 | Channel    | Telegram | developers, networking, tech, meme                                                                                              | Meme sui dev e il coding, community di aiuto, guide e tutori [..] |
 | [Open Source Saturday Milano](https://italiaopensource.com/communities/open-source-saturday-milano)     | Event      | Other    | open source, saturday, hands-on, programming, hacking, sharing, contributing                                                    | Ci troviamo un sabato al mese per contribuire insieme a prog [..] |
 | [PyCon Italia](https://italiaopensource.com/communities/pycon-italia)                                   | Event      | Location | dev, talk, python, pydata, opensource                                                                                           | PyCon Italia is the Italian edition of the international PyC [..] |
