@@ -1,0 +1,23 @@
+{
+  "name": "Nix Milano",
+  "url": "https://milano.nix.pizza",
+  "type": "Event",
+  "platform": "Location",
+  "description": "Nix Milano is a community for anyone interested in Nix and NixOS. We organize talks, unconferences, and hackathons focused on learning, sharing, and hacking on Nix-related projects.",
+  "tags": [
+    "meetup",
+    "nix",
+    "nixos",
+    "opensource",
+    "talk",
+    "unconference"
+  ],
+  "events_type": [
+    "Chat",
+    "Conference",
+    "Hackathon",
+    "Meetup",
+    "Talk",
+    "Workshop"
+  ]
+}
