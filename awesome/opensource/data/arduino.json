@@ -18,7 +18,7 @@
       "full_name": "arduino/Arduino",
       "html_url": "https://github.com/arduino/Arduino",
       "created_at": "2010-09-17T19:10:36Z",
-      "updated_at": "2024-05-17T11:44:07Z",
+      "updated_at": "2024-09-15T15:09:19Z",
       "pushed_at": "2023-08-27T17:44:51Z",
       "archived": false,
       "disabled": false,
@@ -46,13 +46,13 @@
         "Perl": 7263,
         "JavaScript": 1469
       },
-      "stargazers_count": 14021,
-      "forks_count": 7018,
-      "open_issues_count": 754,
-      "forks": 7018,
-      "open_issues": 754,
-      "watchers": 14021,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 14113,
+      "forks_count": 7002,
+      "open_issues_count": 750,
+      "forks": 7002,
+      "open_issues": 750,
+      "watchers": 14113,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -175,9 +175,33 @@
           "open_issues": 754,
           "watchers": 14021,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Java",
+          "languages": {
+            "Java": 69.71,
+            "Python": 29.43,
+            "Shell": 0.46,
+            "Perl": 0.33,
+            "JavaScript": 0.07
+          },
+          "languages_byte": {
+            "Java": 1513011,
+            "Python": 638851,
+            "Shell": 9960,
+            "Perl": 7263,
+            "JavaScript": 1469
+          },
+          "stargazers_count": 14113,
+          "forks_count": 7002,
+          "open_issues_count": 750,
+          "forks": 7002,
+          "open_issues": 750,
+          "watchers": 14113,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

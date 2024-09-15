@@ -22,8 +22,8 @@
       "full_name": "Giuliano1993/make-js-component",
       "html_url": "https://github.com/Giuliano1993/make-js-component",
       "created_at": "2023-11-13T17:04:47Z",
-      "updated_at": "2024-05-13T14:58:01Z",
-      "pushed_at": "2024-04-25T19:40:07Z",
+      "updated_at": "2024-09-06T18:29:38Z",
+      "pushed_at": "2024-08-24T09:35:10Z",
       "archived": false,
       "disabled": false,
       "owner": "Giuliano1993",
@@ -34,26 +34,26 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 57.12,
-        "TypeScript": 40.8,
+        "JavaScript": 57.19,
+        "TypeScript": 40.74,
         "Vue": 1.37,
         "Svelte": 0.56,
         "Astro": 0.14
       },
       "languages_byte": {
-        "JavaScript": 30167,
-        "TypeScript": 21547,
+        "JavaScript": 30291,
+        "TypeScript": 21575,
         "Vue": 723,
         "Svelte": 297,
         "Astro": 75
       },
-      "stargazers_count": 33,
-      "forks_count": 18,
-      "open_issues_count": 18,
-      "forks": 18,
-      "open_issues": 18,
-      "watchers": 33,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 37,
+      "forks_count": 20,
+      "open_issues_count": 17,
+      "forks": 20,
+      "open_issues": 17,
+      "watchers": 37,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -176,9 +176,33 @@
           "open_issues": 18,
           "watchers": 33,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "JavaScript",
+          "languages": {
+            "JavaScript": 57.19,
+            "TypeScript": 40.74,
+            "Vue": 1.37,
+            "Svelte": 0.56,
+            "Astro": 0.14
+          },
+          "languages_byte": {
+            "JavaScript": 30291,
+            "TypeScript": 21575,
+            "Vue": 723,
+            "Svelte": 297,
+            "Astro": 75
+          },
+          "stargazers_count": 37,
+          "forks_count": 20,
+          "open_issues_count": 17,
+          "forks": 20,
+          "open_issues": 17,
+          "watchers": 37,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

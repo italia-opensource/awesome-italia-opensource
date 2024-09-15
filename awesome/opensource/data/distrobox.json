@@ -25,8 +25,8 @@
       "full_name": "89luca89/distrobox",
       "html_url": "https://github.com/89luca89/distrobox",
       "created_at": "2021-11-18T15:41:03Z",
-      "updated_at": "2024-05-18T09:35:28Z",
-      "pushed_at": "2024-05-16T04:39:48Z",
+      "updated_at": "2024-09-15T08:18:16Z",
+      "pushed_at": "2024-08-20T21:22:11Z",
       "archived": false,
       "disabled": false,
       "owner": "89luca89",
@@ -62,16 +62,16 @@
         "Dockerfile": 0.03
       },
       "languages_byte": {
-        "Shell": 251252,
+        "Shell": 265733,
         "Dockerfile": 70
       },
-      "stargazers_count": 9066,
-      "forks_count": 377,
-      "open_issues_count": 76,
-      "forks": 377,
-      "open_issues": 76,
-      "watchers": 9066,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 9791,
+      "forks_count": 398,
+      "open_issues_count": 126,
+      "forks": 398,
+      "open_issues": 126,
+      "watchers": 9791,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -146,9 +146,27 @@
           "open_issues": 76,
           "watchers": 9066,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Shell",
+          "languages": {
+            "Shell": 99.97,
+            "Dockerfile": 0.03
+          },
+          "languages_byte": {
+            "Shell": 265733,
+            "Dockerfile": 70
+          },
+          "stargazers_count": 9791,
+          "forks_count": 398,
+          "open_issues_count": 126,
+          "forks": 398,
+          "open_issues": 126,
+          "watchers": 9791,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

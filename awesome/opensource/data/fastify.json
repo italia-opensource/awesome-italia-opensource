@@ -18,8 +18,8 @@
       "full_name": "fastify/fastify",
       "html_url": "https://github.com/fastify/fastify",
       "created_at": "2016-09-28T19:10:14Z",
-      "updated_at": "2024-05-18T11:51:18Z",
-      "pushed_at": "2024-05-18T08:21:07Z",
+      "updated_at": "2024-09-15T09:46:38Z",
+      "pushed_at": "2024-09-14T06:08:27Z",
       "archived": false,
       "disabled": false,
       "owner": "fastify",
@@ -35,22 +35,22 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 90.95,
-        "TypeScript": 9.0,
+        "JavaScript": 90.85,
+        "TypeScript": 9.09,
         "Shell": 0.05
       },
       "languages_byte": {
-        "JavaScript": 1511432,
-        "TypeScript": 149493,
+        "JavaScript": 1528257,
+        "TypeScript": 152992,
         "Shell": 911
       },
-      "stargazers_count": 30790,
-      "forks_count": 2194,
-      "open_issues_count": 89,
-      "forks": 2194,
-      "open_issues": 89,
-      "watchers": 30790,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 31882,
+      "forks_count": 2255,
+      "open_issues_count": 94,
+      "forks": 2255,
+      "open_issues": 94,
+      "watchers": 31882,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -153,9 +153,29 @@
           "open_issues": 89,
           "watchers": 30790,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "JavaScript",
+          "languages": {
+            "JavaScript": 90.85,
+            "TypeScript": 9.09,
+            "Shell": 0.05
+          },
+          "languages_byte": {
+            "JavaScript": 1528257,
+            "TypeScript": 152992,
+            "Shell": 911
+          },
+          "stargazers_count": 31882,
+          "forks_count": 2255,
+          "open_issues_count": 94,
+          "forks": 2255,
+          "open_issues": 94,
+          "watchers": 31882,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

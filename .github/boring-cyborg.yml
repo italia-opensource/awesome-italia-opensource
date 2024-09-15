@@ -10,9 +10,9 @@ labelPRBasedOnFilePath:
     - awesome/communities/*
     - awesome/communities/**/*
 
-  "awesome: comapnies":
-    - awesome/comapnies/*
-    - awesome/comapnies/**/*
+  "awesome: startups":
+    - awesome/startups/*
+    - awesome/startups/**/*
 
   "awesome: opensource":
     - awesome/opensource/*
@@ -30,7 +30,7 @@ firstPRWelcomeComment: >
   Thanks for opening this pull request! Please check out our contributing guidelines.
 
 verifyTitles:
-  titleRegexp: ^(feat|feat!|fix|fix!|docs|refactor|refactor!|test|chore|build|ci)\((release|docs|deps|deps-dev|awesome|companies|communities|opensource|digital-nomads)\):.*
+  titleRegexp: ^(feat|feat!|fix|fix!|docs|refactor|refactor!|test|chore|build|ci)\((release|docs|deps|deps-dev|awesome|startups|communities|opensource|digital-nomads)\):.*
   alwaysUsePrTitle: true
   validateEitherPrOrSingleCommitTitle: true
   statusTitle: "Title Validator"

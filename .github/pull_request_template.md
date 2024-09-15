@@ -5,7 +5,7 @@
 
 **If this is an added new project**
 
-- [ ] I created the "company-name.json" file in the awesome/companies/data folder and complied with the required fields
+- [ ] I created the "startup-name.json" file in the awesome/startups/data folder and complied with the required fields
 - [ ] I created the "project-name.json" file in the awesome/opensource/data folder and complied with the required fields
 - [ ] I created the "communities-name.json" file in the awesome/communities/data folder and complied with the required fields
 - [ ] I created the "digital-nomads-name.json" file in the awesome/digital-nomads/data folder and complied with the required fields

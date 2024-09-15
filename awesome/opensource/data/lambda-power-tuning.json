@@ -22,8 +22,8 @@
       "full_name": "alexcasalboni/aws-lambda-power-tuning",
       "html_url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
       "created_at": "2017-03-27T15:18:12Z",
-      "updated_at": "2024-05-18T12:33:00Z",
-      "pushed_at": "2024-05-16T11:27:02Z",
+      "updated_at": "2024-09-14T06:31:02Z",
+      "pushed_at": "2024-08-02T16:24:50Z",
       "archived": false,
       "disabled": false,
       "owner": "alexcasalboni",
@@ -64,13 +64,13 @@
         "Shell": 2151,
         "Batchfile": 437
       },
-      "stargazers_count": 5194,
-      "forks_count": 360,
-      "open_issues_count": 9,
-      "forks": 360,
-      "open_issues": 9,
-      "watchers": 5194,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 5374,
+      "forks_count": 369,
+      "open_issues_count": 12,
+      "forks": 369,
+      "open_issues": 12,
+      "watchers": 5374,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -205,9 +205,41 @@
           "open_issues": 9,
           "watchers": 5194,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "JavaScript",
+          "languages": {
+            "JavaScript": 83.6,
+            "HCL": 6.89,
+            "Java": 2.22,
+            "Go": 1.8,
+            "C#": 1.65,
+            "Python": 1.52,
+            "TypeScript": 1.06,
+            "Shell": 1.04,
+            "Batchfile": 0.21
+          },
+          "languages_byte": {
+            "JavaScript": 172768,
+            "HCL": 14246,
+            "Java": 4596,
+            "Go": 3716,
+            "C#": 3414,
+            "Python": 3139,
+            "TypeScript": 2188,
+            "Shell": 2151,
+            "Batchfile": 437
+          },
+          "stargazers_count": 5374,
+          "forks_count": 369,
+          "open_issues_count": 12,
+          "forks": 369,
+          "open_issues": 12,
+          "watchers": 5374,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

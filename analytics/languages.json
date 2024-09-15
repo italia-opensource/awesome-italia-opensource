@@ -57,7 +57,7 @@
         "Shell": 0.75,
         "JavaScript": 8.54,
         "HCL": 0.06,
-        "Java": 3.39,
+        "Java": 3.4,
         "C#": 1.42,
         "Python": 19.31,
         "TypeScript": 12.83,
@@ -89,7 +89,7 @@
         "Swift": 0.31,
         "Procfile": 0.0,
         "Fluent": 0.01,
-        "Lua": 11.26,
+        "Lua": 11.25,
         "Raku": 0.4,
         "Starlark": 0.13,
         "Svelte": 0.0,
@@ -627,6 +627,6 @@
   },
   "metadata": {
     "total": 49,
-    "update_at": "2024-09-15T09:14:45Z"
+    "update_at": "2024-09-15T17:01:10Z"
   }
 }

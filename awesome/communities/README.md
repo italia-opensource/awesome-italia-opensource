@@ -1,4 +1,4 @@
-# 👥 Awesome Communities | Italia Open-Source
+# 👥 Awesome Tech Communities In Italy | Italia Open-Source
 
 <img src='https://img.shields.io/badge/list-35-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 

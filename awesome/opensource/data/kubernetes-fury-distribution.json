@@ -21,8 +21,8 @@
       "full_name": "sighupio/fury-distribution",
       "html_url": "https://github.com/sighupio/fury-distribution",
       "created_at": "2020-01-23T16:23:02Z",
-      "updated_at": "2024-05-09T14:16:36Z",
-      "pushed_at": "2024-05-09T14:20:31Z",
+      "updated_at": "2024-09-12T11:45:44Z",
+      "pushed_at": "2024-09-13T08:30:01Z",
       "archived": false,
       "disabled": false,
       "owner": "sighupio",
@@ -40,26 +40,26 @@
     "analytics": {
       "language": "Smarty",
       "languages": {
-        "Smarty": 65.78,
-        "Shell": 26.92,
-        "HCL": 4.1,
-        "Go": 2.25,
-        "Makefile": 0.95
+        "Smarty": 68.0,
+        "Shell": 25.16,
+        "HCL": 3.84,
+        "Go": 1.99,
+        "Makefile": 1.01
       },
       "languages_byte": {
-        "Smarty": 197050,
-        "Shell": 80654,
-        "HCL": 12286,
+        "Smarty": 229832,
+        "Shell": 85058,
+        "HCL": 12980,
         "Go": 6726,
-        "Makefile": 2837
+        "Makefile": 3408
       },
-      "stargazers_count": 149,
-      "forks_count": 14,
-      "open_issues_count": 13,
-      "forks": 14,
-      "open_issues": 13,
-      "watchers": 149,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 158,
+      "forks_count": 13,
+      "open_issues_count": 10,
+      "forks": 13,
+      "open_issues": 10,
+      "watchers": 158,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -176,9 +176,33 @@
           "open_issues": 13,
           "watchers": 149,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Smarty",
+          "languages": {
+            "Smarty": 68.0,
+            "Shell": 25.16,
+            "HCL": 3.84,
+            "Go": 1.99,
+            "Makefile": 1.01
+          },
+          "languages_byte": {
+            "Smarty": 229832,
+            "Shell": 85058,
+            "HCL": 12980,
+            "Go": 6726,
+            "Makefile": 3408
+          },
+          "stargazers_count": 158,
+          "forks_count": 13,
+          "open_issues_count": 10,
+          "forks": 13,
+          "open_issues": 10,
+          "watchers": 158,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

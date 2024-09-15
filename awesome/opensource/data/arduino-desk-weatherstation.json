@@ -21,7 +21,7 @@
       "full_name": "albino98/Arduino_Desk_Weatherstation",
       "html_url": "https://github.com/albino98/Arduino_Desk_Weatherstation",
       "created_at": "2021-06-05T16:35:30Z",
-      "updated_at": "2023-12-20T18:53:48Z",
+      "updated_at": "2024-06-12T09:26:00Z",
       "pushed_at": "2022-09-21T18:11:26Z",
       "archived": false,
       "disabled": false,
@@ -64,13 +64,13 @@
         "HTML": 5967,
         "CSS": 1942
       },
-      "stargazers_count": 4,
+      "stargazers_count": 5,
       "forks_count": 0,
       "open_issues_count": 0,
       "forks": 0,
       "open_issues": 0,
-      "watchers": 4,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "watchers": 5,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -193,9 +193,33 @@
           "open_issues": 0,
           "watchers": 4,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "C",
+          "languages": {
+            "C": 76.92,
+            "C++": 11.47,
+            "Python": 5.66,
+            "HTML": 4.49,
+            "CSS": 1.46
+          },
+          "languages_byte": {
+            "C": 102270,
+            "C++": 15254,
+            "Python": 7529,
+            "HTML": 5967,
+            "CSS": 1942
+          },
+          "stargazers_count": 5,
+          "forks_count": 0,
+          "open_issues_count": 0,
+          "forks": 0,
+          "open_issues": 0,
+          "watchers": 5,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

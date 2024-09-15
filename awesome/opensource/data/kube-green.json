@@ -22,8 +22,8 @@
       "full_name": "kube-green/kube-green",
       "html_url": "https://github.com/kube-green/kube-green",
       "created_at": "2021-02-21T17:50:33Z",
-      "updated_at": "2024-05-17T13:37:31Z",
-      "pushed_at": "2024-05-16T07:52:20Z",
+      "updated_at": "2024-09-14T08:59:42Z",
+      "pushed_at": "2024-09-12T07:57:53Z",
       "archived": false,
       "disabled": false,
       "owner": "kube-green",
@@ -43,26 +43,26 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 91.84,
-        "Makefile": 5.6,
-        "Shell": 1.24,
-        "Dockerfile": 0.69,
-        "Smarty": 0.63
+        "Go": 91.37,
+        "Makefile": 5.93,
+        "Shell": 1.21,
+        "Smarty": 0.82,
+        "Dockerfile": 0.68
       },
       "languages_byte": {
-        "Go": 264891,
-        "Makefile": 16157,
+        "Go": 270162,
+        "Makefile": 17527,
         "Shell": 3575,
-        "Dockerfile": 2000,
-        "Smarty": 1812
+        "Smarty": 2410,
+        "Dockerfile": 2000
       },
-      "stargazers_count": 891,
-      "forks_count": 59,
-      "open_issues_count": 32,
-      "forks": 59,
-      "open_issues": 32,
-      "watchers": 891,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 980,
+      "forks_count": 61,
+      "open_issues_count": 41,
+      "forks": 61,
+      "open_issues": 41,
+      "watchers": 980,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -179,9 +179,33 @@
           "open_issues": 32,
           "watchers": 891,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Go",
+          "languages": {
+            "Go": 91.37,
+            "Makefile": 5.93,
+            "Shell": 1.21,
+            "Smarty": 0.82,
+            "Dockerfile": 0.68
+          },
+          "languages_byte": {
+            "Go": 270162,
+            "Makefile": 17527,
+            "Shell": 3575,
+            "Smarty": 2410,
+            "Dockerfile": 2000
+          },
+          "stargazers_count": 980,
+          "forks_count": 61,
+          "open_issues_count": 41,
+          "forks": 61,
+          "open_issues": 41,
+          "watchers": 980,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

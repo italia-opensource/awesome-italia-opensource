@@ -19,8 +19,8 @@
       "full_name": "claudiodangelis/qrcp",
       "html_url": "https://github.com/claudiodangelis/qrcp",
       "created_at": "2018-01-14T22:35:55Z",
-      "updated_at": "2024-05-18T07:05:38Z",
-      "pushed_at": "2024-02-03T14:09:19Z",
+      "updated_at": "2024-09-13T20:19:12Z",
+      "pushed_at": "2024-09-01T14:34:10Z",
       "archived": false,
       "disabled": false,
       "owner": "claudiodangelis",
@@ -40,15 +40,15 @@
         "Go": 100.0
       },
       "languages_byte": {
-        "Go": 297376
+        "Go": 297636
       },
-      "stargazers_count": 9797,
-      "forks_count": 522,
-      "open_issues_count": 12,
-      "forks": 522,
-      "open_issues": 12,
-      "watchers": 9797,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 9926,
+      "forks_count": 527,
+      "open_issues_count": 19,
+      "forks": 527,
+      "open_issues": 19,
+      "watchers": 9926,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -131,9 +131,25 @@
           "open_issues": 12,
           "watchers": 9797,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Go",
+          "languages": {
+            "Go": 100.0
+          },
+          "languages_byte": {
+            "Go": 297636
+          },
+          "stargazers_count": 9926,
+          "forks_count": 527,
+          "open_issues_count": 19,
+          "forks": 527,
+          "open_issues": 19,
+          "watchers": 9926,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

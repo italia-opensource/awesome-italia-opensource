@@ -10,7 +10,7 @@
     "italy",
     "italia-opensource"
   ],
-  "description": "Italy Open-Source is a project whose purpose is to give transparency to the Italian tech ecosystem. Through a series of awesome lists, we seek to give visibility to open-source projects, communities, and innovative companies",
+  "description": "Italy Open-Source is a project whose purpose is to give transparency to the Italian tech ecosystem. Through a series of awesome lists, we seek to give visibility to open-source projects, communities, and tech startups",
   "site_url": null,
   "repository_platform": "github",
   "repository_url": "https://github.com/italia-opensource/awesome-italia-opensource",
@@ -22,8 +22,8 @@
       "full_name": "italia-opensource/awesome-italia-opensource",
       "html_url": "https://github.com/italia-opensource/awesome-italia-opensource",
       "created_at": "2022-09-02T21:10:31Z",
-      "updated_at": "2024-05-17T08:52:11Z",
-      "pushed_at": "2024-05-18T13:42:02Z",
+      "updated_at": "2024-09-15T09:20:23Z",
+      "pushed_at": "2024-09-15T09:20:19Z",
       "archived": false,
       "disabled": false,
       "owner": "italia-opensource",
@@ -47,22 +47,22 @@
     "analytics": {
       "language": "Python",
       "languages": {
-        "Python": 96.75,
-        "Shell": 1.71,
-        "Makefile": 1.54
+        "Python": 91.3,
+        "Shell": 6.19,
+        "Makefile": 2.51
       },
       "languages_byte": {
-        "Python": 22503,
-        "Shell": 398,
-        "Makefile": 358
+        "Python": 38663,
+        "Shell": 2621,
+        "Makefile": 1065
       },
-      "stargazers_count": 255,
-      "forks_count": 68,
+      "stargazers_count": 275,
+      "forks_count": 76,
       "open_issues_count": 2,
-      "forks": 68,
+      "forks": 76,
       "open_issues": 2,
-      "watchers": 255,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "watchers": 275,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -165,9 +165,29 @@
           "open_issues": 2,
           "watchers": 255,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Python",
+          "languages": {
+            "Python": 91.3,
+            "Shell": 6.19,
+            "Makefile": 2.51
+          },
+          "languages_byte": {
+            "Python": 38663,
+            "Shell": 2621,
+            "Makefile": 1065
+          },
+          "stargazers_count": 275,
+          "forks_count": 76,
+          "open_issues_count": 2,
+          "forks": 76,
+          "open_issues": 2,
+          "watchers": 275,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }
