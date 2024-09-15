@@ -6,7 +6,7 @@ import unicodedata
 from snakemd import Document, Inline
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace("scripts/", ""))
-AWESOME_TYPE = ["opensource", "companies", "communities", "digital-nomads"]
+AWESOME_TYPE = ["opensource", "startups", "communities", "digital-nomads"]
 
 
 def get_url_name(category, name):
@@ -35,11 +35,12 @@ class Readme:
     organization_name = "italia-opensource"
     repository_name = "awesome-italia-opensource"
 
-    def __init__(self, name, data, output_path, icon=None) -> None:
+    def __init__(self, name, data, output_path, icon=None, title_h1=None) -> None:
         self.name = name
         self.data = data
         self.output_path = f"{output_path}/"
         self.icon = icon
+        self.title_h1 = title_h1
         self.doc = Document()
 
     @property
@@ -77,7 +78,9 @@ class Readme:
         self.doc.dump("README", self.output_path)
 
     def build(self):
-        self.title(self.name, len(self.data), self.icon)
+        self.title(
+            self.title_h1 if self.title_h1 else self.name, len(self.data), self.icon
+        )
         self.header()
         self.content(self.data)
         self.footer()
@@ -113,16 +116,18 @@ class Readme:
         )
 
 
-class CompaniesReadme(Readme):
+class StartupsReadme(Readme):
     def __init__(self, name, data, output_path) -> None:
-        super().__init__(name, data, output_path, icon="🏡")
+        super().__init__(
+            name, data, output_path, icon="🏡", title_h1="Tech Startups in Italy"
+        )
 
     def header(self):
         self.doc.add_paragraph(
-            f"Awesome {self.name.title()} is a list of italian startups, scale-up and companies that innovate."
+            f"Awesome {self.name.title()} is a list of italian tech startups."
         )
         self.doc.add_paragraph(
-            "The repository intends to give visibility to companies and stimulate the community to contribute to growing the ecosystem."
+            "The repository intends to give visibility to startups and stimulate the community to contribute to growing the ecosystem."
         )
         self.doc.add_paragraph(
             "Feel free to make your contribution. If you want to add a new item to one or more lists please read the contribution guidelines before opening a pull request or contributing to this repository"
@@ -136,15 +141,15 @@ class CompaniesReadme(Readme):
     def content(self, data):
         self.doc.add_heading(self.name.title(), level=3)
 
-        self.component_website(path="companies")
+        self.component_website(path="startups")
 
         self.doc.add_heading("List", level=4)
         table_content = []
-        companies_name = []
+        startups_name = []
 
         for item in data:
             name = item.get("name")
-            if name in companies_name:
+            if name in startups_name:
                 raise Exception(f"Company {name} already exist")
 
             description = item.get("description", "")
@@ -153,7 +158,7 @@ class CompaniesReadme(Readme):
 
             table_content.append(
                 [
-                    Inline(name, link=get_url_name("companies", name)),
+                    Inline(name, link=get_url_name("startups", name)),
                     item.get("type"),
                     item.get("market"),
                     ", ".join(item["tags"]),
@@ -161,7 +166,7 @@ class CompaniesReadme(Readme):
                 ]
             )
 
-            companies_name.append(name)
+            startups_name.append(name)
 
         self.doc.add_table(
             ["Name", "Type", "Market", "Tags", "Description"], table_content
@@ -170,11 +175,13 @@ class CompaniesReadme(Readme):
 
 class OpensourceReadme(Readme):
     def __init__(self, name, data, output_path) -> None:
-        super().__init__(name, data, output_path, icon="💻")
+        super().__init__(
+            name, data, output_path, icon="💻", title_h1="Open Source Projects in Italy"
+        )
 
     def header(self):
         self.doc.add_paragraph(
-            f"Awesome Italia {self.name.title()} is a list of open-source projects created by italian companies or developers."
+            f"Awesome Italia {self.name.title()} is a list of open-source projects created by italian startups or developers."
         )
         self.doc.add_paragraph(
             "The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem."
@@ -258,7 +265,9 @@ class OpensourceReadme(Readme):
 
 class CommunitiesReadme(Readme):
     def __init__(self, name, data, output_path) -> None:
-        super().__init__(name, data, output_path, icon="👥")
+        super().__init__(
+            name, data, output_path, icon="👥", title_h1="Tech Communities in Italy"
+        )
 
     def header(self):
         self.doc.add_paragraph(
@@ -309,7 +318,9 @@ class CommunitiesReadme(Readme):
 
 class DigitalNomadsReadme(Readme):
     def __init__(self, name, data, output_path) -> None:
-        super().__init__(name, data, output_path, icon="🌍")
+        super().__init__(
+            name, data, output_path, icon="🌍", title_h1="Digital Nomads Destinations"
+        )
 
     def header(self):
         self.doc.add_paragraph(
@@ -381,10 +392,10 @@ def main():
         builder.build()
         builder.output()
 
-    def companies():
-        data = render(type="companies")
-        builder = CompaniesReadme(
-            "companies", data, abspath(BASEDIR, "awesome", "companies")
+    def startups():
+        data = render(type="startups")
+        builder = StartupsReadme(
+            "startups", data, abspath(BASEDIR, "awesome", "startups")
         )
         builder.build()
         builder.output()
@@ -406,7 +417,7 @@ def main():
         builder.output()
 
     opensource()
-    companies()
+    startups()
     communities()
     digital_nomads()
 

@@ -17,14 +17,14 @@
     "filename": "image-go-nord.json",
     "meta": {
       "name": "ImageGoNord",
-      "full_name": "Schrodinger-Hat/ImageGoNord",
-      "html_url": "https://github.com/Schrodinger-Hat/ImageGoNord",
+      "full_name": "Schroedinger-Hat/ImageGoNord",
+      "html_url": "https://github.com/Schroedinger-Hat/ImageGoNord",
       "created_at": "2020-07-20T15:15:29Z",
-      "updated_at": "2024-05-18T07:05:07Z",
-      "pushed_at": "2024-03-30T10:11:45Z",
+      "updated_at": "2024-09-11T02:11:22Z",
+      "pushed_at": "2024-05-29T16:13:03Z",
       "archived": false,
       "disabled": false,
-      "owner": "Schrodinger-Hat",
+      "owner": "Schroedinger-Hat",
       "owner_type": "Organization",
       "topics": [
         "color-palette",
@@ -44,32 +44,32 @@
     "analytics": {
       "language": "Vue",
       "languages": {
-        "Vue": 59.52,
-        "Python": 18.88,
-        "SCSS": 15.2,
-        "JavaScript": 4.52,
-        "HTML": 1.35,
+        "Vue": 59.51,
+        "Python": 18.62,
+        "SCSS": 15.52,
+        "JavaScript": 4.51,
+        "HTML": 1.33,
         "Dockerfile": 0.39,
         "Shell": 0.09,
         "Procfile": 0.03
       },
       "languages_byte": {
-        "Vue": 111230,
-        "Python": 35282,
-        "SCSS": 28406,
-        "JavaScript": 8453,
+        "Vue": 113087,
+        "Python": 35385,
+        "SCSS": 29488,
+        "JavaScript": 8568,
         "HTML": 2520,
         "Dockerfile": 736,
         "Shell": 176,
         "Procfile": 60
       },
-      "stargazers_count": 803,
-      "forks_count": 30,
-      "open_issues_count": 7,
-      "forks": 30,
-      "open_issues": 7,
-      "watchers": 803,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 847,
+      "forks_count": 33,
+      "open_issues_count": 8,
+      "forks": 33,
+      "open_issues": 8,
+      "watchers": 847,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -222,9 +222,39 @@
           "open_issues": 7,
           "watchers": 803,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Vue",
+          "languages": {
+            "Vue": 59.51,
+            "Python": 18.62,
+            "SCSS": 15.52,
+            "JavaScript": 4.51,
+            "HTML": 1.33,
+            "Dockerfile": 0.39,
+            "Shell": 0.09,
+            "Procfile": 0.03
+          },
+          "languages_byte": {
+            "Vue": 113087,
+            "Python": 35385,
+            "SCSS": 29488,
+            "JavaScript": 8568,
+            "HTML": 2520,
+            "Dockerfile": 736,
+            "Shell": 176,
+            "Procfile": 60
+          },
+          "stargazers_count": 847,
+          "forks_count": 33,
+          "open_issues_count": 8,
+          "forks": 33,
+          "open_issues": 8,
+          "watchers": 847,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

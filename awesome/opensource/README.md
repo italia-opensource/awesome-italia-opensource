@@ -1,8 +1,8 @@
-# 💻 Awesome Open-Source | Italia Open-Source
+# 💻 Awesome Open Source Projects In Italy | Italia Open-Source
 
 <img src='https://img.shields.io/badge/list-97-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
-Awesome Italia Open-Source is a list of open-source projects created by italian companies or developers.
+Awesome Italia Open-Source is a list of open-source projects created by italian startups or developers.
 
 The repository intends to give visibility to open source projects and stimulate the community to contribute to growing the ecosystem.
 

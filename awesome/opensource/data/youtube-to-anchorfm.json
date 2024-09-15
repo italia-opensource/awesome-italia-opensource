@@ -17,14 +17,14 @@
     "filename": "youtube-to-anchorfm.json",
     "meta": {
       "name": "youtube-to-anchorfm",
-      "full_name": "Schrodinger-Hat/youtube-to-anchorfm",
-      "html_url": "https://github.com/Schrodinger-Hat/youtube-to-anchorfm",
+      "full_name": "Schroedinger-Hat/youtube-to-anchorfm",
+      "html_url": "https://github.com/Schroedinger-Hat/youtube-to-anchorfm",
       "created_at": "2020-08-27T23:08:21Z",
-      "updated_at": "2024-04-26T15:16:05Z",
-      "pushed_at": "2024-03-14T14:24:21Z",
+      "updated_at": "2024-09-03T00:44:20Z",
+      "pushed_at": "2024-09-04T22:23:06Z",
       "archived": false,
       "disabled": false,
-      "owner": "Schrodinger-Hat",
+      "owner": "Schroedinger-Hat",
       "owner_type": "Organization",
       "topics": [
         "actions",
@@ -49,17 +49,17 @@
         "Shell": 0.65
       },
       "languages_byte": {
-        "JavaScript": 20551,
+        "JavaScript": 20580,
         "Dockerfile": 1026,
         "Shell": 141
       },
-      "stargazers_count": 119,
-      "forks_count": 69,
-      "open_issues_count": 5,
-      "forks": 69,
-      "open_issues": 5,
-      "watchers": 119,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 127,
+      "forks_count": 70,
+      "open_issues_count": 8,
+      "forks": 70,
+      "open_issues": 8,
+      "watchers": 127,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -162,9 +162,29 @@
           "open_issues": 5,
           "watchers": 119,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "JavaScript",
+          "languages": {
+            "JavaScript": 94.63,
+            "Dockerfile": 4.72,
+            "Shell": 0.65
+          },
+          "languages_byte": {
+            "JavaScript": 20580,
+            "Dockerfile": 1026,
+            "Shell": 141
+          },
+          "stargazers_count": 127,
+          "forks_count": 70,
+          "open_issues_count": 8,
+          "forks": 70,
+          "open_issues": 8,
+          "watchers": 127,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

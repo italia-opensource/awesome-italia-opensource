@@ -19,8 +19,8 @@
       "full_name": "supermariolabs/spooq",
       "html_url": "https://github.com/supermariolabs/spooq",
       "created_at": "2022-09-26T14:41:46Z",
-      "updated_at": "2024-05-16T10:33:14Z",
-      "pushed_at": "2024-05-16T10:33:10Z",
+      "updated_at": "2024-05-30T11:04:37Z",
+      "pushed_at": "2024-05-22T13:33:17Z",
       "archived": false,
       "disabled": false,
       "owner": "supermariolabs",
@@ -38,13 +38,13 @@
         "Scala": 136549,
         "Shell": 2285
       },
-      "stargazers_count": 35,
+      "stargazers_count": 36,
       "forks_count": 3,
-      "open_issues_count": 4,
+      "open_issues_count": 5,
       "forks": 3,
-      "open_issues": 4,
-      "watchers": 35,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "open_issues": 5,
+      "watchers": 36,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -137,9 +137,27 @@
           "open_issues": 4,
           "watchers": 35,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Scala",
+          "languages": {
+            "Scala": 98.35,
+            "Shell": 1.65
+          },
+          "languages_byte": {
+            "Scala": 136549,
+            "Shell": 2285
+          },
+          "stargazers_count": 36,
+          "forks_count": 3,
+          "open_issues_count": 5,
+          "forks": 3,
+          "open_issues": 5,
+          "watchers": 36,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

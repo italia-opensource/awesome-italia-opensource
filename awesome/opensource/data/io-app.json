@@ -19,8 +19,8 @@
       "full_name": "pagopa/io-app",
       "html_url": "https://github.com/pagopa/io-app",
       "created_at": "2017-04-11T09:34:46Z",
-      "updated_at": "2024-05-17T15:05:04Z",
-      "pushed_at": "2024-05-17T17:53:08Z",
+      "updated_at": "2024-09-13T16:19:47Z",
+      "pushed_at": "2024-09-15T10:16:25Z",
       "archived": false,
       "disabled": false,
       "owner": "pagopa",
@@ -38,42 +38,36 @@
     "analytics": {
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 98.36,
-        "JavaScript": 0.59,
-        "Python": 0.26,
-        "Java": 0.22,
-        "Ruby": 0.21,
+        "TypeScript": 98.7,
+        "JavaScript": 0.58,
+        "Python": 0.25,
+        "Ruby": 0.19,
         "Shell": 0.11,
-        "C++": 0.1,
-        "Objective-C++": 0.09,
+        "Java": 0.1,
+        "Objective-C++": 0.04,
         "Objective-C": 0.03,
-        "Starlark": 0.03,
-        "CMake": 0.0,
         "Swift": 0.0,
         "C": 0.0
       },
       "languages_byte": {
-        "TypeScript": 7384543,
-        "JavaScript": 44072,
-        "Python": 19804,
-        "Java": 16332,
-        "Ruby": 15878,
-        "Shell": 8155,
-        "C++": 7250,
-        "Objective-C++": 6965,
-        "Objective-C": 2585,
-        "Starlark": 1920,
-        "CMake": 269,
+        "TypeScript": 7912104,
+        "JavaScript": 46128,
+        "Python": 19908,
+        "Ruby": 15119,
+        "Shell": 8420,
+        "Java": 8324,
+        "Objective-C++": 3290,
+        "Objective-C": 2488,
         "Swift": 105,
         "C": 104
       },
-      "stargazers_count": 567,
-      "forks_count": 97,
-      "open_issues_count": 30,
-      "forks": 97,
-      "open_issues": 30,
-      "watchers": 567,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 597,
+      "forks_count": 104,
+      "open_issues_count": 44,
+      "forks": 104,
+      "open_issues": 44,
+      "watchers": 597,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -276,9 +270,43 @@
           "open_issues": 30,
           "watchers": 567,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "TypeScript",
+          "languages": {
+            "TypeScript": 98.7,
+            "JavaScript": 0.58,
+            "Python": 0.25,
+            "Ruby": 0.19,
+            "Shell": 0.11,
+            "Java": 0.1,
+            "Objective-C++": 0.04,
+            "Objective-C": 0.03,
+            "Swift": 0.0,
+            "C": 0.0
+          },
+          "languages_byte": {
+            "TypeScript": 7912104,
+            "JavaScript": 46128,
+            "Python": 19908,
+            "Ruby": 15119,
+            "Shell": 8420,
+            "Java": 8324,
+            "Objective-C++": 3290,
+            "Objective-C": 2488,
+            "Swift": 105,
+            "C": 104
+          },
+          "stargazers_count": 597,
+          "forks_count": 104,
+          "open_issues_count": 44,
+          "forks": 104,
+          "open_issues": 44,
+          "watchers": 597,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

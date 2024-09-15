@@ -17,8 +17,8 @@
       "full_name": "redis/redis",
       "html_url": "https://github.com/redis/redis",
       "created_at": "2009-03-21T22:32:25Z",
-      "updated_at": "2024-05-18T13:12:23Z",
-      "pushed_at": "2024-05-18T08:34:13Z",
+      "updated_at": "2024-09-15T16:45:02Z",
+      "pushed_at": "2024-09-15T13:40:09Z",
       "archived": false,
       "disabled": false,
       "owner": "redis",
@@ -36,34 +36,34 @@
     "analytics": {
       "language": "C",
       "languages": {
-        "C": 73.79,
-        "Tcl": 24.87,
-        "Python": 0.46,
-        "Shell": 0.27,
-        "Ruby": 0.27,
-        "Makefile": 0.24,
+        "C": 73.94,
+        "Tcl": 24.74,
+        "Python": 0.44,
+        "Makefile": 0.28,
+        "Shell": 0.26,
+        "Ruby": 0.25,
         "C++": 0.07,
         "Smarty": 0.01,
         "JavaScript": 0.01
       },
       "languages_byte": {
-        "C": 6387034,
-        "Tcl": 2152316,
+        "C": 6745584,
+        "Tcl": 2256880,
         "Python": 40062,
+        "Makefile": 25271,
         "Shell": 23545,
-        "Ruby": 23513,
-        "Makefile": 20797,
+        "Ruby": 23260,
         "C++": 5987,
         "Smarty": 1047,
         "JavaScript": 953
       },
-      "stargazers_count": 65091,
-      "forks_count": 23498,
-      "open_issues_count": 2468,
-      "forks": 23498,
-      "open_issues": 2468,
-      "watchers": 65091,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 66304,
+      "forks_count": 23715,
+      "open_issues_count": 2494,
+      "forks": 23715,
+      "open_issues": 2494,
+      "watchers": 66304,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -226,9 +226,41 @@
           "open_issues": 2468,
           "watchers": 65091,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "C",
+          "languages": {
+            "C": 73.94,
+            "Tcl": 24.74,
+            "Python": 0.44,
+            "Makefile": 0.28,
+            "Shell": 0.26,
+            "Ruby": 0.25,
+            "C++": 0.07,
+            "Smarty": 0.01,
+            "JavaScript": 0.01
+          },
+          "languages_byte": {
+            "C": 6745584,
+            "Tcl": 2256880,
+            "Python": 40062,
+            "Makefile": 25271,
+            "Shell": 23545,
+            "Ruby": 23260,
+            "C++": 5987,
+            "Smarty": 1047,
+            "JavaScript": 953
+          },
+          "stargazers_count": 66304,
+          "forks_count": 23715,
+          "open_issues_count": 2494,
+          "forks": 23715,
+          "open_issues": 2494,
+          "watchers": 66304,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

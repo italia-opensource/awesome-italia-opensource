@@ -17,7 +17,7 @@ sys.path.insert(1, _BASEDIR)  # noqa
 _TIMESTAMP_OBJ = datetime.now(timezone.utc)
 _TIMESTAMP = str(_TIMESTAMP_OBJ.isoformat()[:-13] + "Z")
 _ANALYTICS_DIR = f"{_BASEDIR}/analytics"
-_TYPE = ["opensource", "digital-nomads", "communities", "companies"]
+_TYPE = ["opensource", "digital-nomads", "communities", "startups"]
 
 
 def get_database_analytitcs(filename: str, with_error: bool = False):

@@ -20,11 +20,11 @@ We have three type of issues:
 
 *Pull requests can be used to add/edit/delete in awesome/**/data dir.*
 
-The new project must be added to the `awesome/{companies,opensource,communities,digital-nomads}/data` folder using a dedicated file in `kebab-case.json` format.
+The new project must be added to the `awesome/{startups,opensource,communities,digital-nomads}/data` folder using a dedicated file in `kebab-case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
 Projects entered must be maintained and have guidelines and/or documentation for use
 
-1. Open `awesome/{companies,opensource,communities,digital-nomads}/data` directory
+1. Open `awesome/{startups,opensource,communities,digital-nomads}/data` directory
 2. Add a new JSON file for the new project (file name should be a slugified version of the project name)
 3. File content should respect json rule
 4. (Optional) Before commit exec
@@ -36,7 +36,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
    ```
 
 5. if the tests are passed successfully create PR on GitHub, the title should be `feat(type): added/updated Name`
-   **WARNING *type*** must be: companies, opensource, communities or digital-nomads)
+   **WARNING *type*** must be: startups, opensource, communities or digital-nomads)
 
 **ATTENTION** do not modify any README.md file.
 
@@ -45,7 +45,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 - [Open-Source Projects](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomeopensource-rules)
 - [Communities](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomecommunities-rules)
 - [Digital-Nomads](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomedigital-nomads-rules)
-- [Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomecompanies-rules)
+- [Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md#awesomestartups-rules)
 
 ### awesome/opensource rules
 
@@ -111,9 +111,9 @@ Schema reference: [digital-nomads.json](https://github.com/italia-opensource/awe
 }
 ```
 
-### awesome/companies rules
+### awesome/startups rules
 
-Schema reference: [companies.json](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/scheme/companies.json)
+Schema reference: [startups.json](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/scheme/startups.json)
 
 ```JSON
 {

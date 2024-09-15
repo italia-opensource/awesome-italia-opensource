@@ -23,8 +23,8 @@
       "full_name": "projectcapsule/capsule",
       "html_url": "https://github.com/projectcapsule/capsule",
       "created_at": "2020-06-29T20:27:51Z",
-      "updated_at": "2024-05-18T10:48:17Z",
-      "pushed_at": "2024-05-17T20:51:33Z",
+      "updated_at": "2024-09-15T15:33:59Z",
+      "pushed_at": "2024-09-12T11:06:44Z",
       "archived": false,
       "disabled": false,
       "owner": "projectcapsule",
@@ -44,28 +44,28 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 94.89,
-        "Shell": 2.21,
-        "Makefile": 2.04,
-        "Smarty": 0.57,
+        "Go": 94.86,
+        "Shell": 2.18,
+        "Makefile": 1.49,
+        "Smarty": 1.2,
         "Dockerfile": 0.17,
         "JavaScript": 0.1
       },
       "languages_byte": {
-        "Go": 637549,
+        "Go": 647986,
         "Shell": 14873,
-        "Makefile": 13727,
-        "Smarty": 3857,
+        "Makefile": 10200,
+        "Smarty": 8214,
         "Dockerfile": 1161,
         "JavaScript": 686
       },
-      "stargazers_count": 1470,
-      "forks_count": 149,
-      "open_issues_count": 48,
-      "forks": 149,
-      "open_issues": 48,
-      "watchers": 1470,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 1553,
+      "forks_count": 153,
+      "open_issues_count": 46,
+      "forks": 153,
+      "open_issues": 46,
+      "watchers": 1553,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -198,9 +198,35 @@
           "open_issues": 48,
           "watchers": 1470,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Go",
+          "languages": {
+            "Go": 94.86,
+            "Shell": 2.18,
+            "Makefile": 1.49,
+            "Smarty": 1.2,
+            "Dockerfile": 0.17,
+            "JavaScript": 0.1
+          },
+          "languages_byte": {
+            "Go": 647986,
+            "Shell": 14873,
+            "Makefile": 10200,
+            "Smarty": 8214,
+            "Dockerfile": 1161,
+            "JavaScript": 686
+          },
+          "stargazers_count": 1553,
+          "forks_count": 153,
+          "open_issues_count": 46,
+          "forks": 153,
+          "open_issues": 46,
+          "watchers": 1553,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

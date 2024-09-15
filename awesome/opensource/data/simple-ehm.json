@@ -16,7 +16,7 @@
       "full_name": "morrolinux/simple-ehm",
       "html_url": "https://github.com/morrolinux/simple-ehm",
       "created_at": "2020-12-01T19:31:50Z",
-      "updated_at": "2024-05-08T05:17:35Z",
+      "updated_at": "2024-08-23T14:46:46Z",
       "pushed_at": "2024-02-23T21:33:33Z",
       "archived": false,
       "disabled": false,
@@ -39,13 +39,13 @@
         "Dockerfile": 215,
         "Shell": 78
       },
-      "stargazers_count": 224,
-      "forks_count": 20,
+      "stargazers_count": 226,
+      "forks_count": 19,
       "open_issues_count": 8,
-      "forks": 20,
+      "forks": 19,
       "open_issues": 8,
-      "watchers": 224,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "watchers": 226,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -158,9 +158,31 @@
           "open_issues": 8,
           "watchers": 224,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Jupyter Notebook",
+          "languages": {
+            "Jupyter Notebook": 98.57,
+            "Python": 1.4,
+            "Dockerfile": 0.02,
+            "Shell": 0.01
+          },
+          "languages_byte": {
+            "Jupyter Notebook": 943986,
+            "Python": 13445,
+            "Dockerfile": 215,
+            "Shell": 78
+          },
+          "stargazers_count": 226,
+          "forks_count": 19,
+          "open_issues_count": 8,
+          "forks": 19,
+          "open_issues": 8,
+          "watchers": 226,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

@@ -18,8 +18,8 @@
       "full_name": "Kong/kong",
       "html_url": "https://github.com/Kong/kong",
       "created_at": "2014-11-17T23:56:08Z",
-      "updated_at": "2024-05-18T09:23:38Z",
-      "pushed_at": "2024-05-17T15:27:33Z",
+      "updated_at": "2024-09-15T15:28:26Z",
+      "pushed_at": "2024-09-14T15:43:17Z",
       "archived": false,
       "disabled": false,
       "owner": "Kong",
@@ -51,32 +51,34 @@
     "analytics": {
       "language": "Lua",
       "languages": {
-        "Lua": 88.56,
-        "Perl": 8.87,
-        "Starlark": 0.99,
-        "Shell": 0.92,
-        "Python": 0.45,
+        "Lua": 88.9,
+        "Perl": 5.46,
+        "Raku": 3.2,
+        "Starlark": 0.97,
+        "Shell": 0.87,
+        "Python": 0.43,
         "Makefile": 0.09,
-        "CSS": 0.06,
-        "Dockerfile": 0.05
+        "CSS": 0.05,
+        "Dockerfile": 0.03
       },
       "languages_byte": {
-        "Lua": 8944355,
-        "Perl": 895997,
-        "Starlark": 100174,
-        "Shell": 92980,
-        "Python": 45850,
-        "Makefile": 9440,
+        "Lua": 9492712,
+        "Perl": 583239,
+        "Raku": 341464,
+        "Starlark": 103518,
+        "Shell": 92992,
+        "Python": 45957,
+        "Makefile": 9246,
         "CSS": 5812,
-        "Dockerfile": 4650
+        "Dockerfile": 3144
       },
-      "stargazers_count": 37687,
-      "forks_count": 4695,
-      "open_issues_count": 119,
-      "forks": 4695,
-      "open_issues": 119,
-      "watchers": 37687,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 38839,
+      "forks_count": 4772,
+      "open_issues_count": 138,
+      "forks": 4772,
+      "open_issues": 138,
+      "watchers": 38839,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -229,9 +231,41 @@
           "open_issues": 119,
           "watchers": 37687,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Lua",
+          "languages": {
+            "Lua": 88.9,
+            "Perl": 5.46,
+            "Raku": 3.2,
+            "Starlark": 0.97,
+            "Shell": 0.87,
+            "Python": 0.43,
+            "Makefile": 0.09,
+            "CSS": 0.05,
+            "Dockerfile": 0.03
+          },
+          "languages_byte": {
+            "Lua": 9492712,
+            "Perl": 583239,
+            "Raku": 341464,
+            "Starlark": 103518,
+            "Shell": 92992,
+            "Python": 45957,
+            "Makefile": 9246,
+            "CSS": 5812,
+            "Dockerfile": 3144
+          },
+          "stargazers_count": 38839,
+          "forks_count": 4772,
+          "open_issues_count": 138,
+          "forks": 4772,
+          "open_issues": 138,
+          "watchers": 38839,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

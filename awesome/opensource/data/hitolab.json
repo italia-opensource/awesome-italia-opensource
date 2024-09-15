@@ -16,8 +16,8 @@
       "full_name": "histolab/histolab",
       "html_url": "https://github.com/histolab/histolab",
       "created_at": "2020-05-09T07:38:51Z",
-      "updated_at": "2024-05-18T08:44:22Z",
-      "pushed_at": "2024-05-13T19:29:36Z",
+      "updated_at": "2024-09-12T05:35:41Z",
+      "pushed_at": "2024-09-09T19:53:42Z",
       "archived": false,
       "disabled": false,
       "owner": "histolab",
@@ -47,13 +47,13 @@
         "Python": 585189,
         "Makefile": 1263
       },
-      "stargazers_count": 342,
-      "forks_count": 53,
-      "open_issues_count": 34,
-      "forks": 53,
-      "open_issues": 34,
-      "watchers": 342,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 363,
+      "forks_count": 56,
+      "open_issues_count": 36,
+      "forks": 56,
+      "open_issues": 36,
+      "watchers": 363,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -146,9 +146,27 @@
           "open_issues": 34,
           "watchers": 342,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "Python",
+          "languages": {
+            "Python": 99.78,
+            "Makefile": 0.22
+          },
+          "languages_byte": {
+            "Python": 585189,
+            "Makefile": 1263
+          },
+          "stargazers_count": 363,
+          "forks_count": 56,
+          "open_issues_count": 36,
+          "forks": 56,
+          "open_issues": 36,
+          "watchers": 363,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

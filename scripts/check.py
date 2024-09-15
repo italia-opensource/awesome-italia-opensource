@@ -96,7 +96,7 @@ class CompaniesChecker(Checker):
         super().__init__()
 
     def define_jsonschema(self):
-        scheme = get_jsonschema("companies")
+        scheme = get_jsonschema("startups")
         self.ALLOWED_TYPE = scheme["properties"]["type"]["enum"]
         self.ALLOWED_MARKET = scheme["properties"]["market"]["enum"]
 
@@ -145,7 +145,7 @@ class DigitalNomadsChecker(Checker):
 
 def main():
     OpensourceChecker().validate(abspath(BASEDIR, "awesome", "opensource", "data"))
-    CompaniesChecker().validate(abspath(BASEDIR, "awesome", "companies", "data"))
+    CompaniesChecker().validate(abspath(BASEDIR, "awesome", "startups", "data"))
     CommunitiesChecker().validate(abspath(BASEDIR, "awesome", "communities", "data"))
     DigitalNomadsChecker().validate(
         abspath(BASEDIR, "awesome", "digital-nomads", "data")

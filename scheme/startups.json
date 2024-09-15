@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string" },
+    "repository_organization_url": { "type": "string", "format": "uri" },
+    "site_url": { "type": "string", "format": "uri" },
+    "description": { "type": "string", "minLength": 5, "maxLength": 508 },
+    "type": {
+      "type": "string",
+      "enum": ["B2B", "B2C", "C2C", "D2C", "Nonprofit", "Other"]
+    },
+    "market": {
+      "type": "string",
+      "enum": [
+        "Housing",
+        "Travel",
+        "Aeropsace",
+        "Health",
+        "Food",
+        "Automotive",
+        "Fintech",
+        "Energy",
+        "AI",
+        "Recruiting",
+        "Blockchain",
+        "Biotech",
+        "Ecommerce",
+        "Software",
+        "Hardware",
+        "Service",
+        "Insurance",
+        "Entertainment",
+        "Education",
+        "Retail",
+        "Transport",
+        "Security",
+        "Agriculture",
+        "Manufacturing",
+        "Banking",
+        "Gaming",
+        "Sports",
+        "Fashion",
+        "Environment",
+        "Building",
+        "Other"
+      ]
+    },
+    "address": { "type": "string" },
+    "foundation_year": {
+      "type": "string",
+      "pattern": "^[2][0-0][1-2][0-9]$"
+    },
+    "tech_stack": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "uniqueItems": "true",
+      "items": {
+        "type": "string",
+        "maxLength": 24
+      }
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "uniqueItems": "true",
+      "items": {
+        "type": "string",
+        "maxLength": 24
+      }
+    }
+  },
+  "required": ["name", "site_url", "type", "market", "tags"],
+  "additionalProperties": "false"
+}

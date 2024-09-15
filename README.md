@@ -2,10 +2,9 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main)
 
-
 The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy's tech innovations**.
 
-Through a series of **awesome lists**, we seek to give visibility to open-source Projects, Communities, Tech blogs, Innovative companies, and more.
+Through a series of **awesome lists**, we seek to give visibility to open-source Projects, Communities, Tech blogs, Innovative startups, and more.
 
 Feel free to make your contribution. If you want to add a new item to one or more lists please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
 
@@ -21,7 +20,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 
 - [List of Digital Nomads](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/digital-nomads/README.md)
 
-- [List of Tech Companies](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/companies/README.md)
+- [List of Tech Startups](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/awesome/startups/README.md)
 
 ### 📊 Analytics
 

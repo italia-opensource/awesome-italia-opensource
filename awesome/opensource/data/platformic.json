@@ -19,8 +19,8 @@
       "full_name": "platformatic/platformatic",
       "html_url": "https://github.com/platformatic/platformatic",
       "created_at": "2022-09-22T07:32:19Z",
-      "updated_at": "2024-05-18T13:43:01Z",
-      "pushed_at": "2024-05-18T12:38:47Z",
+      "updated_at": "2024-09-15T07:52:59Z",
+      "pushed_at": "2024-09-15T07:54:21Z",
       "archived": false,
       "disabled": false,
       "owner": "platformatic",
@@ -38,28 +38,28 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 84.24,
-        "HTML": 14.06,
-        "TypeScript": 1.4,
+        "JavaScript": 97.52,
+        "TypeScript": 1.47,
+        "HTML": 0.7,
         "CSS": 0.2,
         "Shell": 0.06,
         "Dockerfile": 0.04
       },
       "languages_byte": {
-        "JavaScript": 2658156,
-        "HTML": 443668,
-        "TypeScript": 44105,
-        "CSS": 6424,
-        "Shell": 1746,
+        "JavaScript": 2818169,
+        "TypeScript": 42613,
+        "HTML": 20288,
+        "CSS": 5847,
+        "Shell": 1755,
         "Dockerfile": 1282
       },
-      "stargazers_count": 1391,
-      "forks_count": 135,
-      "open_issues_count": 175,
-      "forks": 135,
-      "open_issues": 175,
-      "watchers": 1391,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 1439,
+      "forks_count": 144,
+      "open_issues_count": 185,
+      "forks": 144,
+      "open_issues": 185,
+      "watchers": 1439,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -192,9 +192,35 @@
           "open_issues": 175,
           "watchers": 1391,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "JavaScript",
+          "languages": {
+            "JavaScript": 97.52,
+            "TypeScript": 1.47,
+            "HTML": 0.7,
+            "CSS": 0.2,
+            "Shell": 0.06,
+            "Dockerfile": 0.04
+          },
+          "languages_byte": {
+            "JavaScript": 2818169,
+            "TypeScript": 42613,
+            "HTML": 20288,
+            "CSS": 5847,
+            "Shell": 1755,
+            "Dockerfile": 1282
+          },
+          "stargazers_count": 1439,
+          "forks_count": 144,
+          "open_issues_count": 185,
+          "forks": 144,
+          "open_issues": 185,
+          "watchers": 1439,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }

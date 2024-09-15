@@ -20,8 +20,8 @@
       "full_name": "alexandercerutti/passkit-generator",
       "html_url": "https://github.com/alexandercerutti/passkit-generator",
       "created_at": "2018-09-12T19:45:00Z",
-      "updated_at": "2024-05-17T13:27:49Z",
-      "pushed_at": "2023-11-23T08:46:12Z",
+      "updated_at": "2024-09-14T13:58:49Z",
+      "pushed_at": "2024-06-16T12:40:37Z",
       "archived": false,
       "disabled": false,
       "owner": "alexandercerutti",
@@ -50,13 +50,13 @@
         "TypeScript": 65896,
         "JavaScript": 30450
       },
-      "stargazers_count": 732,
-      "forks_count": 98,
-      "open_issues_count": 2,
-      "forks": 98,
-      "open_issues": 2,
-      "watchers": 732,
-      "updated_at": "2024-05-18T13:53:03Z"
+      "stargazers_count": 828,
+      "forks_count": 104,
+      "open_issues_count": 4,
+      "forks": 104,
+      "open_issues": 4,
+      "watchers": 828,
+      "updated_at": "2024-09-15T17:01:10Z"
     },
     "analytics_history": {
       "2024": {
@@ -149,9 +149,27 @@
           "open_issues": 2,
           "watchers": 732,
           "updated_at": "2024-05-18T13:53:03Z"
+        },
+        "9": {
+          "language": "TypeScript",
+          "languages": {
+            "TypeScript": 68.4,
+            "JavaScript": 31.6
+          },
+          "languages_byte": {
+            "TypeScript": 65896,
+            "JavaScript": 30450
+          },
+          "stargazers_count": 828,
+          "forks_count": 104,
+          "open_issues_count": 4,
+          "forks": 104,
+          "open_issues": 4,
+          "watchers": 828,
+          "updated_at": "2024-09-15T17:01:10Z"
         }
       }
     },
-    "timestamp": "2024-05-18T13:53:03Z"
+    "timestamp": "2024-09-15T17:01:10Z"
   }
 }
