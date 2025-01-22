@@ -1,6 +1,6 @@
 # 👥 Awesome Tech Communities In Italy | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-35-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-36-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -27,6 +27,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [DevMarche](https://italiaopensource.com/communities/devmarche)                                         | Channel    | Telegram | dev, talks, networking, tech                                                                                                    | La Community tech delle Marche: eventi, conferenze e serate [..]  |
 | [Developers Italia](https://italiaopensource.com/communities/developers-italia)                         | Blog       | Website  | dev, pubblica amministrazione, open-source                                                                                      | Il punto di riferimento per il software della Pubblica Ammin [..] |
 | [Edoardo Dusi](https://italiaopensource.com/communities/edoardo-dusi)                                   | Channel    | Youtube  | coding, news, tech, cloud, open source                                                                                          | Cerco di divulgare la tecnologia, tenere aggiornati sulle te [..] |
+| [Eventi Tech Milano](https://italiaopensource.com/communities/eventi-tech-milano)                       | Channel    | Telegram | dev, eventi, apps, android, ios, mobile, milano, meetup, tech, jobs, milan                                                      |                                                                   |
 | [Fabio Biondi](https://italiaopensource.com/communities/fabio-biondi)                                   | Channel    | Twitch   | developers, live, tech, javscript                                                                                               | Durante le mie live: studio, sperimento, condivido il mio kn [..] |
 | [Flutter Italia Developers](https://italiaopensource.com/communities/flutter-italia-developers)         | Channel    | Telegram | dev, flutter, apps, android, ios, mobile                                                                                        |                                                                   |
 | [Gitbar](https://italiaopensource.com/communities/gitbar)                                               | Podcast    | Telegram | developers, networking, tech                                                                                                    | Il podcast dei developer italiani                                 |
