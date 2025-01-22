@@ -1,0 +1,14 @@
+{
+    "name": "Eventi Tech Milano",
+    "url": "https://t.me/eventitechmilano",
+    "type": "Channel",
+    "platform": "Telegram",
+    "tags": [
+      "dev", "eventi", "apps", "android", "ios", "mobile", "milano", "meetup", "tech", "jobs", "milan"
+    ],
+    "events_type": [
+      "Meetup",
+      "Conference",
+      "Chat"
+    ]
+  }
