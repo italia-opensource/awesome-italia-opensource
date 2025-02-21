@@ -1,8 +1,8 @@
 {
     "name": "ItaliaJS",
     "url": "https://discord.gg/X6nfjZdsYJ",
-    "type": "Discord",
-    "platform": "Telegram",
+    "type": "Channel",
+    "platform": "Discord",
     "description": "Una community dedicata a JavaScript e derivati che riunisce gli appassionati del Front-End in Italia",
     "tags": [
       "dev",
