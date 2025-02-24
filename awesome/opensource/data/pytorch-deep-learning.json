@@ -19,8 +19,8 @@
       "full_name": "Atcold/NYU-DLSP20",
       "html_url": "https://github.com/Atcold/NYU-DLSP20",
       "created_at": "2018-07-09T11:40:25Z",
-      "updated_at": "2024-09-15T15:42:08Z",
-      "pushed_at": "2024-09-10T16:49:52Z",
+      "updated_at": "2025-03-06T22:54:04Z",
+      "pushed_at": "2025-02-19T20:27:52Z",
       "archived": false,
       "disabled": false,
       "owner": "Atcold",
@@ -41,128 +41,16 @@
       },
       "languages_byte": {
         "Jupyter Notebook": 1184331,
-        "Python": 16935
+        "Python": 16898
       },
-      "stargazers_count": 6670,
-      "forks_count": 2216,
-      "open_issues_count": 50,
-      "forks": 2216,
-      "open_issues": 50,
-      "watchers": 6670,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 6733,
+      "forks_count": 2230,
+      "open_issues_count": 53,
+      "forks": 2230,
+      "open_issues": 53,
+      "watchers": 6733,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Jupyter Notebook",
-          "languages": {
-            "Jupyter Notebook": 98.62,
-            "Python": 1.38
-          },
-          "languages_byte": {
-            "Jupyter Notebook": 1181768,
-            "Python": 16538
-          },
-          "stargazers_count": 6596,
-          "forks_count": 2201,
-          "open_issues_count": 52,
-          "forks": 2201,
-          "open_issues": 52,
-          "watchers": 6596,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Jupyter Notebook",
-          "languages": {
-            "Jupyter Notebook": 98.59,
-            "Python": 1.41
-          },
-          "languages_byte": {
-            "Jupyter Notebook": 1184341,
-            "Python": 16935
-          },
-          "stargazers_count": 6604,
-          "forks_count": 2195,
-          "open_issues_count": 51,
-          "forks": 2195,
-          "open_issues": 51,
-          "watchers": 6604,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Jupyter Notebook",
-          "languages": {
-            "Jupyter Notebook": 98.59,
-            "Python": 1.41
-          },
-          "languages_byte": {
-            "Jupyter Notebook": 1184341,
-            "Python": 16935
-          },
-          "stargazers_count": 6605,
-          "forks_count": 2193,
-          "open_issues_count": 51,
-          "forks": 2193,
-          "open_issues": 51,
-          "watchers": 6605,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Jupyter Notebook",
-          "languages": {
-            "Jupyter Notebook": 98.59,
-            "Python": 1.41
-          },
-          "languages_byte": {
-            "Jupyter Notebook": 1184341,
-            "Python": 16935
-          },
-          "stargazers_count": 6617,
-          "forks_count": 2195,
-          "open_issues_count": 51,
-          "forks": 2195,
-          "open_issues": 51,
-          "watchers": 6617,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Jupyter Notebook",
-          "languages": {
-            "Jupyter Notebook": 98.59,
-            "Python": 1.41
-          },
-          "languages_byte": {
-            "Jupyter Notebook": 1184341,
-            "Python": 16935
-          },
-          "stargazers_count": 6625,
-          "forks_count": 2197,
-          "open_issues_count": 51,
-          "forks": 2197,
-          "open_issues": 51,
-          "watchers": 6625,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Jupyter Notebook",
-          "languages": {
-            "Jupyter Notebook": 98.59,
-            "Python": 1.41
-          },
-          "languages_byte": {
-            "Jupyter Notebook": 1184331,
-            "Python": 16935
-          },
-          "stargazers_count": 6670,
-          "forks_count": 2216,
-          "open_issues_count": 50,
-          "forks": 2216,
-          "open_issues": 50,
-          "watchers": 6670,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

@@ -22,8 +22,8 @@
       "full_name": "alexcasalboni/aws-lambda-power-tuning",
       "html_url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
       "created_at": "2017-03-27T15:18:12Z",
-      "updated_at": "2024-09-14T06:31:02Z",
-      "pushed_at": "2024-08-02T16:24:50Z",
+      "updated_at": "2025-03-07T07:07:29Z",
+      "pushed_at": "2025-02-18T10:32:46Z",
       "archived": false,
       "disabled": false,
       "owner": "alexcasalboni",
@@ -43,203 +43,35 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 83.6,
-        "HCL": 6.89,
-        "Java": 2.22,
-        "Go": 1.8,
-        "C#": 1.65,
-        "Python": 1.52,
-        "TypeScript": 1.06,
-        "Shell": 1.04,
-        "Batchfile": 0.21
+        "JavaScript": 85.05,
+        "HCL": 6.75,
+        "Java": 1.89,
+        "Go": 1.53,
+        "C#": 1.4,
+        "Python": 1.29,
+        "Shell": 1.01,
+        "TypeScript": 0.9,
+        "Batchfile": 0.18
       },
       "languages_byte": {
-        "JavaScript": 172768,
-        "HCL": 14246,
+        "JavaScript": 206690,
+        "HCL": 16395,
         "Java": 4596,
         "Go": 3716,
         "C#": 3414,
         "Python": 3139,
+        "Shell": 2449,
         "TypeScript": 2188,
-        "Shell": 2151,
         "Batchfile": 437
       },
-      "stargazers_count": 5374,
-      "forks_count": 369,
-      "open_issues_count": 12,
-      "forks": 369,
-      "open_issues": 12,
-      "watchers": 5374,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 5621,
+      "forks_count": 388,
+      "open_issues_count": 15,
+      "forks": 388,
+      "open_issues": 15,
+      "watchers": 5621,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 90.51,
-            "HCL": 8.25,
-            "Shell": 1.25
-          },
-          "languages_byte": {
-            "JavaScript": 156333,
-            "HCL": 14246,
-            "Shell": 2151
-          },
-          "stargazers_count": 4974,
-          "forks_count": 348,
-          "open_issues_count": 13,
-          "forks": 348,
-          "open_issues": 13,
-          "watchers": 4974,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 90.81,
-            "HCL": 7.99,
-            "Shell": 1.21
-          },
-          "languages_byte": {
-            "JavaScript": 161951,
-            "HCL": 14246,
-            "Shell": 2151
-          },
-          "stargazers_count": 5024,
-          "forks_count": 352,
-          "open_issues_count": 13,
-          "forks": 352,
-          "open_issues": 13,
-          "watchers": 5024,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 84.72,
-            "HCL": 7.43,
-            "Go": 1.94,
-            "C#": 1.78,
-            "Python": 1.64,
-            "TypeScript": 1.14,
-            "Shell": 1.12,
-            "Batchfile": 0.23
-          },
-          "languages_byte": {
-            "JavaScript": 162346,
-            "HCL": 14246,
-            "Go": 3716,
-            "C#": 3414,
-            "Python": 3139,
-            "TypeScript": 2188,
-            "Shell": 2151,
-            "Batchfile": 437
-          },
-          "stargazers_count": 5065,
-          "forks_count": 358,
-          "open_issues_count": 13,
-          "forks": 358,
-          "open_issues": 13,
-          "watchers": 5065,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 85.13,
-            "HCL": 7.23,
-            "Go": 1.89,
-            "C#": 1.73,
-            "Python": 1.59,
-            "TypeScript": 1.11,
-            "Shell": 1.09,
-            "Batchfile": 0.22
-          },
-          "languages_byte": {
-            "JavaScript": 167735,
-            "HCL": 14246,
-            "Go": 3716,
-            "C#": 3414,
-            "Python": 3139,
-            "TypeScript": 2188,
-            "Shell": 2151,
-            "Batchfile": 437
-          },
-          "stargazers_count": 5131,
-          "forks_count": 358,
-          "open_issues_count": 15,
-          "forks": 358,
-          "open_issues": 15,
-          "watchers": 5131,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 83.6,
-            "HCL": 6.89,
-            "Java": 2.22,
-            "Go": 1.8,
-            "C#": 1.65,
-            "Python": 1.52,
-            "TypeScript": 1.06,
-            "Shell": 1.04,
-            "Batchfile": 0.21
-          },
-          "languages_byte": {
-            "JavaScript": 172768,
-            "HCL": 14246,
-            "Java": 4596,
-            "Go": 3716,
-            "C#": 3414,
-            "Python": 3139,
-            "TypeScript": 2188,
-            "Shell": 2151,
-            "Batchfile": 437
-          },
-          "stargazers_count": 5194,
-          "forks_count": 360,
-          "open_issues_count": 9,
-          "forks": 360,
-          "open_issues": 9,
-          "watchers": 5194,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 83.6,
-            "HCL": 6.89,
-            "Java": 2.22,
-            "Go": 1.8,
-            "C#": 1.65,
-            "Python": 1.52,
-            "TypeScript": 1.06,
-            "Shell": 1.04,
-            "Batchfile": 0.21
-          },
-          "languages_byte": {
-            "JavaScript": 172768,
-            "HCL": 14246,
-            "Java": 4596,
-            "Go": 3716,
-            "C#": 3414,
-            "Python": 3139,
-            "TypeScript": 2188,
-            "Shell": 2151,
-            "Batchfile": 437
-          },
-          "stargazers_count": 5374,
-          "forks_count": 369,
-          "open_issues_count": 12,
-          "forks": 369,
-          "open_issues": 12,
-          "watchers": 5374,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

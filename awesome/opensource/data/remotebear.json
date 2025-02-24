@@ -19,7 +19,7 @@
       "full_name": "remotebear-io/remotebear",
       "html_url": "https://github.com/remotebear-io/remotebear",
       "created_at": "2021-04-24T21:05:00Z",
-      "updated_at": "2024-08-12T11:55:34Z",
+      "updated_at": "2024-12-19T13:04:43Z",
       "pushed_at": "2024-04-21T00:52:24Z",
       "archived": false,
       "disabled": false,
@@ -46,138 +46,14 @@
         "CSS": 609,
         "Shell": 83
       },
-      "stargazers_count": 76,
+      "stargazers_count": 77,
       "forks_count": 11,
       "open_issues_count": 2,
       "forks": 11,
       "open_issues": 2,
-      "watchers": 76,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "watchers": 77,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 99.7,
-            "CSS": 0.26,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 231260,
-            "CSS": 609,
-            "Shell": 83
-          },
-          "stargazers_count": 73,
-          "forks_count": 10,
-          "open_issues_count": 1,
-          "forks": 10,
-          "open_issues": 1,
-          "watchers": 73,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 99.7,
-            "CSS": 0.26,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 231260,
-            "CSS": 609,
-            "Shell": 83
-          },
-          "stargazers_count": 73,
-          "forks_count": 9,
-          "open_issues_count": 1,
-          "forks": 9,
-          "open_issues": 1,
-          "watchers": 73,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 99.7,
-            "CSS": 0.26,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 231260,
-            "CSS": 609,
-            "Shell": 83
-          },
-          "stargazers_count": 73,
-          "forks_count": 10,
-          "open_issues_count": 1,
-          "forks": 10,
-          "open_issues": 1,
-          "watchers": 73,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 99.7,
-            "CSS": 0.26,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 231260,
-            "CSS": 609,
-            "Shell": 83
-          },
-          "stargazers_count": 74,
-          "forks_count": 10,
-          "open_issues_count": 1,
-          "forks": 10,
-          "open_issues": 1,
-          "watchers": 74,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 99.7,
-            "CSS": 0.26,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 231260,
-            "CSS": 609,
-            "Shell": 83
-          },
-          "stargazers_count": 74,
-          "forks_count": 12,
-          "open_issues_count": 2,
-          "forks": 12,
-          "open_issues": 2,
-          "watchers": 74,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 99.7,
-            "CSS": 0.26,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 231260,
-            "CSS": 609,
-            "Shell": 83
-          },
-          "stargazers_count": 76,
-          "forks_count": 11,
-          "open_issues_count": 2,
-          "forks": 11,
-          "open_issues": 2,
-          "watchers": 76,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

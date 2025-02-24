@@ -19,8 +19,8 @@
       "full_name": "moquette-io/moquette",
       "html_url": "https://github.com/moquette-io/moquette",
       "created_at": "2014-09-30T20:14:41Z",
-      "updated_at": "2024-09-15T10:25:46Z",
-      "pushed_at": "2024-09-15T10:25:41Z",
+      "updated_at": "2025-03-05T05:36:21Z",
+      "pushed_at": "2025-02-11T10:02:01Z",
       "archived": false,
       "disabled": false,
       "owner": "moquette-io",
@@ -36,189 +36,29 @@
     "analytics": {
       "language": "Java",
       "languages": {
-        "Java": 89.1,
-        "Groovy": 7.45,
-        "HTML": 2.83,
-        "Shell": 0.31,
-        "Batchfile": 0.3,
+        "Java": 89.44,
+        "Groovy": 7.22,
+        "HTML": 2.74,
+        "Shell": 0.3,
+        "Batchfile": 0.29,
         "Ruby": 0.02
       },
       "languages_byte": {
-        "Java": 1175425,
+        "Java": 1217943,
         "Groovy": 98266,
         "HTML": 37346,
         "Shell": 4112,
         "Batchfile": 3910,
         "Ruby": 212
       },
-      "stargazers_count": 2294,
-      "forks_count": 818,
-      "open_issues_count": 118,
-      "forks": 818,
-      "open_issues": 118,
-      "watchers": 2294,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 2333,
+      "forks_count": 823,
+      "open_issues_count": 114,
+      "forks": 823,
+      "open_issues": 114,
+      "watchers": 2333,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Java",
-          "languages": {
-            "Java": 88.14,
-            "Groovy": 8.1,
-            "HTML": 3.08,
-            "Shell": 0.34,
-            "Batchfile": 0.32,
-            "Ruby": 0.02
-          },
-          "languages_byte": {
-            "Java": 1068725,
-            "Groovy": 98266,
-            "HTML": 37346,
-            "Shell": 4112,
-            "Batchfile": 3910,
-            "Ruby": 212
-          },
-          "stargazers_count": 2216,
-          "forks_count": 846,
-          "open_issues_count": 110,
-          "forks": 846,
-          "open_issues": 110,
-          "watchers": 2216,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Java",
-          "languages": {
-            "Java": 88.45,
-            "Groovy": 7.89,
-            "HTML": 3.0,
-            "Shell": 0.33,
-            "Batchfile": 0.31,
-            "Ruby": 0.02
-          },
-          "languages_byte": {
-            "Java": 1101551,
-            "Groovy": 98266,
-            "HTML": 37346,
-            "Shell": 4112,
-            "Batchfile": 3910,
-            "Ruby": 212
-          },
-          "stargazers_count": 2224,
-          "forks_count": 807,
-          "open_issues_count": 113,
-          "forks": 807,
-          "open_issues": 113,
-          "watchers": 2224,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Java",
-          "languages": {
-            "Java": 88.45,
-            "Groovy": 7.89,
-            "HTML": 3.0,
-            "Shell": 0.33,
-            "Batchfile": 0.31,
-            "Ruby": 0.02
-          },
-          "languages_byte": {
-            "Java": 1101551,
-            "Groovy": 98266,
-            "HTML": 37346,
-            "Shell": 4112,
-            "Batchfile": 3910,
-            "Ruby": 212
-          },
-          "stargazers_count": 2228,
-          "forks_count": 807,
-          "open_issues_count": 113,
-          "forks": 807,
-          "open_issues": 113,
-          "watchers": 2228,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Java",
-          "languages": {
-            "Java": 88.61,
-            "Groovy": 7.78,
-            "HTML": 2.96,
-            "Shell": 0.33,
-            "Batchfile": 0.31,
-            "Ruby": 0.02
-          },
-          "languages_byte": {
-            "Java": 1118903,
-            "Groovy": 98266,
-            "HTML": 37346,
-            "Shell": 4112,
-            "Batchfile": 3910,
-            "Ruby": 212
-          },
-          "stargazers_count": 2240,
-          "forks_count": 808,
-          "open_issues_count": 111,
-          "forks": 808,
-          "open_issues": 111,
-          "watchers": 2240,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Java",
-          "languages": {
-            "Java": 88.69,
-            "Groovy": 7.72,
-            "HTML": 2.94,
-            "Shell": 0.32,
-            "Batchfile": 0.31,
-            "Ruby": 0.02
-          },
-          "languages_byte": {
-            "Java": 1128346,
-            "Groovy": 98266,
-            "HTML": 37346,
-            "Shell": 4112,
-            "Batchfile": 3910,
-            "Ruby": 212
-          },
-          "stargazers_count": 2250,
-          "forks_count": 812,
-          "open_issues_count": 117,
-          "forks": 812,
-          "open_issues": 117,
-          "watchers": 2250,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Java",
-          "languages": {
-            "Java": 89.1,
-            "Groovy": 7.45,
-            "HTML": 2.83,
-            "Shell": 0.31,
-            "Batchfile": 0.3,
-            "Ruby": 0.02
-          },
-          "languages_byte": {
-            "Java": 1175425,
-            "Groovy": 98266,
-            "HTML": 37346,
-            "Shell": 4112,
-            "Batchfile": 3910,
-            "Ruby": 212
-          },
-          "stargazers_count": 2294,
-          "forks_count": 818,
-          "open_issues_count": 118,
-          "forks": 818,
-          "open_issues": 118,
-          "watchers": 2294,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

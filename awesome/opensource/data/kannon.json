@@ -18,7 +18,7 @@
       "full_name": "kannon-email/kannon",
       "html_url": "https://github.com/kannon-email/kannon",
       "created_at": "2021-01-03T09:01:56Z",
-      "updated_at": "2024-08-01T12:42:15Z",
+      "updated_at": "2024-09-22T23:25:38Z",
       "pushed_at": "2024-07-12T14:01:26Z",
       "archived": false,
       "disabled": false,
@@ -44,146 +44,14 @@
         "Makefile": 459,
         "Dockerfile": 365
       },
-      "stargazers_count": 65,
-      "forks_count": 10,
+      "stargazers_count": 66,
+      "forks_count": 11,
       "open_issues_count": 18,
-      "forks": 10,
+      "forks": 11,
       "open_issues": 18,
-      "watchers": 65,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "watchers": 66,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.18,
-            "Makefile": 0.39,
-            "Dockerfile": 0.33,
-            "Shell": 0.1
-          },
-          "languages_byte": {
-            "Go": 117879,
-            "Makefile": 466,
-            "Dockerfile": 392,
-            "Shell": 121
-          },
-          "stargazers_count": 48,
-          "forks_count": 10,
-          "open_issues_count": 15,
-          "forks": 10,
-          "open_issues": 15,
-          "watchers": 48,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.18,
-            "Makefile": 0.39,
-            "Dockerfile": 0.33,
-            "Shell": 0.1
-          },
-          "languages_byte": {
-            "Go": 117922,
-            "Makefile": 466,
-            "Dockerfile": 392,
-            "Shell": 121
-          },
-          "stargazers_count": 48,
-          "forks_count": 10,
-          "open_issues_count": 16,
-          "forks": 10,
-          "open_issues": 16,
-          "watchers": 48,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.18,
-            "Makefile": 0.39,
-            "Dockerfile": 0.33,
-            "Shell": 0.1
-          },
-          "languages_byte": {
-            "Go": 117922,
-            "Makefile": 466,
-            "Dockerfile": 392,
-            "Shell": 121
-          },
-          "stargazers_count": 48,
-          "forks_count": 10,
-          "open_issues_count": 16,
-          "forks": 10,
-          "open_issues": 16,
-          "watchers": 48,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.18,
-            "Makefile": 0.39,
-            "Dockerfile": 0.33,
-            "Shell": 0.1
-          },
-          "languages_byte": {
-            "Go": 117922,
-            "Makefile": 466,
-            "Dockerfile": 392,
-            "Shell": 121
-          },
-          "stargazers_count": 48,
-          "forks_count": 10,
-          "open_issues_count": 17,
-          "forks": 10,
-          "open_issues": 17,
-          "watchers": 48,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.31,
-            "Makefile": 0.38,
-            "Dockerfile": 0.3
-          },
-          "languages_byte": {
-            "Go": 119180,
-            "Makefile": 459,
-            "Dockerfile": 365
-          },
-          "stargazers_count": 58,
-          "forks_count": 10,
-          "open_issues_count": 17,
-          "forks": 10,
-          "open_issues": 17,
-          "watchers": 58,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.33,
-            "Makefile": 0.37,
-            "Dockerfile": 0.3
-          },
-          "languages_byte": {
-            "Go": 122105,
-            "Makefile": 459,
-            "Dockerfile": 365
-          },
-          "stargazers_count": 65,
-          "forks_count": 10,
-          "open_issues_count": 18,
-          "forks": 10,
-          "open_issues": 18,
-          "watchers": 65,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

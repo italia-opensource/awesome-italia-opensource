@@ -22,8 +22,8 @@
       "full_name": "ZiggyCreatures/FusionCache",
       "html_url": "https://github.com/ZiggyCreatures/FusionCache",
       "created_at": "2020-12-31T17:14:11Z",
-      "updated_at": "2024-09-15T12:13:38Z",
-      "pushed_at": "2024-09-15T12:13:35Z",
+      "updated_at": "2025-03-07T07:37:28Z",
+      "pushed_at": "2025-03-02T19:58:36Z",
       "archived": false,
       "disabled": false,
       "owner": "ZiggyCreatures",
@@ -49,56 +49,16 @@
         "C#": 100.0
       },
       "languages_byte": {
-        "C#": 1140055
+        "C#": 1511986
       },
-      "stargazers_count": 1670,
-      "forks_count": 88,
-      "open_issues_count": 17,
-      "forks": 88,
-      "open_issues": 17,
-      "watchers": 1670,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 2647,
+      "forks_count": 123,
+      "open_issues_count": 26,
+      "forks": 123,
+      "open_issues": 26,
+      "watchers": 2647,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "5": {
-          "language": "C#",
-          "languages": {
-            "C#": 99.98,
-            "Shell": 0.01,
-            "Batchfile": 0.01
-          },
-          "languages_byte": {
-            "C#": 1032671,
-            "Shell": 95,
-            "Batchfile": 74
-          },
-          "stargazers_count": 1381,
-          "forks_count": 77,
-          "open_issues_count": 14,
-          "forks": 77,
-          "open_issues": 14,
-          "watchers": 1381,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "C#",
-          "languages": {
-            "C#": 100.0
-          },
-          "languages_byte": {
-            "C#": 1140055
-          },
-          "stargazers_count": 1670,
-          "forks_count": 88,
-          "open_issues_count": 17,
-          "forks": 88,
-          "open_issues": 17,
-          "watchers": 1670,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

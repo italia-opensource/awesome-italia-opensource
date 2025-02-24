@@ -20,7 +20,7 @@
       "full_name": "ArgonLang/Argon",
       "html_url": "https://github.com/ArgonLang/Argon",
       "created_at": "2019-10-10T13:22:47Z",
-      "updated_at": "2024-09-12T14:09:17Z",
+      "updated_at": "2025-03-03T09:55:42Z",
       "pushed_at": "2024-09-12T14:09:10Z",
       "archived": false,
       "disabled": false,
@@ -50,138 +50,14 @@
         "CMake": 9204,
         "C": 1347
       },
-      "stargazers_count": 41,
+      "stargazers_count": 52,
       "forks_count": 2,
       "open_issues_count": 0,
       "forks": 2,
       "open_issues": 0,
-      "watchers": 41,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "watchers": 52,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "C++",
-          "languages": {
-            "C++": 99.11,
-            "CMake": 0.78,
-            "C": 0.11
-          },
-          "languages_byte": {
-            "C++": 1177014,
-            "CMake": 9204,
-            "C": 1347
-          },
-          "stargazers_count": 35,
-          "forks_count": 0,
-          "open_issues_count": 0,
-          "forks": 0,
-          "open_issues": 0,
-          "watchers": 35,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "C++",
-          "languages": {
-            "C++": 99.12,
-            "CMake": 0.77,
-            "C": 0.11
-          },
-          "languages_byte": {
-            "C++": 1184619,
-            "CMake": 9204,
-            "C": 1347
-          },
-          "stargazers_count": 35,
-          "forks_count": 0,
-          "open_issues_count": 0,
-          "forks": 0,
-          "open_issues": 0,
-          "watchers": 35,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "C++",
-          "languages": {
-            "C++": 99.12,
-            "CMake": 0.77,
-            "C": 0.11
-          },
-          "languages_byte": {
-            "C++": 1184619,
-            "CMake": 9204,
-            "C": 1347
-          },
-          "stargazers_count": 36,
-          "forks_count": 0,
-          "open_issues_count": 0,
-          "forks": 0,
-          "open_issues": 0,
-          "watchers": 36,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "C++",
-          "languages": {
-            "C++": 99.15,
-            "CMake": 0.75,
-            "C": 0.11
-          },
-          "languages_byte": {
-            "C++": 1224436,
-            "CMake": 9204,
-            "C": 1347
-          },
-          "stargazers_count": 38,
-          "forks_count": 0,
-          "open_issues_count": 0,
-          "forks": 0,
-          "open_issues": 0,
-          "watchers": 38,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "C++",
-          "languages": {
-            "C++": 99.15,
-            "CMake": 0.75,
-            "C": 0.11
-          },
-          "languages_byte": {
-            "C++": 1224436,
-            "CMake": 9204,
-            "C": 1347
-          },
-          "stargazers_count": 39,
-          "forks_count": 0,
-          "open_issues_count": 0,
-          "forks": 0,
-          "open_issues": 0,
-          "watchers": 39,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "C++",
-          "languages": {
-            "C++": 99.18,
-            "CMake": 0.72,
-            "C": 0.11
-          },
-          "languages_byte": {
-            "C++": 1271453,
-            "CMake": 9204,
-            "C": 1347
-          },
-          "stargazers_count": 41,
-          "forks_count": 2,
-          "open_issues_count": 0,
-          "forks": 2,
-          "open_issues": 0,
-          "watchers": 41,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

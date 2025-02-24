@@ -19,8 +19,8 @@
       "full_name": "claudiodangelis/qrcp",
       "html_url": "https://github.com/claudiodangelis/qrcp",
       "created_at": "2018-01-14T22:35:55Z",
-      "updated_at": "2024-09-13T20:19:12Z",
-      "pushed_at": "2024-09-01T14:34:10Z",
+      "updated_at": "2025-03-06T23:22:17Z",
+      "pushed_at": "2025-02-28T19:32:50Z",
       "archived": false,
       "disabled": false,
       "owner": "claudiodangelis",
@@ -40,116 +40,16 @@
         "Go": 100.0
       },
       "languages_byte": {
-        "Go": 297636
+        "Go": 297498
       },
-      "stargazers_count": 9926,
-      "forks_count": 527,
-      "open_issues_count": 19,
-      "forks": 527,
-      "open_issues": 19,
-      "watchers": 9926,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 10108,
+      "forks_count": 536,
+      "open_issues_count": 12,
+      "forks": 536,
+      "open_issues": 12,
+      "watchers": 10108,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Go",
-          "languages": {
-            "Go": 100.0
-          },
-          "languages_byte": {
-            "Go": 297376
-          },
-          "stargazers_count": 9631,
-          "forks_count": 534,
-          "open_issues_count": 17,
-          "forks": 534,
-          "open_issues": 17,
-          "watchers": 9631,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Go",
-          "languages": {
-            "Go": 100.0
-          },
-          "languages_byte": {
-            "Go": 297376
-          },
-          "stargazers_count": 9681,
-          "forks_count": 519,
-          "open_issues_count": 15,
-          "forks": 519,
-          "open_issues": 15,
-          "watchers": 9681,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Go",
-          "languages": {
-            "Go": 100.0
-          },
-          "languages_byte": {
-            "Go": 297376
-          },
-          "stargazers_count": 9706,
-          "forks_count": 518,
-          "open_issues_count": 12,
-          "forks": 518,
-          "open_issues": 12,
-          "watchers": 9706,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Go",
-          "languages": {
-            "Go": 100.0
-          },
-          "languages_byte": {
-            "Go": 297376
-          },
-          "stargazers_count": 9766,
-          "forks_count": 520,
-          "open_issues_count": 11,
-          "forks": 520,
-          "open_issues": 11,
-          "watchers": 9766,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Go",
-          "languages": {
-            "Go": 100.0
-          },
-          "languages_byte": {
-            "Go": 297376
-          },
-          "stargazers_count": 9797,
-          "forks_count": 522,
-          "open_issues_count": 12,
-          "forks": 522,
-          "open_issues": 12,
-          "watchers": 9797,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Go",
-          "languages": {
-            "Go": 100.0
-          },
-          "languages_byte": {
-            "Go": 297636
-          },
-          "stargazers_count": 9926,
-          "forks_count": 527,
-          "open_issues_count": 19,
-          "forks": 527,
-          "open_issues": 19,
-          "watchers": 9926,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

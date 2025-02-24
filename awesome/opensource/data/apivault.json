@@ -23,7 +23,7 @@
       "full_name": "Exifly/ApiVault",
       "html_url": "https://github.com/Exifly/ApiVault",
       "created_at": "2023-04-15T13:41:00Z",
-      "updated_at": "2024-09-15T11:56:27Z",
+      "updated_at": "2025-03-05T22:00:15Z",
       "pushed_at": "2024-09-08T18:03:59Z",
       "archived": false,
       "disabled": false,
@@ -70,210 +70,14 @@
         "Dockerfile": 1464,
         "Shell": 236
       },
-      "stargazers_count": 433,
-      "forks_count": 39,
+      "stargazers_count": 455,
+      "forks_count": 41,
       "open_issues_count": 4,
-      "forks": 39,
+      "forks": 41,
       "open_issues": 4,
-      "watchers": 433,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "watchers": 455,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 52.09,
-            "CSS": 19.57,
-            "Vue": 17.38,
-            "Python": 6.85,
-            "TypeScript": 3.09,
-            "HTML": 0.41,
-            "SCSS": 0.36,
-            "Dockerfile": 0.22,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 341649,
-            "CSS": 128336,
-            "Vue": 113991,
-            "Python": 44942,
-            "TypeScript": 20246,
-            "HTML": 2715,
-            "SCSS": 2337,
-            "Dockerfile": 1464,
-            "Shell": 236
-          },
-          "stargazers_count": 332,
-          "forks_count": 32,
-          "open_issues_count": 7,
-          "forks": 32,
-          "open_issues": 7,
-          "watchers": 332,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 52.09,
-            "CSS": 19.57,
-            "Vue": 17.38,
-            "Python": 6.85,
-            "TypeScript": 3.09,
-            "HTML": 0.41,
-            "SCSS": 0.36,
-            "Dockerfile": 0.22,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 341649,
-            "CSS": 128336,
-            "Vue": 113991,
-            "Python": 44942,
-            "TypeScript": 20246,
-            "HTML": 2715,
-            "SCSS": 2337,
-            "Dockerfile": 1464,
-            "Shell": 236
-          },
-          "stargazers_count": 339,
-          "forks_count": 32,
-          "open_issues_count": 7,
-          "forks": 32,
-          "open_issues": 7,
-          "watchers": 339,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 52.09,
-            "CSS": 19.57,
-            "Vue": 17.38,
-            "Python": 6.85,
-            "TypeScript": 3.09,
-            "HTML": 0.41,
-            "SCSS": 0.36,
-            "Dockerfile": 0.22,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 341649,
-            "CSS": 128336,
-            "Vue": 113991,
-            "Python": 44942,
-            "TypeScript": 20246,
-            "HTML": 2715,
-            "SCSS": 2337,
-            "Dockerfile": 1464,
-            "Shell": 236
-          },
-          "stargazers_count": 342,
-          "forks_count": 33,
-          "open_issues_count": 7,
-          "forks": 33,
-          "open_issues": 7,
-          "watchers": 342,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 52.09,
-            "CSS": 19.57,
-            "Vue": 17.38,
-            "Python": 6.85,
-            "TypeScript": 3.09,
-            "HTML": 0.41,
-            "SCSS": 0.36,
-            "Dockerfile": 0.22,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 341649,
-            "CSS": 128336,
-            "Vue": 113991,
-            "Python": 44942,
-            "TypeScript": 20246,
-            "HTML": 2715,
-            "SCSS": 2337,
-            "Dockerfile": 1464,
-            "Shell": 236
-          },
-          "stargazers_count": 345,
-          "forks_count": 34,
-          "open_issues_count": 8,
-          "forks": 34,
-          "open_issues": 8,
-          "watchers": 345,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 52.09,
-            "CSS": 19.57,
-            "Vue": 17.38,
-            "Python": 6.85,
-            "TypeScript": 3.09,
-            "HTML": 0.41,
-            "SCSS": 0.36,
-            "Dockerfile": 0.22,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 341649,
-            "CSS": 128336,
-            "Vue": 113991,
-            "Python": 44942,
-            "TypeScript": 20246,
-            "HTML": 2715,
-            "SCSS": 2337,
-            "Dockerfile": 1464,
-            "Shell": 236
-          },
-          "stargazers_count": 346,
-          "forks_count": 33,
-          "open_issues_count": 8,
-          "forks": 33,
-          "open_issues": 8,
-          "watchers": 346,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 51.48,
-            "CSS": 19.34,
-            "Vue": 17.96,
-            "Python": 6.78,
-            "TypeScript": 3.43,
-            "HTML": 0.41,
-            "SCSS": 0.35,
-            "Dockerfile": 0.22,
-            "Shell": 0.04
-          },
-          "languages_byte": {
-            "JavaScript": 341649,
-            "CSS": 128336,
-            "Vue": 119196,
-            "Python": 45014,
-            "TypeScript": 22771,
-            "HTML": 2715,
-            "SCSS": 2337,
-            "Dockerfile": 1464,
-            "Shell": 236
-          },
-          "stargazers_count": 433,
-          "forks_count": 39,
-          "open_issues_count": 4,
-          "forks": 39,
-          "open_issues": 4,
-          "watchers": 433,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

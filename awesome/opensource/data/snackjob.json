@@ -19,8 +19,8 @@
       "full_name": "Schroedinger-Hat/snackjob",
       "html_url": "https://github.com/Schroedinger-Hat/snackjob",
       "created_at": "2022-02-17T11:00:53Z",
-      "updated_at": "2024-03-01T22:23:51Z",
-      "pushed_at": "2022-10-22T09:25:33Z",
+      "updated_at": "2025-02-23T17:45:16Z",
+      "pushed_at": "2025-02-11T09:50:10Z",
       "archived": false,
       "disabled": false,
       "owner": "Schroedinger-Hat",
@@ -33,16 +33,16 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 82.27,
-        "Python": 15.07,
-        "CSS": 2.59,
-        "Procfile": 0.06
+        "JavaScript": 81.35,
+        "Python": 14.52,
+        "CSS": 2.56,
+        "Dockerfile": 1.57
       },
       "languages_byte": {
-        "JavaScript": 26894,
-        "Python": 4925,
+        "JavaScript": 26910,
+        "Python": 4804,
         "CSS": 848,
-        "Procfile": 21
+        "Dockerfile": 518
       },
       "stargazers_count": 13,
       "forks_count": 3,
@@ -50,144 +50,8 @@
       "forks": 3,
       "open_issues": 3,
       "watchers": 13,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 82.27,
-            "Python": 15.07,
-            "CSS": 2.59,
-            "Procfile": 0.06
-          },
-          "languages_byte": {
-            "JavaScript": 26894,
-            "Python": 4925,
-            "CSS": 848,
-            "Procfile": 21
-          },
-          "stargazers_count": 12,
-          "forks_count": 3,
-          "open_issues_count": 3,
-          "forks": 3,
-          "open_issues": 3,
-          "watchers": 12,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 82.27,
-            "Python": 15.07,
-            "CSS": 2.59,
-            "Procfile": 0.06
-          },
-          "languages_byte": {
-            "JavaScript": 26894,
-            "Python": 4925,
-            "CSS": 848,
-            "Procfile": 21
-          },
-          "stargazers_count": 12,
-          "forks_count": 3,
-          "open_issues_count": 3,
-          "forks": 3,
-          "open_issues": 3,
-          "watchers": 12,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 82.27,
-            "Python": 15.07,
-            "CSS": 2.59,
-            "Procfile": 0.06
-          },
-          "languages_byte": {
-            "JavaScript": 26894,
-            "Python": 4925,
-            "CSS": 848,
-            "Procfile": 21
-          },
-          "stargazers_count": 13,
-          "forks_count": 3,
-          "open_issues_count": 3,
-          "forks": 3,
-          "open_issues": 3,
-          "watchers": 13,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 82.27,
-            "Python": 15.07,
-            "CSS": 2.59,
-            "Procfile": 0.06
-          },
-          "languages_byte": {
-            "JavaScript": 26894,
-            "Python": 4925,
-            "CSS": 848,
-            "Procfile": 21
-          },
-          "stargazers_count": 13,
-          "forks_count": 3,
-          "open_issues_count": 3,
-          "forks": 3,
-          "open_issues": 3,
-          "watchers": 13,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 82.27,
-            "Python": 15.07,
-            "CSS": 2.59,
-            "Procfile": 0.06
-          },
-          "languages_byte": {
-            "JavaScript": 26894,
-            "Python": 4925,
-            "CSS": 848,
-            "Procfile": 21
-          },
-          "stargazers_count": 13,
-          "forks_count": 3,
-          "open_issues_count": 3,
-          "forks": 3,
-          "open_issues": 3,
-          "watchers": 13,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "JavaScript",
-          "languages": {
-            "JavaScript": 82.27,
-            "Python": 15.07,
-            "CSS": 2.59,
-            "Procfile": 0.06
-          },
-          "languages_byte": {
-            "JavaScript": 26894,
-            "Python": 4925,
-            "CSS": 848,
-            "Procfile": 21
-          },
-          "stargazers_count": 13,
-          "forks_count": 3,
-          "open_issues_count": 3,
-          "forks": 3,
-          "open_issues": 3,
-          "watchers": 13,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

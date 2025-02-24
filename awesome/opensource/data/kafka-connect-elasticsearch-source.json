@@ -19,7 +19,7 @@
       "full_name": "DarioBalinzo/kafka-connect-elasticsearch-source",
       "html_url": "https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source",
       "created_at": "2018-05-13T14:38:09Z",
-      "updated_at": "2024-08-25T20:06:33Z",
+      "updated_at": "2025-01-03T21:47:07Z",
       "pushed_at": "2024-08-20T05:32:31Z",
       "archived": false,
       "disabled": false,
@@ -43,114 +43,14 @@
       "languages_byte": {
         "Java": 160125
       },
-      "stargazers_count": 64,
+      "stargazers_count": 66,
       "forks_count": 38,
-      "open_issues_count": 30,
+      "open_issues_count": 31,
       "forks": 38,
-      "open_issues": 30,
-      "watchers": 64,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "open_issues": 31,
+      "watchers": 66,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Java",
-          "languages": {
-            "Java": 100.0
-          },
-          "languages_byte": {
-            "Java": 160125
-          },
-          "stargazers_count": 58,
-          "forks_count": 38,
-          "open_issues_count": 27,
-          "forks": 38,
-          "open_issues": 27,
-          "watchers": 58,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Java",
-          "languages": {
-            "Java": 100.0
-          },
-          "languages_byte": {
-            "Java": 160125
-          },
-          "stargazers_count": 59,
-          "forks_count": 37,
-          "open_issues_count": 29,
-          "forks": 37,
-          "open_issues": 29,
-          "watchers": 59,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Java",
-          "languages": {
-            "Java": 100.0
-          },
-          "languages_byte": {
-            "Java": 160125
-          },
-          "stargazers_count": 59,
-          "forks_count": 37,
-          "open_issues_count": 28,
-          "forks": 37,
-          "open_issues": 28,
-          "watchers": 59,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Java",
-          "languages": {
-            "Java": 100.0
-          },
-          "languages_byte": {
-            "Java": 160125
-          },
-          "stargazers_count": 60,
-          "forks_count": 37,
-          "open_issues_count": 28,
-          "forks": 37,
-          "open_issues": 28,
-          "watchers": 60,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Java",
-          "languages": {
-            "Java": 100.0
-          },
-          "languages_byte": {
-            "Java": 160125
-          },
-          "stargazers_count": 60,
-          "forks_count": 38,
-          "open_issues_count": 29,
-          "forks": 38,
-          "open_issues": 29,
-          "watchers": 60,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Java",
-          "languages": {
-            "Java": 100.0
-          },
-          "languages_byte": {
-            "Java": 160125
-          },
-          "stargazers_count": 64,
-          "forks_count": 38,
-          "open_issues_count": 30,
-          "forks": 38,
-          "open_issues": 30,
-          "watchers": 64,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

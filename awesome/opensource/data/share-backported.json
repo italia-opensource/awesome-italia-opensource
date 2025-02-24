@@ -18,8 +18,8 @@
       "full_name": "Mte90/Share-Backported",
       "html_url": "https://github.com/Mte90/Share-Backported",
       "created_at": "2017-09-02T11:58:40Z",
-      "updated_at": "2024-09-05T09:03:24Z",
-      "pushed_at": "2024-09-05T09:04:43Z",
+      "updated_at": "2025-02-21T14:49:12Z",
+      "pushed_at": "2025-02-21T14:50:20Z",
       "archived": false,
       "disabled": false,
       "owner": "Mte90",
@@ -35,127 +35,23 @@
     "analytics": {
       "language": "HTML",
       "languages": {
-        "HTML": 59.2,
-        "JavaScript": 33.16,
-        "CSS": 7.64
+        "HTML": 59.85,
+        "JavaScript": 32.64,
+        "CSS": 7.52
       },
       "languages_byte": {
-        "HTML": 36768,
-        "JavaScript": 20595,
+        "HTML": 37795,
+        "JavaScript": 20611,
         "CSS": 4748
       },
       "stargazers_count": 50,
-      "forks_count": 20,
+      "forks_count": 21,
       "open_issues_count": 5,
-      "forks": 20,
+      "forks": 21,
       "open_issues": 5,
       "watchers": 50,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "2": {
-          "language": "HTML",
-          "languages": {
-            "HTML": 58.86,
-            "JavaScript": 33.31,
-            "CSS": 7.83
-          },
-          "languages_byte": {
-            "HTML": 35687,
-            "JavaScript": 20192,
-            "CSS": 4748
-          },
-          "stargazers_count": 50,
-          "forks_count": 20,
-          "open_issues_count": 5,
-          "forks": 20,
-          "open_issues": 5,
-          "watchers": 50,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "HTML",
-          "languages": {
-            "HTML": 58.86,
-            "JavaScript": 33.31,
-            "CSS": 7.83
-          },
-          "languages_byte": {
-            "HTML": 35687,
-            "JavaScript": 20192,
-            "CSS": 4748
-          },
-          "stargazers_count": 50,
-          "forks_count": 20,
-          "open_issues_count": 5,
-          "forks": 20,
-          "open_issues": 5,
-          "watchers": 50,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "HTML",
-          "languages": {
-            "HTML": 58.66,
-            "JavaScript": 33.53,
-            "CSS": 7.8
-          },
-          "languages_byte": {
-            "HTML": 35690,
-            "JavaScript": 20400,
-            "CSS": 4748
-          },
-          "stargazers_count": 50,
-          "forks_count": 20,
-          "open_issues_count": 6,
-          "forks": 20,
-          "open_issues": 6,
-          "watchers": 50,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "HTML",
-          "languages": {
-            "HTML": 58.66,
-            "JavaScript": 33.53,
-            "CSS": 7.8
-          },
-          "languages_byte": {
-            "HTML": 35690,
-            "JavaScript": 20400,
-            "CSS": 4748
-          },
-          "stargazers_count": 50,
-          "forks_count": 20,
-          "open_issues_count": 6,
-          "forks": 20,
-          "open_issues": 6,
-          "watchers": 50,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "HTML",
-          "languages": {
-            "HTML": 59.2,
-            "JavaScript": 33.16,
-            "CSS": 7.64
-          },
-          "languages_byte": {
-            "HTML": 36768,
-            "JavaScript": 20595,
-            "CSS": 4748
-          },
-          "stargazers_count": 50,
-          "forks_count": 20,
-          "open_issues_count": 5,
-          "forks": 20,
-          "open_issues": 5,
-          "watchers": 50,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

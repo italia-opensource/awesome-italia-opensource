@@ -62,7 +62,7 @@ jobs:
             echo "Nothing to update"
             echo "commit_sha=${{ github.sha }}" >> $GITHUB_OUTPUT
           else
-            git add awesome/**/README.md
+            git add awesome/**/*
             git add analytics/*
             git commit -m "release(awesome): update awesome data"
             git push

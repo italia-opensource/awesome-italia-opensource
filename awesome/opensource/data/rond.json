@@ -17,8 +17,8 @@
       "full_name": "rond-authz/rond",
       "html_url": "https://github.com/rond-authz/rond",
       "created_at": "2022-06-03T10:03:42Z",
-      "updated_at": "2024-08-20T10:50:38Z",
-      "pushed_at": "2024-09-06T10:57:23Z",
+      "updated_at": "2025-02-25T09:22:36Z",
+      "pushed_at": "2025-03-05T06:23:48Z",
       "archived": false,
       "disabled": false,
       "owner": "rond-authz",
@@ -35,161 +35,25 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 96.31,
-        "Open Policy Agent": 3.35,
-        "Dockerfile": 0.18,
-        "Makefile": 0.16
+        "Go": 96.83,
+        "Open Policy Agent": 2.88,
+        "Makefile": 0.16,
+        "Dockerfile": 0.13
       },
       "languages_byte": {
-        "Go": 563276,
-        "Open Policy Agent": 19578,
-        "Dockerfile": 1060,
-        "Makefile": 925
+        "Go": 664669,
+        "Open Policy Agent": 19781,
+        "Makefile": 1095,
+        "Dockerfile": 869
       },
       "stargazers_count": 163,
-      "forks_count": 6,
-      "open_issues_count": 33,
-      "forks": 6,
-      "open_issues": 33,
+      "forks_count": 7,
+      "open_issues_count": 35,
+      "forks": 7,
+      "open_issues": 35,
       "watchers": 163,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Go",
-          "languages": {
-            "Go": 96.28,
-            "Open Policy Agent": 3.38,
-            "Dockerfile": 0.18,
-            "Makefile": 0.16
-          },
-          "languages_byte": {
-            "Go": 558345,
-            "Open Policy Agent": 19580,
-            "Dockerfile": 1060,
-            "Makefile": 925
-          },
-          "stargazers_count": 145,
-          "forks_count": 5,
-          "open_issues_count": 23,
-          "forks": 5,
-          "open_issues": 23,
-          "watchers": 145,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Go",
-          "languages": {
-            "Go": 96.28,
-            "Open Policy Agent": 3.38,
-            "Dockerfile": 0.18,
-            "Makefile": 0.16
-          },
-          "languages_byte": {
-            "Go": 558345,
-            "Open Policy Agent": 19580,
-            "Dockerfile": 1060,
-            "Makefile": 925
-          },
-          "stargazers_count": 151,
-          "forks_count": 7,
-          "open_issues_count": 25,
-          "forks": 7,
-          "open_issues": 25,
-          "watchers": 151,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Go",
-          "languages": {
-            "Go": 96.28,
-            "Open Policy Agent": 3.38,
-            "Dockerfile": 0.18,
-            "Makefile": 0.16
-          },
-          "languages_byte": {
-            "Go": 558338,
-            "Open Policy Agent": 19580,
-            "Dockerfile": 1060,
-            "Makefile": 925
-          },
-          "stargazers_count": 157,
-          "forks_count": 7,
-          "open_issues_count": 23,
-          "forks": 7,
-          "open_issues": 23,
-          "watchers": 157,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Go",
-          "languages": {
-            "Go": 96.28,
-            "Open Policy Agent": 3.38,
-            "Dockerfile": 0.18,
-            "Makefile": 0.16
-          },
-          "languages_byte": {
-            "Go": 558338,
-            "Open Policy Agent": 19580,
-            "Dockerfile": 1060,
-            "Makefile": 925
-          },
-          "stargazers_count": 157,
-          "forks_count": 7,
-          "open_issues_count": 25,
-          "forks": 7,
-          "open_issues": 25,
-          "watchers": 157,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Go",
-          "languages": {
-            "Go": 96.28,
-            "Open Policy Agent": 3.38,
-            "Dockerfile": 0.18,
-            "Makefile": 0.16
-          },
-          "languages_byte": {
-            "Go": 558338,
-            "Open Policy Agent": 19580,
-            "Dockerfile": 1060,
-            "Makefile": 925
-          },
-          "stargazers_count": 160,
-          "forks_count": 6,
-          "open_issues_count": 25,
-          "forks": 6,
-          "open_issues": 25,
-          "watchers": 160,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Go",
-          "languages": {
-            "Go": 96.31,
-            "Open Policy Agent": 3.35,
-            "Dockerfile": 0.18,
-            "Makefile": 0.16
-          },
-          "languages_byte": {
-            "Go": 563276,
-            "Open Policy Agent": 19578,
-            "Dockerfile": 1060,
-            "Makefile": 925
-          },
-          "stargazers_count": 163,
-          "forks_count": 6,
-          "open_issues_count": 33,
-          "forks": 6,
-          "open_issues": 33,
-          "watchers": 163,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

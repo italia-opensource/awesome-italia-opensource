@@ -18,8 +18,8 @@
       "full_name": "arduino/Arduino",
       "html_url": "https://github.com/arduino/Arduino",
       "created_at": "2010-09-17T19:10:36Z",
-      "updated_at": "2024-09-15T15:09:19Z",
-      "pushed_at": "2023-08-27T17:44:51Z",
+      "updated_at": "2025-03-07T08:41:06Z",
+      "pushed_at": "2024-10-18T16:32:19Z",
       "archived": false,
       "disabled": false,
       "owner": "arduino",
@@ -46,162 +46,14 @@
         "Perl": 7263,
         "JavaScript": 1469
       },
-      "stargazers_count": 14113,
-      "forks_count": 7002,
-      "open_issues_count": 750,
-      "forks": 7002,
-      "open_issues": 750,
-      "watchers": 14113,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 14269,
+      "forks_count": 6996,
+      "open_issues_count": 748,
+      "forks": 6996,
+      "open_issues": 748,
+      "watchers": 14269,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Java",
-          "languages": {
-            "Java": 69.71,
-            "Python": 29.43,
-            "Shell": 0.46,
-            "Perl": 0.33,
-            "JavaScript": 0.07
-          },
-          "languages_byte": {
-            "Java": 1513011,
-            "Python": 638851,
-            "Shell": 9960,
-            "Perl": 7263,
-            "JavaScript": 1469
-          },
-          "stargazers_count": 13893,
-          "forks_count": 7120,
-          "open_issues_count": 757,
-          "forks": 7120,
-          "open_issues": 757,
-          "watchers": 13893,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Java",
-          "languages": {
-            "Java": 69.71,
-            "Python": 29.43,
-            "Shell": 0.46,
-            "Perl": 0.33,
-            "JavaScript": 0.07
-          },
-          "languages_byte": {
-            "Java": 1513011,
-            "Python": 638851,
-            "Shell": 9960,
-            "Perl": 7263,
-            "JavaScript": 1469
-          },
-          "stargazers_count": 13939,
-          "forks_count": 7018,
-          "open_issues_count": 756,
-          "forks": 7018,
-          "open_issues": 756,
-          "watchers": 13939,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Java",
-          "languages": {
-            "Java": 69.71,
-            "Python": 29.43,
-            "Shell": 0.46,
-            "Perl": 0.33,
-            "JavaScript": 0.07
-          },
-          "languages_byte": {
-            "Java": 1513011,
-            "Python": 638851,
-            "Shell": 9960,
-            "Perl": 7263,
-            "JavaScript": 1469
-          },
-          "stargazers_count": 13968,
-          "forks_count": 7022,
-          "open_issues_count": 755,
-          "forks": 7022,
-          "open_issues": 755,
-          "watchers": 13968,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Java",
-          "languages": {
-            "Java": 69.71,
-            "Python": 29.43,
-            "Shell": 0.46,
-            "Perl": 0.33,
-            "JavaScript": 0.07
-          },
-          "languages_byte": {
-            "Java": 1513011,
-            "Python": 638851,
-            "Shell": 9960,
-            "Perl": 7263,
-            "JavaScript": 1469
-          },
-          "stargazers_count": 13997,
-          "forks_count": 7021,
-          "open_issues_count": 755,
-          "forks": 7021,
-          "open_issues": 755,
-          "watchers": 13997,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Java",
-          "languages": {
-            "Java": 69.71,
-            "Python": 29.43,
-            "Shell": 0.46,
-            "Perl": 0.33,
-            "JavaScript": 0.07
-          },
-          "languages_byte": {
-            "Java": 1513011,
-            "Python": 638851,
-            "Shell": 9960,
-            "Perl": 7263,
-            "JavaScript": 1469
-          },
-          "stargazers_count": 14021,
-          "forks_count": 7018,
-          "open_issues_count": 754,
-          "forks": 7018,
-          "open_issues": 754,
-          "watchers": 14021,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Java",
-          "languages": {
-            "Java": 69.71,
-            "Python": 29.43,
-            "Shell": 0.46,
-            "Perl": 0.33,
-            "JavaScript": 0.07
-          },
-          "languages_byte": {
-            "Java": 1513011,
-            "Python": 638851,
-            "Shell": 9960,
-            "Perl": 7263,
-            "JavaScript": 1469
-          },
-          "stargazers_count": 14113,
-          "forks_count": 7002,
-          "open_issues_count": 750,
-          "forks": 7002,
-          "open_issues": 750,
-          "watchers": 14113,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }
