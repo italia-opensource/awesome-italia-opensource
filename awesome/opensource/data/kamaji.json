@@ -25,8 +25,8 @@
       "full_name": "clastix/kamaji",
       "html_url": "https://github.com/clastix/kamaji",
       "created_at": "2021-12-16T14:35:38Z",
-      "updated_at": "2024-09-15T15:34:09Z",
-      "pushed_at": "2024-09-15T08:24:20Z",
+      "updated_at": "2025-03-05T19:21:18Z",
+      "pushed_at": "2025-03-05T20:31:29Z",
       "archived": false,
       "disabled": false,
       "owner": "clastix",
@@ -55,171 +55,25 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 95.78,
-        "Makefile": 3.57,
-        "Smarty": 0.46,
+        "Go": 95.73,
+        "Makefile": 3.64,
+        "Smarty": 0.44,
         "Shell": 0.19
       },
       "languages_byte": {
-        "Go": 544805,
-        "Makefile": 20329,
+        "Go": 569554,
+        "Makefile": 21682,
         "Smarty": 2592,
         "Shell": 1109
       },
-      "stargazers_count": 1002,
-      "forks_count": 90,
-      "open_issues_count": 10,
-      "forks": 90,
-      "open_issues": 10,
-      "watchers": 1002,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 1299,
+      "forks_count": 119,
+      "open_issues_count": 15,
+      "forks": 119,
+      "open_issues": 15,
+      "watchers": 1299,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Go",
-          "languages": {
-            "Go": 93.8,
-            "Makefile": 3.83,
-            "Smarty": 1.93,
-            "Dockerfile": 0.24,
-            "Shell": 0.21
-          },
-          "languages_byte": {
-            "Go": 503789,
-            "Makefile": 20559,
-            "Smarty": 10345,
-            "Dockerfile": 1285,
-            "Shell": 1109
-          },
-          "stargazers_count": 638,
-          "forks_count": 53,
-          "open_issues_count": 11,
-          "forks": 53,
-          "open_issues": 11,
-          "watchers": 638,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Go",
-          "languages": {
-            "Go": 93.8,
-            "Makefile": 3.83,
-            "Smarty": 1.93,
-            "Dockerfile": 0.24,
-            "Shell": 0.21
-          },
-          "languages_byte": {
-            "Go": 503789,
-            "Makefile": 20559,
-            "Smarty": 10345,
-            "Dockerfile": 1285,
-            "Shell": 1109
-          },
-          "stargazers_count": 714,
-          "forks_count": 61,
-          "open_issues_count": 16,
-          "forks": 61,
-          "open_issues": 16,
-          "watchers": 714,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Go",
-          "languages": {
-            "Go": 93.81,
-            "Makefile": 3.82,
-            "Smarty": 1.92,
-            "Dockerfile": 0.24,
-            "Shell": 0.21
-          },
-          "languages_byte": {
-            "Go": 504337,
-            "Makefile": 20559,
-            "Smarty": 10345,
-            "Dockerfile": 1285,
-            "Shell": 1109
-          },
-          "stargazers_count": 754,
-          "forks_count": 67,
-          "open_issues_count": 13,
-          "forks": 67,
-          "open_issues": 13,
-          "watchers": 754,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Go",
-          "languages": {
-            "Go": 93.81,
-            "Makefile": 3.82,
-            "Smarty": 1.92,
-            "Dockerfile": 0.24,
-            "Shell": 0.21
-          },
-          "languages_byte": {
-            "Go": 504562,
-            "Makefile": 20559,
-            "Smarty": 10345,
-            "Dockerfile": 1285,
-            "Shell": 1109
-          },
-          "stargazers_count": 808,
-          "forks_count": 70,
-          "open_issues_count": 14,
-          "forks": 70,
-          "open_issues": 14,
-          "watchers": 808,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Go",
-          "languages": {
-            "Go": 93.61,
-            "Makefile": 4.11,
-            "Smarty": 1.85,
-            "Dockerfile": 0.23,
-            "Shell": 0.2
-          },
-          "languages_byte": {
-            "Go": 524606,
-            "Makefile": 23058,
-            "Smarty": 10345,
-            "Dockerfile": 1285,
-            "Shell": 1109
-          },
-          "stargazers_count": 870,
-          "forks_count": 78,
-          "open_issues_count": 11,
-          "forks": 78,
-          "open_issues": 11,
-          "watchers": 870,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Go",
-          "languages": {
-            "Go": 95.78,
-            "Makefile": 3.57,
-            "Smarty": 0.46,
-            "Shell": 0.19
-          },
-          "languages_byte": {
-            "Go": 544805,
-            "Makefile": 20329,
-            "Smarty": 2592,
-            "Shell": 1109
-          },
-          "stargazers_count": 1002,
-          "forks_count": 90,
-          "open_issues_count": 10,
-          "forks": 90,
-          "open_issues": 10,
-          "watchers": 1002,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

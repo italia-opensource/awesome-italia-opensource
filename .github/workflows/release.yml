@@ -34,16 +34,13 @@ jobs:
       - name: Setup Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version-file: ".python-version"
           cache: "pip"
-
-      - name: Setup CI
-        run: |
-          make setup-ci
 
       - name: Render awesome data
         if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.with_analytics == 'false')
         run: |
+          pip install -r requirements.txt
           make release ARGS=--without-analytics
 
       - name: Render awesome with analytics data
@@ -51,6 +48,7 @@ jobs:
         env:
           TOKEN_GITHUB_PUBLIC_API: ${{ secrets.TOKEN_GITHUB_PUBLIC_API }}
         run: |
+          pip install -r requirements.txt
           make release
 
       - name: Render awesome README.md
@@ -62,7 +60,7 @@ jobs:
             echo "Nothing to update"
             echo "commit_sha=${{ github.sha }}" >> $GITHUB_OUTPUT
           else
-            git add awesome/**/README.md
+            git add awesome/**/*
             git add analytics/*
             git commit -m "release(awesome): update awesome data"
             git push

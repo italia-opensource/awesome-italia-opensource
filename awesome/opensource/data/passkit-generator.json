@@ -20,8 +20,8 @@
       "full_name": "alexandercerutti/passkit-generator",
       "html_url": "https://github.com/alexandercerutti/passkit-generator",
       "created_at": "2018-09-12T19:45:00Z",
-      "updated_at": "2024-09-14T13:58:49Z",
-      "pushed_at": "2024-06-16T12:40:37Z",
+      "updated_at": "2025-03-07T09:15:11Z",
+      "pushed_at": "2025-01-19T23:26:40Z",
       "archived": false,
       "disabled": false,
       "owner": "alexandercerutti",
@@ -30,10 +30,8 @@
         "apple",
         "apple-pass",
         "apple-passkit",
+        "apple-wallet",
         "ios",
-        "javascript",
-        "joi",
-        "nodejs",
         "pass",
         "passkit",
         "wallet"
@@ -43,133 +41,21 @@
     "analytics": {
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 68.4,
-        "JavaScript": 31.6
+        "TypeScript": 71.43,
+        "JavaScript": 28.57
       },
       "languages_byte": {
-        "TypeScript": 65896,
-        "JavaScript": 30450
+        "TypeScript": 89436,
+        "JavaScript": 35771
       },
-      "stargazers_count": 828,
-      "forks_count": 104,
-      "open_issues_count": 4,
-      "forks": 104,
-      "open_issues": 4,
-      "watchers": 828,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 977,
+      "forks_count": 114,
+      "open_issues_count": 3,
+      "forks": 114,
+      "open_issues": 3,
+      "watchers": 977,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 68.4,
-            "JavaScript": 31.6
-          },
-          "languages_byte": {
-            "TypeScript": 65896,
-            "JavaScript": 30450
-          },
-          "stargazers_count": 634,
-          "forks_count": 92,
-          "open_issues_count": 1,
-          "forks": 92,
-          "open_issues": 1,
-          "watchers": 634,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 68.4,
-            "JavaScript": 31.6
-          },
-          "languages_byte": {
-            "TypeScript": 65896,
-            "JavaScript": 30450
-          },
-          "stargazers_count": 661,
-          "forks_count": 93,
-          "open_issues_count": 1,
-          "forks": 93,
-          "open_issues": 1,
-          "watchers": 661,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 68.4,
-            "JavaScript": 31.6
-          },
-          "languages_byte": {
-            "TypeScript": 65896,
-            "JavaScript": 30450
-          },
-          "stargazers_count": 679,
-          "forks_count": 94,
-          "open_issues_count": 2,
-          "forks": 94,
-          "open_issues": 2,
-          "watchers": 679,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 68.4,
-            "JavaScript": 31.6
-          },
-          "languages_byte": {
-            "TypeScript": 65896,
-            "JavaScript": 30450
-          },
-          "stargazers_count": 705,
-          "forks_count": 95,
-          "open_issues_count": 1,
-          "forks": 95,
-          "open_issues": 1,
-          "watchers": 705,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 68.4,
-            "JavaScript": 31.6
-          },
-          "languages_byte": {
-            "TypeScript": 65896,
-            "JavaScript": 30450
-          },
-          "stargazers_count": 732,
-          "forks_count": 98,
-          "open_issues_count": 2,
-          "forks": 98,
-          "open_issues": 2,
-          "watchers": 732,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 68.4,
-            "JavaScript": 31.6
-          },
-          "languages_byte": {
-            "TypeScript": 65896,
-            "JavaScript": 30450
-          },
-          "stargazers_count": 828,
-          "forks_count": 104,
-          "open_issues_count": 4,
-          "forks": 104,
-          "open_issues": 4,
-          "watchers": 828,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

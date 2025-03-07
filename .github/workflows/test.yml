@@ -23,13 +23,14 @@ jobs:
       - name: Setup Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version-file: ".python-version"
           cache: "pip"
 
-      - name: Setup CI
-        run: |
-          make setup-ci
+      - name: Code tests
+        timeout-minutes: 10
+        uses: pre-commit/action@v3.0.1
 
       - name: Test awesome data
         run: |
+          pip install -r requirements.txt
           make test

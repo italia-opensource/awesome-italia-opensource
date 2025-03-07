@@ -1,7 +1,5 @@
-boto3>=1.26.0
-click>=8.0
+ruff
+urllib3>=2.3.0
 fastjsonschema>=2.0
-geopandas
-geopy
-pre-commit
-snakemd==2.1.0
+snakemd==2.3.0
+pre-commit==3.*

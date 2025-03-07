@@ -19,8 +19,8 @@
       "full_name": "Noovolari/leapp",
       "html_url": "https://github.com/Noovolari/leapp",
       "created_at": "2020-07-28T07:54:59Z",
-      "updated_at": "2024-09-10T12:25:17Z",
-      "pushed_at": "2024-08-08T15:30:25Z",
+      "updated_at": "2025-03-04T18:23:30Z",
+      "pushed_at": "2024-11-28T22:57:06Z",
       "archived": false,
       "disabled": false,
       "owner": "Noovolari",
@@ -55,7 +55,7 @@
         "Batchfile": 0.0
       },
       "languages_byte": {
-        "TypeScript": 1735986,
+        "TypeScript": 1736027,
         "SCSS": 124137,
         "HTML": 118891,
         "Python": 87915,
@@ -66,222 +66,14 @@
         "Shell": 135,
         "Batchfile": 61
       },
-      "stargazers_count": 1595,
-      "forks_count": 146,
-      "open_issues_count": 152,
-      "forks": 146,
-      "open_issues": 152,
-      "watchers": 1595,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 1651,
+      "forks_count": 150,
+      "open_issues_count": 153,
+      "forks": 150,
+      "open_issues": 153,
+      "watchers": 1651,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 80.2,
-            "SCSS": 5.54,
-            "HTML": 5.39,
-            "Python": 4.08,
-            "JavaScript": 2.79,
-            "Makefile": 1.78,
-            "C++": 0.2,
-            "C": 0.01,
-            "Shell": 0.01,
-            "Batchfile": 0.0
-          },
-          "languages_byte": {
-            "TypeScript": 1728036,
-            "SCSS": 119366,
-            "HTML": 116189,
-            "Python": 87915,
-            "JavaScript": 60120,
-            "Makefile": 38442,
-            "C++": 4299,
-            "C": 174,
-            "Shell": 135,
-            "Batchfile": 61
-          },
-          "stargazers_count": 1497,
-          "forks_count": 130,
-          "open_issues_count": 135,
-          "forks": 130,
-          "open_issues": 135,
-          "watchers": 1497,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 80.18,
-            "SCSS": 5.57,
-            "HTML": 5.41,
-            "Python": 4.07,
-            "JavaScript": 2.78,
-            "Makefile": 1.78,
-            "C++": 0.2,
-            "C": 0.01,
-            "Shell": 0.01,
-            "Batchfile": 0.0
-          },
-          "languages_byte": {
-            "TypeScript": 1732216,
-            "SCSS": 120322,
-            "HTML": 116811,
-            "Python": 87915,
-            "JavaScript": 60120,
-            "Makefile": 38442,
-            "C++": 4299,
-            "C": 174,
-            "Shell": 135,
-            "Batchfile": 61
-          },
-          "stargazers_count": 1504,
-          "forks_count": 131,
-          "open_issues_count": 137,
-          "forks": 131,
-          "open_issues": 137,
-          "watchers": 1504,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 80.18,
-            "SCSS": 5.57,
-            "HTML": 5.41,
-            "Python": 4.07,
-            "JavaScript": 2.78,
-            "Makefile": 1.78,
-            "C++": 0.2,
-            "C": 0.01,
-            "Shell": 0.01,
-            "Batchfile": 0.0
-          },
-          "languages_byte": {
-            "TypeScript": 1732163,
-            "SCSS": 120322,
-            "HTML": 116811,
-            "Python": 87915,
-            "JavaScript": 60120,
-            "Makefile": 38442,
-            "C++": 4299,
-            "C": 174,
-            "Shell": 135,
-            "Batchfile": 61
-          },
-          "stargazers_count": 1518,
-          "forks_count": 130,
-          "open_issues_count": 142,
-          "forks": 130,
-          "open_issues": 142,
-          "watchers": 1518,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 80.18,
-            "SCSS": 5.57,
-            "HTML": 5.41,
-            "Python": 4.07,
-            "JavaScript": 2.78,
-            "Makefile": 1.78,
-            "C++": 0.2,
-            "C": 0.01,
-            "Shell": 0.01,
-            "Batchfile": 0.0
-          },
-          "languages_byte": {
-            "TypeScript": 1732551,
-            "SCSS": 120322,
-            "HTML": 116811,
-            "Python": 87915,
-            "JavaScript": 60120,
-            "Makefile": 38442,
-            "C++": 4299,
-            "C": 174,
-            "Shell": 135,
-            "Batchfile": 61
-          },
-          "stargazers_count": 1523,
-          "forks_count": 131,
-          "open_issues_count": 143,
-          "forks": 131,
-          "open_issues": 143,
-          "watchers": 1523,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 79.99,
-            "SCSS": 5.72,
-            "HTML": 5.48,
-            "Python": 4.05,
-            "JavaScript": 2.77,
-            "Makefile": 1.77,
-            "C++": 0.2,
-            "C": 0.01,
-            "Shell": 0.01,
-            "Batchfile": 0.0
-          },
-          "languages_byte": {
-            "TypeScript": 1735624,
-            "SCSS": 124137,
-            "HTML": 118891,
-            "Python": 87915,
-            "JavaScript": 60120,
-            "Makefile": 38442,
-            "C++": 4299,
-            "C": 174,
-            "Shell": 135,
-            "Batchfile": 61
-          },
-          "stargazers_count": 1537,
-          "forks_count": 137,
-          "open_issues_count": 150,
-          "forks": 137,
-          "open_issues": 150,
-          "watchers": 1537,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "TypeScript",
-          "languages": {
-            "TypeScript": 79.99,
-            "SCSS": 5.72,
-            "HTML": 5.48,
-            "Python": 4.05,
-            "JavaScript": 2.77,
-            "Makefile": 1.77,
-            "C++": 0.2,
-            "C": 0.01,
-            "Shell": 0.01,
-            "Batchfile": 0.0
-          },
-          "languages_byte": {
-            "TypeScript": 1735986,
-            "SCSS": 124137,
-            "HTML": 118891,
-            "Python": 87915,
-            "JavaScript": 60120,
-            "Makefile": 38442,
-            "C++": 4299,
-            "C": 174,
-            "Shell": 135,
-            "Batchfile": 61
-          },
-          "stargazers_count": 1595,
-          "forks_count": 146,
-          "open_issues_count": 152,
-          "forks": 146,
-          "open_issues": 152,
-          "watchers": 1595,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

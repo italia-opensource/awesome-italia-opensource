@@ -17,8 +17,8 @@
       "full_name": "strawberry-graphql/strawberry",
       "html_url": "https://github.com/strawberry-graphql/strawberry",
       "created_at": "2018-12-21T08:56:55Z",
-      "updated_at": "2024-09-15T14:57:57Z",
-      "pushed_at": "2024-09-15T09:44:28Z",
+      "updated_at": "2025-03-06T22:34:48Z",
+      "pushed_at": "2025-03-06T20:18:37Z",
       "archived": false,
       "disabled": false,
       "owner": "strawberry-graphql",
@@ -44,174 +44,26 @@
       "language": "Python",
       "languages": {
         "Python": 99.4,
-        "HTML": 0.3,
+        "HTML": 0.29,
         "TypeScript": 0.28,
         "Dockerfile": 0.02,
         "Shell": 0.0
       },
       "languages_byte": {
-        "Python": 2287404,
-        "HTML": 6900,
-        "TypeScript": 6378,
+        "Python": 2297775,
+        "HTML": 6777,
+        "TypeScript": 6577,
         "Dockerfile": 523,
         "Shell": 50
       },
-      "stargazers_count": 3930,
-      "forks_count": 519,
-      "open_issues_count": 478,
-      "forks": 519,
-      "open_issues": 478,
-      "watchers": 3930,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "stargazers_count": 4186,
+      "forks_count": 556,
+      "open_issues_count": 485,
+      "forks": 556,
+      "open_issues": 485,
+      "watchers": 4186,
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Python",
-          "languages": {
-            "Python": 99.32,
-            "HTML": 0.34,
-            "TypeScript": 0.31,
-            "Dockerfile": 0.03,
-            "Shell": 0.0
-          },
-          "languages_byte": {
-            "Python": 2027226,
-            "HTML": 6900,
-            "TypeScript": 6378,
-            "Dockerfile": 523,
-            "Shell": 50
-          },
-          "stargazers_count": 3631,
-          "forks_count": 485,
-          "open_issues_count": 457,
-          "forks": 485,
-          "open_issues": 457,
-          "watchers": 3631,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Python",
-          "languages": {
-            "Python": 99.34,
-            "HTML": 0.33,
-            "TypeScript": 0.31,
-            "Dockerfile": 0.03,
-            "Shell": 0.0
-          },
-          "languages_byte": {
-            "Python": 2076084,
-            "HTML": 6900,
-            "TypeScript": 6378,
-            "Dockerfile": 523,
-            "Shell": 50
-          },
-          "stargazers_count": 3676,
-          "forks_count": 494,
-          "open_issues_count": 474,
-          "forks": 494,
-          "open_issues": 474,
-          "watchers": 3676,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Python",
-          "languages": {
-            "Python": 99.34,
-            "HTML": 0.33,
-            "TypeScript": 0.31,
-            "Dockerfile": 0.03,
-            "Shell": 0.0
-          },
-          "languages_byte": {
-            "Python": 2076495,
-            "HTML": 6900,
-            "TypeScript": 6378,
-            "Dockerfile": 523,
-            "Shell": 50
-          },
-          "stargazers_count": 3707,
-          "forks_count": 498,
-          "open_issues_count": 476,
-          "forks": 498,
-          "open_issues": 476,
-          "watchers": 3707,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Python",
-          "languages": {
-            "Python": 99.36,
-            "HTML": 0.32,
-            "TypeScript": 0.3,
-            "Dockerfile": 0.02,
-            "Shell": 0.0
-          },
-          "languages_byte": {
-            "Python": 2138876,
-            "HTML": 6900,
-            "TypeScript": 6378,
-            "Dockerfile": 523,
-            "Shell": 50
-          },
-          "stargazers_count": 3750,
-          "forks_count": 496,
-          "open_issues_count": 491,
-          "forks": 496,
-          "open_issues": 491,
-          "watchers": 3750,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Python",
-          "languages": {
-            "Python": 99.36,
-            "HTML": 0.32,
-            "TypeScript": 0.29,
-            "Dockerfile": 0.02,
-            "Shell": 0.0
-          },
-          "languages_byte": {
-            "Python": 2162867,
-            "HTML": 6900,
-            "TypeScript": 6378,
-            "Dockerfile": 523,
-            "Shell": 50
-          },
-          "stargazers_count": 3796,
-          "forks_count": 504,
-          "open_issues_count": 486,
-          "forks": 504,
-          "open_issues": 486,
-          "watchers": 3796,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Python",
-          "languages": {
-            "Python": 99.4,
-            "HTML": 0.3,
-            "TypeScript": 0.28,
-            "Dockerfile": 0.02,
-            "Shell": 0.0
-          },
-          "languages_byte": {
-            "Python": 2287404,
-            "HTML": 6900,
-            "TypeScript": 6378,
-            "Dockerfile": 523,
-            "Shell": 50
-          },
-          "stargazers_count": 3930,
-          "forks_count": 519,
-          "open_issues_count": 478,
-          "forks": 519,
-          "open_issues": 478,
-          "watchers": 3930,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

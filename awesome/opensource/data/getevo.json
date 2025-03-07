@@ -18,8 +18,8 @@
       "full_name": "getevo/evo",
       "html_url": "https://github.com/getevo/evo",
       "created_at": "2020-06-05T14:42:13Z",
-      "updated_at": "2024-09-05T10:47:29Z",
-      "pushed_at": "2024-09-05T10:47:26Z",
+      "updated_at": "2025-02-27T11:40:36Z",
+      "pushed_at": "2025-02-27T11:40:32Z",
       "archived": false,
       "disabled": false,
       "owner": "getevo",
@@ -45,7 +45,7 @@
         "Dockerfile": 0.07
       },
       "languages_byte": {
-        "Go": 627876,
+        "Go": 677088,
         "Dockerfile": 470
       },
       "stargazers_count": 32,
@@ -54,120 +54,8 @@
       "forks": 7,
       "open_issues": 13,
       "watchers": 32,
-      "updated_at": "2024-09-15T17:01:10Z"
+      "updated_at": "2025-03-07T09:12:44Z"
     },
-    "analytics_history": {
-      "2024": {
-        "1": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.92,
-            "Dockerfile": 0.08
-          },
-          "languages_byte": {
-            "Go": 579329,
-            "Dockerfile": 470
-          },
-          "stargazers_count": 31,
-          "forks_count": 6,
-          "open_issues_count": 13,
-          "forks": 6,
-          "open_issues": 13,
-          "watchers": 31,
-          "updated_at": "23-2024-01T17:38:00Z"
-        },
-        "2": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.92,
-            "Dockerfile": 0.08
-          },
-          "languages_byte": {
-            "Go": 593718,
-            "Dockerfile": 470
-          },
-          "stargazers_count": 31,
-          "forks_count": 6,
-          "open_issues_count": 13,
-          "forks": 6,
-          "open_issues": 13,
-          "watchers": 31,
-          "updated_at": "24-2024-02T15:44:00Z"
-        },
-        "3": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.92,
-            "Dockerfile": 0.08
-          },
-          "languages_byte": {
-            "Go": 609194,
-            "Dockerfile": 470
-          },
-          "stargazers_count": 31,
-          "forks_count": 7,
-          "open_issues_count": 13,
-          "forks": 7,
-          "open_issues": 13,
-          "watchers": 31,
-          "updated_at": "19-2024-03T13:50:00Z"
-        },
-        "4": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.92,
-            "Dockerfile": 0.08
-          },
-          "languages_byte": {
-            "Go": 609507,
-            "Dockerfile": 470
-          },
-          "stargazers_count": 31,
-          "forks_count": 7,
-          "open_issues_count": 13,
-          "forks": 7,
-          "open_issues": 13,
-          "watchers": 31,
-          "updated_at": "17-2024-04T16:42:00Z"
-        },
-        "5": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.92,
-            "Dockerfile": 0.08
-          },
-          "languages_byte": {
-            "Go": 609536,
-            "Dockerfile": 470
-          },
-          "stargazers_count": 31,
-          "forks_count": 7,
-          "open_issues_count": 13,
-          "forks": 7,
-          "open_issues": 13,
-          "watchers": 31,
-          "updated_at": "2024-05-18T13:53:03Z"
-        },
-        "9": {
-          "language": "Go",
-          "languages": {
-            "Go": 99.93,
-            "Dockerfile": 0.07
-          },
-          "languages_byte": {
-            "Go": 627876,
-            "Dockerfile": 470
-          },
-          "stargazers_count": 32,
-          "forks_count": 7,
-          "open_issues_count": 13,
-          "forks": 7,
-          "open_issues": 13,
-          "watchers": 32,
-          "updated_at": "2024-09-15T17:01:10Z"
-        }
-      }
-    },
-    "timestamp": "2024-09-15T17:01:10Z"
+    "timestamp": "2025-03-07T09:12:44Z"
   }
 }

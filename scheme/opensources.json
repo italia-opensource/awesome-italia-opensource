@@ -34,6 +34,7 @@
     "license": {
       "type": "string",
       "enum": [
+        "Source-available",
         "0BSD",
         "BSD-1-Clause",
         "BSD-2-Clause",

@@ -17,10 +17,6 @@ deps: ## Setup local environment
 .PHONY: setup
 setup: doppler deps ## Setup local environment
 
-.PHONY: setup-ci
-setup-ci: ## Setup CI environment
-	pip3 install -r requirements.txt && pre-commit install
-
 .PHONY: lint
 lint: ## Run linter on all files
 	pre-commit run --all-files
@@ -38,7 +34,7 @@ render-data: ## Render awesome data to README.md
 	python3 scripts/render.py
 
 .PHONY: test
-test: lint check-data render-data ## Run all tests
+test: check-data render-data ## Run all tests
 
 .PHONY: release
 release: check-data process-data render-data ## Release
