@@ -1,6 +1,6 @@
 # 🚀 Italia Open-Source
 
-![Last Commit](https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main)
+![Last Commit](https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main) 
 
 The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy's tech innovations**.
 
