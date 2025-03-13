@@ -4,6 +4,7 @@ import sys
 
 import fastjsonschema
 
+
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace("scripts/", ""))
 
 

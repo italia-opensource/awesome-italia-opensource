@@ -1,0 +1,85 @@
+[project]
+name = "awesome-italia-opensource"
+version = "0.1.0"
+authors = [{ name = "FabrizioCafolla" }]
+description = ""
+keywords = []
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastjsonschema>=2.21.1",
+    "ruff>=0.8.4",
+    "snakemd>=2.3.0",
+    "urllib3>=2.3.0",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.0.1",
+]
+
+
+[tool.uv]
+default-groups = ["dev"]
+package = false
+environments = [
+    "sys_platform == 'darwin'",
+    "sys_platform == 'linux'",
+]
+
+[tool.ruff]
+target-version = "py312"
+indent-width = 4
+exclude = [
+    ".venv",
+    ".vscode",
+    ".pytest_cache",
+    "build",
+    "dist",
+    "__pycache__"
+]
+
+[tool.ruff.lint]
+select = [   
+    "E",  # Error Pyflakes
+    "F",  # Error Pyflakes
+    "W",  # Style warning
+    "I",  # Import sorting
+    "N",  # Naming convention
+    "UP", # Upgrade Python
+    "B",  # Bugbear (best practices)
+    "C",  # Complexity (McCabe)
+    "SIM", # Simplicity
+    "T20", # Print debugging
+    "PL",  # Pylint (best practices)
+    "PERF", # Performance
+]
+ignore = [
+    "B006",
+    "PLR0913",
+    "T201",
+    "E501"
+]
+fixable = ["ALL"] # Allow fix for all enabled rules (when `--fix`) is provided.
+unfixable = []
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$" # Allow unused variables when underscore-prefixed.
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+known-first-party = ["py_secscan"]
+lines-after-imports = 2
+
+[tool.ruff.lint.pycodestyle]
+ignore-overlong-task-comments = true
+max-line-length = 140
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+docstring-code-format = true
+docstring-code-line-length = "dynamic"
+
+[tool.ruff.lint.mccabe]
+max-complexity = 9

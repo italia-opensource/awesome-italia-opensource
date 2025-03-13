@@ -30,7 +30,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
 4. (Optional) Before commit exec
 
    ```bash
-   make deps
+   make setup
    source .activate
    make lint check-data
    ```
@@ -147,7 +147,8 @@ git clone https://github.com/italia-opensource/awesome-italia-opensource.git
 
 cd awesome-italia-opensource
 
-make deps
+make setup
+
 source .activate
 
 make test
@@ -158,7 +159,7 @@ make test
 ```bash
 # Set secrets from Doppler
 doppler login
-make setup
+make doppler
 # Or set secrets manually (*)
 echo "export TOKEN_GITHUB_PUBLIC_API=_YOUR_TOKEN_" > .env
 
