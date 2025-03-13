@@ -19,7 +19,7 @@
       "full_name": "moquette-io/moquette",
       "html_url": "https://github.com/moquette-io/moquette",
       "created_at": "2014-09-30T20:14:41Z",
-      "updated_at": "2025-03-05T05:36:21Z",
+      "updated_at": "2025-03-12T03:46:23Z",
       "pushed_at": "2025-02-11T10:02:01Z",
       "archived": false,
       "disabled": false,
@@ -51,14 +51,14 @@
         "Batchfile": 3910,
         "Ruby": 212
       },
-      "stargazers_count": 2333,
-      "forks_count": 823,
+      "stargazers_count": 2337,
+      "forks_count": 824,
       "open_issues_count": 114,
-      "forks": 823,
+      "forks": 824,
       "open_issues": 114,
-      "watchers": 2333,
-      "updated_at": "2025-03-07T09:12:44Z"
+      "watchers": 2337,
+      "updated_at": "2025-03-13T17:47:32Z"
     },
-    "timestamp": "2025-03-07T09:12:44Z"
+    "timestamp": "2025-03-13T17:47:32Z"
   }
 }

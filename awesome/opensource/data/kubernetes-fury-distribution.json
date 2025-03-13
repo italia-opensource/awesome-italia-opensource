@@ -21,8 +21,8 @@
       "full_name": "sighupio/fury-distribution",
       "html_url": "https://github.com/sighupio/fury-distribution",
       "created_at": "2020-01-23T16:23:02Z",
-      "updated_at": "2025-03-06T09:21:56Z",
-      "pushed_at": "2025-03-06T14:53:28Z",
+      "updated_at": "2025-03-12T15:33:28Z",
+      "pushed_at": "2025-03-12T17:29:42Z",
       "archived": false,
       "disabled": false,
       "owner": "sighupio",
@@ -40,27 +40,27 @@
     "analytics": {
       "language": "Smarty",
       "languages": {
-        "Smarty": 74.65,
-        "Shell": 19.47,
-        "HCL": 3.11,
-        "Go": 1.55,
-        "Makefile": 1.23
+        "Smarty": 70.96,
+        "Shell": 23.56,
+        "HCL": 2.89,
+        "Go": 1.44,
+        "Makefile": 1.15
       },
       "languages_byte": {
-        "Smarty": 325778,
-        "Shell": 84978,
+        "Smarty": 332612,
+        "Shell": 110430,
         "HCL": 13553,
         "Go": 6747,
         "Makefile": 5369
       },
       "stargazers_count": 177,
       "forks_count": 14,
-      "open_issues_count": 20,
+      "open_issues_count": 19,
       "forks": 14,
-      "open_issues": 20,
+      "open_issues": 19,
       "watchers": 177,
-      "updated_at": "2025-03-07T09:12:44Z"
+      "updated_at": "2025-03-13T17:47:32Z"
     },
-    "timestamp": "2025-03-07T09:12:44Z"
+    "timestamp": "2025-03-13T17:47:32Z"
   }
 }

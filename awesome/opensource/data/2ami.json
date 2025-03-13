@@ -18,7 +18,7 @@
       "full_name": "endorama/2ami",
       "html_url": "https://github.com/endorama/2ami",
       "created_at": "2018-06-26T23:50:23Z",
-      "updated_at": "2024-10-16T08:29:35Z",
+      "updated_at": "2025-03-11T07:12:45Z",
       "pushed_at": "2024-12-11T22:33:16Z",
       "archived": false,
       "disabled": false,
@@ -48,14 +48,14 @@
         "Go": 30954,
         "Shell": 3165
       },
-      "stargazers_count": 27,
+      "stargazers_count": 28,
       "forks_count": 1,
       "open_issues_count": 6,
       "forks": 1,
       "open_issues": 6,
-      "watchers": 27,
-      "updated_at": "2025-03-07T09:12:44Z"
+      "watchers": 28,
+      "updated_at": "2025-03-13T17:47:32Z"
     },
-    "timestamp": "2025-03-07T09:12:44Z"
+    "timestamp": "2025-03-13T17:47:32Z"
   }
 }

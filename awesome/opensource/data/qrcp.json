@@ -19,7 +19,7 @@
       "full_name": "claudiodangelis/qrcp",
       "html_url": "https://github.com/claudiodangelis/qrcp",
       "created_at": "2018-01-14T22:35:55Z",
-      "updated_at": "2025-03-06T23:22:17Z",
+      "updated_at": "2025-03-12T15:03:40Z",
       "pushed_at": "2025-02-28T19:32:50Z",
       "archived": false,
       "disabled": false,
@@ -42,14 +42,14 @@
       "languages_byte": {
         "Go": 297498
       },
-      "stargazers_count": 10108,
+      "stargazers_count": 10113,
       "forks_count": 536,
       "open_issues_count": 12,
       "forks": 536,
       "open_issues": 12,
-      "watchers": 10108,
-      "updated_at": "2025-03-07T09:12:44Z"
+      "watchers": 10113,
+      "updated_at": "2025-03-13T17:47:32Z"
     },
-    "timestamp": "2025-03-07T09:12:44Z"
+    "timestamp": "2025-03-13T17:47:32Z"
   }
 }
