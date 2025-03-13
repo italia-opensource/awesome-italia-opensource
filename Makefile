@@ -4,18 +4,14 @@ help: ## Helper
 	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##/\n\t/'
 
 .DEFAULT_GOAL := help
-VIRTUAL_ENV := true
 
 .PHONY: doppler
-doppler: ## Install deps
+doppler: ## Download secrets from Doppler
 	@chmod +x ./scripts/doppler.sh && ./scripts/doppler.sh
 
-.PHONY: deps
-deps: ## Setup local environment
-	chmod +x ./scripts/deps.sh && ./scripts/deps.sh $(VIRTUAL_ENV)
-
 .PHONY: setup
-setup: doppler deps ## Setup local environment
+setup: doppler ## Setup local environment
+	chmod +x ./scripts/setup.sh && ./scripts/setup.sh
 
 .PHONY: lint
 lint: ## Run linter on all files

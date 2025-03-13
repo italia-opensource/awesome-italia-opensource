@@ -20,17 +20,34 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
 
-      - name: Setup Python 3.12
+      - name: Setup Python
+        id: setup-python
         uses: actions/setup-python@v5
         with:
           python-version-file: ".python-version"
-          cache: "pip"
 
-      - name: Code tests
+      - name: Setup Uv
+        id: setup-uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: |
+            uv.lock
+            pyproject.toml
+
+      - name: Setup environment
+        run: |
+          echo "Pipeline info"
+          echo "  - OS: $(uname -mo)"
+          echo "  - UV version: ${{ steps.setup-uv.outputs.uv-version }}"
+          echo "  - Python version: ${{ steps.setup-python.outputs.python-version}}"
+
+          uv sync --all-extras
+
+      - name: Linting test
         timeout-minutes: 10
         uses: pre-commit/action@v3.0.1
 
-      - name: Test awesome data
+      - name: Awesome data test
         run: |
-          pip install -r requirements.txt
-          make test
+          uv run make test

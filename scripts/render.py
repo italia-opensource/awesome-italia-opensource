@@ -5,8 +5,10 @@ import unicodedata
 
 from snakemd import Document, Inline
 
+
 BASEDIR = os.path.dirname(os.path.abspath(__file__).replace("scripts/", ""))
 AWESOME_TYPE = ["opensource", "startups", "communities", "digital-nomads"]
+DESCRIPTION_MAX_LENGTH = 59
 
 
 def get_url_name(category, name):
@@ -153,7 +155,7 @@ class StartupsReadme(Readme):
                 raise Exception(f"Company {name} already exist")
 
             description = item.get("description", "")
-            if len(description) > 59:
+            if len(description) > DESCRIPTION_MAX_LENGTH:
                 description = description[0:60] + " [..]"
 
             table_content.append(
@@ -248,7 +250,7 @@ class OpensourceReadme(Readme):
             )
             tags = ", ".join(item["tags"])
             description = item.get("description", "")
-            if description and len(description) > 59:
+            if description and len(description) > DESCRIPTION_MAX_LENGTH:
                 description = description[0:60] + " [..]"
 
             table_content.append(
@@ -299,7 +301,7 @@ class CommunitiesReadme(Readme):
                 raise Exception(f"Community {name} already exist")
 
             description = item.get("description", "")
-            if len(description) > 59:
+            if len(description) > DESCRIPTION_MAX_LENGTH:
                 description = description[0:60] + " [..]"
 
             table_content.append(
