@@ -53,7 +53,7 @@
     },
     "percentage": [
       {
-        "Go": 9.51,
+        "Go": 9.52,
         "Shell": 0.73,
         "JavaScript": 9.05,
         "HCL": 0.06,
@@ -91,7 +91,7 @@
         "Swift": 0.29,
         "Procfile": 0.0,
         "Fluent": 0.01,
-        "Lua": 10.96,
+        "Lua": 10.95,
         "Raku": 0.37,
         "Starlark": 0.12,
         "Svelte": 0.0,
@@ -630,6 +630,6 @@
   },
   "metadata": {
     "total": 49,
-    "update_at": "2025-03-13T18:36:45Z"
+    "update_at": "2025-03-15T09:15:10Z"
   }
 }
