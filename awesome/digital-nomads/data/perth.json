@@ -1,0 +1,25 @@
+{
+  "name": "Perth",
+  "state_name": "Australia",
+  "required_documents": [
+    "Passport"
+  ],
+  "internet_roaming": "Local SIM Required",
+  "daily_average_cost": 80,
+  "description": "Perth is a sunny Australian city known for its beaches, outdoor lifestyle, Swan River, relaxed vibe, mining industry, and beautiful sunsets.",
+  "tags": [
+    "nature"
+  ],
+  "how_to_arrive": [
+    "Airplane"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://www.australia.com/it-it/places/perth-and-surrounds/guide-to-perth.html"
+  ],
+  "coworking": [
+    "https://www.starbucks.com.au/", "https://maps.app.goo.gl/VzpKYrjfCwe3x9M98"
+  ]
+}
