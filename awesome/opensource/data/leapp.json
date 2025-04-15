@@ -19,8 +19,8 @@
       "full_name": "Noovolari/leapp",
       "html_url": "https://github.com/Noovolari/leapp",
       "created_at": "2020-07-28T07:54:59Z",
-      "updated_at": "2025-03-12T01:16:31Z",
-      "pushed_at": "2024-11-28T22:57:06Z",
+      "updated_at": "2025-04-10T11:43:31Z",
+      "pushed_at": "2025-04-09T21:37:46Z",
       "archived": false,
       "disabled": false,
       "owner": "Noovolari",
@@ -59,21 +59,21 @@
         "SCSS": 124137,
         "HTML": 118891,
         "Python": 87915,
-        "JavaScript": 60120,
+        "JavaScript": 60121,
         "Makefile": 38442,
         "C++": 4299,
         "C": 174,
         "Shell": 135,
         "Batchfile": 61
       },
-      "stargazers_count": 1651,
-      "forks_count": 151,
-      "open_issues_count": 153,
-      "forks": 151,
-      "open_issues": 153,
-      "watchers": 1651,
-      "updated_at": "2025-03-15T09:15:10Z"
+      "stargazers_count": 1656,
+      "forks_count": 153,
+      "open_issues_count": 152,
+      "forks": 153,
+      "open_issues": 152,
+      "watchers": 1656,
+      "updated_at": "2025-04-15T09:19:26Z"
     },
-    "timestamp": "2025-03-15T09:15:10Z"
+    "timestamp": "2025-04-15T09:19:26Z"
   }
 }

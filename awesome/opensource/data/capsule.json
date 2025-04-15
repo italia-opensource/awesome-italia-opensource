@@ -23,8 +23,8 @@
       "full_name": "projectcapsule/capsule",
       "html_url": "https://github.com/projectcapsule/capsule",
       "created_at": "2020-06-29T20:27:51Z",
-      "updated_at": "2025-03-15T07:33:32Z",
-      "pushed_at": "2025-03-14T22:41:55Z",
+      "updated_at": "2025-04-14T13:59:42Z",
+      "pushed_at": "2025-04-14T23:06:16Z",
       "archived": false,
       "disabled": false,
       "owner": "projectcapsule",
@@ -51,20 +51,20 @@
         "JavaScript": 0.1
       },
       "languages_byte": {
-        "Go": 661148,
+        "Go": 661338,
         "Shell": 14873,
         "Makefile": 13019,
         "Smarty": 8088,
         "JavaScript": 686
       },
-      "stargazers_count": 1770,
-      "forks_count": 173,
-      "open_issues_count": 66,
-      "forks": 173,
-      "open_issues": 66,
-      "watchers": 1770,
-      "updated_at": "2025-03-15T09:15:10Z"
+      "stargazers_count": 1800,
+      "forks_count": 178,
+      "open_issues_count": 64,
+      "forks": 178,
+      "open_issues": 64,
+      "watchers": 1800,
+      "updated_at": "2025-04-15T09:19:26Z"
     },
-    "timestamp": "2025-03-15T09:15:10Z"
+    "timestamp": "2025-04-15T09:19:26Z"
   }
 }
