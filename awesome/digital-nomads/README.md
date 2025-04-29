@@ -55,6 +55,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [Singapore](https://italiaopensource.com/digital-nomads/singapore)                       | SINGAPORE   | Bike, Walk, Taxi, Public transports            | Passport, Visa     | nature, skyline, sea, beach                                                |
 | [Syros](https://italiaopensource.com/digital-nomads/syros)                               | GREECE      | Bike, Walk, Taxi, Motorbike, Public transports | Passport, CI       | nature, beach, sea, trekking, family                                       |
 | [Tenerife](https://italiaopensource.com/digital-nomads/tenerife)                         | SPAIN       | Bike, Walk, Taxi, Car, Motorbike               | Passport, CI       | nature, volcano, lake, sea, beach, mountain, chill, relaxing, wine         |
+| [Las Palmas de Gran Canaria](https://t.me/+4-GLP7WNhM5iNzhl)                             | SPAIN       | Bike, Walk, Taxi, Car, Motorbike               | Passport, CI       | nature, volcano, sea, beach, mountain, chill, relaxing     |
 
 ### License
 
