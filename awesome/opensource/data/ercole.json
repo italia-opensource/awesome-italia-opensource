@@ -16,8 +16,8 @@
       "full_name": "ercole-io/ercole",
       "html_url": "https://github.com/ercole-io/ercole",
       "created_at": "2019-07-30T12:12:27Z",
-      "updated_at": "2025-04-14T15:01:07Z",
-      "pushed_at": "2025-04-14T15:01:03Z",
+      "updated_at": "2025-05-14T15:13:20Z",
+      "pushed_at": "2025-05-14T15:38:34Z",
       "archived": false,
       "disabled": false,
       "owner": "ercole-io",
@@ -38,7 +38,7 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 99.07,
+        "Go": 99.08,
         "Python": 0.32,
         "Shell": 0.3,
         "Jsonnet": 0.27,
@@ -46,21 +46,21 @@
         "Makefile": 0.01
       },
       "languages_byte": {
-        "Go": 3486745,
+        "Go": 3497672,
         "Python": 11433,
         "Shell": 10439,
         "Jsonnet": 9517,
         "Dockerfile": 669,
         "Makefile": 508
       },
-      "stargazers_count": 153,
+      "stargazers_count": 154,
       "forks_count": 12,
       "open_issues_count": 46,
       "forks": 12,
       "open_issues": 46,
-      "watchers": 153,
-      "updated_at": "2025-04-15T09:19:26Z"
+      "watchers": 154,
+      "updated_at": "2025-05-15T09:19:18Z"
     },
-    "timestamp": "2025-04-15T09:19:26Z"
+    "timestamp": "2025-05-15T09:19:18Z"
   }
 }

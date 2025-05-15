@@ -25,8 +25,8 @@
       "full_name": "89luca89/distrobox",
       "html_url": "https://github.com/89luca89/distrobox",
       "created_at": "2021-11-18T15:41:03Z",
-      "updated_at": "2025-04-15T03:31:15Z",
-      "pushed_at": "2025-01-25T14:19:24Z",
+      "updated_at": "2025-05-15T02:18:40Z",
+      "pushed_at": "2025-04-30T08:30:31Z",
       "archived": false,
       "disabled": false,
       "owner": "89luca89",
@@ -65,14 +65,14 @@
         "Shell": 270294,
         "Dockerfile": 70
       },
-      "stargazers_count": 10735,
-      "forks_count": 444,
-      "open_issues_count": 121,
-      "forks": 444,
-      "open_issues": 121,
-      "watchers": 10735,
-      "updated_at": "2025-04-15T09:19:26Z"
+      "stargazers_count": 10849,
+      "forks_count": 449,
+      "open_issues_count": 141,
+      "forks": 449,
+      "open_issues": 141,
+      "watchers": 10849,
+      "updated_at": "2025-05-15T09:19:18Z"
     },
-    "timestamp": "2025-04-15T09:19:26Z"
+    "timestamp": "2025-05-15T09:19:18Z"
   }
 }

@@ -22,8 +22,8 @@
       "full_name": "ZiggyCreatures/FusionCache",
       "html_url": "https://github.com/ZiggyCreatures/FusionCache",
       "created_at": "2020-12-31T17:14:11Z",
-      "updated_at": "2025-04-15T05:11:46Z",
-      "pushed_at": "2025-04-13T10:12:22Z",
+      "updated_at": "2025-05-15T08:13:16Z",
+      "pushed_at": "2025-05-12T00:09:42Z",
       "archived": false,
       "disabled": false,
       "owner": "ZiggyCreatures",
@@ -49,16 +49,16 @@
         "C#": 100.0
       },
       "languages_byte": {
-        "C#": 1524463
+        "C#": 1654160
       },
-      "stargazers_count": 2734,
-      "forks_count": 129,
-      "open_issues_count": 44,
-      "forks": 129,
-      "open_issues": 44,
-      "watchers": 2734,
-      "updated_at": "2025-04-15T09:19:26Z"
+      "stargazers_count": 2844,
+      "forks_count": 140,
+      "open_issues_count": 24,
+      "forks": 140,
+      "open_issues": 24,
+      "watchers": 2844,
+      "updated_at": "2025-05-15T09:19:18Z"
     },
-    "timestamp": "2025-04-15T09:19:26Z"
+    "timestamp": "2025-05-15T09:19:18Z"
   }
 }
