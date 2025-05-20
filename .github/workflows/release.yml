@@ -84,7 +84,7 @@ jobs:
           fi
 
       - name: Trigger deployment workflow
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.ACTION_WORKFLOWS }}
           retries: 3
