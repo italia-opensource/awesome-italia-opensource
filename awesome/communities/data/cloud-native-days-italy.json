@@ -1,0 +1,18 @@
+{
+  "name": "Cloud Native Days Italy",
+  "url": "https://cloudnativedaysitaly.org",
+  "type": "Event",
+  "platform": "Location",
+  "description": "Cloud Native Days (CNS) Italy is a local, community-organized event that gathers adopters and technologists from open source and cloud native communities.",
+  "tags": [
+    "dev",
+    "talk",
+    "networking",
+    "tech",
+    "CloudNative",
+    "Kubernetes",
+    "DevOps",
+    "opensource"
+  ],
+  "events_type": ["Meetup", "Conference"]
+}
