@@ -16,7 +16,7 @@
       "full_name": "Mte90/pydal",
       "html_url": "https://github.com/Mte90/pydal",
       "created_at": "2018-05-11T15:04:23Z",
-      "updated_at": "2025-04-04T16:11:51Z",
+      "updated_at": "2025-06-02T13:18:54Z",
       "pushed_at": "2025-04-04T16:11:47Z",
       "archived": false,
       "disabled": false,
@@ -40,14 +40,14 @@
       "languages_byte": {
         "Python": 2910
       },
-      "stargazers_count": 21,
+      "stargazers_count": 23,
       "forks_count": 2,
       "open_issues_count": 1,
       "forks": 2,
       "open_issues": 1,
-      "watchers": 21,
-      "updated_at": "2025-05-20T17:15:59Z"
+      "watchers": 23,
+      "updated_at": "2025-06-15T09:17:58Z"
     },
-    "timestamp": "2025-05-20T17:15:59Z"
+    "timestamp": "2025-06-15T09:17:58Z"
   }
 }

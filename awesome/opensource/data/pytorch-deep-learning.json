@@ -19,8 +19,8 @@
       "full_name": "Atcold/NYU-DLSP20",
       "html_url": "https://github.com/Atcold/NYU-DLSP20",
       "created_at": "2018-07-09T11:40:25Z",
-      "updated_at": "2025-05-20T08:37:57Z",
-      "pushed_at": "2025-04-08T15:17:21Z",
+      "updated_at": "2025-06-13T19:00:26Z",
+      "pushed_at": "2025-06-13T19:00:22Z",
       "archived": false,
       "disabled": false,
       "owner": "Atcold",
@@ -36,21 +36,21 @@
     "analytics": {
       "language": "Jupyter Notebook",
       "languages": {
-        "Jupyter Notebook": 99.01,
-        "Python": 0.99
+        "Jupyter Notebook": 98.59,
+        "Python": 1.41
       },
       "languages_byte": {
-        "Jupyter Notebook": 1687176,
+        "Jupyter Notebook": 1184789,
         "Python": 16898
       },
-      "stargazers_count": 6761,
+      "stargazers_count": 6763,
       "forks_count": 2234,
       "open_issues_count": 55,
       "forks": 2234,
       "open_issues": 55,
-      "watchers": 6761,
-      "updated_at": "2025-05-20T17:15:59Z"
+      "watchers": 6763,
+      "updated_at": "2025-06-15T09:17:58Z"
     },
-    "timestamp": "2025-05-20T17:15:59Z"
+    "timestamp": "2025-06-15T09:17:58Z"
   }
 }

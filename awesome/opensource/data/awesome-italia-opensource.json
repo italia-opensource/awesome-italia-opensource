@@ -22,8 +22,8 @@
       "full_name": "italia-opensource/awesome-italia-opensource",
       "html_url": "https://github.com/italia-opensource/awesome-italia-opensource",
       "created_at": "2022-09-02T21:10:31Z",
-      "updated_at": "2025-05-20T17:15:49Z",
-      "pushed_at": "2025-05-20T17:15:47Z",
+      "updated_at": "2025-06-12T16:36:21Z",
+      "pushed_at": "2025-05-20T17:21:18Z",
       "archived": false,
       "disabled": false,
       "owner": "italia-opensource",
@@ -56,14 +56,14 @@
         "Shell": 2082,
         "Makefile": 884
       },
-      "stargazers_count": 298,
+      "stargazers_count": 304,
       "forks_count": 77,
-      "open_issues_count": 5,
+      "open_issues_count": 4,
       "forks": 77,
-      "open_issues": 5,
-      "watchers": 298,
-      "updated_at": "2025-05-20T17:15:59Z"
+      "open_issues": 4,
+      "watchers": 304,
+      "updated_at": "2025-06-15T09:17:58Z"
     },
-    "timestamp": "2025-05-20T17:15:59Z"
+    "timestamp": "2025-06-15T09:17:58Z"
   }
 }
