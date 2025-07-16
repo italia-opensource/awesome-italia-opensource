@@ -1,0 +1,12 @@
+{
+  "name": "CortexBrain",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/CortexFlow/CortexBrain",
+  "site_url": "https://www.cortexflow.org/", 
+  "type": "tool",
+  "description": "CortexBrain is an ambitious open-source project created by CortexFlow, aiming to develop an intelligent, lightweight, and efficient service mesh architecture that seamlessly connects cloud and edge devices. CortexBrain bypasses the sidecar pattern by leveraging BPF programs to monitor cloud and edge workflows, including networking events, resource usage, and enhancing security features in distributed environments.", 
+  "license": "Apache-2.0",
+  "tags": [
+    "Rust", "Kubernetes","monitoring","networking","eBPF","Linux"
+  ]
+}
