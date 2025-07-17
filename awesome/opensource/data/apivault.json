@@ -23,7 +23,7 @@
       "full_name": "exa-studio/ApiVault",
       "html_url": "https://github.com/exa-studio/ApiVault",
       "created_at": "2023-04-15T13:41:00Z",
-      "updated_at": "2025-06-14T14:52:54Z",
+      "updated_at": "2025-07-14T11:18:47Z",
       "pushed_at": "2024-09-08T18:03:59Z",
       "archived": false,
       "disabled": false,
@@ -70,14 +70,14 @@
         "Dockerfile": 1464,
         "Shell": 236
       },
-      "stargazers_count": 493,
-      "forks_count": 49,
-      "open_issues_count": 5,
-      "forks": 49,
-      "open_issues": 5,
-      "watchers": 493,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "stargazers_count": 523,
+      "forks_count": 51,
+      "open_issues_count": 6,
+      "forks": 51,
+      "open_issues": 6,
+      "watchers": 523,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

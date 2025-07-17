@@ -19,7 +19,7 @@
       "full_name": "alegrey91/fwdctl",
       "html_url": "https://github.com/alegrey91/fwdctl",
       "created_at": "2022-08-13T18:30:39Z",
-      "updated_at": "2025-05-02T17:42:28Z",
+      "updated_at": "2025-07-10T00:56:52Z",
       "pushed_at": "2025-01-23T15:26:51Z",
       "archived": false,
       "disabled": false,
@@ -42,14 +42,14 @@
         "Makefile": 657,
         "Smarty": 511
       },
-      "stargazers_count": 66,
+      "stargazers_count": 67,
       "forks_count": 8,
       "open_issues_count": 12,
       "forks": 8,
       "open_issues": 12,
-      "watchers": 66,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "watchers": 67,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

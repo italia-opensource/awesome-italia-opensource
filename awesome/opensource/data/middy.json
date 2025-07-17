@@ -19,8 +19,8 @@
       "full_name": "middyjs/middy",
       "html_url": "https://github.com/middyjs/middy",
       "created_at": "2017-08-03T14:59:07Z",
-      "updated_at": "2025-06-13T06:20:32Z",
-      "pushed_at": "2025-06-09T01:48:18Z",
+      "updated_at": "2025-07-14T12:30:50Z",
+      "pushed_at": "2025-07-14T12:30:54Z",
       "archived": false,
       "disabled": false,
       "owner": "middyjs",
@@ -50,25 +50,25 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 88.22,
-        "TypeScript": 11.3,
+        "JavaScript": 88.17,
+        "TypeScript": 11.35,
         "CSS": 0.46,
         "Shell": 0.01
       },
       "languages_byte": {
-        "JavaScript": 500586,
-        "TypeScript": 64117,
+        "JavaScript": 500400,
+        "TypeScript": 64435,
         "CSS": 2628,
         "Shell": 66
       },
-      "stargazers_count": 3824,
-      "forks_count": 384,
-      "open_issues_count": 21,
-      "forks": 384,
-      "open_issues": 21,
-      "watchers": 3824,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "stargazers_count": 3836,
+      "forks_count": 387,
+      "open_issues_count": 15,
+      "forks": 387,
+      "open_issues": 15,
+      "watchers": 3836,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

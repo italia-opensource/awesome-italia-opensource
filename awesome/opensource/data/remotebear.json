@@ -19,7 +19,7 @@
       "full_name": "remotebear-io/remotebear",
       "html_url": "https://github.com/remotebear-io/remotebear",
       "created_at": "2021-04-24T21:05:00Z",
-      "updated_at": "2024-12-19T13:04:43Z",
+      "updated_at": "2025-07-02T04:44:36Z",
       "pushed_at": "2024-04-21T00:52:24Z",
       "archived": false,
       "disabled": false,
@@ -46,14 +46,14 @@
         "CSS": 609,
         "Shell": 83
       },
-      "stargazers_count": 77,
+      "stargazers_count": 76,
       "forks_count": 11,
       "open_issues_count": 2,
       "forks": 11,
       "open_issues": 2,
-      "watchers": 77,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "watchers": 76,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

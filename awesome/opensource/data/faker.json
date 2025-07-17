@@ -18,8 +18,8 @@
       "full_name": "joke2k/faker",
       "html_url": "https://github.com/joke2k/faker",
       "created_at": "2012-11-12T23:00:09Z",
-      "updated_at": "2025-06-15T01:15:45Z",
-      "pushed_at": "2025-06-11T17:59:35Z",
+      "updated_at": "2025-07-17T11:08:09Z",
+      "pushed_at": "2025-07-15T16:38:51Z",
       "archived": false,
       "disabled": false,
       "owner": "joke2k",
@@ -45,18 +45,18 @@
         "Shell": 0.0
       },
       "languages_byte": {
-        "Python": 9231068,
+        "Python": 9232149,
         "Makefile": 410,
         "Shell": 387
       },
-      "stargazers_count": 18463,
-      "forks_count": 1999,
-      "open_issues_count": 23,
-      "forks": 1999,
-      "open_issues": 23,
-      "watchers": 18463,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "stargazers_count": 18551,
+      "forks_count": 2005,
+      "open_issues_count": 32,
+      "forks": 2005,
+      "open_issues": 32,
+      "watchers": 18551,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

@@ -20,8 +20,8 @@
       "full_name": "Schroedinger-Hat/ImageGoNord-Web",
       "html_url": "https://github.com/Schroedinger-Hat/ImageGoNord-Web",
       "created_at": "2020-07-20T15:15:29Z",
-      "updated_at": "2025-06-13T13:03:59Z",
-      "pushed_at": "2025-02-03T14:26:40Z",
+      "updated_at": "2025-07-10T12:42:55Z",
+      "pushed_at": "2025-07-10T12:42:53Z",
       "archived": false,
       "disabled": false,
       "owner": "Schroedinger-Hat",
@@ -45,9 +45,9 @@
       "language": "Vue",
       "languages": {
         "Vue": 59.4,
-        "Python": 18.49,
+        "Python": 18.5,
         "SCSS": 15.4,
-        "JavaScript": 4.48,
+        "JavaScript": 4.47,
         "HTML": 1.4,
         "Dockerfile": 0.68,
         "Shell": 0.12,
@@ -55,7 +55,7 @@
       },
       "languages_byte": {
         "Vue": 113727,
-        "Python": 35394,
+        "Python": 35414,
         "SCSS": 29488,
         "JavaScript": 8568,
         "HTML": 2673,
@@ -63,14 +63,14 @@
         "Shell": 238,
         "Procfile": 60
       },
-      "stargazers_count": 885,
+      "stargazers_count": 889,
       "forks_count": 36,
       "open_issues_count": 6,
       "forks": 36,
       "open_issues": 6,
-      "watchers": 885,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "watchers": 889,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

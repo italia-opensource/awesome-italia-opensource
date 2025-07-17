@@ -17,8 +17,8 @@
       "full_name": "hanami/hanami",
       "html_url": "https://github.com/hanami/hanami",
       "created_at": "2013-08-09T15:24:44Z",
-      "updated_at": "2025-06-15T04:21:29Z",
-      "pushed_at": "2025-06-14T08:18:15Z",
+      "updated_at": "2025-07-17T22:20:02Z",
+      "pushed_at": "2025-07-04T21:48:45Z",
       "archived": false,
       "disabled": false,
       "owner": "hanami",
@@ -40,17 +40,17 @@
         "HTML": 0.72
       },
       "languages_byte": {
-        "Ruby": 811959,
+        "Ruby": 812688,
         "HTML": 5895
       },
-      "stargazers_count": 6269,
-      "forks_count": 542,
-      "open_issues_count": 39,
-      "forks": 542,
-      "open_issues": 39,
-      "watchers": 6269,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "stargazers_count": 6281,
+      "forks_count": 540,
+      "open_issues_count": 41,
+      "forks": 540,
+      "open_issues": 41,
+      "watchers": 6281,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

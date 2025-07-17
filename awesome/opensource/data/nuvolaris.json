@@ -19,7 +19,7 @@
       "full_name": "nuvolaris/nuvolaris",
       "html_url": "https://github.com/nuvolaris/nuvolaris",
       "created_at": "2021-11-21T08:41:46Z",
-      "updated_at": "2025-01-18T11:34:04Z",
+      "updated_at": "2025-06-23T16:51:04Z",
       "pushed_at": "2025-01-18T11:33:10Z",
       "archived": true,
       "disabled": false,
@@ -44,14 +44,14 @@
         "Shell": 21027,
         "Dockerfile": 7959
       },
-      "stargazers_count": 226,
-      "forks_count": 32,
+      "stargazers_count": 227,
+      "forks_count": 33,
       "open_issues_count": 10,
-      "forks": 32,
+      "forks": 33,
       "open_issues": 10,
-      "watchers": 226,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "watchers": 227,
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }

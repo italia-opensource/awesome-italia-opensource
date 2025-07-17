@@ -20,8 +20,8 @@
       "full_name": "Schroedinger-Hat/Daje",
       "html_url": "https://github.com/Schroedinger-Hat/Daje",
       "created_at": "2022-01-31T09:09:43Z",
-      "updated_at": "2025-05-21T11:56:33Z",
-      "pushed_at": "2025-05-21T11:56:29Z",
+      "updated_at": "2025-07-01T17:27:14Z",
+      "pushed_at": "2025-07-01T16:25:42Z",
       "archived": false,
       "disabled": false,
       "owner": "Schroedinger-Hat",
@@ -45,21 +45,21 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 97.33,
-        "Makefile": 2.67
+        "Go": 99.33,
+        "Makefile": 0.67
       },
       "languages_byte": {
-        "Go": 2118,
+        "Go": 8554,
         "Makefile": 58
       },
       "stargazers_count": 27,
       "forks_count": 4,
-      "open_issues_count": 8,
+      "open_issues_count": 9,
       "forks": 4,
-      "open_issues": 8,
+      "open_issues": 9,
       "watchers": 27,
-      "updated_at": "2025-06-15T09:17:58Z"
+      "updated_at": "2025-07-17T22:26:21Z"
     },
-    "timestamp": "2025-06-15T09:17:58Z"
+    "timestamp": "2025-07-17T22:26:21Z"
   }
 }
