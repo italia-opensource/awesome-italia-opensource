@@ -22,8 +22,8 @@
       "full_name": "kube-green/kube-green",
       "html_url": "https://github.com/kube-green/kube-green",
       "created_at": "2021-02-21T17:50:33Z",
-      "updated_at": "2025-07-17T12:53:24Z",
-      "pushed_at": "2025-07-16T07:17:48Z",
+      "updated_at": "2025-08-14T16:13:36Z",
+      "pushed_at": "2025-08-14T14:50:39Z",
       "archived": false,
       "disabled": false,
       "owner": "kube-green",
@@ -43,27 +43,27 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 90.82,
-        "Makefile": 5.98,
+        "Go": 90.79,
+        "Makefile": 6.2,
         "Shell": 1.53,
         "Smarty": 1.02,
-        "Dockerfile": 0.65
+        "Dockerfile": 0.46
       },
       "languages_byte": {
-        "Go": 279408,
-        "Makefile": 18384,
+        "Go": 279546,
+        "Makefile": 19086,
         "Shell": 4701,
         "Smarty": 3141,
-        "Dockerfile": 2000
+        "Dockerfile": 1414
       },
-      "stargazers_count": 1204,
-      "forks_count": 81,
-      "open_issues_count": 35,
-      "forks": 81,
-      "open_issues": 35,
-      "watchers": 1204,
-      "updated_at": "2025-07-17T22:26:21Z"
+      "stargazers_count": 1212,
+      "forks_count": 83,
+      "open_issues_count": 36,
+      "forks": 83,
+      "open_issues": 36,
+      "watchers": 1212,
+      "updated_at": "2025-08-15T09:19:57Z"
     },
-    "timestamp": "2025-07-17T22:26:21Z"
+    "timestamp": "2025-08-15T09:19:57Z"
   }
 }
