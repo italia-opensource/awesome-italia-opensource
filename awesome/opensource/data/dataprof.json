@@ -1,0 +1,20 @@
+{
+  "name": "DataProfiler",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/AndreaBozzo/dataprof",
+  "type": "tool",
+  "description": "A fast, lightweight library and CLI tool for CSV and JSON data profiling and quality analysis written in Rust",
+  "license": "MIT",
+  "tags": [
+    "rust",
+    "cli",
+    "data-analysis",
+    "csv",
+    "json",
+    "data-profiling",
+    "quality-analysis",
+    "statistics",
+    "data-validation",
+    "performance"
+  ]
+}
