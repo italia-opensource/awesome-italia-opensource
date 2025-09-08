@@ -18,8 +18,8 @@
       "full_name": "italia/bootstrap-italia",
       "html_url": "https://github.com/italia/bootstrap-italia",
       "created_at": "2017-09-26T13:46:26Z",
-      "updated_at": "2025-08-08T13:55:42Z",
-      "pushed_at": "2025-08-08T14:20:07Z",
+      "updated_at": "2025-09-05T10:26:12Z",
+      "pushed_at": "2025-09-04T11:51:03Z",
       "archived": false,
       "disabled": false,
       "owner": "italia",
@@ -57,14 +57,14 @@
         "Dockerfile": 367,
         "Shell": 364
       },
-      "stargazers_count": 328,
-      "forks_count": 166,
-      "open_issues_count": 107,
-      "forks": 166,
-      "open_issues": 107,
-      "watchers": 328,
-      "updated_at": "2025-08-15T09:19:57Z"
+      "stargazers_count": 330,
+      "forks_count": 167,
+      "open_issues_count": 112,
+      "forks": 167,
+      "open_issues": 112,
+      "watchers": 330,
+      "updated_at": "2025-09-08T07:49:50Z"
     },
-    "timestamp": "2025-08-15T09:19:57Z"
+    "timestamp": "2025-09-08T07:49:50Z"
   }
 }

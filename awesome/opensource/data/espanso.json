@@ -16,8 +16,8 @@
       "full_name": "espanso/espanso",
       "html_url": "https://github.com/espanso/espanso",
       "created_at": "2019-08-30T07:16:58Z",
-      "updated_at": "2025-08-15T07:51:29Z",
-      "pushed_at": "2025-08-10T11:39:16Z",
+      "updated_at": "2025-09-08T05:31:50Z",
+      "pushed_at": "2025-09-07T14:53:40Z",
       "archived": false,
       "disabled": false,
       "owner": "espanso",
@@ -64,14 +64,14 @@
         "Ruby": 341,
         "Batchfile": 23
       },
-      "stargazers_count": 11970,
-      "forks_count": 339,
-      "open_issues_count": 431,
-      "forks": 339,
-      "open_issues": 431,
-      "watchers": 11970,
-      "updated_at": "2025-08-15T09:19:57Z"
+      "stargazers_count": 12086,
+      "forks_count": 342,
+      "open_issues_count": 443,
+      "forks": 342,
+      "open_issues": 443,
+      "watchers": 12086,
+      "updated_at": "2025-09-08T07:49:50Z"
     },
-    "timestamp": "2025-08-15T09:19:57Z"
+    "timestamp": "2025-09-08T07:49:50Z"
   }
 }

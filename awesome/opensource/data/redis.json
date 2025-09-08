@@ -17,8 +17,8 @@
       "full_name": "redis/redis",
       "html_url": "https://github.com/redis/redis",
       "created_at": "2009-03-21T22:32:25Z",
-      "updated_at": "2025-08-15T09:21:07Z",
-      "pushed_at": "2025-08-15T07:15:16Z",
+      "updated_at": "2025-09-08T07:21:12Z",
+      "pushed_at": "2025-09-07T13:56:39Z",
       "archived": false,
       "disabled": false,
       "owner": "redis",
@@ -50,9 +50,9 @@
     "analytics": {
       "language": "C",
       "languages": {
-        "C": 72.4,
-        "Tcl": 24.99,
-        "Python": 1.8,
+        "C": 72.37,
+        "Tcl": 25.02,
+        "Python": 1.79,
         "Makefile": 0.28,
         "Shell": 0.23,
         "Ruby": 0.23,
@@ -61,24 +61,24 @@
         "JavaScript": 0.01
       },
       "languages_byte": {
-        "C": 7554823,
-        "Tcl": 2607526,
+        "C": 7560758,
+        "Tcl": 2614332,
         "Python": 187364,
-        "Makefile": 29505,
+        "Makefile": 29659,
         "Shell": 23715,
         "Ruby": 23536,
         "C++": 5987,
         "Smarty": 1047,
         "JavaScript": 953
       },
-      "stargazers_count": 70469,
-      "forks_count": 24176,
-      "open_issues_count": 2647,
-      "forks": 24176,
-      "open_issues": 2647,
-      "watchers": 70469,
-      "updated_at": "2025-08-15T09:19:57Z"
+      "stargazers_count": 70788,
+      "forks_count": 24215,
+      "open_issues_count": 2668,
+      "forks": 24215,
+      "open_issues": 2668,
+      "watchers": 70788,
+      "updated_at": "2025-09-08T07:49:50Z"
     },
-    "timestamp": "2025-08-15T09:19:57Z"
+    "timestamp": "2025-09-08T07:49:50Z"
   }
 }
