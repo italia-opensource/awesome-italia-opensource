@@ -1,0 +1,21 @@
+{
+  "name": "ScrapeGraphAI",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+  "site_url": "https://scrapegraphai.com",
+  "type": "tool",
+  "description": "AI-powered web scraping API designed to extract structured data from any website using natural language prompts. Features SmartScraper, SearchScraper, SmartCrawler, Markdownify, and AgenticScraper for various data extraction needs.",
+  "license": "MIT",
+  "tags": [
+    "ai",
+    "web-scraping",
+    "data-extraction",
+    "python",
+    "javascript",
+    "api",
+    "llm",
+    "automation",
+    "smart-scraper",
+    "markdownify"
+  ]
+}
