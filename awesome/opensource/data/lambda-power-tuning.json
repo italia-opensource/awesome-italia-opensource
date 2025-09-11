@@ -22,8 +22,8 @@
       "full_name": "alexcasalboni/aws-lambda-power-tuning",
       "html_url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
       "created_at": "2017-03-27T15:18:12Z",
-      "updated_at": "2025-09-08T02:26:26Z",
-      "pushed_at": "2025-07-30T18:07:26Z",
+      "updated_at": "2025-09-11T12:46:28Z",
+      "pushed_at": "2025-09-11T10:27:22Z",
       "archived": false,
       "disabled": false,
       "owner": "alexcasalboni",
@@ -43,35 +43,33 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 85.56,
-        "HCL": 6.5,
-        "Java": 1.82,
-        "Go": 1.47,
-        "C#": 1.35,
-        "Python": 1.24,
-        "Shell": 1.01,
-        "TypeScript": 0.87,
-        "Batchfile": 0.17
+        "JavaScript": 91.67,
+        "Java": 1.95,
+        "Go": 1.58,
+        "C#": 1.45,
+        "Python": 1.33,
+        "TypeScript": 0.93,
+        "Shell": 0.91,
+        "Batchfile": 0.19
       },
       "languages_byte": {
         "JavaScript": 215920,
-        "HCL": 16395,
         "Java": 4596,
         "Go": 3716,
         "C#": 3414,
         "Python": 3139,
-        "Shell": 2559,
         "TypeScript": 2188,
+        "Shell": 2136,
         "Batchfile": 437
       },
-      "stargazers_count": 5888,
-      "forks_count": 408,
+      "stargazers_count": 5891,
+      "forks_count": 409,
       "open_issues_count": 13,
-      "forks": 408,
+      "forks": 409,
       "open_issues": 13,
-      "watchers": 5888,
-      "updated_at": "2025-09-08T07:49:50Z"
+      "watchers": 5891,
+      "updated_at": "2025-09-11T21:16:43Z"
     },
-    "timestamp": "2025-09-08T07:49:50Z"
+    "timestamp": "2025-09-11T21:16:43Z"
   }
 }

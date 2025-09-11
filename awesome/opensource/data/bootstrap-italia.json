@@ -18,8 +18,8 @@
       "full_name": "italia/bootstrap-italia",
       "html_url": "https://github.com/italia/bootstrap-italia",
       "created_at": "2017-09-26T13:46:26Z",
-      "updated_at": "2025-09-05T10:26:12Z",
-      "pushed_at": "2025-09-04T11:51:03Z",
+      "updated_at": "2025-09-11T12:36:50Z",
+      "pushed_at": "2025-09-11T17:34:35Z",
       "archived": false,
       "disabled": false,
       "owner": "italia",
@@ -38,33 +38,33 @@
     "analytics": {
       "language": "SCSS",
       "languages": {
-        "SCSS": 61.72,
-        "JavaScript": 34.04,
-        "HTML": 3.75,
+        "SCSS": 61.14,
+        "JavaScript": 33.82,
+        "HTML": 4.57,
         "Python": 0.28,
         "TypeScript": 0.09,
         "Ruby": 0.05,
         "Dockerfile": 0.04,
-        "Shell": 0.04
+        "Shell": 0.01
       },
       "languages_byte": {
-        "SCSS": 613655,
+        "SCSS": 611985,
         "JavaScript": 338487,
-        "HTML": 37251,
+        "HTML": 45743,
         "Python": 2801,
         "TypeScript": 860,
-        "Ruby": 495,
-        "Dockerfile": 367,
-        "Shell": 364
+        "Ruby": 511,
+        "Dockerfile": 369,
+        "Shell": 136
       },
       "stargazers_count": 330,
       "forks_count": 167,
-      "open_issues_count": 112,
+      "open_issues_count": 107,
       "forks": 167,
-      "open_issues": 112,
+      "open_issues": 107,
       "watchers": 330,
-      "updated_at": "2025-09-08T07:49:50Z"
+      "updated_at": "2025-09-11T21:16:43Z"
     },
-    "timestamp": "2025-09-08T07:49:50Z"
+    "timestamp": "2025-09-11T21:16:43Z"
   }
 }

@@ -18,8 +18,8 @@
       "full_name": "fastify/fastify",
       "html_url": "https://github.com/fastify/fastify",
       "created_at": "2016-09-28T19:10:14Z",
-      "updated_at": "2025-09-08T07:24:12Z",
-      "pushed_at": "2025-09-05T11:39:10Z",
+      "updated_at": "2025-09-11T21:00:45Z",
+      "pushed_at": "2025-09-09T21:34:32Z",
       "archived": false,
       "disabled": false,
       "owner": "fastify",
@@ -44,14 +44,14 @@
         "TypeScript": 160014,
         "Shell": 911
       },
-      "stargazers_count": 34501,
+      "stargazers_count": 34527,
       "forks_count": 2477,
-      "open_issues_count": 121,
+      "open_issues_count": 123,
       "forks": 2477,
-      "open_issues": 121,
-      "watchers": 34501,
-      "updated_at": "2025-09-08T07:49:50Z"
+      "open_issues": 123,
+      "watchers": 34527,
+      "updated_at": "2025-09-11T21:16:43Z"
     },
-    "timestamp": "2025-09-08T07:49:50Z"
+    "timestamp": "2025-09-11T21:16:43Z"
   }
 }

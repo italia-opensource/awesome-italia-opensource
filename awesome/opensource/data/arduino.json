@@ -18,7 +18,7 @@
       "full_name": "arduino/Arduino",
       "html_url": "https://github.com/arduino/Arduino",
       "created_at": "2010-09-17T19:10:36Z",
-      "updated_at": "2025-09-08T07:08:13Z",
+      "updated_at": "2025-09-11T16:13:32Z",
       "pushed_at": "2024-10-18T16:32:19Z",
       "archived": false,
       "disabled": false,
@@ -46,14 +46,14 @@
         "Perl": 7263,
         "JavaScript": 1469
       },
-      "stargazers_count": 14416,
-      "forks_count": 6994,
+      "stargazers_count": 14421,
+      "forks_count": 6992,
       "open_issues_count": 745,
-      "forks": 6994,
+      "forks": 6992,
       "open_issues": 745,
-      "watchers": 14416,
-      "updated_at": "2025-09-08T07:49:50Z"
+      "watchers": 14421,
+      "updated_at": "2025-09-11T21:16:43Z"
     },
-    "timestamp": "2025-09-08T07:49:50Z"
+    "timestamp": "2025-09-11T21:16:43Z"
   }
 }
