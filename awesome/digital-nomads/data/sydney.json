@@ -1,0 +1,25 @@
+{
+  "name": "Sydney",
+  "state_name": "Australia",
+  "required_documents": [
+    "Passport"
+  ],
+  "internet_roaming": "Local SIM Required",
+  "daily_average_cost": 90,
+  "description": "Biggest city of Australia, famous for the opera house, gardens and weather",
+  "tags": [
+    "nature"
+  ],
+  "how_to_arrive": [
+    "Airplane"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://www.travel365.it/sidney-cosa-vedere.htm"
+  ],
+  "coworking": [
+    "https://www.starbucks.com.au/", "https://www.cityofsydney.nsw.gov.au/libraries"
+  ]
+}
