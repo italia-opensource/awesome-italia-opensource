@@ -1,0 +1,9 @@
+{
+  "name": "DrupalCamp Italy",
+  "url": "https://www.drupalcampitaly.it/",
+  "type": "Event",
+  "platform": "Location",
+  "description": "DrupalCamp Italy è la conferenza dedicata alla community italiana e internazionale di Drupal, nata dalla passione di veterani e contributor.",
+  "tags": ["coding", "drupal", "tech", "accessibility", "open source"],
+  "events_type": ["Talk", "Workshop", "Conference"]
+}
