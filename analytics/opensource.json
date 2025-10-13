@@ -56,9 +56,9 @@
           "forks": 1,
           "open_issues": 7,
           "watchers": 28,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -85,7 +85,7 @@
           "full_name": "alexcasalboni/aws-lambda-power-tuning",
           "html_url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
           "created_at": "2017-03-27T15:18:12Z",
-          "updated_at": "2025-09-14T20:44:10Z",
+          "updated_at": "2025-10-12T09:21:44Z",
           "pushed_at": "2025-09-11T10:27:22Z",
           "archived": false,
           "disabled": false,
@@ -125,15 +125,15 @@
             "Shell": 2136,
             "Batchfile": 437
           },
-          "stargazers_count": 5895,
-          "forks_count": 409,
-          "open_issues_count": 13,
-          "forks": 409,
-          "open_issues": 13,
-          "watchers": 5895,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 5915,
+          "forks_count": 410,
+          "open_issues_count": 14,
+          "forks": 410,
+          "open_issues": 14,
+          "watchers": 5915,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -183,9 +183,9 @@
           "forks": 0,
           "open_issues": 0,
           "watchers": 1,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -213,7 +213,7 @@
           "full_name": "exa-studio/ApiVault",
           "html_url": "https://github.com/exa-studio/ApiVault",
           "created_at": "2023-04-15T13:41:00Z",
-          "updated_at": "2025-09-11T03:58:57Z",
+          "updated_at": "2025-10-10T17:25:06Z",
           "pushed_at": "2024-09-08T18:03:59Z",
           "archived": false,
           "disabled": false,
@@ -260,15 +260,15 @@
             "Dockerfile": 1464,
             "Shell": 236
           },
-          "stargazers_count": 541,
-          "forks_count": 53,
-          "open_issues_count": 9,
-          "forks": 53,
-          "open_issues": 9,
-          "watchers": 541,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 551,
+          "forks_count": 56,
+          "open_issues_count": 10,
+          "forks": 56,
+          "open_issues": 10,
+          "watchers": 551,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -291,8 +291,8 @@
           "full_name": "arduino/Arduino",
           "html_url": "https://github.com/arduino/Arduino",
           "created_at": "2010-09-17T19:10:36Z",
-          "updated_at": "2025-09-13T03:57:42Z",
-          "pushed_at": "2024-10-18T16:32:19Z",
+          "updated_at": "2025-10-12T18:48:30Z",
+          "pushed_at": "2025-10-11T09:27:40Z",
           "archived": false,
           "disabled": false,
           "owner": "arduino",
@@ -319,15 +319,15 @@
             "Perl": 7263,
             "JavaScript": 1469
           },
-          "stargazers_count": 14422,
-          "forks_count": 6993,
+          "stargazers_count": 14441,
+          "forks_count": 6994,
           "open_issues_count": 745,
-          "forks": 6993,
+          "forks": 6994,
           "open_issues": 745,
-          "watchers": 14422,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 14441,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -350,14 +350,14 @@
         "filename": "arduino-desk-weatherstation.json",
         "meta": {
           "name": "Arduino_Desk_Weatherstation",
-          "full_name": "albino98/Arduino_Desk_Weatherstation",
-          "html_url": "https://github.com/albino98/Arduino_Desk_Weatherstation",
+          "full_name": "albinocianciotti/Arduino_Desk_Weatherstation",
+          "html_url": "https://github.com/albinocianciotti/Arduino_Desk_Weatherstation",
           "created_at": "2021-06-05T16:35:30Z",
           "updated_at": "2025-09-12T14:53:43Z",
           "pushed_at": "2022-09-21T18:11:26Z",
           "archived": false,
           "disabled": false,
-          "owner": "albino98",
+          "owner": "albinocianciotti",
           "owner_type": "User",
           "topics": [
             "arduino",
@@ -402,9 +402,9 @@
           "forks": 0,
           "open_issues": 0,
           "watchers": 7,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -429,7 +429,7 @@
           "full_name": "ArgonLang/Argon",
           "html_url": "https://github.com/ArgonLang/Argon",
           "created_at": "2019-10-10T13:22:47Z",
-          "updated_at": "2025-07-21T11:37:00Z",
+          "updated_at": "2025-10-12T12:12:23Z",
           "pushed_at": "2024-09-12T14:09:10Z",
           "archived": false,
           "disabled": false,
@@ -459,15 +459,15 @@
             "CMake": 9204,
             "C": 1347
           },
-          "stargazers_count": 54,
+          "stargazers_count": 56,
           "forks_count": 2,
-          "open_issues_count": 0,
+          "open_issues_count": 1,
           "forks": 2,
-          "open_issues": 0,
-          "watchers": 54,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 1,
+          "watchers": 56,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -489,8 +489,8 @@
           "full_name": "OCA/l10n-italy",
           "html_url": "https://github.com/OCA/l10n-italy",
           "created_at": "2014-06-09T14:08:49Z",
-          "updated_at": "2025-09-14T06:28:02Z",
-          "pushed_at": "2025-09-15T09:03:43Z",
+          "updated_at": "2025-10-11T04:49:20Z",
+          "pushed_at": "2025-10-10T08:47:30Z",
           "archived": false,
           "disabled": false,
           "owner": "OCA",
@@ -505,30 +505,30 @@
         "analytics": {
           "language": "Python",
           "languages": {
-            "Python": 56.19,
-            "HTML": 27.8,
-            "XSLT": 12.06,
-            "JavaScript": 3.66,
-            "CSS": 0.2,
-            "SCSS": 0.1
+            "Python": 63.67,
+            "HTML": 26.99,
+            "XSLT": 8.22,
+            "JavaScript": 0.57,
+            "SCSS": 0.28,
+            "CSS": 0.27
           },
           "languages_byte": {
-            "Python": 2212101,
-            "HTML": 1094463,
-            "XSLT": 474705,
-            "JavaScript": 144079,
-            "CSS": 7885,
-            "SCSS": 3841
+            "Python": 868409,
+            "HTML": 368056,
+            "XSLT": 112080,
+            "JavaScript": 7803,
+            "SCSS": 3841,
+            "CSS": 3722
           },
-          "stargazers_count": 180,
-          "forks_count": 319,
-          "open_issues_count": 306,
-          "forks": 319,
-          "open_issues": 306,
-          "watchers": 180,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 185,
+          "forks_count": 321,
+          "open_issues_count": 322,
+          "forks": 321,
+          "open_issues": 322,
+          "watchers": 185,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -547,14 +547,14 @@
       ],
       "autogenerated": {
         "filename": "astro-minimal.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "astro-minimal",
           "full_name": "DomeT99/astro-minimal",
           "html_url": "https://github.com/DomeT99/astro-minimal",
           "created_at": "2023-05-26T14:41:38Z",
-          "updated_at": "2025-09-13T15:03:04Z",
-          "pushed_at": "2025-09-09T08:41:21Z",
+          "updated_at": "2025-10-06T19:27:07Z",
+          "pushed_at": "2025-10-06T20:33:54Z",
           "archived": false,
           "disabled": false,
           "owner": "DomeT99",
@@ -593,13 +593,13 @@
             "TypeScript": 3510,
             "JavaScript": 234
           },
-          "stargazers_count": 60,
+          "stargazers_count": 61,
           "forks_count": 6,
-          "open_issues_count": 7,
+          "open_issues_count": 3,
           "forks": 6,
-          "open_issues": 7,
-          "watchers": 60,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 3,
+          "watchers": 61,
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -622,7 +622,7 @@
           "full_name": "mcollina/autocannon",
           "html_url": "https://github.com/mcollina/autocannon",
           "created_at": "2016-03-31T17:18:21Z",
-          "updated_at": "2025-09-14T22:28:16Z",
+          "updated_at": "2025-10-11T05:20:57Z",
           "pushed_at": "2024-10-15T06:35:26Z",
           "archived": false,
           "disabled": false,
@@ -639,15 +639,15 @@
           "languages_byte": {
             "JavaScript": 245268
           },
-          "stargazers_count": 8225,
-          "forks_count": 335,
+          "stargazers_count": 8252,
+          "forks_count": 336,
           "open_issues_count": 55,
-          "forks": 335,
+          "forks": 336,
           "open_issues": 55,
-          "watchers": 8225,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 8252,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -674,8 +674,8 @@
           "full_name": "italia-opensource/awesome-italia-opensource",
           "html_url": "https://github.com/italia-opensource/awesome-italia-opensource",
           "created_at": "2022-09-02T21:10:31Z",
-          "updated_at": "2025-09-12T21:48:24Z",
-          "pushed_at": "2025-09-11T21:22:25Z",
+          "updated_at": "2025-10-13T08:21:56Z",
+          "pushed_at": "2025-10-13T08:21:53Z",
           "archived": false,
           "disabled": false,
           "owner": "italia-opensource",
@@ -708,15 +708,15 @@
             "Shell": 2118,
             "Makefile": 884
           },
-          "stargazers_count": 309,
+          "stargazers_count": 310,
           "forks_count": 79,
-          "open_issues_count": 6,
+          "open_issues_count": 3,
           "forks": 79,
-          "open_issues": 6,
-          "watchers": 309,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 3,
+          "watchers": 310,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -739,8 +739,8 @@
           "full_name": "italia/bootstrap-italia",
           "html_url": "https://github.com/italia/bootstrap-italia",
           "created_at": "2017-09-26T13:46:26Z",
-          "updated_at": "2025-09-11T12:36:50Z",
-          "pushed_at": "2025-09-12T10:22:41Z",
+          "updated_at": "2025-10-05T07:48:59Z",
+          "pushed_at": "2025-10-11T16:24:42Z",
           "archived": false,
           "disabled": false,
           "owner": "italia",
@@ -759,9 +759,9 @@
         "analytics": {
           "language": "SCSS",
           "languages": {
-            "SCSS": 61.14,
-            "JavaScript": 33.82,
-            "HTML": 4.57,
+            "SCSS": 61.06,
+            "JavaScript": 33.87,
+            "HTML": 4.6,
             "Python": 0.28,
             "TypeScript": 0.09,
             "Ruby": 0.05,
@@ -769,24 +769,24 @@
             "Shell": 0.01
           },
           "languages_byte": {
-            "SCSS": 611985,
-            "JavaScript": 338487,
-            "HTML": 45743,
+            "SCSS": 611560,
+            "JavaScript": 339236,
+            "HTML": 46024,
             "Python": 2801,
             "TypeScript": 860,
             "Ruby": 511,
             "Dockerfile": 369,
             "Shell": 136
           },
-          "stargazers_count": 330,
+          "stargazers_count": 336,
           "forks_count": 167,
-          "open_issues_count": 110,
+          "open_issues_count": 121,
           "forks": 167,
-          "open_issues": 110,
-          "watchers": 330,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 121,
+          "watchers": 336,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -809,7 +809,7 @@
           "full_name": "mmazzarolo/breathly-app",
           "html_url": "https://github.com/mmazzarolo/breathly-app",
           "created_at": "2019-03-11T08:55:28Z",
-          "updated_at": "2025-09-10T12:23:53Z",
+          "updated_at": "2025-09-26T22:45:35Z",
           "pushed_at": "2024-03-16T07:28:50Z",
           "archived": false,
           "disabled": false,
@@ -838,15 +838,15 @@
             "TypeScript": 82999,
             "JavaScript": 1322
           },
-          "stargazers_count": 562,
-          "forks_count": 77,
+          "stargazers_count": 564,
+          "forks_count": 79,
           "open_issues_count": 25,
-          "forks": 77,
+          "forks": 79,
           "open_issues": 25,
-          "watchers": 562,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 564,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -864,14 +864,14 @@
       ],
       "autogenerated": {
         "filename": "c14.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "C14",
           "full_name": "kkratterf/C14",
           "html_url": "https://github.com/kkratterf/C14",
           "created_at": "2024-12-22T15:01:18Z",
           "updated_at": "2025-08-01T13:24:35Z",
-          "pushed_at": "2025-07-16T18:08:13Z",
+          "pushed_at": "2025-10-06T20:05:07Z",
           "archived": false,
           "disabled": false,
           "owner": "kkratterf",
@@ -909,7 +909,7 @@
           "forks": 1,
           "open_issues": 1,
           "watchers": 11,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -935,8 +935,8 @@
           "full_name": "JointlyTech/cache-candidate",
           "html_url": "https://github.com/JointlyTech/cache-candidate",
           "created_at": "2022-12-06T13:41:30Z",
-          "updated_at": "2025-03-20T13:02:58Z",
-          "pushed_at": "2025-02-24T09:49:56Z",
+          "updated_at": "2025-10-08T10:59:23Z",
+          "pushed_at": "2025-10-08T10:59:19Z",
           "archived": false,
           "disabled": false,
           "owner": "JointlyTech",
@@ -947,12 +947,12 @@
         "analytics": {
           "language": "TypeScript",
           "languages": {
-            "TypeScript": 90.48,
-            "JavaScript": 9.34,
+            "TypeScript": 90.5,
+            "JavaScript": 9.32,
             "Shell": 0.17
           },
           "languages_byte": {
-            "TypeScript": 35992,
+            "TypeScript": 36076,
             "JavaScript": 3716,
             "Shell": 69
           },
@@ -962,9 +962,9 @@
           "forks": 4,
           "open_issues": 0,
           "watchers": 34,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -986,7 +986,7 @@
           "full_name": "eciavatta/caronte",
           "html_url": "https://github.com/eciavatta/caronte",
           "created_at": "2020-04-01T12:23:02Z",
-          "updated_at": "2025-08-31T17:00:42Z",
+          "updated_at": "2025-10-11T17:03:39Z",
           "pushed_at": "2022-12-07T15:35:45Z",
           "archived": false,
           "disabled": false,
@@ -1022,15 +1022,15 @@
             "Dockerfile": 1127,
             "HTML": 671
           },
-          "stargazers_count": 623,
+          "stargazers_count": 627,
           "forks_count": 85,
           "open_issues_count": 23,
           "forks": 85,
           "open_issues": 23,
-          "watchers": 623,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 627,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1084,9 +1084,9 @@
           "forks": 0,
           "open_issues": 0,
           "watchers": 13,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1108,7 +1108,7 @@
           "full_name": "Mte90/Contribute-to-opensource-the-right-way",
           "html_url": "https://github.com/Mte90/Contribute-to-opensource-the-right-way",
           "created_at": "2019-03-12T17:05:39Z",
-          "updated_at": "2025-07-16T14:39:06Z",
+          "updated_at": "2025-09-26T03:55:25Z",
           "pushed_at": "2025-08-08T09:51:44Z",
           "archived": false,
           "disabled": false,
@@ -1129,15 +1129,15 @@
           "languages_byte": {
             "Shell": 245
           },
-          "stargazers_count": 135,
+          "stargazers_count": 137,
           "forks_count": 7,
           "open_issues_count": 2,
           "forks": 7,
           "open_issues": 2,
-          "watchers": 135,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 137,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1158,14 +1158,14 @@
       ],
       "autogenerated": {
         "filename": "cortexbrain.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "CortexBrain",
           "full_name": "CortexFlow/CortexBrain",
           "html_url": "https://github.com/CortexFlow/CortexBrain",
           "created_at": "2024-08-22T07:44:21Z",
-          "updated_at": "2025-09-09T06:26:04Z",
-          "pushed_at": "2025-09-08T07:02:52Z",
+          "updated_at": "2025-10-04T14:19:24Z",
+          "pushed_at": "2025-10-06T22:26:27Z",
           "archived": false,
           "disabled": false,
           "owner": "CortexFlow",
@@ -1214,11 +1214,11 @@
           },
           "stargazers_count": 66,
           "forks_count": 7,
-          "open_issues_count": 14,
+          "open_issues_count": 15,
           "forks": 7,
-          "open_issues": 14,
+          "open_issues": 15,
           "watchers": 66,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -1242,14 +1242,14 @@
         "filename": "covid19-Monitoring.json",
         "meta": {
           "name": "Covid19Monitoring",
-          "full_name": "albino98/Covid19Monitoring",
-          "html_url": "https://github.com/albino98/Covid19Monitoring",
+          "full_name": "albinocianciotti/Covid19Monitoring",
+          "html_url": "https://github.com/albinocianciotti/Covid19Monitoring",
           "created_at": "2021-04-18T11:36:41Z",
           "updated_at": "2025-07-23T15:19:25Z",
           "pushed_at": "2025-01-14T16:42:15Z",
           "archived": false,
           "disabled": false,
-          "owner": "albino98",
+          "owner": "albinocianciotti",
           "owner_type": "User",
           "topics": [
             "coronavirus",
@@ -1283,9 +1283,9 @@
           "forks": 0,
           "open_issues": 0,
           "watchers": 4,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1310,7 +1310,7 @@
           "full_name": "Schroedinger-Hat/Daje",
           "html_url": "https://github.com/Schroedinger-Hat/Daje",
           "created_at": "2022-01-31T09:09:43Z",
-          "updated_at": "2025-07-28T14:36:39Z",
+          "updated_at": "2025-10-06T09:38:09Z",
           "pushed_at": "2025-07-01T16:25:42Z",
           "archived": false,
           "disabled": false,
@@ -1348,9 +1348,9 @@
           "forks": 4,
           "open_issues": 9,
           "watchers": 28,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1374,65 +1374,71 @@
       ],
       "autogenerated": {
         "filename": "dataprof.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "dataprof",
           "full_name": "AndreaBozzo/dataprof",
           "html_url": "https://github.com/AndreaBozzo/dataprof",
           "created_at": "2025-09-02T08:40:14Z",
-          "updated_at": "2025-09-14T18:00:59Z",
-          "pushed_at": "2025-09-15T08:38:10Z",
+          "updated_at": "2025-10-10T09:25:18Z",
+          "pushed_at": "2025-10-09T13:24:51Z",
           "archived": false,
           "disabled": false,
           "owner": "AndreaBozzo",
           "owner_type": "User",
           "topics": [
-            "ai",
-            "airflow",
             "cli",
             "csv",
             "data",
             "database",
             "dataengineering",
-            "dataexploration",
             "dataquality",
-            "datascience-machinelearning",
-            "fast",
+            "docker",
             "insights",
             "json",
-            "jsonl",
-            "ml",
-            "output",
+            "jupyter-notebook",
+            "pandas-dataframe",
+            "parquet",
             "pipeline",
             "python",
             "rust",
-            "scalability"
+            "vscode"
           ],
-          "license": "GNU General Public License v3.0"
+          "license": "MIT License"
         },
         "analytics": {
           "language": "Rust",
           "languages": {
-            "Rust": 91.82,
-            "Python": 5.23,
-            "PowerShell": 1.37,
-            "Just": 0.92,
-            "Shell": 0.66
+            "Rust": 79.66,
+            "Jupyter Notebook": 6.99,
+            "Python": 6.88,
+            "Handlebars": 2.51,
+            "CSS": 1.79,
+            "Shell": 1.13,
+            "PLpgSQL": 0.44,
+            "Dockerfile": 0.33,
+            "PowerShell": 0.17,
+            "JavaScript": 0.11
           },
           "languages_byte": {
-            "Rust": 419432,
-            "Python": 23907,
-            "PowerShell": 6251,
-            "Just": 4191,
-            "Shell": 3026
+            "Rust": 1026390,
+            "Jupyter Notebook": 90019,
+            "Python": 88685,
+            "Handlebars": 32354,
+            "CSS": 23009,
+            "Shell": 14539,
+            "PLpgSQL": 5690,
+            "Dockerfile": 4197,
+            "PowerShell": 2163,
+            "JavaScript": 1446
           },
-          "stargazers_count": 3,
-          "forks_count": 0,
-          "open_issues_count": 12,
-          "forks": 0,
-          "open_issues": 12,
-          "watchers": 3,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 7,
+          "forks_count": 1,
+          "open_issues_count": 16,
+          "forks": 1,
+          "open_issues": 16,
+          "watchers": 7,
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -1500,9 +1506,9 @@
           "forks": 11,
           "open_issues": 12,
           "watchers": 27,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1532,8 +1538,8 @@
           "full_name": "89luca89/distrobox",
           "html_url": "https://github.com/89luca89/distrobox",
           "created_at": "2021-11-18T15:41:03Z",
-          "updated_at": "2025-09-15T06:47:41Z",
-          "pushed_at": "2025-09-02T07:18:36Z",
+          "updated_at": "2025-10-12T19:30:41Z",
+          "pushed_at": "2025-10-10T07:02:42Z",
           "archived": false,
           "disabled": false,
           "owner": "89luca89",
@@ -1569,18 +1575,18 @@
             "Dockerfile": 0.03
           },
           "languages_byte": {
-            "Shell": 274970,
+            "Shell": 275009,
             "Dockerfile": 70
           },
-          "stargazers_count": 11302,
-          "forks_count": 467,
-          "open_issues_count": 93,
-          "forks": 467,
-          "open_issues": 93,
-          "watchers": 11302,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 11428,
+          "forks_count": 468,
+          "open_issues_count": 98,
+          "forks": 468,
+          "open_issues": 98,
+          "watchers": 11428,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1603,8 +1609,8 @@
           "full_name": "getevo/evo",
           "html_url": "https://github.com/getevo/evo",
           "created_at": "2020-06-05T14:42:13Z",
-          "updated_at": "2025-08-03T10:01:01Z",
-          "pushed_at": "2025-08-03T10:00:57Z",
+          "updated_at": "2025-09-20T22:22:23Z",
+          "pushed_at": "2025-10-03T07:51:42Z",
           "archived": false,
           "disabled": false,
           "owner": "getevo",
@@ -1630,7 +1636,7 @@
             "Dockerfile": 0.07
           },
           "languages_byte": {
-            "Go": 677902,
+            "Go": 678406,
             "Dockerfile": 470
           },
           "stargazers_count": 34,
@@ -1639,9 +1645,9 @@
           "forks": 8,
           "open_issues": 13,
           "watchers": 34,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1662,8 +1668,8 @@
           "full_name": "ercole-io/ercole",
           "html_url": "https://github.com/ercole-io/ercole",
           "created_at": "2019-07-30T12:12:27Z",
-          "updated_at": "2025-09-11T12:46:27Z",
-          "pushed_at": "2025-06-27T09:20:20Z",
+          "updated_at": "2025-10-09T12:18:22Z",
+          "pushed_at": "2025-10-09T12:18:18Z",
           "archived": false,
           "disabled": false,
           "owner": "ercole-io",
@@ -1684,7 +1690,7 @@
         "analytics": {
           "language": "Go",
           "languages": {
-            "Go": 99.08,
+            "Go": 99.09,
             "Python": 0.32,
             "Shell": 0.29,
             "Jsonnet": 0.27,
@@ -1692,7 +1698,7 @@
             "Makefile": 0.01
           },
           "languages_byte": {
-            "Go": 3506877,
+            "Go": 3543481,
             "Python": 11433,
             "Shell": 10439,
             "Jsonnet": 9517,
@@ -1705,9 +1711,9 @@
           "forks": 12,
           "open_issues": 46,
           "watchers": 152,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1728,8 +1734,8 @@
           "full_name": "espanso/espanso",
           "html_url": "https://github.com/espanso/espanso",
           "created_at": "2019-08-30T07:16:58Z",
-          "updated_at": "2025-09-15T09:17:59Z",
-          "pushed_at": "2025-09-14T22:53:52Z",
+          "updated_at": "2025-10-13T07:33:23Z",
+          "pushed_at": "2025-10-12T12:41:48Z",
           "archived": false,
           "disabled": false,
           "owner": "espanso",
@@ -1749,42 +1755,40 @@
         "analytics": {
           "language": "Rust",
           "languages": {
-            "Rust": 54.46,
-            "C++": 42.26,
+            "Rust": 54.62,
+            "C++": 42.15,
             "C": 1.26,
-            "Objective-C++": 1.19,
+            "Objective-C++": 1.18,
             "PowerShell": 0.27,
-            "Shell": 0.2,
-            "Nix": 0.17,
+            "Nix": 0.16,
+            "Shell": 0.15,
             "Inno Setup": 0.1,
             "Objective-C": 0.05,
             "AppleScript": 0.04,
-            "Ruby": 0.01,
             "Batchfile": 0.0
           },
           "languages_byte": {
-            "Rust": 1474241,
-            "C++": 1143913,
+            "Rust": 1483212,
+            "C++": 1144607,
             "C": 34243,
             "Objective-C++": 32137,
-            "PowerShell": 7179,
-            "Shell": 5283,
+            "PowerShell": 7371,
             "Nix": 4472,
+            "Shell": 4153,
             "Inno Setup": 2640,
             "Objective-C": 1401,
             "AppleScript": 1117,
-            "Ruby": 341,
             "Batchfile": 23
           },
-          "stargazers_count": 12110,
-          "forks_count": 342,
-          "open_issues_count": 444,
-          "forks": 342,
-          "open_issues": 444,
-          "watchers": 12110,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 12308,
+          "forks_count": 348,
+          "open_issues_count": 447,
+          "forks": 348,
+          "open_issues": 447,
+          "watchers": 12308,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1807,7 +1811,7 @@
           "full_name": "everli/uppy",
           "html_url": "https://github.com/everli/uppy",
           "created_at": "2021-03-30T14:38:41Z",
-          "updated_at": "2023-12-12T11:14:57Z",
+          "updated_at": "2025-09-20T14:07:51Z",
           "pushed_at": "2023-11-10T16:18:01Z",
           "archived": false,
           "disabled": false,
@@ -1842,15 +1846,15 @@
             "Shell": 1538,
             "SCSS": 853
           },
-          "stargazers_count": 12,
+          "stargazers_count": 11,
           "forks_count": 0,
           "open_issues_count": 10,
           "forks": 0,
           "open_issues": 10,
-          "watchers": 12,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 11,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1873,8 +1877,8 @@
           "full_name": "joke2k/faker",
           "html_url": "https://github.com/joke2k/faker",
           "created_at": "2012-11-12T23:00:09Z",
-          "updated_at": "2025-09-15T07:43:57Z",
-          "pushed_at": "2025-09-08T01:29:21Z",
+          "updated_at": "2025-10-13T07:59:52Z",
+          "pushed_at": "2025-10-07T16:17:44Z",
           "archived": false,
           "disabled": false,
           "owner": "joke2k",
@@ -1900,19 +1904,19 @@
             "Shell": 0.0
           },
           "languages_byte": {
-            "Python": 9268130,
+            "Python": 9375385,
             "Makefile": 410,
             "Shell": 387
           },
-          "stargazers_count": 18702,
-          "forks_count": 2018,
-          "open_issues_count": 32,
-          "forks": 2018,
-          "open_issues": 32,
-          "watchers": 18702,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 18752,
+          "forks_count": 2020,
+          "open_issues_count": 26,
+          "forks": 2020,
+          "open_issues": 26,
+          "watchers": 18752,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -1939,8 +1943,8 @@
           "full_name": "ZiggyCreatures/FusionCache",
           "html_url": "https://github.com/ZiggyCreatures/FusionCache",
           "created_at": "2020-12-31T17:14:11Z",
-          "updated_at": "2025-09-14T18:16:02Z",
-          "pushed_at": "2025-09-06T11:42:38Z",
+          "updated_at": "2025-10-12T19:26:20Z",
+          "pushed_at": "2025-10-03T20:37:22Z",
           "archived": false,
           "disabled": false,
           "owner": "ZiggyCreatures",
@@ -1968,15 +1972,15 @@
           "languages_byte": {
             "C#": 1683107
           },
-          "stargazers_count": 3146,
-          "forks_count": 160,
-          "open_issues_count": 30,
-          "forks": 160,
-          "open_issues": 30,
-          "watchers": 3146,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 3217,
+          "forks_count": 167,
+          "open_issues_count": 33,
+          "forks": 167,
+          "open_issues": 33,
+          "watchers": 3217,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2000,7 +2004,7 @@
           "full_name": "alegrey91/fwdctl",
           "html_url": "https://github.com/alegrey91/fwdctl",
           "created_at": "2022-08-13T18:30:39Z",
-          "updated_at": "2025-09-10T09:52:55Z",
+          "updated_at": "2025-09-18T13:54:49Z",
           "pushed_at": "2025-01-23T15:26:51Z",
           "archived": false,
           "disabled": false,
@@ -2023,15 +2027,15 @@
             "Makefile": 657,
             "Smarty": 511
           },
-          "stargazers_count": 69,
+          "stargazers_count": 70,
           "forks_count": 8,
           "open_issues_count": 12,
           "forks": 8,
           "open_issues": 12,
-          "watchers": 69,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 70,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2087,9 +2091,9 @@
           "forks": 2,
           "open_issues": 6,
           "watchers": 70,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2142,9 +2146,9 @@
           "forks": 23,
           "open_issues": 13,
           "watchers": 44,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2169,7 +2173,7 @@
           "full_name": "GuidoPenta/galactic-CV-guide-for-developers",
           "html_url": "https://github.com/GuidoPenta/galactic-CV-guide-for-developers",
           "created_at": "2022-12-07T16:32:59Z",
-          "updated_at": "2025-09-09T20:38:36Z",
+          "updated_at": "2025-09-28T10:58:52Z",
           "pushed_at": "2025-08-07T10:44:27Z",
           "archived": false,
           "disabled": false,
@@ -2191,15 +2195,15 @@
           "languages_byte": {
             "SCSS": 140
           },
-          "stargazers_count": 488,
-          "forks_count": 18,
+          "stargazers_count": 487,
+          "forks_count": 17,
           "open_issues_count": 0,
-          "forks": 18,
+          "forks": 17,
           "open_issues": 0,
-          "watchers": 488,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 487,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2224,7 +2228,7 @@
           "full_name": "GuidoPenta/galactic-linkedin-profile-guide-for-developers",
           "html_url": "https://github.com/GuidoPenta/galactic-linkedin-profile-guide-for-developers",
           "created_at": "2023-01-17T15:46:20Z",
-          "updated_at": "2025-08-18T05:18:00Z",
+          "updated_at": "2025-09-28T10:58:40Z",
           "pushed_at": "2025-03-10T15:19:20Z",
           "archived": false,
           "disabled": false,
@@ -2247,15 +2251,15 @@
           "languages_byte": {
             "SCSS": 140
           },
-          "stargazers_count": 237,
+          "stargazers_count": 238,
           "forks_count": 7,
           "open_issues_count": 0,
           "forks": 7,
           "open_issues": 0,
-          "watchers": 237,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 238,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2278,7 +2282,7 @@
           "full_name": "Mte90/Game-Genie-Good-Guy",
           "html_url": "https://github.com/Mte90/Game-Genie-Good-Guy",
           "created_at": "2020-01-09T15:34:07Z",
-          "updated_at": "2025-08-17T06:01:32Z",
+          "updated_at": "2025-10-04T13:58:44Z",
           "pushed_at": "2024-05-05T05:41:33Z",
           "archived": false,
           "disabled": false,
@@ -2307,15 +2311,15 @@
             "Python": 9617,
             "Shell": 741
           },
-          "stargazers_count": 34,
-          "forks_count": 3,
+          "stargazers_count": 33,
+          "forks_count": 1,
           "open_issues_count": 1,
-          "forks": 3,
+          "forks": 1,
           "open_issues": 1,
-          "watchers": 34,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 33,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2336,8 +2340,8 @@
           "full_name": "Mte90/gitapper",
           "html_url": "https://github.com/Mte90/gitapper",
           "created_at": "2020-10-13T17:52:40Z",
-          "updated_at": "2025-06-03T17:52:15Z",
-          "pushed_at": "2025-06-03T17:52:13Z",
+          "updated_at": "2025-09-25T13:26:48Z",
+          "pushed_at": "2025-09-25T13:26:44Z",
           "archived": false,
           "disabled": false,
           "owner": "Mte90",
@@ -2354,12 +2358,12 @@
         "analytics": {
           "language": "Shell",
           "languages": {
-            "Shell": 73.4,
-            "Python": 26.6
+            "Shell": 73.0,
+            "Python": 27.0
           },
           "languages_byte": {
             "Shell": 8267,
-            "Python": 2996
+            "Python": 3057
           },
           "stargazers_count": 7,
           "forks_count": 1,
@@ -2367,9 +2371,9 @@
           "forks": 1,
           "open_issues": 1,
           "watchers": 7,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2426,9 +2430,9 @@
           "forks": 25,
           "open_issues": 29,
           "watchers": 53,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2487,9 +2491,9 @@
           "forks": 1,
           "open_issues": 10,
           "watchers": 20,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2511,8 +2515,8 @@
           "full_name": "hanami/hanami",
           "html_url": "https://github.com/hanami/hanami",
           "created_at": "2013-08-09T15:24:44Z",
-          "updated_at": "2025-09-12T03:00:58Z",
-          "pushed_at": "2025-09-12T19:00:30Z",
+          "updated_at": "2025-10-13T03:59:31Z",
+          "pushed_at": "2025-10-13T03:59:27Z",
           "archived": false,
           "disabled": false,
           "owner": "hanami",
@@ -2534,18 +2538,18 @@
             "HTML": 0.72
           },
           "languages_byte": {
-            "Ruby": 813506,
+            "Ruby": 815102,
             "HTML": 5895
           },
-          "stargazers_count": 6291,
-          "forks_count": 540,
-          "open_issues_count": 41,
-          "forks": 540,
-          "open_issues": 41,
-          "watchers": 6291,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 6322,
+          "forks_count": 549,
+          "open_issues_count": 44,
+          "forks": 549,
+          "open_issues": 44,
+          "watchers": 6322,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2566,8 +2570,8 @@
           "full_name": "histolab/histolab",
           "html_url": "https://github.com/histolab/histolab",
           "created_at": "2020-05-09T07:38:51Z",
-          "updated_at": "2025-09-10T09:27:08Z",
-          "pushed_at": "2025-09-10T09:28:33Z",
+          "updated_at": "2025-10-10T01:25:28Z",
+          "pushed_at": "2025-10-07T08:46:30Z",
           "archived": false,
           "disabled": false,
           "owner": "histolab",
@@ -2597,15 +2601,15 @@
             "Python": 585140,
             "Makefile": 1263
           },
-          "stargazers_count": 422,
+          "stargazers_count": 425,
           "forks_count": 63,
-          "open_issues_count": 39,
+          "open_issues_count": 41,
           "forks": 63,
-          "open_issues": 39,
-          "watchers": 422,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 41,
+          "watchers": 425,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2661,9 +2665,9 @@
           "forks": 0,
           "open_issues": 0,
           "watchers": 3,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2687,8 +2691,8 @@
           "full_name": "pagopa/io-app",
           "html_url": "https://github.com/pagopa/io-app",
           "created_at": "2017-04-11T09:34:46Z",
-          "updated_at": "2025-09-15T08:55:27Z",
-          "pushed_at": "2025-09-15T09:10:01Z",
+          "updated_at": "2025-10-13T07:59:56Z",
+          "pushed_at": "2025-10-13T07:59:53Z",
           "archived": false,
           "disabled": false,
           "owner": "pagopa",
@@ -2706,10 +2710,10 @@
         "analytics": {
           "language": "TypeScript",
           "languages": {
-            "TypeScript": 98.74,
-            "JavaScript": 0.53,
-            "Python": 0.19,
-            "HTML": 0.16,
+            "TypeScript": 98.78,
+            "JavaScript": 0.51,
+            "Python": 0.18,
+            "HTML": 0.15,
             "Shell": 0.15,
             "Ruby": 0.13,
             "Kotlin": 0.05,
@@ -2717,25 +2721,25 @@
             "Objective-C": 0.01
           },
           "languages_byte": {
-            "TypeScript": 9385517,
-            "JavaScript": 50113,
+            "TypeScript": 9701218,
+            "JavaScript": 50166,
             "Python": 18086,
             "HTML": 15210,
-            "Shell": 14540,
+            "Shell": 14632,
             "Ruby": 12332,
             "Kotlin": 5072,
             "Swift": 4111,
             "Objective-C": 599
           },
-          "stargazers_count": 671,
-          "forks_count": 109,
-          "open_issues_count": 39,
-          "forks": 109,
-          "open_issues": 39,
-          "watchers": 671,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 673,
+          "forks_count": 110,
+          "open_issues_count": 32,
+          "forks": 110,
+          "open_issues": 32,
+          "watchers": 673,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2760,7 +2764,7 @@
           "full_name": "Schroedinger-Hat/ImageGoNord-Web",
           "html_url": "https://github.com/Schroedinger-Hat/ImageGoNord-Web",
           "created_at": "2020-07-20T15:15:29Z",
-          "updated_at": "2025-09-14T20:10:57Z",
+          "updated_at": "2025-10-07T20:53:21Z",
           "pushed_at": "2025-07-10T12:42:53Z",
           "archived": false,
           "disabled": false,
@@ -2803,15 +2807,15 @@
             "Shell": 238,
             "Procfile": 60
           },
-          "stargazers_count": 905,
+          "stargazers_count": 908,
           "forks_count": 35,
           "open_issues_count": 7,
           "forks": 35,
           "open_issues": 7,
-          "watchers": 905,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 908,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2833,7 +2837,7 @@
           "full_name": "italiaremote/awesome-italia-remote",
           "html_url": "https://github.com/italiaremote/awesome-italia-remote",
           "created_at": "2022-01-24T09:50:30Z",
-          "updated_at": "2025-09-14T15:29:03Z",
+          "updated_at": "2025-10-09T20:15:16Z",
           "pushed_at": "2025-08-13T14:14:16Z",
           "archived": false,
           "disabled": false,
@@ -2860,15 +2864,15 @@
             "Go": 5885,
             "Makefile": 83
           },
-          "stargazers_count": 2527,
+          "stargazers_count": 2543,
           "forks_count": 307,
-          "open_issues_count": 10,
+          "open_issues_count": 11,
           "forks": 307,
-          "open_issues": 10,
-          "watchers": 2527,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 11,
+          "watchers": 2543,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2926,9 +2930,9 @@
           "forks": 1,
           "open_issues": 8,
           "watchers": 25,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -2952,7 +2956,7 @@
           "full_name": "DarioBalinzo/kafka-connect-elasticsearch-source",
           "html_url": "https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source",
           "created_at": "2018-05-13T14:38:09Z",
-          "updated_at": "2025-06-08T07:03:16Z",
+          "updated_at": "2025-10-09T06:05:15Z",
           "pushed_at": "2024-08-20T05:32:31Z",
           "archived": false,
           "disabled": false,
@@ -2976,15 +2980,15 @@
           "languages_byte": {
             "Java": 160125
           },
-          "stargazers_count": 68,
+          "stargazers_count": 69,
           "forks_count": 40,
           "open_issues_count": 33,
           "forks": 40,
           "open_issues": 33,
-          "watchers": 68,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 69,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3007,8 +3011,8 @@
           "full_name": "kannon-email/kannon",
           "html_url": "https://github.com/kannon-email/kannon",
           "created_at": "2021-01-03T09:01:56Z",
-          "updated_at": "2025-09-09T16:43:35Z",
-          "pushed_at": "2025-09-09T16:44:07Z",
+          "updated_at": "2025-09-20T14:48:56Z",
+          "pushed_at": "2025-10-09T13:07:33Z",
           "archived": false,
           "disabled": false,
           "owner": "kannon-email",
@@ -3024,24 +3028,24 @@
         "analytics": {
           "language": "Go",
           "languages": {
-            "Go": 99.61,
-            "Makefile": 0.2,
+            "Go": 99.62,
+            "Makefile": 0.19,
             "Dockerfile": 0.19
           },
           "languages_byte": {
-            "Go": 180226,
+            "Go": 181812,
             "Makefile": 353,
             "Dockerfile": 347
           },
-          "stargazers_count": 70,
+          "stargazers_count": 72,
           "forks_count": 12,
-          "open_issues_count": 10,
+          "open_issues_count": 8,
           "forks": 12,
-          "open_issues": 10,
-          "watchers": 70,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 8,
+          "watchers": 72,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3066,7 +3070,7 @@
           "full_name": "KatharaFramework/Kathara",
           "html_url": "https://github.com/KatharaFramework/Kathara",
           "created_at": "2017-03-31T14:07:48Z",
-          "updated_at": "2025-09-11T14:51:51Z",
+          "updated_at": "2025-10-11T09:36:12Z",
           "pushed_at": "2025-09-11T14:51:47Z",
           "archived": false,
           "disabled": false,
@@ -3116,15 +3120,15 @@
             "Batchfile": 1135,
             "Dockerfile": 855
           },
-          "stargazers_count": 544,
-          "forks_count": 70,
+          "stargazers_count": 548,
+          "forks_count": 71,
           "open_issues_count": 7,
-          "forks": 70,
+          "forks": 71,
           "open_issues": 7,
-          "watchers": 544,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 548,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3147,8 +3151,8 @@
           "full_name": "Kong/kong",
           "html_url": "https://github.com/Kong/kong",
           "created_at": "2014-11-17T23:56:08Z",
-          "updated_at": "2025-09-15T08:55:09Z",
-          "pushed_at": "2025-09-15T08:24:37Z",
+          "updated_at": "2025-10-13T08:23:41Z",
+          "pushed_at": "2025-10-13T08:17:30Z",
           "archived": false,
           "disabled": false,
           "owner": "Kong",
@@ -3167,10 +3171,10 @@
             "kubernetes-ingress-controller",
             "llm-gateway",
             "llm-ops",
-            "luajit",
+            "mcp",
+            "mcp-gateway",
             "microservice",
             "microservices",
-            "nginx",
             "openai-proxy",
             "reverse-proxy",
             "serverless"
@@ -3181,8 +3185,8 @@
           "language": "Lua",
           "languages": {
             "Lua": 89.29,
-            "Perl": 5.22,
-            "Raku": 3.05,
+            "Perl": 5.2,
+            "Raku": 3.06,
             "Starlark": 0.98,
             "Shell": 0.87,
             "Python": 0.41,
@@ -3192,9 +3196,9 @@
             "Linker Script": 0.01
           },
           "languages_byte": {
-            "Lua": 10060932,
-            "Perl": 587765,
-            "Raku": 343862,
+            "Lua": 10062823,
+            "Perl": 586513,
+            "Raku": 345114,
             "Starlark": 110446,
             "Shell": 98520,
             "Python": 46550,
@@ -3203,15 +3207,15 @@
             "Dockerfile": 3847,
             "Linker Script": 652
           },
-          "stargazers_count": 41760,
-          "forks_count": 4979,
-          "open_issues_count": 142,
-          "forks": 4979,
-          "open_issues": 142,
-          "watchers": 41760,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 41945,
+          "forks_count": 4999,
+          "open_issues_count": 138,
+          "forks": 4999,
+          "open_issues": 138,
+          "watchers": 41945,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3237,8 +3241,8 @@
           "full_name": "sighupio/distribution",
           "html_url": "https://github.com/sighupio/distribution",
           "created_at": "2020-01-23T16:23:02Z",
-          "updated_at": "2025-09-01T20:29:58Z",
-          "pushed_at": "2025-09-12T17:01:12Z",
+          "updated_at": "2025-10-09T13:12:51Z",
+          "pushed_at": "2025-10-13T06:24:59Z",
           "archived": false,
           "disabled": false,
           "owner": "sighupio",
@@ -3254,28 +3258,28 @@
         "analytics": {
           "language": "Smarty",
           "languages": {
-            "Smarty": 68.87,
-            "Shell": 21.93,
-            "HCL": 6.85,
-            "Go": 1.31,
-            "Makefile": 1.04
+            "Smarty": 69.19,
+            "Shell": 21.58,
+            "HCL": 6.91,
+            "Go": 1.29,
+            "Makefile": 1.03
           },
           "languages_byte": {
-            "Smarty": 355461,
-            "Shell": 113174,
-            "HCL": 35378,
+            "Smarty": 361748,
+            "Shell": 112839,
+            "HCL": 36142,
             "Go": 6747,
             "Makefile": 5369
           },
-          "stargazers_count": 191,
-          "forks_count": 14,
-          "open_issues_count": 22,
-          "forks": 14,
-          "open_issues": 22,
-          "watchers": 191,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 194,
+          "forks_count": 15,
+          "open_issues_count": 23,
+          "forks": 15,
+          "open_issues": 23,
+          "watchers": 194,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3299,8 +3303,8 @@
           "full_name": "Noovolari/leapp",
           "html_url": "https://github.com/Noovolari/leapp",
           "created_at": "2020-07-28T07:54:59Z",
-          "updated_at": "2025-09-14T17:10:06Z",
-          "pushed_at": "2025-09-04T15:39:06Z",
+          "updated_at": "2025-10-12T13:35:06Z",
+          "pushed_at": "2025-09-26T19:46:59Z",
           "archived": false,
           "disabled": false,
           "owner": "Noovolari",
@@ -3346,15 +3350,15 @@
             "Shell": 135,
             "Batchfile": 61
           },
-          "stargazers_count": 1701,
+          "stargazers_count": 1708,
           "forks_count": 155,
-          "open_issues_count": 148,
+          "open_issues_count": 149,
           "forks": 155,
-          "open_issues": 148,
-          "watchers": 1701,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 149,
+          "watchers": 1708,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3407,14 +3411,14 @@
             "Astro": 75
           },
           "stargazers_count": 39,
-          "forks_count": 21,
-          "open_issues_count": 22,
-          "forks": 21,
-          "open_issues": 22,
+          "forks_count": 22,
+          "open_issues_count": 23,
+          "forks": 22,
+          "open_issues": 23,
           "watchers": 39,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3436,7 +3440,7 @@
           "full_name": "mcollina/make-promises-safe",
           "html_url": "https://github.com/mcollina/make-promises-safe",
           "created_at": "2017-06-13T19:52:48Z",
-          "updated_at": "2025-04-28T17:37:07Z",
+          "updated_at": "2025-10-04T13:54:18Z",
           "pushed_at": "2024-12-21T09:50:54Z",
           "archived": false,
           "disabled": false,
@@ -3453,15 +3457,15 @@
           "languages_byte": {
             "JavaScript": 1619
           },
-          "stargazers_count": 669,
+          "stargazers_count": 666,
           "forks_count": 26,
           "open_issues_count": 3,
           "forks": 26,
           "open_issues": 3,
-          "watchers": 669,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 666,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3522,9 +3526,9 @@
           "forks": 17,
           "open_issues": 3,
           "watchers": 67,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3548,8 +3552,8 @@
           "full_name": "middyjs/middy",
           "html_url": "https://github.com/middyjs/middy",
           "created_at": "2017-08-03T14:59:07Z",
-          "updated_at": "2025-09-13T10:31:25Z",
-          "pushed_at": "2025-09-15T01:25:33Z",
+          "updated_at": "2025-10-10T14:03:11Z",
+          "pushed_at": "2025-10-13T01:25:01Z",
           "archived": false,
           "disabled": false,
           "owner": "middyjs",
@@ -3590,15 +3594,15 @@
             "CSS": 2617,
             "Shell": 66
           },
-          "stargazers_count": 3859,
+          "stargazers_count": 3866,
           "forks_count": 393,
-          "open_issues_count": 13,
+          "open_issues_count": 17,
           "forks": 393,
-          "open_issues": 13,
-          "watchers": 3859,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 17,
+          "watchers": 3866,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3621,7 +3625,7 @@
           "full_name": "Tech-Workers-Coalition-Italia/mobilizon-reshare",
           "html_url": "https://github.com/Tech-Workers-Coalition-Italia/mobilizon-reshare",
           "created_at": "2021-04-18T13:55:52Z",
-          "updated_at": "2024-12-30T05:33:36Z",
+          "updated_at": "2025-10-11T05:25:43Z",
           "pushed_at": "2024-03-19T23:43:36Z",
           "archived": false,
           "disabled": false,
@@ -3648,15 +3652,15 @@
             "Dockerfile": 661,
             "Makefile": 638
           },
-          "stargazers_count": 27,
+          "stargazers_count": 29,
           "forks_count": 4,
           "open_issues_count": 8,
           "forks": 4,
           "open_issues": 8,
-          "watchers": 27,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 29,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3680,7 +3684,7 @@
           "full_name": "moquette-io/moquette",
           "html_url": "https://github.com/moquette-io/moquette",
           "created_at": "2014-09-30T20:14:41Z",
-          "updated_at": "2025-09-11T16:10:36Z",
+          "updated_at": "2025-09-28T09:16:40Z",
           "pushed_at": "2025-09-04T17:37:18Z",
           "archived": false,
           "disabled": false,
@@ -3712,15 +3716,15 @@
             "Batchfile": 3910,
             "Ruby": 212
           },
-          "stargazers_count": 2406,
-          "forks_count": 830,
+          "stargazers_count": 2408,
+          "forks_count": 829,
           "open_issues_count": 122,
-          "forks": 830,
+          "forks": 829,
           "open_issues": 122,
-          "watchers": 2406,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 2408,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3785,9 +3789,9 @@
           "forks": 0,
           "open_issues": 4,
           "watchers": 3,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3845,9 +3849,9 @@
           "forks": 1,
           "open_issues": 0,
           "watchers": 4,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -3868,13 +3872,13 @@
       ],
       "autogenerated": {
         "filename": "nutgram.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "nutgram",
           "full_name": "nutgram/nutgram",
           "html_url": "https://github.com/nutgram/nutgram",
           "created_at": "2021-02-09T20:47:15Z",
-          "updated_at": "2025-09-10T08:09:51Z",
+          "updated_at": "2025-10-09T12:00:20Z",
           "pushed_at": "2025-08-31T12:54:28Z",
           "archived": false,
           "disabled": false,
@@ -3905,13 +3909,13 @@
           "languages_byte": {
             "PHP": 1407436
           },
-          "stargazers_count": 610,
-          "forks_count": 69,
+          "stargazers_count": 615,
+          "forks_count": 71,
           "open_issues_count": 7,
-          "forks": 69,
+          "forks": 71,
           "open_issues": 7,
-          "watchers": 610,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 615,
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -3929,7 +3933,7 @@
       ],
       "autogenerated": {
         "filename": "nutgram-hydrator.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "hydrator",
           "full_name": "nutgram/hydrator",
@@ -3969,7 +3973,7 @@
           "forks": 1,
           "open_issues": 0,
           "watchers": 12,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -3994,7 +3998,7 @@
           "full_name": "nuvolaris/nuvolaris",
           "html_url": "https://github.com/nuvolaris/nuvolaris",
           "created_at": "2021-11-21T08:41:46Z",
-          "updated_at": "2025-08-25T17:02:02Z",
+          "updated_at": "2025-10-09T19:38:11Z",
           "pushed_at": "2025-01-18T11:33:10Z",
           "archived": true,
           "disabled": false,
@@ -4025,9 +4029,9 @@
           "forks": 32,
           "open_issues": 10,
           "watchers": 225,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4054,8 +4058,8 @@
           "full_name": "Til0r/open-profiler",
           "html_url": "https://github.com/Til0r/open-profiler",
           "created_at": "2023-12-17T13:01:43Z",
-          "updated_at": "2025-09-13T17:04:59Z",
-          "pushed_at": "2025-09-13T17:04:56Z",
+          "updated_at": "2025-10-11T17:22:42Z",
+          "pushed_at": "2025-10-11T17:24:06Z",
           "archived": false,
           "disabled": false,
           "owner": "Til0r",
@@ -4093,13 +4097,13 @@
           },
           "stargazers_count": 2,
           "forks_count": 1,
-          "open_issues_count": 3,
+          "open_issues_count": 4,
           "forks": 1,
-          "open_issues": 3,
+          "open_issues": 4,
           "watchers": 2,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4123,7 +4127,7 @@
       "license": "AGPL-3.0",
       "autogenerated": {
         "filename": "opencity-italia.json",
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4146,7 +4150,7 @@
           "full_name": "mmazzarolo/ordinary-puzzles-app",
           "html_url": "https://github.com/mmazzarolo/ordinary-puzzles-app",
           "created_at": "2019-12-14T22:17:32Z",
-          "updated_at": "2025-09-11T12:26:26Z",
+          "updated_at": "2025-10-08T15:47:00Z",
           "pushed_at": "2023-02-05T19:33:41Z",
           "archived": false,
           "disabled": false,
@@ -4191,15 +4195,15 @@
             "Swift": 110,
             "Shell": 97
           },
-          "stargazers_count": 494,
+          "stargazers_count": 493,
           "forks_count": 44,
           "open_issues_count": 9,
           "forks": 44,
           "open_issues": 9,
-          "watchers": 494,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 493,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4217,14 +4221,14 @@
       "license": "Source-available",
       "autogenerated": {
         "filename": "pandas-ai.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "pandas-ai",
           "full_name": "sinaptik-ai/pandas-ai",
           "html_url": "https://github.com/sinaptik-ai/pandas-ai",
           "created_at": "2023-04-22T12:58:01Z",
-          "updated_at": "2025-09-15T08:21:32Z",
-          "pushed_at": "2025-08-13T12:59:44Z",
+          "updated_at": "2025-10-13T08:25:28Z",
+          "pushed_at": "2025-10-13T08:25:24Z",
           "archived": false,
           "disabled": false,
           "owner": "sinaptik-ai",
@@ -4249,22 +4253,22 @@
         "analytics": {
           "language": "Python",
           "languages": {
-            "Python": 99.4,
-            "Makefile": 0.56,
+            "Python": 99.44,
+            "Makefile": 0.52,
             "Dockerfile": 0.04
           },
           "languages_byte": {
-            "Python": 685629,
+            "Python": 735019,
             "Makefile": 3843,
             "Dockerfile": 299
           },
-          "stargazers_count": 22069,
-          "forks_count": 2146,
-          "open_issues_count": 23,
-          "forks": 2146,
-          "open_issues": 23,
-          "watchers": 22069,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 22252,
+          "forks_count": 2173,
+          "open_issues_count": 13,
+          "forks": 2173,
+          "open_issues": 13,
+          "watchers": 22252,
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -4292,7 +4296,7 @@
           "full_name": "CyrilCermak/pets-therapy",
           "html_url": "https://github.com/CyrilCermak/pets-therapy",
           "created_at": "2022-06-13T08:28:25Z",
-          "updated_at": "2025-09-14T17:52:14Z",
+          "updated_at": "2025-10-09T16:33:29Z",
           "pushed_at": "2025-09-14T18:04:43Z",
           "archived": false,
           "disabled": false,
@@ -4321,15 +4325,15 @@
             "Python": 18162,
             "Ruby": 14899
           },
-          "stargazers_count": 303,
+          "stargazers_count": 308,
           "forks_count": 31,
-          "open_issues_count": 2,
+          "open_issues_count": 1,
           "forks": 31,
-          "open_issues": 2,
-          "watchers": 303,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 1,
+          "watchers": 308,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4353,8 +4357,8 @@
           "full_name": "platformatic/platformatic",
           "html_url": "https://github.com/platformatic/platformatic",
           "created_at": "2022-09-22T07:32:19Z",
-          "updated_at": "2025-09-15T07:32:22Z",
-          "pushed_at": "2025-09-15T07:34:26Z",
+          "updated_at": "2025-10-12T06:04:38Z",
+          "pushed_at": "2025-10-12T13:13:48Z",
           "archived": false,
           "disabled": false,
           "owner": "platformatic",
@@ -4372,18 +4376,18 @@
         "analytics": {
           "language": "JavaScript",
           "languages": {
-            "JavaScript": 98.27,
-            "TypeScript": 0.65,
-            "HTML": 0.6,
-            "CSS": 0.26,
+            "JavaScript": 98.2,
+            "TypeScript": 0.75,
+            "HTML": 0.58,
+            "CSS": 0.25,
             "Nunjucks": 0.12,
             "Shell": 0.06,
             "Dockerfile": 0.04,
             "Astro": 0.0
           },
           "languages_byte": {
-            "JavaScript": 3391774,
-            "TypeScript": 22450,
+            "JavaScript": 3505910,
+            "TypeScript": 26783,
             "HTML": 20803,
             "CSS": 8912,
             "Nunjucks": 4260,
@@ -4391,15 +4395,15 @@
             "Dockerfile": 1395,
             "Astro": 76
           },
-          "stargazers_count": 1705,
-          "forks_count": 174,
-          "open_issues_count": 221,
-          "forks": 174,
-          "open_issues": 221,
-          "watchers": 1705,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 1723,
+          "forks_count": 178,
+          "open_issues_count": 216,
+          "forks": 178,
+          "open_issues": 216,
+          "watchers": 1723,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4421,14 +4425,14 @@
       ],
       "autogenerated": {
         "filename": "projectsveltos.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "addon-controller",
           "full_name": "projectsveltos/addon-controller",
           "html_url": "https://github.com/projectsveltos/addon-controller",
           "created_at": "2022-07-10T14:25:32Z",
-          "updated_at": "2025-09-14T11:44:07Z",
-          "pushed_at": "2025-09-14T11:44:07Z",
+          "updated_at": "2025-10-12T16:44:06Z",
+          "pushed_at": "2025-10-12T19:52:22Z",
           "archived": false,
           "disabled": false,
           "owner": "projectsveltos",
@@ -4452,26 +4456,26 @@
         "analytics": {
           "language": "Go",
           "languages": {
-            "Go": 97.98,
-            "Makefile": 1.55,
-            "Shell": 0.29,
-            "Dockerfile": 0.12,
-            "Lua": 0.05
+            "Go": 98.1,
+            "Makefile": 1.48,
+            "Shell": 0.27,
+            "Dockerfile": 0.11,
+            "Lua": 0.04
           },
           "languages_byte": {
-            "Go": 1704786,
-            "Makefile": 27005,
+            "Go": 1858025,
+            "Makefile": 27972,
             "Shell": 5129,
             "Dockerfile": 2143,
             "Lua": 801
           },
-          "stargazers_count": 431,
-          "forks_count": 34,
+          "stargazers_count": 438,
+          "forks_count": 37,
           "open_issues_count": 14,
-          "forks": 34,
+          "forks": 37,
           "open_issues": 14,
-          "watchers": 431,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 438,
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -4523,9 +4527,9 @@
           "forks": 2,
           "open_issues": 1,
           "watchers": 23,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4549,7 +4553,7 @@
           "full_name": "Atcold/NYU-DLSP20",
           "html_url": "https://github.com/Atcold/NYU-DLSP20",
           "created_at": "2018-07-09T11:40:25Z",
-          "updated_at": "2025-09-11T09:46:30Z",
+          "updated_at": "2025-10-07T05:17:19Z",
           "pushed_at": "2025-06-16T19:16:24Z",
           "archived": false,
           "disabled": false,
@@ -4573,15 +4577,15 @@
             "Jupyter Notebook": 1187283,
             "Python": 16898
           },
-          "stargazers_count": 6776,
+          "stargazers_count": 6781,
           "forks_count": 2232,
           "open_issues_count": 54,
           "forks": 2232,
           "open_issues": 54,
-          "watchers": 6776,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 6781,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4603,8 +4607,8 @@
           "full_name": "redis/redis",
           "html_url": "https://github.com/redis/redis",
           "created_at": "2009-03-21T22:32:25Z",
-          "updated_at": "2025-09-15T08:45:07Z",
-          "pushed_at": "2025-09-15T01:33:18Z",
+          "updated_at": "2025-10-13T06:59:02Z",
+          "pushed_at": "2025-10-12T03:02:03Z",
           "archived": false,
           "disabled": false,
           "owner": "redis",
@@ -4636,10 +4640,10 @@
         "analytics": {
           "language": "C",
           "languages": {
-            "C": 72.46,
-            "Tcl": 24.94,
-            "Python": 1.79,
-            "Makefile": 0.29,
+            "C": 72.43,
+            "Tcl": 24.91,
+            "Python": 1.85,
+            "Makefile": 0.28,
             "Shell": 0.23,
             "Ruby": 0.22,
             "C++": 0.06,
@@ -4647,25 +4651,25 @@
             "JavaScript": 0.01
           },
           "languages_byte": {
-            "C": 7602752,
-            "Tcl": 2616206,
-            "Python": 187825,
-            "Makefile": 29911,
+            "C": 7617299,
+            "Tcl": 2619471,
+            "Python": 194650,
+            "Makefile": 29914,
             "Shell": 23715,
             "Ruby": 23536,
             "C++": 5987,
             "Smarty": 1047,
             "JavaScript": 953
           },
-          "stargazers_count": 70863,
-          "forks_count": 24223,
-          "open_issues_count": 2673,
-          "forks": 24223,
-          "open_issues": 2673,
-          "watchers": 70863,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 71196,
+          "forks_count": 24276,
+          "open_issues_count": 2699,
+          "forks": 24276,
+          "open_issues": 2699,
+          "watchers": 71196,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4689,7 +4693,7 @@
           "full_name": "remotebear-io/remotebear",
           "html_url": "https://github.com/remotebear-io/remotebear",
           "created_at": "2021-04-24T21:05:00Z",
-          "updated_at": "2025-07-19T19:41:53Z",
+          "updated_at": "2025-10-09T16:04:05Z",
           "pushed_at": "2024-04-21T00:52:24Z",
           "archived": false,
           "disabled": false,
@@ -4716,15 +4720,15 @@
             "CSS": 609,
             "Shell": 83
           },
-          "stargazers_count": 77,
+          "stargazers_count": 78,
           "forks_count": 11,
           "open_issues_count": 2,
           "forks": 11,
           "open_issues": 2,
-          "watchers": 77,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 78,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4746,8 +4750,8 @@
           "full_name": "rond-authz/rond",
           "html_url": "https://github.com/rond-authz/rond",
           "created_at": "2022-06-03T10:03:42Z",
-          "updated_at": "2025-09-12T07:00:24Z",
-          "pushed_at": "2025-09-12T07:00:21Z",
+          "updated_at": "2025-10-09T09:16:30Z",
+          "pushed_at": "2025-10-09T04:57:57Z",
           "archived": false,
           "disabled": false,
           "owner": "rond-authz",
@@ -4775,15 +4779,15 @@
             "Makefile": 1095,
             "Dockerfile": 869
           },
-          "stargazers_count": 162,
+          "stargazers_count": 163,
           "forks_count": 8,
-          "open_issues_count": 34,
+          "open_issues_count": 31,
           "forks": 8,
-          "open_issues": 34,
-          "watchers": 162,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 31,
+          "watchers": 163,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4808,14 +4812,14 @@
       ],
       "autogenerated": {
         "filename": "scrapegraphai.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "Scrapegraph-ai",
           "full_name": "ScrapeGraphAI/Scrapegraph-ai",
           "html_url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
           "created_at": "2024-01-27T16:54:38Z",
-          "updated_at": "2025-09-15T08:42:57Z",
-          "pushed_at": "2025-08-13T09:50:52Z",
+          "updated_at": "2025-10-13T08:01:04Z",
+          "pushed_at": "2025-10-04T14:52:26Z",
           "archived": false,
           "disabled": false,
           "owner": "ScrapeGraphAI",
@@ -4849,13 +4853,13 @@
             "Makefile": 954,
             "Dockerfile": 266
           },
-          "stargazers_count": 21292,
-          "forks_count": 1817,
-          "open_issues_count": 14,
-          "forks": 1817,
-          "open_issues": 14,
-          "watchers": 21292,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 21541,
+          "forks_count": 1855,
+          "open_issues_count": 13,
+          "forks": 1855,
+          "open_issues": 13,
+          "watchers": 21541,
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -4905,9 +4909,9 @@
           "forks": 0,
           "open_issues": 28,
           "watchers": 2,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -4962,9 +4966,9 @@
           "forks": 21,
           "open_issues": 5,
           "watchers": 52,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5014,9 +5018,9 @@
           "forks": 19,
           "open_issues": 8,
           "watchers": 231,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5071,9 +5075,9 @@
           "forks": 3,
           "open_issues": 3,
           "watchers": 13,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5122,9 +5126,9 @@
           "forks": 3,
           "open_issues": 5,
           "watchers": 38,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5146,8 +5150,8 @@
           "full_name": "strawberry-graphql/strawberry",
           "html_url": "https://github.com/strawberry-graphql/strawberry",
           "created_at": "2018-12-21T08:56:55Z",
-          "updated_at": "2025-09-15T04:39:50Z",
-          "pushed_at": "2025-09-09T13:26:19Z",
+          "updated_at": "2025-10-13T05:02:39Z",
+          "pushed_at": "2025-10-12T17:24:26Z",
           "archived": false,
           "disabled": false,
           "owner": "strawberry-graphql",
@@ -5172,7 +5176,7 @@
         "analytics": {
           "language": "Python",
           "languages": {
-            "Python": 98.43,
+            "Python": 98.44,
             "TypeScript": 1.06,
             "HTML": 0.29,
             "CSS": 0.16,
@@ -5181,23 +5185,23 @@
             "Shell": 0.0
           },
           "languages_byte": {
-            "Python": 2497794,
+            "Python": 2502773,
             "TypeScript": 27013,
             "HTML": 7387,
             "CSS": 4043,
             "JavaScript": 734,
-            "Dockerfile": 517,
+            "Dockerfile": 522,
             "Shell": 74
           },
-          "stargazers_count": 4408,
-          "forks_count": 585,
-          "open_issues_count": 466,
-          "forks": 585,
-          "open_issues": 466,
-          "watchers": 4408,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 4434,
+          "forks_count": 593,
+          "open_issues_count": 491,
+          "forks": 593,
+          "open_issues": 491,
+          "watchers": 4434,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5212,7 +5216,7 @@
       "license": "MIT",
       "autogenerated": {
         "filename": "swap-anything.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "swap-anything",
           "full_name": "founderswap/swap-anything",
@@ -5241,7 +5245,7 @@
           "forks": 0,
           "open_issues": 8,
           "watchers": 5,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -5265,8 +5269,8 @@
           "full_name": "Tiledesk/tiledesk",
           "html_url": "https://github.com/Tiledesk/tiledesk",
           "created_at": "2020-07-10T10:20:23Z",
-          "updated_at": "2025-09-11T09:01:26Z",
-          "pushed_at": "2025-08-27T12:59:19Z",
+          "updated_at": "2025-10-12T19:27:22Z",
+          "pushed_at": "2025-10-07T10:14:25Z",
           "archived": false,
           "disabled": false,
           "owner": "Tiledesk",
@@ -5299,15 +5303,15 @@
             "Mustache": 1830,
             "Shell": 324
           },
-          "stargazers_count": 247,
-          "forks_count": 79,
-          "open_issues_count": 21,
-          "forks": 79,
-          "open_issues": 21,
-          "watchers": 247,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 252,
+          "forks_count": 87,
+          "open_issues_count": 26,
+          "forks": 87,
+          "open_issues": 26,
+          "watchers": 252,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5373,9 +5377,9 @@
           "forks": 0,
           "open_issues": 2,
           "watchers": 5,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5397,7 +5401,7 @@
           "full_name": "WPBP/WordPress-Plugin-Boilerplate-Powered",
           "html_url": "https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered",
           "created_at": "2014-06-26T17:29:18Z",
-          "updated_at": "2025-09-10T13:54:43Z",
+          "updated_at": "2025-10-11T08:03:14Z",
           "pushed_at": "2025-01-13T15:05:24Z",
           "archived": false,
           "disabled": false,
@@ -5426,15 +5430,15 @@
             "SCSS": 1579,
             "Shell": 834
           },
-          "stargazers_count": 827,
+          "stargazers_count": 826,
           "forks_count": 120,
           "open_issues_count": 10,
           "forks": 120,
           "open_issues": 10,
-          "watchers": 827,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 826,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5453,13 +5457,13 @@
       ],
       "autogenerated": {
         "filename": "xbackbone.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "XBackBone",
           "full_name": "sergix44/XBackBone",
           "html_url": "https://github.com/sergix44/XBackBone",
           "created_at": "2018-04-28T12:16:46Z",
-          "updated_at": "2025-09-13T15:39:44Z",
+          "updated_at": "2025-10-04T15:57:00Z",
           "pushed_at": "2025-09-09T11:03:15Z",
           "archived": false,
           "disabled": false,
@@ -5507,7 +5511,7 @@
           "forks": 91,
           "open_issues": 90,
           "watchers": 1082,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     },
@@ -5560,9 +5564,9 @@
           "forks": 24,
           "open_issues": 23,
           "watchers": 116,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5587,7 +5591,7 @@
           "full_name": "Schroedinger-Hat/youtube-to-spotify",
           "html_url": "https://github.com/Schroedinger-Hat/youtube-to-spotify",
           "created_at": "2020-08-27T23:08:21Z",
-          "updated_at": "2025-08-28T02:57:23Z",
+          "updated_at": "2025-10-12T18:08:16Z",
           "pushed_at": "2025-06-18T09:58:14Z",
           "archived": false,
           "disabled": false,
@@ -5623,15 +5627,15 @@
             "Dockerfile": 1459,
             "Shell": 24
           },
-          "stargazers_count": 142,
+          "stargazers_count": 146,
           "forks_count": 78,
           "open_issues_count": 9,
           "forks": 78,
           "open_issues": 9,
-          "watchers": 142,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 146,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5660,7 +5664,7 @@
           "full_name": "danielealbano/cachegrand",
           "html_url": "https://github.com/danielealbano/cachegrand",
           "created_at": "2018-03-14T15:33:02Z",
-          "updated_at": "2025-09-05T05:43:43Z",
+          "updated_at": "2025-10-07T09:02:21Z",
           "pushed_at": "2025-01-02T19:55:34Z",
           "archived": false,
           "disabled": false,
@@ -5713,9 +5717,9 @@
           "forks": 35,
           "open_issues": 28,
           "watchers": 990,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5743,8 +5747,8 @@
           "full_name": "projectcapsule/capsule",
           "html_url": "https://github.com/projectcapsule/capsule",
           "created_at": "2020-06-29T20:27:51Z",
-          "updated_at": "2025-09-14T11:37:36Z",
-          "pushed_at": "2025-09-14T11:37:33Z",
+          "updated_at": "2025-10-12T21:31:15Z",
+          "pushed_at": "2025-10-12T12:59:48Z",
           "archived": false,
           "disabled": false,
           "owner": "projectcapsule",
@@ -5764,28 +5768,28 @@
         "analytics": {
           "language": "Go",
           "languages": {
-            "Go": 95.7,
-            "Shell": 1.55,
-            "Makefile": 1.46,
-            "Smarty": 1.22,
+            "Go": 95.96,
+            "Shell": 1.46,
+            "Makefile": 1.37,
+            "Smarty": 1.15,
             "JavaScript": 0.07
           },
           "languages_byte": {
-            "Go": 916077,
+            "Go": 978926,
             "Shell": 14863,
-            "Makefile": 13941,
-            "Smarty": 11648,
+            "Makefile": 13967,
+            "Smarty": 11703,
             "JavaScript": 685
           },
-          "stargazers_count": 1928,
-          "forks_count": 187,
-          "open_issues_count": 17,
-          "forks": 187,
-          "open_issues": 17,
-          "watchers": 1928,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 1946,
+          "forks_count": 190,
+          "open_issues_count": 21,
+          "forks": 190,
+          "open_issues": 21,
+          "watchers": 1946,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5806,8 +5810,8 @@
           "full_name": "Mte90/espanso-typofixer",
           "html_url": "https://github.com/Mte90/espanso-typofixer",
           "created_at": "2022-11-22T12:03:00Z",
-          "updated_at": "2025-09-09T13:24:07Z",
-          "pushed_at": "2025-09-09T13:24:04Z",
+          "updated_at": "2025-10-06T08:00:30Z",
+          "pushed_at": "2025-10-06T08:00:27Z",
           "archived": false,
           "disabled": false,
           "owner": "Mte90",
@@ -5829,9 +5833,9 @@
           "forks": 2,
           "open_issues": 1,
           "watchers": 11,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5854,13 +5858,14 @@
           "full_name": "fastify/fastify",
           "html_url": "https://github.com/fastify/fastify",
           "created_at": "2016-09-28T19:10:14Z",
-          "updated_at": "2025-09-15T09:02:17Z",
-          "pushed_at": "2025-09-09T21:34:32Z",
+          "updated_at": "2025-10-13T05:25:07Z",
+          "pushed_at": "2025-10-12T22:03:16Z",
           "archived": false,
           "disabled": false,
           "owner": "fastify",
           "owner_type": "Organization",
           "topics": [
+            "hacktoberfest",
             "nodejs",
             "performance",
             "speed",
@@ -5871,24 +5876,24 @@
         "analytics": {
           "language": "JavaScript",
           "languages": {
-            "JavaScript": 91.24,
-            "TypeScript": 8.71,
+            "JavaScript": 91.27,
+            "TypeScript": 8.68,
             "Shell": 0.05
           },
           "languages_byte": {
-            "JavaScript": 1675515,
-            "TypeScript": 160014,
+            "JavaScript": 1685978,
+            "TypeScript": 160388,
             "Shell": 911
           },
-          "stargazers_count": 34535,
-          "forks_count": 2477,
-          "open_issues_count": 123,
-          "forks": 2477,
-          "open_issues": 123,
-          "watchers": 34535,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 34765,
+          "forks_count": 2502,
+          "open_issues_count": 117,
+          "forks": 2502,
+          "open_issues": 117,
+          "watchers": 34765,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5911,9 +5916,9 @@
           "full_name": "marco-ippolito/fiume",
           "html_url": "https://github.com/marco-ippolito/fiume",
           "created_at": "2023-11-11T11:34:01Z",
-          "updated_at": "2025-09-08T11:50:25Z",
-          "pushed_at": "2025-09-08T11:50:23Z",
-          "archived": false,
+          "updated_at": "2025-10-07T12:17:54Z",
+          "pushed_at": "2025-10-06T13:00:48Z",
+          "archived": true,
           "disabled": false,
           "owner": "marco-ippolito",
           "owner_type": "User",
@@ -5937,15 +5942,15 @@
             "TypeScript": 18006,
             "Shell": 179
           },
-          "stargazers_count": 75,
+          "stargazers_count": 76,
           "forks_count": 6,
-          "open_issues_count": 1,
+          "open_issues_count": 5,
           "forks": 6,
-          "open_issues": 1,
-          "watchers": 75,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "open_issues": 5,
+          "watchers": 76,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -5975,8 +5980,8 @@
           "full_name": "clastix/kamaji",
           "html_url": "https://github.com/clastix/kamaji",
           "created_at": "2021-12-16T14:35:38Z",
-          "updated_at": "2025-09-12T09:34:27Z",
-          "pushed_at": "2025-09-15T07:22:25Z",
+          "updated_at": "2025-10-12T19:46:44Z",
+          "pushed_at": "2025-10-13T07:22:40Z",
           "archived": false,
           "disabled": false,
           "owner": "clastix",
@@ -6005,24 +6010,24 @@
         "analytics": {
           "language": "Go",
           "languages": {
-            "Go": 95.79,
-            "Makefile": 3.54,
-            "Smarty": 0.67
+            "Go": 95.93,
+            "Makefile": 3.39,
+            "Smarty": 0.68
           },
           "languages_byte": {
-            "Go": 605668,
-            "Makefile": 22392,
-            "Smarty": 4240
+            "Go": 643463,
+            "Makefile": 22712,
+            "Smarty": 4574
           },
-          "stargazers_count": 1636,
-          "forks_count": 156,
-          "open_issues_count": 12,
-          "forks": 156,
-          "open_issues": 12,
-          "watchers": 1636,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 1696,
+          "forks_count": 159,
+          "open_issues_count": 16,
+          "forks": 159,
+          "open_issues": 16,
+          "watchers": 1696,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6049,8 +6054,8 @@
           "full_name": "kube-green/kube-green",
           "html_url": "https://github.com/kube-green/kube-green",
           "created_at": "2021-02-21T17:50:33Z",
-          "updated_at": "2025-09-14T20:20:04Z",
-          "pushed_at": "2025-09-11T07:04:26Z",
+          "updated_at": "2025-10-13T04:51:33Z",
+          "pushed_at": "2025-10-13T07:09:14Z",
           "archived": false,
           "disabled": false,
           "owner": "kube-green",
@@ -6083,15 +6088,15 @@
             "Smarty": 3141,
             "Dockerfile": 1414
           },
-          "stargazers_count": 1219,
-          "forks_count": 84,
-          "open_issues_count": 34,
-          "forks": 84,
-          "open_issues": 34,
-          "watchers": 1219,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 1233,
+          "forks_count": 86,
+          "open_issues_count": 37,
+          "forks": 86,
+          "open_issues": 37,
+          "watchers": 1233,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6115,8 +6120,8 @@
           "full_name": "micro-lc/micro-lc",
           "html_url": "https://github.com/micro-lc/micro-lc",
           "created_at": "2021-03-10T17:24:57Z",
-          "updated_at": "2025-08-18T14:44:40Z",
-          "pushed_at": "2025-02-26T14:13:29Z",
+          "updated_at": "2025-10-10T08:13:27Z",
+          "pushed_at": "2025-10-02T14:19:57Z",
           "archived": false,
           "disabled": false,
           "owner": "micro-lc",
@@ -6153,15 +6158,15 @@
             "Shell": 1449,
             "Dockerfile": 1431
           },
-          "stargazers_count": 221,
+          "stargazers_count": 223,
           "forks_count": 9,
           "open_issues_count": 15,
           "forks": 9,
           "open_issues": 15,
-          "watchers": 221,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 223,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6186,7 +6191,7 @@
           "html_url": "https://github.com/primait/nuvola",
           "created_at": "2021-11-09T13:29:01Z",
           "updated_at": "2025-05-04T00:17:32Z",
-          "pushed_at": "2025-09-02T06:22:39Z",
+          "pushed_at": "2025-10-01T12:16:03Z",
           "archived": false,
           "disabled": false,
           "owner": "primait",
@@ -6221,13 +6226,13 @@
           },
           "stargazers_count": 140,
           "forks_count": 19,
-          "open_issues_count": 4,
+          "open_issues_count": 6,
           "forks": 19,
-          "open_issues": 4,
+          "open_issues": 6,
           "watchers": 140,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6251,8 +6256,8 @@
           "full_name": "orchy-mfe/orchy-core",
           "html_url": "https://github.com/orchy-mfe/orchy-core",
           "created_at": "2022-08-06T12:45:18Z",
-          "updated_at": "2025-09-14T02:39:23Z",
-          "pushed_at": "2025-09-14T02:40:31Z",
+          "updated_at": "2025-10-11T21:01:47Z",
+          "pushed_at": "2025-10-11T21:03:25Z",
           "archived": false,
           "disabled": false,
           "owner": "orchy-mfe",
@@ -6286,9 +6291,9 @@
           "forks": 1,
           "open_issues": 8,
           "watchers": 20,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6313,8 +6318,8 @@
           "full_name": "alexandercerutti/passkit-generator",
           "html_url": "https://github.com/alexandercerutti/passkit-generator",
           "created_at": "2018-09-12T19:45:00Z",
-          "updated_at": "2025-09-14T15:54:31Z",
-          "pushed_at": "2025-09-03T20:34:46Z",
+          "updated_at": "2025-10-12T10:30:30Z",
+          "pushed_at": "2025-10-07T21:13:57Z",
           "archived": false,
           "disabled": false,
           "owner": "alexandercerutti",
@@ -6334,22 +6339,22 @@
         "analytics": {
           "language": "TypeScript",
           "languages": {
-            "TypeScript": 71.48,
-            "JavaScript": 28.52
+            "TypeScript": 77.66,
+            "JavaScript": 22.34
           },
           "languages_byte": {
-            "TypeScript": 89635,
-            "JavaScript": 35771
+            "TypeScript": 124430,
+            "JavaScript": 35802
           },
-          "stargazers_count": 1102,
-          "forks_count": 126,
-          "open_issues_count": 3,
-          "forks": 126,
-          "open_issues": 3,
-          "watchers": 1102,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "stargazers_count": 1122,
+          "forks_count": 128,
+          "open_issues_count": 4,
+          "forks": 128,
+          "open_issues": 4,
+          "watchers": 1122,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6373,7 +6378,7 @@
           "full_name": "claudiodangelis/qrcp",
           "html_url": "https://github.com/claudiodangelis/qrcp",
           "created_at": "2018-01-14T22:35:55Z",
-          "updated_at": "2025-09-15T06:56:20Z",
+          "updated_at": "2025-10-13T06:44:55Z",
           "pushed_at": "2025-09-09T03:06:30Z",
           "archived": false,
           "disabled": false,
@@ -6396,15 +6401,15 @@
           "languages_byte": {
             "Go": 301202
           },
-          "stargazers_count": 10330,
-          "forks_count": 543,
+          "stargazers_count": 10340,
+          "forks_count": 548,
           "open_issues_count": 8,
-          "forks": 543,
+          "forks": 548,
           "open_issues": 8,
-          "watchers": 10330,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "watchers": 10340,
+          "updated_at": "2025-10-13T08:22:06Z"
         },
-        "timestamp": "2025-09-15T09:20:04Z"
+        "timestamp": "2025-10-13T08:22:06Z"
       }
     },
     {
@@ -6422,7 +6427,7 @@
       "license": "MIT",
       "autogenerated": {
         "filename": "wise-print.json",
-        "timestamp": "2025-09-15T09:20:04Z",
+        "timestamp": "2025-10-13T08:22:06Z",
         "meta": {
           "name": "wise-print",
           "full_name": "dandpz/wise-print",
@@ -6451,13 +6456,13 @@
           "forks": 0,
           "open_issues": 0,
           "watchers": 0,
-          "updated_at": "2025-09-15T09:20:04Z"
+          "updated_at": "2025-10-13T08:22:06Z"
         }
       }
     }
   ],
   "metadata": {
     "total": 102,
-    "update_at": "2025-09-15T09:20:04Z"
+    "update_at": "2025-10-13T08:22:06Z"
   }
 }

@@ -18,7 +18,7 @@
       "full_name": "everli/uppy",
       "html_url": "https://github.com/everli/uppy",
       "created_at": "2021-03-30T14:38:41Z",
-      "updated_at": "2023-12-12T11:14:57Z",
+      "updated_at": "2025-09-20T14:07:51Z",
       "pushed_at": "2023-11-10T16:18:01Z",
       "archived": false,
       "disabled": false,
@@ -53,14 +53,14 @@
         "Shell": 1538,
         "SCSS": 853
       },
-      "stargazers_count": 12,
+      "stargazers_count": 11,
       "forks_count": 0,
       "open_issues_count": 10,
       "forks": 0,
       "open_issues": 10,
-      "watchers": 12,
-      "updated_at": "2025-09-15T09:20:04Z"
+      "watchers": 11,
+      "updated_at": "2025-10-13T08:22:06Z"
     },
-    "timestamp": "2025-09-15T09:20:04Z"
+    "timestamp": "2025-10-13T08:22:06Z"
   }
 }

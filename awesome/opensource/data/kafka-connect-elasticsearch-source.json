@@ -19,7 +19,7 @@
       "full_name": "DarioBalinzo/kafka-connect-elasticsearch-source",
       "html_url": "https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source",
       "created_at": "2018-05-13T14:38:09Z",
-      "updated_at": "2025-06-08T07:03:16Z",
+      "updated_at": "2025-10-09T06:05:15Z",
       "pushed_at": "2024-08-20T05:32:31Z",
       "archived": false,
       "disabled": false,
@@ -43,14 +43,14 @@
       "languages_byte": {
         "Java": 160125
       },
-      "stargazers_count": 68,
+      "stargazers_count": 69,
       "forks_count": 40,
       "open_issues_count": 33,
       "forks": 40,
       "open_issues": 33,
-      "watchers": 68,
-      "updated_at": "2025-09-15T09:20:04Z"
+      "watchers": 69,
+      "updated_at": "2025-10-13T08:22:06Z"
     },
-    "timestamp": "2025-09-15T09:20:04Z"
+    "timestamp": "2025-10-13T08:22:06Z"
   }
 }

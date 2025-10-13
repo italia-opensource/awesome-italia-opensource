@@ -18,8 +18,8 @@
       "full_name": "getevo/evo",
       "html_url": "https://github.com/getevo/evo",
       "created_at": "2020-06-05T14:42:13Z",
-      "updated_at": "2025-08-03T10:01:01Z",
-      "pushed_at": "2025-08-03T10:00:57Z",
+      "updated_at": "2025-09-20T22:22:23Z",
+      "pushed_at": "2025-10-03T07:51:42Z",
       "archived": false,
       "disabled": false,
       "owner": "getevo",
@@ -45,7 +45,7 @@
         "Dockerfile": 0.07
       },
       "languages_byte": {
-        "Go": 677902,
+        "Go": 678406,
         "Dockerfile": 470
       },
       "stargazers_count": 34,
@@ -54,8 +54,8 @@
       "forks": 8,
       "open_issues": 13,
       "watchers": 34,
-      "updated_at": "2025-09-15T09:20:04Z"
+      "updated_at": "2025-10-13T08:22:06Z"
     },
-    "timestamp": "2025-09-15T09:20:04Z"
+    "timestamp": "2025-10-13T08:22:06Z"
   }
 }
