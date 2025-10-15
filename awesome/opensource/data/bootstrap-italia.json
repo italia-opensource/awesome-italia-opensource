@@ -19,7 +19,7 @@
       "html_url": "https://github.com/italia/bootstrap-italia",
       "created_at": "2017-09-26T13:46:26Z",
       "updated_at": "2025-10-05T07:48:59Z",
-      "pushed_at": "2025-10-11T16:24:42Z",
+      "pushed_at": "2025-10-15T08:38:48Z",
       "archived": false,
       "disabled": false,
       "owner": "italia",
@@ -58,13 +58,13 @@
         "Shell": 136
       },
       "stargazers_count": 336,
-      "forks_count": 167,
-      "open_issues_count": 121,
-      "forks": 167,
-      "open_issues": 121,
+      "forks_count": 168,
+      "open_issues_count": 124,
+      "forks": 168,
+      "open_issues": 124,
       "watchers": 336,
-      "updated_at": "2025-10-13T08:22:06Z"
+      "updated_at": "2025-10-15T09:19:10Z"
     },
-    "timestamp": "2025-10-13T08:22:06Z"
+    "timestamp": "2025-10-15T09:19:10Z"
   }
 }

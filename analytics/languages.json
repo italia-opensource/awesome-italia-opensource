@@ -53,21 +53,21 @@
     },
     "percentage": [
       {
-        "Go": 9.35,
+        "Go": 9.34,
         "Shell": 0.69,
-        "JavaScript": 8.1,
-        "Java": 2.87,
+        "JavaScript": 8.12,
+        "Java": 2.86,
         "C#": 1.69,
-        "Python": 17.25,
+        "Python": 17.28,
         "TypeScript": 14.53,
         "Batchfile": 0.01,
-        "HTML": 0.88,
+        "HTML": 0.89,
         "CSS": 0.32,
         "Vue": 0.27,
         "SCSS": 0.79,
         "Dockerfile": 0.04,
         "Perl": 0.58,
-        "C": 9.98,
+        "C": 9.97,
         "C++": 3.89,
         "CMake": 0.05,
         "XSLT": 0.11,
@@ -75,9 +75,9 @@
         "Makefile": 0.24,
         "Ruby": 0.84,
         "MDX": 0.38,
-        "PHP": 3.27,
+        "PHP": 3.26,
         "Blade": 0.02,
-        "Rust": 7.68,
+        "Rust": 7.67,
         "Jupyter Notebook": 2.15,
         "Handlebars": 0.03,
         "PLpgSQL": 0.01,
@@ -95,7 +95,7 @@
         "Swift": 0.28,
         "Procfile": 0.0,
         "Fluent": 0.01,
-        "Lua": 9.76,
+        "Lua": 9.75,
         "Raku": 0.33,
         "Starlark": 0.11,
         "Linker Script": 0.0,
@@ -635,6 +635,6 @@
   },
   "metadata": {
     "total": 49,
-    "update_at": "2025-10-13T08:22:06Z"
+    "update_at": "2025-10-15T09:19:10Z"
   }
 }
