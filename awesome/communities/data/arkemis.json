@@ -1,0 +1,13 @@
+{
+    "name": "Arkemis",
+    "url": "https://discord.gg/zAjmZYHXp7",
+    "type": "Channel",
+    "platform": "Discord",
+    "description": "Diamo forma a un ecosistema open che unisce tecnologia, formazione e community per abilitare la nuova generazione di sviluppatori e team digitali a costruire con qualità, velocità e consapevolezza.",
+    "tags": ["developers", "talks", "networking", "tech"],
+    "events_type": [
+      "Chat",
+      "Meetup",
+      "Hackathon"
+    ]
+  }
