@@ -1,6 +1,6 @@
 # 👥 Awesome Tech Communities In Italy | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-38-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-39-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -22,6 +22,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 
 | Name                                                                                                    | Type       | Platform | Tags                                                                                                                            | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Arkemis](https://italiaopensource.com/communities/arkemis)                                             | Channel    | Discord  | developers, talks, networking, tech                                                                                             | Diamo forma a un ecosistema open che unisce tecnologia, form [..] |
 | [Cloud Native Days Italy](https://italiaopensource.com/communities/cloud-native-days-italy)             | Event      | Location | dev, talk, networking, tech, CloudNative, Kubernetes, DevOps, opensource                                                        | Cloud Native Days (CNS) Italy is a local, community-organize [..] |
 | [Codemotion](https://italiaopensource.com/communities/codemotion)                                       | Event      | Location | dev, talks, networking, tech                                                                                                    | We are the leading platform that supports tech professionals [..] |
 | [Continuous Delivery](https://italiaopensource.com/communities/continuous-delivery)                     | Channel    | Youtube  | coding, tech, cloud native, open source, developers                                                                             | Un podcast in cui chiacchieriamo di sviluppo software, open [..]  |

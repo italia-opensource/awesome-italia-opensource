@@ -20,7 +20,7 @@
       "full_name": "Schroedinger-Hat/youtube-to-spotify",
       "html_url": "https://github.com/Schroedinger-Hat/youtube-to-spotify",
       "created_at": "2020-08-27T23:08:21Z",
-      "updated_at": "2025-10-12T18:08:16Z",
+      "updated_at": "2025-10-16T09:50:08Z",
       "pushed_at": "2025-06-18T09:58:14Z",
       "archived": false,
       "disabled": false,
@@ -56,14 +56,14 @@
         "Dockerfile": 1459,
         "Shell": 24
       },
-      "stargazers_count": 146,
+      "stargazers_count": 145,
       "forks_count": 78,
       "open_issues_count": 9,
       "forks": 78,
       "open_issues": 9,
-      "watchers": 146,
-      "updated_at": "2025-10-15T09:19:10Z"
+      "watchers": 145,
+      "updated_at": "2025-10-20T14:40:20Z"
     },
-    "timestamp": "2025-10-15T09:19:10Z"
+    "timestamp": "2025-10-20T14:40:20Z"
   }
 }

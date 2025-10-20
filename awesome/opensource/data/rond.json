@@ -17,8 +17,8 @@
       "full_name": "rond-authz/rond",
       "html_url": "https://github.com/rond-authz/rond",
       "created_at": "2022-06-03T10:03:42Z",
-      "updated_at": "2025-10-15T08:03:52Z",
-      "pushed_at": "2025-10-15T08:03:49Z",
+      "updated_at": "2025-10-19T22:10:23Z",
+      "pushed_at": "2025-10-16T19:51:21Z",
       "archived": false,
       "disabled": false,
       "owner": "rond-authz",
@@ -46,14 +46,14 @@
         "Makefile": 1095,
         "Dockerfile": 869
       },
-      "stargazers_count": 163,
-      "forks_count": 8,
+      "stargazers_count": 161,
+      "forks_count": 9,
       "open_issues_count": 31,
-      "forks": 8,
+      "forks": 9,
       "open_issues": 31,
-      "watchers": 163,
-      "updated_at": "2025-10-15T09:19:10Z"
+      "watchers": 161,
+      "updated_at": "2025-10-20T14:40:20Z"
     },
-    "timestamp": "2025-10-15T09:19:10Z"
+    "timestamp": "2025-10-20T14:40:20Z"
   }
 }
