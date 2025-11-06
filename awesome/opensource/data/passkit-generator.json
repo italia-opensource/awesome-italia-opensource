@@ -20,8 +20,8 @@
       "full_name": "alexandercerutti/passkit-generator",
       "html_url": "https://github.com/alexandercerutti/passkit-generator",
       "created_at": "2018-09-12T19:45:00Z",
-      "updated_at": "2025-10-19T06:28:57Z",
-      "pushed_at": "2025-10-15T21:55:44Z",
+      "updated_at": "2025-11-05T02:58:58Z",
+      "pushed_at": "2025-10-31T17:39:28Z",
       "archived": false,
       "disabled": false,
       "owner": "alexandercerutti",
@@ -41,21 +41,21 @@
     "analytics": {
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 77.71,
-        "JavaScript": 22.29
+        "TypeScript": 78.06,
+        "JavaScript": 21.94
       },
       "languages_byte": {
-        "TypeScript": 124810,
+        "TypeScript": 127383,
         "JavaScript": 35802
       },
-      "stargazers_count": 1125,
+      "stargazers_count": 1133,
       "forks_count": 130,
       "open_issues_count": 3,
       "forks": 130,
       "open_issues": 3,
-      "watchers": 1125,
-      "updated_at": "2025-10-20T14:40:20Z"
+      "watchers": 1133,
+      "updated_at": "2025-11-06T22:56:38Z"
     },
-    "timestamp": "2025-10-20T14:40:20Z"
+    "timestamp": "2025-11-06T22:56:38Z"
   }
 }
