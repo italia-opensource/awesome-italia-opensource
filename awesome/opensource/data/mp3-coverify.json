@@ -1,0 +1,18 @@
+{
+  "name": "mp3-coverify",
+  "type": "tool",
+  "tags": [
+    "mp3",
+    "metadata",
+    "cover",
+    "music",
+    "automation",
+    "nodejs",
+    "cli"
+  ],
+  "description": "A Node.js tool to automatically fetch, clean and apply accurate cover art to MP3 files using multiple music metadata sources (iTunes, Deezer, Spotify, Last.fm, Discogs, MusicBrainz).",
+  "site_url": null,
+  "repository_platform": "github",
+  "repository_url": "https://github.com/lorenzoceglia/mp3-coverify",
+  "license": "MIT"
+}
