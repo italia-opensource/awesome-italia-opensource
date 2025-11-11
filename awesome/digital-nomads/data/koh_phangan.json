@@ -6,8 +6,8 @@
   "daily_average_cost": 30,
   "description": "Koh Phangan is an island of Thailand in the Gulf od Thailand. The nature is very wild and incontaminated, beautiful beaches, lush jungles, and famous Full Moon Parties.",
   "tags": ["nature", "party", "jungle", "snorkling", "trekking", "sea"],
-  "how_to_arrive": ["Ferry", "Boat"],
-  "how_to_move": ["Bike", "Taxi", "Boat"],
+  "how_to_arrive": ["Airplane"],
+  "how_to_move": ["Bike", "Taxi"],
   "resources": [
     "https://localnomads.com/digital-nomad-guide/koh-phangan-thailand/"
   ],
