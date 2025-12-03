@@ -1,0 +1,18 @@
+{
+  "name": "Sossoldi",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/RIP-Comm/sossoldi",
+  "site_url": "https://sossoldi.com",
+  "type": "app",
+  "description": "Sossoldi is a free and open source wealth management / personal finance / Net Worth tracking app, made with Flutter.",
+  "license": "MIT",
+  "tags": [
+    "flutter",
+    "dart",
+    "finance",
+    "mobile",
+    "android",
+    "ios",
+    "investments"
+  ]
+}
