@@ -18,8 +18,8 @@
       "full_name": "Tiledesk/tiledesk",
       "html_url": "https://github.com/Tiledesk/tiledesk",
       "created_at": "2020-07-10T10:20:23Z",
-      "updated_at": "2025-10-14T09:58:00Z",
-      "pushed_at": "2025-10-14T09:57:57Z",
+      "updated_at": "2025-11-29T00:58:59Z",
+      "pushed_at": "2025-11-19T11:28:02Z",
       "archived": false,
       "disabled": false,
       "owner": "Tiledesk",
@@ -52,14 +52,14 @@
         "Mustache": 1830,
         "Shell": 324
       },
-      "stargazers_count": 252,
-      "forks_count": 90,
-      "open_issues_count": 27,
-      "forks": 90,
-      "open_issues": 27,
-      "watchers": 252,
-      "updated_at": "2025-10-20T14:40:20Z"
+      "stargazers_count": 259,
+      "forks_count": 92,
+      "open_issues_count": 26,
+      "forks": 92,
+      "open_issues": 26,
+      "watchers": 259,
+      "updated_at": "2025-12-03T08:24:08Z"
     },
-    "timestamp": "2025-10-20T14:40:20Z"
+    "timestamp": "2025-12-03T08:24:08Z"
   }
 }

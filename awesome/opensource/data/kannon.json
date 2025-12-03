@@ -18,8 +18,8 @@
       "full_name": "kannon-email/kannon",
       "html_url": "https://github.com/kannon-email/kannon",
       "created_at": "2021-01-03T09:01:56Z",
-      "updated_at": "2025-09-20T14:48:56Z",
-      "pushed_at": "2025-10-20T13:44:18Z",
+      "updated_at": "2025-11-14T21:41:35Z",
+      "pushed_at": "2025-11-12T13:07:16Z",
       "archived": false,
       "disabled": false,
       "owner": "kannon-email",
@@ -35,23 +35,23 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 99.62,
-        "Makefile": 0.19,
-        "Dockerfile": 0.19
+        "Go": 99.65,
+        "Makefile": 0.18,
+        "Dockerfile": 0.17
       },
       "languages_byte": {
-        "Go": 181812,
+        "Go": 198914,
         "Makefile": 353,
         "Dockerfile": 347
       },
-      "stargazers_count": 72,
-      "forks_count": 12,
-      "open_issues_count": 9,
-      "forks": 12,
-      "open_issues": 9,
-      "watchers": 72,
-      "updated_at": "2025-10-20T14:40:20Z"
+      "stargazers_count": 73,
+      "forks_count": 13,
+      "open_issues_count": 8,
+      "forks": 13,
+      "open_issues": 8,
+      "watchers": 73,
+      "updated_at": "2025-12-03T08:24:08Z"
     },
-    "timestamp": "2025-10-20T14:40:20Z"
+    "timestamp": "2025-12-03T08:24:08Z"
   }
 }

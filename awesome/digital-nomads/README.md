@@ -1,6 +1,6 @@
 # 🌍 Awesome Digital Nomads Destinations | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-33-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-34-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Digital Nomads is a list of best places for remote working.
 
@@ -41,6 +41,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [Hong Kong](https://italiaopensource.com/digital-nomads/hong-kong)                       | HONG KONG   | Walk, Taxi, Other                              | Passport, Visa     | nature, temples, mountain, visit, dancing, surfing, trekking               |
 | [Hua Hin](https://italiaopensource.com/digital-nomads/hua-hin)                           | THAILAND    | Walk, Taxi, Other                              | Passport, Visa     | nature, temples, mountain, visit, trekking                                 |
 | [Istanbul](https://italiaopensource.com/digital-nomads/istanbul)                         | TÜRKIYE     | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, river, bridge, temple                                              |
+| [Koh Phangan](https://italiaopensource.com/digital-nomads/koh-phangan)                   | THAILAND    | Bike, Taxi                                     | Passport, Visa     | nature, party, jungle, snorkeling, trekking, sea                           |
 | [Koh Samui](https://italiaopensource.com/digital-nomads/koh-samui)                       | THAILAND    | Walk, Taxi, Other                              | Passport, Visa     | nature, temples, mountain, visit, dancing, trekking, sea                   |
 | [Kuala Lumpur](https://italiaopensource.com/digital-nomads/kuala-lumpur)                 | MALAYSIA    | Walk, Taxi, Public transports                  | Passport           | temple, skyline, nightlife, tower, food                                    |
 | [Latina](https://italiaopensource.com/digital-nomads/latina)                             | ITALY       | Bike, Walk, Taxi, Public transports            | Passport, CI       | nature, temple, river, mountain, museums                                   |

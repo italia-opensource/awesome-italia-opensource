@@ -20,7 +20,7 @@
       "full_name": "ArgonLang/Argon",
       "html_url": "https://github.com/ArgonLang/Argon",
       "created_at": "2019-10-10T13:22:47Z",
-      "updated_at": "2025-10-12T12:12:23Z",
+      "updated_at": "2025-12-02T14:24:55Z",
       "pushed_at": "2024-09-12T14:09:10Z",
       "archived": false,
       "disabled": false,
@@ -50,14 +50,14 @@
         "CMake": 9204,
         "C": 1347
       },
-      "stargazers_count": 56,
+      "stargazers_count": 58,
       "forks_count": 2,
-      "open_issues_count": 1,
+      "open_issues_count": 3,
       "forks": 2,
-      "open_issues": 1,
-      "watchers": 56,
-      "updated_at": "2025-10-20T14:40:20Z"
+      "open_issues": 3,
+      "watchers": 58,
+      "updated_at": "2025-12-03T08:24:08Z"
     },
-    "timestamp": "2025-10-20T14:40:20Z"
+    "timestamp": "2025-12-03T08:24:08Z"
   }
 }
