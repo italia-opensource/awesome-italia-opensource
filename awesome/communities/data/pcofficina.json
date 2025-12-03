@@ -1,12 +1,8 @@
 {
     "name": "Associazione PCOfficina",
     "url": "https://pcofficina.org/",
-    "type": [
-      "Event"
-    ],
-    "platform": [
-      "Location"
-    ],
+  "type": "Event",
+  "platform": "Location",
     "description": "L'Associazione PCOfficina, fondata nel 2011, si ritrova settimanalmente a Milano ed è dedita alla condivisione di saperi informatici, alla nobile arte del trashware e al software libero.",
     "tags": [
        "hardware", "opensource", "trashware", "talks", "networking", "tech", "linux"
