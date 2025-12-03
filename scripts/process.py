@@ -20,6 +20,9 @@ _TIMESTAMP = str(_TIMESTAMP_OBJ.isoformat()[:-13] + "Z")
 _ANALYTICS_DIR = f"{_BASEDIR}/analytics"
 _TYPE = ["opensource", "digital-nomads", "communities", "startups"]
 
+HTTP_STATUS_OK = 200
+HTTP_STATUS_NOT_FOUND = 404
+
 
 def get_database_analytitcs(filename: str, with_error: bool = False):
     filename = f"{_ANALYTICS_DIR}/{filename}.json"
@@ -64,7 +67,7 @@ def github_get_repo_languages(owner: str, repo: str, token: str):
     :param token: The GitHub token to use for authentication
     :param languages_all_projects: A dictionary with the languages of all the projects
 
-    :return: A dictionary of languages and bytes of code
+    :return: A dictionary of languages and bytes of code, or None if repository not found
     """
 
     print(f"Getting repo languages for {owner}/{repo}")
@@ -76,18 +79,26 @@ def github_get_repo_languages(owner: str, repo: str, token: str):
         "User-Agent": "Mozilla/5.0",
         "Authorization": f"Bearer {token}",
     }
-    languages = {}
     response = urllib3.request("GET", url, headers=headers)
+
+    # Check if repository exists (404 means not found)
+    if response.status == HTTP_STATUS_NOT_FOUND:
+        print(f"Repository {owner}/{repo} not found (404). Skipping...")
+        return None
+
+    if response.status != HTTP_STATUS_OK:
+        print(
+            f"Error fetching languages for {owner}/{repo}: HTTP {response.status}. Skipping..."
+        )
+        return None
+
     try:
         data = response.data.decode("utf-8")
-        try:
-            languages = json.loads(data)
-        except json.JSONDecodeError as e:
-            raise e
-    except urllib3.exceptions.HTTPError as e:
-        raise e
-
-    return languages
+        languages = json.loads(data)
+        return languages
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON for languages {owner}/{repo}: {e}. Skipping...")
+        return None
 
 
 def github_get_repo_metadata(owner: str, repo: str, token: str, languages: dict):
@@ -240,44 +251,53 @@ def github_get_repo_metadata(owner: str, repo: str, token: str, languages: dict)
         "Authorization": f"Bearer {token}",
     }
 
-    reqsponse = urllib3.request("GET", url, headers=headers)
+    response = urllib3.request("GET", url, headers=headers)
+
+    # Check if repository exists (404 means not found)
+    if response.status == HTTP_STATUS_NOT_FOUND:
+        print(f"Repository {owner}/{repo} not found (404). Skipping...")
+        return None
+
+    if response.status != HTTP_STATUS_OK:
+        print(f"Error fetching {owner}/{repo}: HTTP {response.status}. Skipping...")
+        return None
+
     try:
-        try:
-            metadata = json.loads(reqsponse.data)
-            return {
-                "meta": {
-                    "name": metadata["name"],
-                    "full_name": metadata["full_name"],
-                    "html_url": metadata["html_url"],
-                    "created_at": metadata["created_at"],
-                    "updated_at": metadata["updated_at"],
-                    "pushed_at": metadata["pushed_at"],
-                    "archived": metadata["archived"],
-                    "disabled": metadata["disabled"],
-                    "owner": metadata["owner"]["login"],
-                    "owner_type": metadata["owner"]["type"],
-                    "topics": metadata["topics"] if metadata["topics"] else [],
-                    "license": metadata["license"]["name"]
-                    if metadata["license"]
-                    else "",
-                },
-                "analytics": {
-                    "language": metadata["language"],
-                    "languages": github_convert_to_percentage(languages),
-                    "languages_byte": languages,
-                    "stargazers_count": metadata["stargazers_count"],
-                    "forks_count": metadata["forks_count"],
-                    "open_issues_count": metadata["open_issues_count"],
-                    "forks": metadata["forks"],
-                    "open_issues": metadata["open_issues"],
-                    "watchers": metadata["watchers"],
-                    "updated_at": _TIMESTAMP,
-                },
-            }
-        except json.JSONDecodeError as e:
-            raise e
-    except urllib3.exceptions.HTTPError as e:
-        raise e
+        metadata = json.loads(response.data)
+        return {
+            "meta": {
+                "name": metadata["name"],
+                "full_name": metadata["full_name"],
+                "html_url": metadata["html_url"],
+                "created_at": metadata["created_at"],
+                "updated_at": metadata["updated_at"],
+                "pushed_at": metadata["pushed_at"],
+                "archived": metadata["archived"],
+                "disabled": metadata["disabled"],
+                "owner": metadata["owner"]["login"],
+                "owner_type": metadata["owner"]["type"],
+                "topics": metadata["topics"] if metadata["topics"] else [],
+                "license": metadata["license"]["name"] if metadata["license"] else "",
+            },
+            "analytics": {
+                "language": metadata["language"],
+                "languages": github_convert_to_percentage(languages),
+                "languages_byte": languages,
+                "stargazers_count": metadata["stargazers_count"],
+                "forks_count": metadata["forks_count"],
+                "open_issues_count": metadata["open_issues_count"],
+                "forks": metadata["forks"],
+                "open_issues": metadata["open_issues"],
+                "watchers": metadata["watchers"],
+                "updated_at": _TIMESTAMP,
+            },
+        }
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON for {owner}/{repo}: {e}. Skipping...")
+        return None
+    except KeyError as e:
+        print(f"Missing key in metadata for {owner}/{repo}: {e}. Skipping...")
+        return None
 
 
 def render_db_languages():
@@ -332,9 +352,17 @@ def process_analytics_github(idx, repo_object):
         owner, name, os.environ["TOKEN_GITHUB_PUBLIC_API"]
     )
 
+    if languages is None:
+        print(f"Skipping {owner}/{name} due to error fetching languages")
+        return False
+
     metadata = github_get_repo_metadata(
         owner, name, os.environ["TOKEN_GITHUB_PUBLIC_API"], languages
     )
+
+    if metadata is None:
+        print(f"Skipping {owner}/{name} due to error fetching metadata")
+        return False
 
     autogenerated = repo_object.get("autogenerated", {})
     autogenerated["meta"] = metadata.get("meta", {})
@@ -343,6 +371,8 @@ def process_analytics_github(idx, repo_object):
     rand_delay = randint(1, 5)
     print(f"Sleeping for {rand_delay} seconds")
     sleep(rand_delay)
+
+    return True
 
 
 def process_analytics_gitlab(idx, repo_object):
@@ -389,17 +419,20 @@ def process_analytics_opensource(
         ):
             continue
 
+        success = True
         if repo_object["repository_platform"] == "gitlab":
             process_analytics_gitlab(idx, repo_object)
 
         if repo_object["repository_platform"] == "github":
-            process_analytics_github(idx, repo_object)
+            success = process_analytics_github(idx, repo_object)
 
-        with open(
-            f"{get_awesome_list_filepath('opensource')}/{repo_object['autogenerated']['filename']}",
-            "w",
-        ) as f:
-            json.dump(repo_object, f, indent=2)
+        # Only save if analytics were successfully fetched
+        if success:
+            with open(
+                f"{get_awesome_list_filepath('opensource')}/{repo_object['autogenerated']['filename']}",
+                "w",
+            ) as f:
+                json.dump(repo_object, f, indent=2)
 
     process_analytics_languages(db_opensources)
 
