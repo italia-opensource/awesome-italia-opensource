@@ -1,0 +1,21 @@
+{
+  "name": "Theme Switcher",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/lc-2025/theme-switcher",
+  "site_url": "https://npmjs.com/package/@lc-2025/theme-switcher",
+  "type": "tool",
+  "description": "Theme Switcher is a stateful React component based on TailwindCSS and HeadlessUI agnostic library for Light and Dark theme management",
+  "license": "MIT",
+  "tags": [
+    "theme-switcher",
+    "dark-mode",
+    "light-mode",
+    "react-component",
+    "tailwindcss",
+    "headlessui",
+    "typescript",
+    "npm-package",
+    "ui-library",
+    "open-source"
+  ]
+}
