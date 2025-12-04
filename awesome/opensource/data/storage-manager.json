@@ -1,0 +1,21 @@
+{
+  "name": "Storage Manager",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/lc-2025/storage-manager",
+  "site_url": "https://npmjs.com/package/@lc-2025/storage-manager",
+  "type": "tool",
+  "description": "An out-of-the-box `Storage API` helper to manage storage actions",
+  "license": "MIT",
+  "tags": [
+    "localstorage",
+    "sessionstorage",
+    "web-storage",
+    "typescript",
+    "react-hook",
+    "storage-api",
+    "npm-package",
+    "client-side",
+    "open-source",
+    "javascript"
+  ]
+}
