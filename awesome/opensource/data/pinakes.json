@@ -1,0 +1,21 @@
+{
+  "name": "Pinakes",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/fabiodalez-dev/Pinakes",
+  "site_url": "https://github.com/fabiodalez-dev/Pinakes",
+  "type": "tool",
+  "description": "Modern Library Management System (ILS) with multilingual support, plugin architecture, ISBN scraping, Dewey classification, loan/reservation system, and Z39.50/SRU protocol support",
+  "license": "GPL-3.0",
+  "tags": [
+    "php",
+    "slim-framework",
+    "mysql",
+    "tailwindcss",
+    "library-management",
+    "ils",
+    "opac",
+    "multilingual",
+    "plugin-system",
+    "isbn-lookup"
+  ]
+}
