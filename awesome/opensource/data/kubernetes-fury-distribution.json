@@ -22,7 +22,7 @@
       "html_url": "https://github.com/sighupio/distribution",
       "created_at": "2020-01-23T16:23:02Z",
       "updated_at": "2025-11-06T17:11:59Z",
-      "pushed_at": "2025-11-25T08:58:08Z",
+      "pushed_at": "2025-12-05T18:06:10Z",
       "archived": false,
       "disabled": false,
       "owner": "sighupio",
@@ -51,12 +51,12 @@
       },
       "stargazers_count": 196,
       "forks_count": 15,
-      "open_issues_count": 21,
+      "open_issues_count": 22,
       "forks": 15,
-      "open_issues": 21,
+      "open_issues": 22,
       "watchers": 196,
-      "updated_at": "2025-12-03T08:24:08Z"
+      "updated_at": "2025-12-06T20:11:36Z"
     },
-    "timestamp": "2025-12-03T08:24:08Z"
+    "timestamp": "2025-12-06T20:11:36Z"
   }
 }
