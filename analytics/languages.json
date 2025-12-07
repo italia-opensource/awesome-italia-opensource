@@ -59,7 +59,7 @@
         "Java": 2.55,
         "C#": 1.5,
         "Python": 16.04,
-        "TypeScript": 12.05,
+        "TypeScript": 12.07,
         "Batchfile": 0.0,
         "HTML": 0.86,
         "CSS": 1.24,
@@ -74,7 +74,7 @@
         "Astro": 0.02,
         "Makefile": 0.21,
         "Ruby": 0.77,
-        "PHP": 6.42,
+        "PHP": 6.41,
         "Blade": 0.02,
         "Rust": 6.92,
         "Handlebars": 0.03,
@@ -104,7 +104,7 @@
         "Groovy": 0.08,
         "Nunjucks": 0.0,
         "Jupyter Notebook": 1.84,
-        "Tcl": 2.5,
+        "Tcl": 2.49,
         "Open Policy Agent": 0.02,
         "Dart": 0.61,
         "Scala": 0.12,
@@ -635,6 +635,6 @@
   },
   "metadata": {
     "total": 49,
-    "update_at": "2025-12-06T20:11:36Z"
+    "update_at": "2025-12-07T15:04:42Z"
   }
 }
