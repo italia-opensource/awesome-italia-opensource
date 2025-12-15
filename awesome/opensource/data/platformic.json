@@ -19,8 +19,8 @@
       "full_name": "platformatic/platformatic",
       "html_url": "https://github.com/platformatic/platformatic",
       "created_at": "2022-09-22T07:32:19Z",
-      "updated_at": "2025-12-06T18:10:51Z",
-      "pushed_at": "2025-12-07T02:50:57Z",
+      "updated_at": "2025-12-15T08:15:58Z",
+      "pushed_at": "2025-12-14T03:39:19Z",
       "archived": false,
       "disabled": false,
       "owner": "platformatic",
@@ -38,8 +38,8 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 98.33,
-        "TypeScript": 0.71,
+        "JavaScript": 98.35,
+        "TypeScript": 0.7,
         "HTML": 0.53,
         "CSS": 0.23,
         "Nunjucks": 0.11,
@@ -48,7 +48,7 @@
         "Astro": 0.0
       },
       "languages_byte": {
-        "JavaScript": 3824573,
+        "JavaScript": 3857619,
         "TypeScript": 27497,
         "HTML": 20803,
         "CSS": 8912,
@@ -57,14 +57,14 @@
         "Dockerfile": 1395,
         "Astro": 76
       },
-      "stargazers_count": 1823,
+      "stargazers_count": 1855,
       "forks_count": 184,
-      "open_issues_count": 209,
+      "open_issues_count": 211,
       "forks": 184,
-      "open_issues": 209,
-      "watchers": 1823,
-      "updated_at": "2025-12-07T15:04:42Z"
+      "open_issues": 211,
+      "watchers": 1855,
+      "updated_at": "2025-12-15T09:30:31Z"
     },
-    "timestamp": "2025-12-07T15:04:42Z"
+    "timestamp": "2025-12-15T09:30:31Z"
   }
 }

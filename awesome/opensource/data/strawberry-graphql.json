@@ -17,8 +17,8 @@
       "full_name": "strawberry-graphql/strawberry",
       "html_url": "https://github.com/strawberry-graphql/strawberry",
       "created_at": "2018-12-21T08:56:55Z",
-      "updated_at": "2025-12-07T02:50:27Z",
-      "pushed_at": "2025-12-03T23:23:59Z",
+      "updated_at": "2025-12-15T06:56:10Z",
+      "pushed_at": "2025-12-12T12:21:18Z",
       "archived": false,
       "disabled": false,
       "owner": "strawberry-graphql",
@@ -52,7 +52,7 @@
         "Shell": 0.0
       },
       "languages_byte": {
-        "Python": 2507335,
+        "Python": 2507341,
         "TypeScript": 28017,
         "HTML": 7387,
         "CSS": 4043,
@@ -60,14 +60,14 @@
         "Dockerfile": 522,
         "Shell": 74
       },
-      "stargazers_count": 4571,
-      "forks_count": 603,
-      "open_issues_count": 478,
-      "forks": 603,
-      "open_issues": 478,
-      "watchers": 4571,
-      "updated_at": "2025-12-07T15:04:42Z"
+      "stargazers_count": 4570,
+      "forks_count": 604,
+      "open_issues_count": 479,
+      "forks": 604,
+      "open_issues": 479,
+      "watchers": 4570,
+      "updated_at": "2025-12-15T09:30:31Z"
     },
-    "timestamp": "2025-12-07T15:04:42Z"
+    "timestamp": "2025-12-15T09:30:31Z"
   }
 }

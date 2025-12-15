@@ -17,7 +17,7 @@
       "full_name": "eciavatta/caronte",
       "html_url": "https://github.com/eciavatta/caronte",
       "created_at": "2020-04-01T12:23:02Z",
-      "updated_at": "2025-11-22T02:06:48Z",
+      "updated_at": "2025-12-12T03:04:12Z",
       "pushed_at": "2022-12-07T15:35:45Z",
       "archived": false,
       "disabled": false,
@@ -53,14 +53,14 @@
         "Dockerfile": 1127,
         "HTML": 671
       },
-      "stargazers_count": 632,
+      "stargazers_count": 633,
       "forks_count": 89,
       "open_issues_count": 23,
       "forks": 89,
       "open_issues": 23,
-      "watchers": 632,
-      "updated_at": "2025-12-07T15:04:42Z"
+      "watchers": 633,
+      "updated_at": "2025-12-15T09:30:31Z"
     },
-    "timestamp": "2025-12-07T15:04:42Z"
+    "timestamp": "2025-12-15T09:30:31Z"
   }
 }

@@ -16,8 +16,8 @@
       "full_name": "histolab/histolab",
       "html_url": "https://github.com/histolab/histolab",
       "created_at": "2020-05-09T07:38:51Z",
-      "updated_at": "2025-12-05T18:03:57Z",
-      "pushed_at": "2025-12-06T04:49:07Z",
+      "updated_at": "2025-12-11T16:58:17Z",
+      "pushed_at": "2025-12-08T18:36:49Z",
       "archived": false,
       "disabled": false,
       "owner": "histolab",
@@ -47,14 +47,14 @@
         "Python": 585140,
         "Makefile": 1263
       },
-      "stargazers_count": 427,
+      "stargazers_count": 428,
       "forks_count": 64,
       "open_issues_count": 41,
       "forks": 64,
       "open_issues": 41,
-      "watchers": 427,
-      "updated_at": "2025-12-07T15:04:42Z"
+      "watchers": 428,
+      "updated_at": "2025-12-15T09:30:31Z"
     },
-    "timestamp": "2025-12-07T15:04:42Z"
+    "timestamp": "2025-12-15T09:30:31Z"
   }
 }

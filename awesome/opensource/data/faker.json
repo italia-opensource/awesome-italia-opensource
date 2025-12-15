@@ -18,8 +18,8 @@
       "full_name": "joke2k/faker",
       "html_url": "https://github.com/joke2k/faker",
       "created_at": "2012-11-12T23:00:09Z",
-      "updated_at": "2025-12-07T06:33:29Z",
-      "pushed_at": "2025-11-24T14:08:18Z",
+      "updated_at": "2025-12-15T00:04:02Z",
+      "pushed_at": "2025-12-15T01:01:00Z",
       "archived": false,
       "disabled": false,
       "owner": "joke2k",
@@ -49,14 +49,14 @@
         "Makefile": 410,
         "Shell": 387
       },
-      "stargazers_count": 18951,
-      "forks_count": 2032,
-      "open_issues_count": 21,
-      "forks": 2032,
-      "open_issues": 21,
-      "watchers": 18951,
-      "updated_at": "2025-12-07T15:04:42Z"
+      "stargazers_count": 18970,
+      "forks_count": 2034,
+      "open_issues_count": 22,
+      "forks": 2034,
+      "open_issues": 22,
+      "watchers": 18970,
+      "updated_at": "2025-12-15T09:30:31Z"
     },
-    "timestamp": "2025-12-07T15:04:42Z"
+    "timestamp": "2025-12-15T09:30:31Z"
   }
 }
