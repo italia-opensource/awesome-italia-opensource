@@ -1,0 +1,20 @@
+{
+  "name": "Mosaico",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/mosaico-labs/mosaico",
+  "site_url": "https://mosaico.dev",
+  "type": "platform",
+  "description": "Mosaico is an open-source data platform for Robotics and Physical AI. It transforms raw sensor logs into structured, searchable datasets, allowing developers to quickly ingest, query, and manage massive amounts of multi-modal data for development and AI model training.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "robotics",
+    "data-platform",
+    "sensors",
+    "physical-ai",
+    "data",
+    "training",
+    "multi-modal",
+    "on-premise",
+    "cloud"
+  ]
+}
