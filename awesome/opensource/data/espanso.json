@@ -16,8 +16,8 @@
       "full_name": "espanso/espanso",
       "html_url": "https://github.com/espanso/espanso",
       "created_at": "2019-08-30T07:16:58Z",
-      "updated_at": "2025-12-15T05:43:47Z",
-      "pushed_at": "2025-12-14T00:18:43Z",
+      "updated_at": "2025-12-22T20:26:34Z",
+      "pushed_at": "2025-12-21T00:18:30Z",
       "archived": false,
       "disabled": false,
       "owner": "espanso",
@@ -38,7 +38,7 @@
       "language": "Rust",
       "languages": {
         "Rust": 54.99,
-        "C++": 41.8,
+        "C++": 41.79,
         "C": 1.25,
         "Objective-C++": 1.17,
         "PowerShell": 0.27,
@@ -50,9 +50,9 @@
         "Batchfile": 0.0
       },
       "languages_byte": {
-        "Rust": 1505885,
-        "C++": 1144607,
-        "C": 34243,
+        "Rust": 1506882,
+        "C++": 1145131,
+        "C": 34270,
         "Objective-C++": 32137,
         "PowerShell": 7371,
         "Shell": 4728,
@@ -62,14 +62,14 @@
         "AppleScript": 1117,
         "Batchfile": 23
       },
-      "stargazers_count": 12654,
-      "forks_count": 368,
-      "open_issues_count": 462,
-      "forks": 368,
-      "open_issues": 462,
-      "watchers": 12654,
-      "updated_at": "2025-12-15T09:30:31Z"
+      "stargazers_count": 12713,
+      "forks_count": 372,
+      "open_issues_count": 466,
+      "forks": 372,
+      "open_issues": 466,
+      "watchers": 12713,
+      "updated_at": "2025-12-22T21:49:05Z"
     },
-    "timestamp": "2025-12-15T09:30:31Z"
+    "timestamp": "2025-12-22T21:49:05Z"
   }
 }
