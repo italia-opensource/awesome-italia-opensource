@@ -1,0 +1,12 @@
+{
+  "name": "Neuron AI",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/neuron-core/neuron-ai",
+  "site_url": "https://www.neuron-ai.dev",
+  "type": "framework",
+  "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's best suited for building RAG, multi-agent workflows, or business process automations.",
+  "license": "MIT",
+  "tags": [
+    "ai", "agent", "php", "agentic-frameowrk", "llm"
+  ]
+}
