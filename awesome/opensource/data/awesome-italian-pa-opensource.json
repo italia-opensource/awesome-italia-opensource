@@ -1,0 +1,21 @@
+{
+  "name": "awesome-italian-pa-opensource",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/stefanosalvucci/awesome-italian-pa-opensource",
+  "site_url": null,
+  "type": "tool",
+  "description": "Curated list of open-source libraries and tools to integrate Italian Public Administration services (SPID, CIE, fattura elettronica, ANPR, PEC, pagoPA)",
+  "license": "CC0-1.0",
+  "tags": [
+    "awesome-list",
+    "italy",
+    "pubblica-amministrazione",
+    "spid",
+    "cie",
+    "fattura-elettronica",
+    "anpr",
+    "pec",
+    "pagopa",
+    "open-data"
+  ]
+}
