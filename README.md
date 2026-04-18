@@ -47,3 +47,4 @@ The aggregated file of open-source projects also contains statistical data and m
 ### License
 
 The project is made available under the GPL-3.0 license. See the `LICENSE` file for more information.
+* [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - Strumento IA basato su browser per sfocare i volti localmente. 100% privato.
