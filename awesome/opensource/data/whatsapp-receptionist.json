@@ -1,0 +1,30 @@
+{
+  "name": "WhatsApp Receptionist",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/Hiberius/whatsapp-receptionist",
+  "site_url": null,
+  "description": "Open-source AI receptionist for WhatsApp. Books real appointments, transcribes voice notes via ElevenLabs, integrates Google Calendar and Stripe. Multi-tenant SaaS starter kit with full GDPR endpoints (Art. 15/17) and Italian SDI electronic invoicing built in. Crafted in Italy.",
+  "type": "saas",
+  "license": "MIT",
+  "tags": [
+    "whatsapp",
+    "ai",
+    "receptionist",
+    "chatbot",
+    "saas-starter",
+    "nextjs",
+    "supabase",
+    "anthropic",
+    "claude",
+    "stripe",
+    "elevenlabs",
+    "gdpr",
+    "italy",
+    "multi-tenant",
+    "self-hosted",
+    "appointments",
+    "booking",
+    "typescript",
+    "open-source"
+  ]
+}
