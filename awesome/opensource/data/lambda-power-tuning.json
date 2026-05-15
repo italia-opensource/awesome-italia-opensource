@@ -22,8 +22,8 @@
       "full_name": "alexcasalboni/aws-lambda-power-tuning",
       "html_url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
       "created_at": "2017-03-27T15:18:12Z",
-      "updated_at": "2026-04-13T21:00:08Z",
-      "pushed_at": "2026-04-13T09:55:18Z",
+      "updated_at": "2026-05-14T20:26:37Z",
+      "pushed_at": "2026-05-08T18:59:09Z",
       "archived": false,
       "disabled": false,
       "owner": "alexcasalboni",
@@ -62,14 +62,14 @@
         "Shell": 2136,
         "Batchfile": 437
       },
-      "stargazers_count": 5993,
+      "stargazers_count": 6013,
       "forks_count": 413,
-      "open_issues_count": 14,
+      "open_issues_count": 18,
       "forks": 413,
-      "open_issues": 14,
-      "watchers": 5993,
-      "updated_at": "2026-04-15T10:15:19Z"
+      "open_issues": 18,
+      "watchers": 6013,
+      "updated_at": "2026-05-15T11:19:50Z"
     },
-    "timestamp": "2026-04-15T10:15:19Z"
+    "timestamp": "2026-05-15T11:19:50Z"
   }
 }

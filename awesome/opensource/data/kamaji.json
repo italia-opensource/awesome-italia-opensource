@@ -25,8 +25,8 @@
       "full_name": "clastix/kamaji",
       "html_url": "https://github.com/clastix/kamaji",
       "created_at": "2021-12-16T14:35:38Z",
-      "updated_at": "2026-04-15T09:03:29Z",
-      "pushed_at": "2026-04-15T09:03:24Z",
+      "updated_at": "2026-05-14T04:50:00Z",
+      "pushed_at": "2026-05-14T20:54:26Z",
       "archived": false,
       "disabled": false,
       "owner": "clastix",
@@ -55,23 +55,23 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 96.28,
-        "Makefile": 3.18,
-        "Go Template": 0.54
+        "Go": 96.38,
+        "Makefile": 3.09,
+        "Go Template": 0.53
       },
       "languages_byte": {
-        "Go": 812977,
+        "Go": 836895,
         "Makefile": 26820,
         "Go Template": 4574
       },
-      "stargazers_count": 1920,
-      "forks_count": 191,
-      "open_issues_count": 9,
-      "forks": 191,
-      "open_issues": 9,
-      "watchers": 1920,
-      "updated_at": "2026-04-15T10:15:19Z"
+      "stargazers_count": 1941,
+      "forks_count": 194,
+      "open_issues_count": 10,
+      "forks": 194,
+      "open_issues": 10,
+      "watchers": 1941,
+      "updated_at": "2026-05-15T11:19:50Z"
     },
-    "timestamp": "2026-04-15T10:15:19Z"
+    "timestamp": "2026-05-15T11:19:50Z"
   }
 }
