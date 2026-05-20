@@ -1,0 +1,21 @@
+{
+  "name": "G3W-SUITE",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/g3w-suite/g3w-suite-docker",
+  "site_url": "https://g3wsuite.it/",
+  "description": "Publish your QGIS projects as WebGIS services. Built with Django and Vue.",
+  "type": "framework",
+  "license": "MPL-2.0",
+  "tags": [
+    "qgis",
+    "webgis",
+    "gis",
+    "django",
+    "python",
+    "maps",
+    "cartography",
+    "ogc",
+    "docker",
+    "vue"
+  ]
+}
