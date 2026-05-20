@@ -1,0 +1,23 @@
+{
+  "name": "fenn",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/pyfenn/fenn",
+  "site_url": "https://pyfenn.org/",
+  "type": "framework",
+  "description": "Friendly Environment for Neural Networks(fenn) is a simple Python framework for building ML/DL workflows and LLM agents faster, with prebuilt trainers, agent templates, logging, configuration management, and much more.",
+  "license": "MIT",
+  "tags": [
+    "python",
+    "framework",
+    "deep learning",
+    "dl",
+    "machine learning",
+    "ml",
+    "ai",
+    "artificial intelligence",
+    "llm",
+    "large language models",
+    "agents",
+    "ai agents"
+  ]
+}
