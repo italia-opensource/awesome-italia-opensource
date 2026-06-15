@@ -18,8 +18,8 @@
       "full_name": "Mte90/GlotDict",
       "html_url": "https://github.com/Mte90/GlotDict",
       "created_at": "2016-02-17T13:46:35Z",
-      "updated_at": "2025-10-13T09:27:39Z",
-      "pushed_at": "2025-08-19T09:49:16Z",
+      "updated_at": "2026-05-25T08:26:39Z",
+      "pushed_at": "2026-05-25T08:29:06Z",
       "archived": false,
       "disabled": false,
       "owner": "Mte90",
@@ -37,13 +37,13 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 83.22,
-        "CSS": 14.77,
-        "Python": 2.01
+        "JavaScript": 83.07,
+        "CSS": 14.96,
+        "Python": 1.97
       },
       "languages_byte": {
-        "JavaScript": 114859,
-        "CSS": 20379,
+        "JavaScript": 116984,
+        "CSS": 21071,
         "Python": 2774
       },
       "stargazers_count": 53,
@@ -52,8 +52,8 @@
       "forks": 25,
       "open_issues": 30,
       "watchers": 53,
-      "updated_at": "2026-05-20T19:39:46Z"
+      "updated_at": "2026-06-15T15:13:03Z"
     },
-    "timestamp": "2026-05-20T19:39:46Z"
+    "timestamp": "2026-06-15T15:13:03Z"
   }
 }

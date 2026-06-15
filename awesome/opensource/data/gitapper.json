@@ -16,8 +16,8 @@
       "full_name": "Mte90/gitapper",
       "html_url": "https://github.com/Mte90/gitapper",
       "created_at": "2020-10-13T17:52:40Z",
-      "updated_at": "2026-04-21T09:19:00Z",
-      "pushed_at": "2026-04-21T09:18:56Z",
+      "updated_at": "2026-06-08T10:55:20Z",
+      "pushed_at": "2026-06-08T10:55:16Z",
       "archived": false,
       "disabled": false,
       "owner": "Mte90",
@@ -34,11 +34,11 @@
     "analytics": {
       "language": "Shell",
       "languages": {
-        "Shell": 70.55,
-        "Python": 29.45
+        "Shell": 71.86,
+        "Python": 28.14
       },
       "languages_byte": {
-        "Shell": 12601,
+        "Shell": 13433,
         "Python": 5259
       },
       "stargazers_count": 8,
@@ -47,8 +47,8 @@
       "forks": 1,
       "open_issues": 0,
       "watchers": 8,
-      "updated_at": "2026-05-20T19:39:46Z"
+      "updated_at": "2026-06-15T15:13:03Z"
     },
-    "timestamp": "2026-05-20T19:39:46Z"
+    "timestamp": "2026-06-15T15:13:03Z"
   }
 }

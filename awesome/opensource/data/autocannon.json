@@ -17,7 +17,7 @@
       "full_name": "mcollina/autocannon",
       "html_url": "https://github.com/mcollina/autocannon",
       "created_at": "2016-03-31T17:18:21Z",
-      "updated_at": "2026-05-20T00:37:59Z",
+      "updated_at": "2026-06-14T10:56:33Z",
       "pushed_at": "2026-05-16T07:48:53Z",
       "archived": false,
       "disabled": false,
@@ -34,14 +34,14 @@
       "languages_byte": {
         "JavaScript": 245299
       },
-      "stargazers_count": 8442,
-      "forks_count": 342,
-      "open_issues_count": 57,
-      "forks": 342,
-      "open_issues": 57,
-      "watchers": 8442,
-      "updated_at": "2026-05-20T19:39:46Z"
+      "stargazers_count": 8471,
+      "forks_count": 344,
+      "open_issues_count": 58,
+      "forks": 344,
+      "open_issues": 58,
+      "watchers": 8471,
+      "updated_at": "2026-06-15T15:13:03Z"
     },
-    "timestamp": "2026-05-20T19:39:46Z"
+    "timestamp": "2026-06-15T15:13:03Z"
   }
 }
