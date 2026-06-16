@@ -1,0 +1,22 @@
+{
+  "name": "Italia Corpus",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/ahmeabd/italia-corpus",
+  "site_url": null,
+  "type": "learning",
+  "description": "Il corpus della legislazione italiana in Markdown — aggiornato quotidianamente. Oltre 250.000 atti legislativi da Normattiva, pronti per RAG, LLM fine-tuning, e ricerca NLP.",
+  "license": "MIT",
+  "tags": [
+    "python",
+    "nlp",
+    "dataset",
+    "italian",
+    "legal",
+    "markdown",
+    "rag",
+    "llm",
+    "normattiva",
+    "open-data",
+    "legislation"
+  ]
+}
