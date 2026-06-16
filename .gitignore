@@ -9,6 +9,7 @@ __pycache__/
 *.so
 
 .VSCodeCounter/
+.idea
 # Distribution / packaging
 .venv*/
 /build/

@@ -1,0 +1,25 @@
+{
+  "name": "Melbourne",
+  "state_name": "Australia",
+  "required_documents": [
+    "Passport"
+  ],
+  "internet_roaming": "Local SIM Required",
+  "daily_average_cost": 70,
+  "description": "Melbourne is a vibrant Australian city known for coffee, arts, sports, unpredictable weather, historic trams, multicultural culture, and a cosmopolitan atmosphere.",
+  "tags": [
+    "nature"
+  ],
+  "how_to_arrive": [
+    "Airplane"
+  ],
+  "how_to_move": [
+    "Bike", "Walk", "Taxi", "Public transports"
+  ],
+  "resources": [
+    "https://www.travel365.it/melbourne-cosa-vedere.htm"
+  ],
+  "coworking": [
+    "https://www.starbucks.com.au/", "https://www.slv.vic.gov.au/"
+  ]
+}
