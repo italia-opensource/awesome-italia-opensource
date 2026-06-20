@@ -1,0 +1,21 @@
+{
+  "name": "GoccIA",
+  "type": "app",
+  "tags": [
+    "water-quality",
+    "acqua-potabile",
+    "civic-tech",
+    "italian",
+    "nextjs",
+    "supabase",
+    "typescript",
+    "tailwindcss",
+    "open-data",
+    "health"
+  ],
+  "description": "Strumento web gratuito e anonimo in italiano che assegna un punteggio 1-99 all'acqua del rubinetto a partire dai valori del referto. Motore deterministico basato sui limiti del D.Lgs. 18/2023 e sui range ideali WHO/EFSA.",
+  "site_url": "https://goccia.org",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/tutor-sicurezza/goccia",
+  "license": "MIT"
+}
