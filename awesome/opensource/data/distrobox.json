@@ -25,8 +25,8 @@
       "full_name": "89luca89/distrobox",
       "html_url": "https://github.com/89luca89/distrobox",
       "created_at": "2021-11-18T15:41:03Z",
-      "updated_at": "2026-06-15T09:22:56Z",
-      "pushed_at": "2026-06-14T11:04:33Z",
+      "updated_at": "2026-07-15T06:17:39Z",
+      "pushed_at": "2026-07-11T14:47:47Z",
       "archived": false,
       "disabled": false,
       "owner": "89luca89",
@@ -56,23 +56,27 @@
       "license": "GNU General Public License v3.0"
     },
     "analytics": {
-      "language": "Shell",
+      "language": "Go",
       "languages": {
-        "Shell": 99.98,
-        "Dockerfile": 0.02
+        "Go": 72.48,
+        "Shell": 26.87,
+        "Makefile": 0.55,
+        "Go Template": 0.1
       },
       "languages_byte": {
-        "Shell": 287960,
-        "Dockerfile": 70
+        "Go": 371006,
+        "Shell": 137532,
+        "Makefile": 2825,
+        "Go Template": 537
       },
-      "stargazers_count": 12593,
-      "forks_count": 525,
-      "open_issues_count": 131,
-      "forks": 525,
-      "open_issues": 131,
-      "watchers": 12593,
-      "updated_at": "2026-06-15T15:13:03Z"
+      "stargazers_count": 12738,
+      "forks_count": 533,
+      "open_issues_count": 136,
+      "forks": 533,
+      "open_issues": 136,
+      "watchers": 12738,
+      "updated_at": "2026-07-15T10:47:50Z"
     },
-    "timestamp": "2026-06-15T15:13:03Z"
+    "timestamp": "2026-07-15T10:47:50Z"
   }
 }

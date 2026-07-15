@@ -21,8 +21,8 @@
       "full_name": "sighupio/distribution",
       "html_url": "https://github.com/sighupio/distribution",
       "created_at": "2020-01-23T16:23:02Z",
-      "updated_at": "2026-06-15T10:11:46Z",
-      "pushed_at": "2026-06-12T16:24:04Z",
+      "updated_at": "2026-07-14T10:03:30Z",
+      "pushed_at": "2026-07-15T10:03:36Z",
       "archived": false,
       "disabled": false,
       "owner": "sighupio",
@@ -38,27 +38,25 @@
     "analytics": {
       "language": "Go Template",
       "languages": {
-        "Go Template": 61.29,
-        "Shell": 26.26,
-        "Smarty": 6.44,
-        "HCL": 5.06,
-        "Go": 0.95
+        "Go Template": 62.16,
+        "Shell": 25.76,
+        "Smarty": 6.72,
+        "HCL": 5.36
       },
       "languages_byte": {
-        "Go Template": 443124,
-        "Shell": 189881,
-        "Smarty": 46535,
-        "HCL": 36574,
-        "Go": 6868
+        "Go Template": 466384,
+        "Shell": 193267,
+        "Smarty": 50459,
+        "HCL": 40234
       },
-      "stargazers_count": 210,
+      "stargazers_count": 212,
       "forks_count": 15,
-      "open_issues_count": 25,
+      "open_issues_count": 20,
       "forks": 15,
-      "open_issues": 25,
-      "watchers": 210,
-      "updated_at": "2026-06-15T15:13:03Z"
+      "open_issues": 20,
+      "watchers": 212,
+      "updated_at": "2026-07-15T10:47:50Z"
     },
-    "timestamp": "2026-06-15T15:13:03Z"
+    "timestamp": "2026-07-15T10:47:50Z"
   }
 }

@@ -19,8 +19,8 @@
       "full_name": "alegrey91/fwdctl",
       "html_url": "https://github.com/alegrey91/fwdctl",
       "created_at": "2022-08-13T18:30:39Z",
-      "updated_at": "2026-04-01T11:53:59Z",
-      "pushed_at": "2025-01-23T15:26:51Z",
+      "updated_at": "2026-07-10T14:20:13Z",
+      "pushed_at": "2026-07-10T14:20:50Z",
       "archived": false,
       "disabled": false,
       "owner": "alegrey91",
@@ -31,16 +31,16 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 96.69,
-        "Shell": 1.33,
-        "Makefile": 1.11,
-        "Smarty": 0.86
+        "Go": 96.89,
+        "Shell": 1.11,
+        "Go Template": 1.08,
+        "Makefile": 0.92
       },
       "languages_byte": {
-        "Go": 57179,
+        "Go": 68917,
         "Shell": 788,
-        "Makefile": 657,
-        "Smarty": 511
+        "Go Template": 770,
+        "Makefile": 657
       },
       "stargazers_count": 72,
       "forks_count": 7,
@@ -48,8 +48,8 @@
       "forks": 7,
       "open_issues": 12,
       "watchers": 72,
-      "updated_at": "2026-06-15T15:13:03Z"
+      "updated_at": "2026-07-15T10:47:50Z"
     },
-    "timestamp": "2026-06-15T15:13:03Z"
+    "timestamp": "2026-07-15T10:47:50Z"
   }
 }
