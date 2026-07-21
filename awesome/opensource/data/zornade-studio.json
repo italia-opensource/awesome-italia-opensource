@@ -1,0 +1,19 @@
+{
+  "name": "Zornade Studio",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/zornade/zornade-studio",
+  "site_url": "https://studio.zornade.com",
+  "type": "tool",
+  "description": "No-code editor to build choropleth, bivariate, cartogram and flow maps from Italian open data (OpenStreetMap, ISTAT, Eurostat, dati.gov.it) or your own CSV, publishable as embeddable maps.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "react",
+    "typescript",
+    "maplibre",
+    "gis",
+    "data-visualization",
+    "choropleth",
+    "open-data",
+    "cartography"
+  ]
+}
