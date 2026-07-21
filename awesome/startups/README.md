@@ -1,6 +1,6 @@
 # 🏡 Awesome Tech Startups In Italy | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-0-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-1-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Startups is a list of italian tech startups.
 
@@ -20,8 +20,9 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 
 #### List
 
-| Name | Type | Market | Tags | Description |
-| ---- | ---- | ------ | ---- | ----------- |
+| Name                                                     | Type | Market   | Tags                                                                | Description                                                       |
+| -------------------------------------------------------- | ---- | -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Zornade](https://italiaopensource.com/startups/zornade) | B2B  | Software | gis, proptech, opendata, cadastral, real-estate, python, typescript | Aggregates 15+ Italian public data sources (catasto, ISPRA h [..] |
 
 ### License
 
