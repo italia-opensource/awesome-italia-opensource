@@ -1,0 +1,18 @@
+{
+  "name": "Zornade",
+  "repository_organization_url": "https://www.github.com/zornade",
+  "site_url": "https://zornade.com",
+  "type": "B2B",
+  "market": "Software",
+  "description": "Aggregates 15+ Italian public data sources (catasto, ISPRA hydrogeological risk, OMI prices, demographics) into a single per-parcel profile covering 85M cadastral parcels across 7,899 municipalities, with a free web platform, a REST API and an open-source no-code map editor (Zornade Studio).",
+  "tags": [
+    "gis",
+    "proptech",
+    "opendata",
+    "cadastral",
+    "real-estate",
+    "python",
+    "typescript"
+  ],
+  "foundation_year": "2024"
+}
