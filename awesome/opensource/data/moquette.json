@@ -19,8 +19,8 @@
       "full_name": "moquette-io/moquette",
       "html_url": "https://github.com/moquette-io/moquette",
       "created_at": "2014-09-30T20:14:41Z",
-      "updated_at": "2026-07-15T01:39:12Z",
-      "pushed_at": "2026-07-14T14:58:56Z",
+      "updated_at": "2026-08-05T08:51:50Z",
+      "pushed_at": "2026-08-01T14:20:31Z",
       "archived": false,
       "disabled": false,
       "owner": "moquette-io",
@@ -36,15 +36,15 @@
     "analytics": {
       "language": "Java",
       "languages": {
-        "Java": 89.98,
-        "Groovy": 6.85,
-        "HTML": 2.6,
-        "Shell": 0.29,
-        "Batchfile": 0.27,
+        "Java": 90.34,
+        "Groovy": 6.6,
+        "HTML": 2.51,
+        "Shell": 0.28,
+        "Batchfile": 0.26,
         "Ruby": 0.01
       },
       "languages_byte": {
-        "Java": 1291192,
+        "Java": 1345749,
         "Groovy": 98266,
         "HTML": 37346,
         "Shell": 4112,
@@ -52,13 +52,13 @@
         "Ruby": 212
       },
       "stargazers_count": 2448,
-      "forks_count": 834,
-      "open_issues_count": 139,
-      "forks": 834,
-      "open_issues": 139,
+      "forks_count": 832,
+      "open_issues_count": 138,
+      "forks": 832,
+      "open_issues": 138,
       "watchers": 2448,
-      "updated_at": "2026-07-15T10:47:50Z"
+      "updated_at": "2026-08-06T20:50:45Z"
     },
-    "timestamp": "2026-07-15T10:47:50Z"
+    "timestamp": "2026-08-06T20:50:45Z"
   }
 }

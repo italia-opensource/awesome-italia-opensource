@@ -18,8 +18,8 @@
       "full_name": "mmazzarolo/breathly-app",
       "html_url": "https://github.com/mmazzarolo/breathly-app",
       "created_at": "2019-03-11T08:55:28Z",
-      "updated_at": "2026-07-10T22:37:04Z",
-      "pushed_at": "2024-03-16T07:28:50Z",
+      "updated_at": "2026-08-04T09:23:56Z",
+      "pushed_at": "2026-08-03T18:38:11Z",
       "archived": false,
       "disabled": false,
       "owner": "mmazzarolo",
@@ -40,21 +40,23 @@
     "analytics": {
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 98.43,
-        "JavaScript": 1.57
+        "TypeScript": 93.74,
+        "JavaScript": 5.41,
+        "Shell": 0.85
       },
       "languages_byte": {
-        "TypeScript": 82999,
-        "JavaScript": 1322
+        "TypeScript": 201708,
+        "JavaScript": 11640,
+        "Shell": 1832
       },
-      "stargazers_count": 586,
+      "stargazers_count": 595,
       "forks_count": 90,
-      "open_issues_count": 26,
+      "open_issues_count": 27,
       "forks": 90,
-      "open_issues": 26,
-      "watchers": 586,
-      "updated_at": "2026-07-15T10:47:50Z"
+      "open_issues": 27,
+      "watchers": 595,
+      "updated_at": "2026-08-06T20:50:45Z"
     },
-    "timestamp": "2026-07-15T10:47:50Z"
+    "timestamp": "2026-08-06T20:50:45Z"
   }
 }

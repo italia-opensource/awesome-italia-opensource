@@ -18,13 +18,15 @@
       "full_name": "fastify/fastify",
       "html_url": "https://github.com/fastify/fastify",
       "created_at": "2016-09-28T19:10:14Z",
-      "updated_at": "2026-07-15T09:00:31Z",
-      "pushed_at": "2026-07-13T15:18:17Z",
+      "updated_at": "2026-08-06T19:34:47Z",
+      "pushed_at": "2026-08-06T16:38:32Z",
       "archived": false,
       "disabled": false,
       "owner": "fastify",
       "owner_type": "Organization",
       "topics": [
+        "fastify",
+        "fastify-core",
         "hacktoberfest",
         "nodejs",
         "performance",
@@ -36,23 +38,23 @@
     "analytics": {
       "language": "JavaScript",
       "languages": {
-        "JavaScript": 91.02,
-        "TypeScript": 8.94,
-        "Shell": 0.05
+        "JavaScript": 91.07,
+        "TypeScript": 8.88,
+        "Shell": 0.04
       },
       "languages_byte": {
-        "JavaScript": 1825597,
-        "TypeScript": 179270,
+        "JavaScript": 1846854,
+        "TypeScript": 180140,
         "Shell": 911
       },
-      "stargazers_count": 36816,
-      "forks_count": 2940,
-      "open_issues_count": 138,
-      "forks": 2940,
-      "open_issues": 138,
-      "watchers": 36816,
-      "updated_at": "2026-07-15T10:47:50Z"
+      "stargazers_count": 36974,
+      "forks_count": 2970,
+      "open_issues_count": 135,
+      "forks": 2970,
+      "open_issues": 135,
+      "watchers": 36974,
+      "updated_at": "2026-08-06T20:50:45Z"
     },
-    "timestamp": "2026-07-15T10:47:50Z"
+    "timestamp": "2026-08-06T20:50:45Z"
   }
 }
