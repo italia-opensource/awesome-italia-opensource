@@ -349,7 +349,7 @@ def process_analytics_github(idx, repo_object):
     print(f"# {idx + 1} - Getting languages for {owner}/{name}")
 
     languages = github_get_repo_languages(
-        owner, name, os.environ["TOKEN_GITHUB_PUBLIC_API"]
+        owner, name, os.environ["GH_ACTION_WORKFLOWS"]
     )
 
     if languages is None:
@@ -357,7 +357,7 @@ def process_analytics_github(idx, repo_object):
         return False
 
     metadata = github_get_repo_metadata(
-        owner, name, os.environ["TOKEN_GITHUB_PUBLIC_API"], languages
+        owner, name, os.environ["GH_ACTION_WORKFLOWS"], languages
     )
 
     if metadata is None:
@@ -461,9 +461,9 @@ def process_db(
     db = render_db_awesome_list(get_awesome_list_filepath(list_name))
 
     if not without_analytics:
-        if not os.getenv("TOKEN_GITHUB_PUBLIC_API"):
+        if not os.getenv("GH_ACTION_WORKFLOWS"):
             raise ValueError(
-                "GitHub API token not found. Please set the environment variable TOKEN_GITHUB_PUBLIC_API in your shell."
+                "GitHub API token not found. Please set the environment variable GH_ACTION_WORKFLOWS in your shell."
             )
 
         if list_name == "opensource":

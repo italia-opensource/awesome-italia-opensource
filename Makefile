@@ -5,12 +5,8 @@ help: ## Helper
 
 .DEFAULT_GOAL := help
 
-.PHONY: doppler
-doppler: ## Download secrets from Doppler
-	@chmod +x ./scripts/doppler.sh && ./scripts/doppler.sh
-
 .PHONY: setup
-setup: doppler ## Setup local environment
+setup: ## Setup local environment
 	chmod +x ./scripts/setup.sh && ./scripts/setup.sh
 
 .PHONY: lint

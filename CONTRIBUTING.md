@@ -18,7 +18,7 @@ We have three type of issues:
 
 ## How To Contribute with PRs
 
-*Pull requests can be used to add/edit/delete in awesome/**/data dir.*
+_Pull requests can be used to add/edit/delete in awesome/\*\*/data dir._
 
 The new project must be added to the `awesome/{startups,opensource,communities,digital-nomads}/data` folder using a dedicated file in `kebab-case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
@@ -36,7 +36,7 @@ Projects entered must be maintained and have guidelines and/or documentation for
    ```
 
 5. if the tests are passed successfully create PR on GitHub, the title should be `feat(type): added/updated Name`
-   **WARNING *type*** must be: startups, opensource, communities or digital-nomads)
+   **WARNING _type_** must be: startups, opensource, communities or digital-nomads)
 
 **ATTENTION** do not modify any README.md file.
 
@@ -135,10 +135,10 @@ Schema reference: [startups.json](https://github.com/italia-opensource/awesome-i
 
 ### Online one-click setup for contributing
 
-|Reuirements|Version|
-|---|---|
-|Python| >= 3.10|
-|Makefile| |
+| Reuirements | Version |
+| ----------- | ------- |
+| Python      | >= 3.10 |
+| Makefile    |         |
 
 **Setup local env**:
 
@@ -157,11 +157,8 @@ make test
 **Create Analytics**:
 
 ```bash
-# Set secrets from Doppler
-doppler login
-make doppler
 # Or set secrets manually (*)
-echo "export TOKEN_GITHUB_PUBLIC_API=_YOUR_TOKEN_" > .env
+echo "export GH_ACTION_WORKFLOWS=_YOUR_TOKEN_" > .env
 
 source .activate
 
@@ -169,7 +166,7 @@ make test
 make process-data
 ```
 
-(*) Create GitHub PAT [here](https://github.com/settings/tokens?type=beta):
+(\*) Create GitHub PAT [here](https://github.com/settings/tokens?type=beta):
 
-  1. Add **Repository access** > `Public Repositories (read-only)`
-  2. Save and copy token
+1. Add **Repository access** > `Public Repositories (read-only)`
+2. Save and copy token

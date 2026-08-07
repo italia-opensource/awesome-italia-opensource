@@ -4,21 +4,25 @@ permissions:
   id-token: write
   contents: write
 
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
 on:
   push:
     branches:
       - main
     paths:
-      - ".github/workflows/release.yml"
-      - "awesome/**"
+      - '.github/workflows/release.yml'
+      - 'awesome/**'
   schedule:
-    - cron: "0 9 15 * *" # every 15th of the month at 9:00 AM UTC
+    - cron: '0 9 15 * *' # every 15th of the month at 9:00 AM UTC
   workflow_dispatch:
     inputs:
       with_analytics:
-        description: "Render awesome data with analytics"
+        description: 'Render awesome data with analytics'
         required: false
-        default: "true"
+        default: 'true'
 
 jobs:
   render-data:
@@ -35,7 +39,7 @@ jobs:
         id: setup-python
         uses: actions/setup-python@v7
         with:
-          python-version-file: ".python-version"
+          python-version-file: '.python-version'
 
       - name: Setup Uv
         id: setup-uv
@@ -63,14 +67,14 @@ jobs:
       - name: Render awesome with analytics data
         if: github.event_name == 'push'  || github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.with_analytics == 'true')
         env:
-          TOKEN_GITHUB_PUBLIC_API: ${{ secrets.TOKEN_GITHUB_PUBLIC_API }}
+          GH_ACTION_WORKFLOWS: ${{ secrets.GH_ACTION_WORKFLOWS }}
         run: |
           uv run make release
 
       - name: Render awesome README.md
         id: render-awesome
         run: |
-          git config --global user.email "${{ secrets.ACTION_EMAIL }}"
+          git config --global user.email "${{ secrets.GH_ACTION_EMAIL }}"
           git config --global user.name "FabrizioCafolla"
           if [ -z "$(git status --porcelain)" ]; then
             echo "Nothing to update"
@@ -79,6 +83,7 @@ jobs:
             git add awesome/**/*
             git add analytics/*
             git commit -m "release(awesome): update awesome data"
+            git pull --rebase origin main
             git push
             echo "commit_sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
           fi
@@ -86,7 +91,7 @@ jobs:
       - name: Trigger deployment workflow
         uses: actions/github-script@v9
         with:
-          github-token: ${{ secrets.ACTION_WORKFLOWS }}
+          github-token: ${{ secrets.GH_ACTION_WORKFLOWS }}
           retries: 3
           script: |
             const owner = 'italia-opensource';
