@@ -22,8 +22,8 @@
       "full_name": "italia-opensource/awesome-italia-opensource",
       "html_url": "https://github.com/italia-opensource/awesome-italia-opensource",
       "created_at": "2022-09-02T21:10:31Z",
-      "updated_at": "2026-07-27T02:52:55Z",
-      "pushed_at": "2026-07-21T20:27:55Z",
+      "updated_at": "2026-08-09T21:09:37Z",
+      "pushed_at": "2026-08-07T10:19:38Z",
       "archived": false,
       "disabled": false,
       "owner": "italia-opensource",
@@ -47,23 +47,23 @@
     "analytics": {
       "language": "Python",
       "languages": {
-        "Python": 92.92,
-        "Shell": 5.0,
-        "Makefile": 2.09
+        "Python": 96.55,
+        "Makefile": 1.87,
+        "Shell": 1.58
       },
       "languages_byte": {
-        "Python": 39371,
-        "Shell": 2118,
-        "Makefile": 884
+        "Python": 39355,
+        "Makefile": 761,
+        "Shell": 644
       },
-      "stargazers_count": 329,
-      "forks_count": 98,
-      "open_issues_count": 3,
-      "forks": 98,
-      "open_issues": 3,
-      "watchers": 329,
-      "updated_at": "2026-08-06T20:50:45Z"
+      "stargazers_count": 330,
+      "forks_count": 97,
+      "open_issues_count": 1,
+      "forks": 97,
+      "open_issues": 1,
+      "watchers": 330,
+      "updated_at": "2026-08-15T09:23:33Z"
     },
-    "timestamp": "2026-08-06T20:50:45Z"
+    "timestamp": "2026-08-15T09:23:33Z"
   }
 }
