@@ -1,0 +1,10 @@
+{
+  "name": "Web Developers Italia Telegram Bot",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/web-developers-italia/telegram-bot",
+  "site_url": "https://web-developers-italia.github.io/telegram-bot/",
+  "description": "Community-maintained moderation bot for the Web Developers Italia Telegram group: grammY commands and middleware written as Effect programs with typed errors, anti-spam and anti-flood guards, welcome flows, weekly digests and referral tracking on Firebase.",
+  "type": "tool",
+  "license": "MIT",
+  "tags": ["telegram", "bot", "grammy", "effect", "typescript", "firebase"]
+}
