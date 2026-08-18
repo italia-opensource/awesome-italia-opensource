@@ -1,0 +1,9 @@
+{
+  "name": "Web Developers Italia",
+  "url": "https://t.me/webdevitalia",
+  "type": "Channel",
+  "platform": "Telegram",
+  "description": "Italian Telegram community for web developers: technical Q&A on frontend, backend and DevOps, career talk and job posts with mandatory salary range (RAL), moderated daily by an open source bot.",
+  "tags": ["webdev", "frontend", "backend", "devops", "career", "jobs"],
+  "events_type": ["Chat"]
+}
