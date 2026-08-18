@@ -18,8 +18,8 @@
       "full_name": "Kong/kong",
       "html_url": "https://github.com/Kong/kong",
       "created_at": "2014-11-17T23:56:08Z",
-      "updated_at": "2026-08-15T09:25:31Z",
-      "pushed_at": "2026-08-04T09:27:18Z",
+      "updated_at": "2026-08-18T10:13:04Z",
+      "pushed_at": "2026-08-16T14:44:43Z",
       "archived": false,
       "disabled": false,
       "owner": "Kong",
@@ -74,14 +74,14 @@
         "Dockerfile": 3847,
         "Linker Script": 652
       },
-      "stargazers_count": 43985,
-      "forks_count": 5203,
-      "open_issues_count": 188,
-      "forks": 5203,
-      "open_issues": 188,
-      "watchers": 43985,
-      "updated_at": "2026-08-15T09:23:33Z"
+      "stargazers_count": 43994,
+      "forks_count": 5204,
+      "open_issues_count": 189,
+      "forks": 5204,
+      "open_issues": 189,
+      "watchers": 43994,
+      "updated_at": "2026-08-18T14:00:32Z"
     },
-    "timestamp": "2026-08-15T09:23:33Z"
+    "timestamp": "2026-08-18T14:00:32Z"
   }
 }

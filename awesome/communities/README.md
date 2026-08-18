@@ -1,6 +1,6 @@
 # 👥 Awesome Tech Communities In Italy | Italia Open-Source
 
-<img src='https://img.shields.io/badge/list-40-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
+<img src='https://img.shields.io/badge/list-41-green'> <img src='https://img.shields.io/github/last-commit/italia-opensource/awesome-italia-opensource/main'>
 
 Awesome Italia Communities is a list of italian tech communities.
 
@@ -61,6 +61,7 @@ Feel free to make your contribution. If you want to add a new item to one or mor
 | [TechCompenso](https://italiaopensource.com/communities/techcompenso)                                   | Blog       | Website  | dev, community, networking, tech, salary, transparency, italy                                                                   | TechCompenso is the go-to portal for uncovering the real ear [..] |
 | [TomorrowDevs](https://italiaopensource.com/communities/tomorrowdevs)                                   | Channel    | Discord  | Coding Challenge, Collaborative Projects, Mentoring, Mock Interview                                                             | Il nostro focus è il Learn by Doing, di conseguenza ci focal [..] |
 | [Vita nello zaino](https://italiaopensource.com/communities/vita-nello-zaino)                           | Blog       | Website  | developers, tech, networking, digital nomad, coworking                                                                          | Chiusa una porta si apre un portellone.                           |
+| [Web Developers Italia](https://italiaopensource.com/communities/web-developers-italia)                 | Channel    | Telegram | webdev, frontend, backend, devops, career, jobs                                                                                 | Italian Telegram community for web developers: technical Q&A [..] |
 | [fullremote.it](https://italiaopensource.com/communities/fullremote.it)                                 | Newsletter | Email    | tech, remoteworking, remote, jobs                                                                                               | A weekly newsletter (with remote jobs) and a telegram channe [..] |
 
 ### License

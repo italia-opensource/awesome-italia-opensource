@@ -20,7 +20,7 @@
       "html_url": "https://github.com/platformatic/platformatic",
       "created_at": "2022-09-22T07:32:19Z",
       "updated_at": "2026-08-15T03:27:26Z",
-      "pushed_at": "2026-08-15T03:27:23Z",
+      "pushed_at": "2026-08-18T00:31:21Z",
       "archived": false,
       "disabled": false,
       "owner": "platformatic",
@@ -59,12 +59,12 @@
       },
       "stargazers_count": 2031,
       "forks_count": 198,
-      "open_issues_count": 69,
+      "open_issues_count": 74,
       "forks": 198,
-      "open_issues": 69,
+      "open_issues": 74,
       "watchers": 2031,
-      "updated_at": "2026-08-15T09:23:33Z"
+      "updated_at": "2026-08-18T14:00:32Z"
     },
-    "timestamp": "2026-08-15T09:23:33Z"
+    "timestamp": "2026-08-18T14:00:32Z"
   }
 }

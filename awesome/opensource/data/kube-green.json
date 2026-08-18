@@ -22,7 +22,7 @@
       "full_name": "kube-green/kube-green",
       "html_url": "https://github.com/kube-green/kube-green",
       "created_at": "2021-02-21T17:50:33Z",
-      "updated_at": "2026-08-10T11:20:36Z",
+      "updated_at": "2026-08-17T14:56:51Z",
       "pushed_at": "2026-07-25T03:20:09Z",
       "archived": false,
       "disabled": false,
@@ -56,14 +56,14 @@
         "Go Template": 3141,
         "Dockerfile": 2206
       },
-      "stargazers_count": 1367,
+      "stargazers_count": 1368,
       "forks_count": 98,
       "open_issues_count": 52,
       "forks": 98,
       "open_issues": 52,
-      "watchers": 1367,
-      "updated_at": "2026-08-15T09:23:33Z"
+      "watchers": 1368,
+      "updated_at": "2026-08-18T14:00:32Z"
     },
-    "timestamp": "2026-08-15T09:23:33Z"
+    "timestamp": "2026-08-18T14:00:32Z"
   }
 }
