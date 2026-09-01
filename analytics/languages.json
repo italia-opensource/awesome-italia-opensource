@@ -53,13 +53,13 @@
     },
     "percentage": [
       {
-        "Go": 10.35,
-        "Shell": 0.62,
+        "Go": 10.34,
+        "Shell": 0.63,
         "JavaScript": 13.5,
         "Java": 1.87,
         "C#": 1.16,
         "Python": 16.19,
-        "TypeScript": 16.37,
+        "TypeScript": 16.38,
         "Batchfile": 0.0,
         "HTML": 0.84,
         "CSS": 1.26,
@@ -635,6 +635,6 @@
   },
   "metadata": {
     "total": 49,
-    "update_at": "2026-09-01T10:32:20Z"
+    "update_at": "2026-09-01T12:57:31Z"
   }
 }
