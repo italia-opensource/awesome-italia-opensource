@@ -1,0 +1,15 @@
+{
+  "name": "paroleitaliane",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/napolux/paroleitaliane",
+  "type": "learning",
+  "description": "Liste di parole italiane: dizionari, nomi propri, cognomi, coniugazioni verbali e parole comuni. Utile per NLP, giochi di parole e generazione di testo.",
+  "license": "MIT",
+  "tags": [
+    "italian",
+    "dictionary",
+    "wordlist",
+    "nlp",
+    "language"
+  ]
+}
