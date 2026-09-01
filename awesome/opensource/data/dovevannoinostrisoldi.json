@@ -1,0 +1,19 @@
+{
+  "name": "DoveVannoINostriSoldi",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi",
+  "site_url": "https://www.dovevannoinostrisoldi.com",
+  "type": "app",
+  "description": "Progetto civico open source per capire come vengono usati i soldi pubblici italiani. Riunisce dati ufficiali su pagamenti comunali, debito, PNRR, istruzione e altro.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "civic-tech",
+    "open-data",
+    "nextjs",
+    "typescript",
+    "public-finance",
+    "transparency",
+    "italy",
+    "mcp"
+  ]
+}
