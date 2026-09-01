@@ -1,0 +1,17 @@
+{
+  "name": "geojson-italy",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/guglielmo/geojson-italy",
+  "type": "tool",
+  "description": "File GeoJSON e TopoJSON per tutti i comuni, le province e le regioni italiane. Dataset geografico open per mappe e visualizzazioni.",
+  "license": "Creative Commons",
+  "tags": [
+    "geojson",
+    "topojson",
+    "italy",
+    "geodata",
+    "maps",
+    "open-data",
+    "municipalities"
+  ]
+}
