@@ -1,0 +1,18 @@
+{
+  "name": "Italia MCP Servers",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/bsab/italia-mcp-servers",
+  "description": "Catalogo curato dei server MCP italiani: dati pubblici, legal-tech, fatturazione elettronica, pubblica amministrazione e altro.",
+  "type": "tool",
+  "license": "MIT",
+  "tags": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "italia",
+    "open-data",
+    "legal-tech",
+    "fatturazione",
+    "pubblica-amministrazione"
+  ]
+}
