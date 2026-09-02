@@ -1,0 +1,18 @@
+{
+  "name": "CommentHide",
+  "type": "tool",
+  "tags": [
+    "typescript",
+    "cloudflare",
+    "cloudflare-workers",
+    "facebook",
+    "moderation",
+    "self-hosted",
+    "marketing"
+  ],
+  "description": "Self-hosted Facebook comment moderation. Automatically hides spam, scam and link-drop comments on Meta Page posts through the Graph API, with a rule engine, a dry-run mode and a full audit trail.",
+  "site_url": null,
+  "repository_platform": "github",
+  "repository_url": "https://github.com/Hiberius/commenthide-facebook-comment-moderation",
+  "license": "MIT"
+}
