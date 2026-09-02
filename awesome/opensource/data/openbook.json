@@ -1,0 +1,17 @@
+{
+  "name": "Openbook",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/insicd/openbook",
+  "site_url": "https://about.openb.app",
+  "type": "app",
+  "description": "Il social network federato che gira sul tuo hosting (PHP + MYSQL), su ActivityPub, con feed familiare, profili, commenti e tutta la forza del fediverso.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "social-network",
+    "fediverse",
+    "open-web",
+    "activitypub",
+    "PHP",
+    "Mysql"
+  ]
+}
