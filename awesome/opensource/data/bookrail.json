@@ -1,0 +1,16 @@
+{
+  "name": "Bookrail",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/bookrail-dev/bookrail",
+  "site_url": "https://bookrail.dev",
+  "type": "tool",
+  "description": "Open-source booking infrastructure for developers. Availability, temporary holds, bookings, cancellation policies and signed webhooks, with PostgreSQL capacity enforcement, an HTTP API, a TypeScript SDK, a CLI and an MCP server.",
+  "license": "Apache-2.0",
+  "tags": [
+    "typescript",
+    "postgresql",
+    "booking",
+    "api",
+    "mcp"
+  ]
+}
