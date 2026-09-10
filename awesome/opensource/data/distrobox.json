@@ -25,8 +25,8 @@
       "full_name": "89luca89/distrobox",
       "html_url": "https://github.com/89luca89/distrobox",
       "created_at": "2021-11-18T15:41:03Z",
-      "updated_at": "2026-09-01T11:07:18Z",
-      "pushed_at": "2026-09-01T07:32:31Z",
+      "updated_at": "2026-09-10T10:01:57Z",
+      "pushed_at": "2026-09-10T12:48:16Z",
       "archived": false,
       "disabled": false,
       "owner": "89luca89",
@@ -58,25 +58,25 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 72.8,
-        "Shell": 26.39,
+        "Go": 72.68,
+        "Shell": 26.51,
         "Makefile": 0.73,
         "Go Template": 0.08
       },
       "languages_byte": {
-        "Go": 516422,
-        "Shell": 187163,
+        "Go": 517373,
+        "Shell": 188696,
         "Makefile": 5205,
         "Go Template": 537
       },
-      "stargazers_count": 12927,
-      "forks_count": 538,
+      "stargazers_count": 12966,
+      "forks_count": 539,
       "open_issues_count": 150,
-      "forks": 538,
+      "forks": 539,
       "open_issues": 150,
-      "watchers": 12927,
-      "updated_at": "2026-09-01T12:57:31Z"
+      "watchers": 12966,
+      "updated_at": "2026-09-10T17:07:02Z"
     },
-    "timestamp": "2026-09-01T12:57:31Z"
+    "timestamp": "2026-09-10T17:07:02Z"
   }
 }

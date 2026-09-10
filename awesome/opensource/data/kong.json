@@ -18,8 +18,8 @@
       "full_name": "Kong/kong",
       "html_url": "https://github.com/Kong/kong",
       "created_at": "2014-11-17T23:56:08Z",
-      "updated_at": "2026-09-01T11:13:58Z",
-      "pushed_at": "2026-08-16T14:44:43Z",
+      "updated_at": "2026-09-10T15:19:00Z",
+      "pushed_at": "2026-09-07T06:16:21Z",
       "archived": false,
       "disabled": false,
       "owner": "Kong",
@@ -52,8 +52,8 @@
       "language": "Lua",
       "languages": {
         "Lua": 89.24,
-        "Perl": 5.2,
-        "Raku": 3.06,
+        "Perl": 5.21,
+        "Raku": 3.05,
         "Starlark": 0.98,
         "Shell": 0.93,
         "Python": 0.41,
@@ -64,8 +64,8 @@
       },
       "languages_byte": {
         "Lua": 10066528,
-        "Perl": 586017,
-        "Raku": 345114,
+        "Perl": 587269,
+        "Raku": 343862,
         "Starlark": 110446,
         "Shell": 105207,
         "Python": 46550,
@@ -74,14 +74,14 @@
         "Dockerfile": 3847,
         "Linker Script": 652
       },
-      "stargazers_count": 44069,
-      "forks_count": 5205,
-      "open_issues_count": 193,
-      "forks": 5205,
-      "open_issues": 193,
-      "watchers": 44069,
-      "updated_at": "2026-09-01T12:57:31Z"
+      "stargazers_count": 44121,
+      "forks_count": 5211,
+      "open_issues_count": 197,
+      "forks": 5211,
+      "open_issues": 197,
+      "watchers": 44121,
+      "updated_at": "2026-09-10T17:07:02Z"
     },
-    "timestamp": "2026-09-01T12:57:31Z"
+    "timestamp": "2026-09-10T17:07:02Z"
   }
 }
