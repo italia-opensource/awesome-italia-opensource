@@ -1,0 +1,17 @@
+{
+  "name": "Awesome API Italia",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/melodygeek/awesome-api-italia",
+  "type": "community",
+  "description": "Una lista curata di API italiane e internazionali con dati italiani — PA, catasto, fisco, automotive, imprese, identità digitale e molto altro.",
+  "license": "CC0-1.0",
+  "tags": [
+    "api",
+    "italy",
+    "awesome-list",
+    "open-data",
+    "pa",
+    "rest-api",
+    "italia"
+  ]
+}
