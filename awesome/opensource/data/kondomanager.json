@@ -1,0 +1,18 @@
+{
+  "name": "KondoManager",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/vince844/kondomanager-free",
+  "site_url": "https://kondomanager.com",
+  "type": "app",
+  "description": "KondoManager is a free and open source condominium management software built with Laravel. It helps administrators manage properties, tenants, expenses, and communications.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "laravel",
+    "php",
+    "condominium",
+    "management",
+    "property-management",
+    "open-source",
+    "administration"
+  ]
+}
