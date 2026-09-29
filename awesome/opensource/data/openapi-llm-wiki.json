@@ -1,0 +1,20 @@
+{
+  "name": "Openapi LLM Wiki",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/openapi/openapi-llm-wiki",
+  "site_url": "https://openapi.com",
+  "type": "learning",
+  "description": "Knowledge base ottimizzata per LLM e agenti AI sul marketplace API Openapi®: guida alla piattaforma, catalogo API, endpoint e 29 spec OpenAPI 3, con llms.txt, llms-full.txt e server MCP via GitMCP.",
+  "license": "MIT",
+  "tags": [
+    "llm",
+    "ai-agents",
+    "knowledge-base",
+    "llms-txt",
+    "rag",
+    "mcp",
+    "openapi",
+    "api",
+    "context-engineering"
+  ]
+}
