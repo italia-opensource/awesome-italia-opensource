@@ -1,0 +1,16 @@
+{
+  "name": "The Concise TypeScript Book",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/gibbok/typescript-book",
+  "site_url": "https://gibbok.github.io/typescript-book/it-it/",
+  "type": "learning",
+  "description": "Libro TypeScript gratuito e open source, aggiornato a TypeScript 7, dai fondamenti ai concetti avanzati.",
+  "license": "CC BY 4.0",
+  "tags": [
+    "typescript",
+    "book",
+    "open-source",
+    "italian",
+    "ebook"
+  ]
+}
