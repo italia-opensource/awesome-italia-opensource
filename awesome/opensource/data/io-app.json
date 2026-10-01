@@ -19,8 +19,8 @@
       "full_name": "pagopa/io-app",
       "html_url": "https://github.com/pagopa/io-app",
       "created_at": "2017-04-11T09:34:46Z",
-      "updated_at": "2026-10-01T09:49:21Z",
-      "pushed_at": "2026-10-01T09:49:20Z",
+      "updated_at": "2026-10-01T12:41:39Z",
+      "pushed_at": "2026-10-01T15:26:49Z",
       "archived": false,
       "disabled": false,
       "owner": "pagopa",
@@ -49,7 +49,7 @@
         "Objective-C": 0.01
       },
       "languages_byte": {
-        "TypeScript": 14897368,
+        "TypeScript": 14897406,
         "JavaScript": 95419,
         "HTML": 74955,
         "Python": 32035,
@@ -65,8 +65,8 @@
       "forks": 121,
       "open_issues": 67,
       "watchers": 704,
-      "updated_at": "2026-10-01T11:58:44Z"
+      "updated_at": "2026-10-01T15:25:42Z"
     },
-    "timestamp": "2026-10-01T11:58:44Z"
+    "timestamp": "2026-10-01T15:25:42Z"
   }
 }
