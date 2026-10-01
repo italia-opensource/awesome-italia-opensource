@@ -1,0 +1,15 @@
+{
+  "name": "Orbit",
+  "type": "language",
+  "tags": [
+    "C++",
+    "interpreter",
+    "programming language",
+    "multithreading",
+    "scripting"
+  ],
+  "description": "A modern, concurrent programming language with a register-based virtual machine.",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/orbitlang/orbit",
+  "license": "Apache-2.0"
+}
