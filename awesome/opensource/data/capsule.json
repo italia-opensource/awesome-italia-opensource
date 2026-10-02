@@ -23,8 +23,8 @@
       "full_name": "projectcapsule/capsule",
       "html_url": "https://github.com/projectcapsule/capsule",
       "created_at": "2020-06-29T20:27:51Z",
-      "updated_at": "2026-10-01T11:21:52Z",
-      "pushed_at": "2026-09-30T17:47:28Z",
+      "updated_at": "2026-10-02T06:06:44Z",
+      "pushed_at": "2026-10-02T05:28:47Z",
       "archived": false,
       "disabled": false,
       "owner": "projectcapsule",
@@ -44,27 +44,27 @@
     "analytics": {
       "language": "Go",
       "languages": {
-        "Go": 98.35,
-        "Makefile": 0.92,
-        "Shell": 0.41,
-        "Go Template": 0.31,
+        "Go": 98.39,
+        "Makefile": 0.89,
+        "Shell": 0.4,
+        "Go Template": 0.3,
         "JavaScript": 0.01
       },
       "languages_byte": {
-        "Go": 5626617,
-        "Makefile": 52366,
+        "Go": 5819588,
+        "Makefile": 52700,
         "Shell": 23665,
         "Go Template": 17928,
         "JavaScript": 685
       },
-      "stargazers_count": 2187,
+      "stargazers_count": 2188,
       "forks_count": 223,
-      "open_issues_count": 50,
+      "open_issues_count": 49,
       "forks": 223,
-      "open_issues": 50,
-      "watchers": 2187,
-      "updated_at": "2026-10-01T15:25:42Z"
+      "open_issues": 49,
+      "watchers": 2188,
+      "updated_at": "2026-10-02T09:20:04Z"
     },
-    "timestamp": "2026-10-01T15:25:42Z"
+    "timestamp": "2026-10-02T09:20:04Z"
   }
 }
