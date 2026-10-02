@@ -1,0 +1,9 @@
+{
+  "name": "Apeira",
+  "url": "https://www.apeira.it/",
+  "type": "Event",
+  "platform": "Location",
+  "description": "Apeira è una hacker house residenziale di tre mesi a Milano che riunisce builder e creativi europei per lavorare insieme su progetti tecnologici ambiziosi, tra workshop, mentorship, pitch night e un demo day con investitori.",
+  "tags": ["hackerhouse", "builders", "startup", "tech", "community", "milano"],
+  "events_type": ["Workshop", "Talk", "Meetup", "Other"]
+}
