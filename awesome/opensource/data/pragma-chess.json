@@ -1,0 +1,20 @@
+{
+  "name": "Pragma Chess",
+  "type": "app",
+  "tags": [
+    "chess",
+    "c++",
+    "qt",
+    "desktop",
+    "database",
+    "sqlite",
+    "stockfish",
+    "lichess",
+    "cross-platform"
+  ],
+  "description": "Open source chess database for studying, training and playing: game databases, engine analysis with Explain, training with a tutor, Polyglot opening books, online play on lichess.org. Windows, macOS, Linux.",
+  "site_url": "https://yafb.net/pragma-chess/",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/francescobianco/pragma-chess",
+  "license": "MIT"
+}
