@@ -19,8 +19,8 @@
       "full_name": "platformatic/platformatic",
       "html_url": "https://github.com/platformatic/platformatic",
       "created_at": "2022-09-22T07:32:19Z",
-      "updated_at": "2026-10-02T08:18:22Z",
-      "pushed_at": "2026-09-30T13:42:17Z",
+      "updated_at": "2026-10-04T10:01:36Z",
+      "pushed_at": "2026-10-04T18:50:28Z",
       "archived": false,
       "disabled": false,
       "owner": "platformatic",
@@ -57,14 +57,14 @@
         "Dockerfile": 1639,
         "Astro": 76
       },
-      "stargazers_count": 2061,
-      "forks_count": 203,
+      "stargazers_count": 2063,
+      "forks_count": 204,
       "open_issues_count": 22,
-      "forks": 203,
+      "forks": 204,
       "open_issues": 22,
-      "watchers": 2061,
-      "updated_at": "2026-10-02T09:20:04Z"
+      "watchers": 2063,
+      "updated_at": "2026-10-05T08:05:16Z"
     },
-    "timestamp": "2026-10-02T09:20:04Z"
+    "timestamp": "2026-10-05T08:05:16Z"
   }
 }
