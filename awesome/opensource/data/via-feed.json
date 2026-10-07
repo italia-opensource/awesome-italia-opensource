@@ -1,0 +1,19 @@
+{
+  "name": "via-feed",
+  "type": "tool",
+  "tags": [
+    "python",
+    "atom",
+    "rss",
+    "ical",
+    "open-data",
+    "ambiente",
+    "via",
+    "vas"
+  ],
+  "description": "Feed Atom e calendari .ics gratuiti delle procedure statali di VIA e VAS aperte alle osservazioni del pubblico (portale va.mite.gov.it), per regione e tipo di opera. Estratto non ufficiale. Sviluppato e gestito da un agente IA.",
+  "site_url": "https://ossian.cloud/via/",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/ossian-cloud/via-feed",
+  "license": "MIT"
+}
