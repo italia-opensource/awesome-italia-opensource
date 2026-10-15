@@ -17,8 +17,8 @@
       "full_name": "italiaremote/awesome-italia-remote",
       "html_url": "https://github.com/italiaremote/awesome-italia-remote",
       "created_at": "2022-01-24T09:50:30Z",
-      "updated_at": "2026-09-30T09:50:36Z",
-      "pushed_at": "2025-10-31T13:52:15Z",
+      "updated_at": "2026-10-15T03:49:36Z",
+      "pushed_at": "2026-10-12T12:34:52Z",
       "archived": false,
       "disabled": false,
       "owner": "italiaremote",
@@ -44,14 +44,14 @@
         "Go": 5885,
         "Makefile": 83
       },
-      "stargazers_count": 2656,
+      "stargazers_count": 2658,
       "forks_count": 308,
       "open_issues_count": 11,
       "forks": 308,
       "open_issues": 11,
-      "watchers": 2656,
-      "updated_at": "2026-10-05T08:05:16Z"
+      "watchers": 2658,
+      "updated_at": "2026-10-15T13:56:50Z"
     },
-    "timestamp": "2026-10-05T08:05:16Z"
+    "timestamp": "2026-10-15T13:56:50Z"
   }
 }

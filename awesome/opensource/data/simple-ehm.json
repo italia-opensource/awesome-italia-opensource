@@ -16,8 +16,8 @@
       "full_name": "morrolinux/simple-ehm",
       "html_url": "https://github.com/morrolinux/simple-ehm",
       "created_at": "2020-12-01T19:31:50Z",
-      "updated_at": "2026-06-19T21:00:47Z",
-      "pushed_at": "2024-02-23T21:33:33Z",
+      "updated_at": "2026-10-10T20:23:42Z",
+      "pushed_at": "2026-10-10T20:23:37Z",
       "archived": false,
       "disabled": false,
       "owner": "morrolinux",
@@ -28,16 +28,18 @@
     "analytics": {
       "language": "Jupyter Notebook",
       "languages": {
-        "Jupyter Notebook": 98.57,
-        "Python": 1.4,
-        "Dockerfile": 0.02,
-        "Shell": 0.01
+        "Jupyter Notebook": 92.54,
+        "Python": 7.17,
+        "Shell": 0.22,
+        "PowerShell": 0.04,
+        "Dockerfile": 0.03
       },
       "languages_byte": {
         "Jupyter Notebook": 943986,
-        "Python": 13445,
-        "Dockerfile": 215,
-        "Shell": 78
+        "Python": 73131,
+        "Shell": 2228,
+        "PowerShell": 391,
+        "Dockerfile": 295
       },
       "stargazers_count": 232,
       "forks_count": 19,
@@ -45,8 +47,8 @@
       "forks": 19,
       "open_issues": 8,
       "watchers": 232,
-      "updated_at": "2026-10-05T08:05:16Z"
+      "updated_at": "2026-10-15T13:56:50Z"
     },
-    "timestamp": "2026-10-05T08:05:16Z"
+    "timestamp": "2026-10-15T13:56:50Z"
   }
 }
