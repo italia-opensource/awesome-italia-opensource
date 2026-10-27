@@ -1,0 +1,17 @@
+{
+  "name": "Tabularis",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/TabularisDB/tabularis",
+  "site_url": "https://tabularis.dev",
+  "type": "app",
+  "description": "Open-source SQL workspace for desktop and web with database connections, SQL notebooks, visual EXPLAIN and an MCP server.",
+  "license": "Apache-2.0",
+  "tags": [
+    "database",
+    "sql",
+    "postgresql",
+    "rust",
+    "typescript",
+    "tauri"
+  ]
+}
