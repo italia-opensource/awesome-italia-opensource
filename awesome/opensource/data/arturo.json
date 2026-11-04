@@ -1,0 +1,17 @@
+{
+  "name": "Arturo",
+  "type": "tool",
+  "tags": [
+    "claude-code",
+    "ai",
+    "agents",
+    "guardrails",
+    "python",
+    "italian"
+  ],
+  "description": "Harness per Claude Code in italiano: guardie che chiedono conferma prima delle azioni che non si annullano, sessioni che si aprono e si chiudono in ordine, agenti e skill. Pensato per chi usa l'IA in chat e non ha mai aperto un terminale.",
+  "site_url": "https://arturo.stellakamikaze.org",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/stellakamikaze/arturo",
+  "license": "MIT"
+}
