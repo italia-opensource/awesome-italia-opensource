@@ -1,0 +1,19 @@
+{
+  "name": "Describble",
+  "type": "app",
+  "tags": [
+    "avatar",
+    "avatar-generator",
+    "svg",
+    "javascript",
+    "hand-drawn",
+    "no-ai",
+    "creative-coding",
+    "browser"
+  ],
+  "description": "Describe a character in a sentence and a hand-drawn avatar is drawn while you type. Rule-based (no AI), runs entirely in the browser, understands English, Italian and Portuguese. Code MIT, drawings CC0.",
+  "site_url": "https://describble.com",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/gasparegas/describble",
+  "license": "MIT"
+}
