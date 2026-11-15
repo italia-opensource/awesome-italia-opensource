@@ -20,8 +20,8 @@
       "full_name": "KatharaFramework/Kathara",
       "html_url": "https://github.com/KatharaFramework/Kathara",
       "created_at": "2017-03-31T14:07:48Z",
-      "updated_at": "2026-10-14T14:18:26Z",
-      "pushed_at": "2026-10-07T15:26:53Z",
+      "updated_at": "2026-11-10T06:02:40Z",
+      "pushed_at": "2026-11-12T15:56:42Z",
       "archived": false,
       "disabled": false,
       "owner": "KatharaFramework",
@@ -53,31 +53,31 @@
     "analytics": {
       "language": "Python",
       "languages": {
-        "Python": 97.73,
-        "Makefile": 1.32,
+        "Python": 97.3,
+        "Makefile": 1.75,
         "Shell": 0.32,
-        "Inno Setup": 0.27,
+        "Inno Setup": 0.28,
         "HTML": 0.22,
-        "Batchfile": 0.08,
-        "Dockerfile": 0.06
+        "Batchfile": 0.09,
+        "Dockerfile": 0.03
       },
       "languages_byte": {
-        "Python": 1404447,
-        "Makefile": 18918,
-        "Shell": 4607,
-        "Inno Setup": 3913,
+        "Python": 1396386,
+        "Makefile": 25112,
+        "Shell": 4663,
+        "Inno Setup": 4003,
         "HTML": 3166,
-        "Batchfile": 1176,
-        "Dockerfile": 855
+        "Batchfile": 1331,
+        "Dockerfile": 452
       },
-      "stargazers_count": 651,
+      "stargazers_count": 658,
       "forks_count": 86,
-      "open_issues_count": 17,
+      "open_issues_count": 16,
       "forks": 86,
-      "open_issues": 17,
-      "watchers": 651,
-      "updated_at": "2026-10-15T13:56:50Z"
+      "open_issues": 16,
+      "watchers": 658,
+      "updated_at": "2026-11-15T16:04:02Z"
     },
-    "timestamp": "2026-10-15T13:56:50Z"
+    "timestamp": "2026-11-15T16:04:02Z"
   }
 }
