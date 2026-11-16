@@ -1,12 +1,41 @@
 version: 2
 updates:
+  # GitHub Actions: one grouped PR per week
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
-    labels:
-      - "dependencies"
-      - "dependencies-actions"
-    reviewers:
-      - "FabrizioCafolla"
-  # @TODO: Add uv when it's available on Dependabot
+      day: "monday"
+      time: "08:00"
+      timezone: "Europe/Rome"
+    open-pull-requests-limit: 2
+    assignees:
+      - "aledv"
+      - "davide-nava"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+
+  # pip: one grouped PR for minor and patch updates; major versions are handled by hand
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "08:00"
+      timezone: "Europe/Rome"
+    open-pull-requests-limit: 2
+    assignees:
+      - "aledv"
+      - "davide-nava"
+    commit-message:
+      prefix: "deps"
+    groups:
+      pip-minor-patch:
+        update-types:
+          - "minor"
+          - "patch"
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
