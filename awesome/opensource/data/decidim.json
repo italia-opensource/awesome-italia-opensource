@@ -1,0 +1,17 @@
+{
+  "name": "Decidim",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/decidim/decidim",
+  "site_url": "https://decidim.org",
+  "type": "framework",
+  "description": "Framework di democrazia partecipativa open source, adottato da Milano, Torino e altre città italiane per consultazioni pubbliche e bilancio partecipativo.",
+  "license": "AGPL-3.0",
+  "tags": [
+    "civic-tech",
+    "democracy",
+    "ruby-on-rails",
+    "participation",
+    "government",
+    "open-government"
+  ]
+}
