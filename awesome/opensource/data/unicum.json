@@ -1,0 +1,19 @@
+{
+  "name": "UNICUM",
+  "type": "app",
+  "tags": [
+    "kotlin",
+    "android",
+    "jetpack-compose",
+    "health-connect",
+    "health",
+    "running",
+    "nutrition",
+    "privacy"
+  ],
+  "description": "Android app that brings nutrition, activity, sleep, recovery (HRV) and your running plan into one screen. No account, no server: data stays on the phone and in Health Connect.",
+  "site_url": "https://peol-13.github.io/unicum/",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/peol-13/unicum",
+  "license": "GPL-3.0"
+}
