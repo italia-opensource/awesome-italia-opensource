@@ -17,7 +17,7 @@
       "full_name": "mcollina/make-promises-safe",
       "html_url": "https://github.com/mcollina/make-promises-safe",
       "created_at": "2017-06-13T19:52:48Z",
-      "updated_at": "2026-10-15T17:48:21Z",
+      "updated_at": "2026-11-16T13:27:14Z",
       "pushed_at": "2024-12-21T09:50:54Z",
       "archived": false,
       "disabled": false,
@@ -34,14 +34,14 @@
       "languages_byte": {
         "JavaScript": 1619
       },
-      "stargazers_count": 663,
+      "stargazers_count": 662,
       "forks_count": 26,
       "open_issues_count": 3,
       "forks": 26,
       "open_issues": 3,
-      "watchers": 663,
-      "updated_at": "2026-11-15T16:04:02Z"
+      "watchers": 662,
+      "updated_at": "2026-11-25T13:48:09Z"
     },
-    "timestamp": "2026-11-15T16:04:02Z"
+    "timestamp": "2026-11-25T13:48:09Z"
   }
 }
