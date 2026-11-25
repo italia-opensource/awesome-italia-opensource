@@ -1,0 +1,20 @@
+{
+  "name": "Fattura Facile",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/FatturaFacile/fatturafacile",
+  "site_url": "https://fatturafacile.eu",
+  "type": "tool",
+  "description": "Open Source invoicing software (MIT) tailored for Swiss and Italian fiscal standards, built with .NET, Laravel, Angular, and Flutter.",
+  "license": "MIT",
+  "tags": [
+    "dotnet",
+    "csharp",
+    "laravel",
+    "angular",
+    "flutter",
+    "invoicing",
+    "switzerland",
+    "italy",
+    "open-source"
+  ]
+}
