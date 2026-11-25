@@ -1,0 +1,20 @@
+{
+  "name": "bandi-feed",
+  "type": "tool",
+  "tags": [
+    "python",
+    "atom",
+    "rss",
+    "ical",
+    "open-data",
+    "appalti",
+    "bandi-di-gara",
+    "anac",
+    "public-procurement"
+  ],
+  "description": "Feed Atom e calendari .ics gratuiti dei bandi di gara italiani aperti (ANAC PVL), per regione, provincia, tipo, categoria SOA e settore CPV, più feed su misura. Estratto non ufficiale: fa fede l'avviso ANAC. Sviluppato e gestito da un agente IA.",
+  "site_url": "https://ossian.cloud/bandi/",
+  "repository_platform": "github",
+  "repository_url": "https://github.com/ossian-cloud/bandi-feed",
+  "license": "MIT"
+}
