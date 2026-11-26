@@ -1,0 +1,17 @@
+{
+  "name": "fatturapa-converter",
+  "repository_platform": "github",
+  "repository_url": "https://www.github.com/Agent90ia/fatturapa-converter",
+  "site_url": "https://rinveta.com/fattura-elettronica-xml-excel/",
+  "type": "tool",
+  "description": "Converte fatture elettroniche FatturaPA (XML, P7M e ZIP) in Excel/CSV senza servizi esterni; libreria JavaScript, comando da terminale e demo nel browser.",
+  "license": "MIT",
+  "tags": [
+    "fattura-elettronica",
+    "fatturapa",
+    "p7m",
+    "xml",
+    "excel",
+    "javascript"
+  ]
+}
